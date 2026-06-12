@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-04-17T13:44:54.561Z",
+  "clientId": "inklusive-schulbegleitung",
+  "siteId": "schulassistenz",
+  "sourceBaseUrl": "https://inklusive-schulbegleitung.de",
+  "model": "google/gemini-3.1-pro-preview",
+  "topics": {
+    "coreServices": [
+      "Individuelle Begleitung von Kindern und Jugendlichen im Unterricht und in den Pausen",
+      "Förderung von Selbstständigkeit, Selbstbewusstsein und echter Teilhabe am Schulleben",
+      "Unterstützung bei besonderen Herausforderungen wie Autismus, ADHS sowie seelischen, sozialen oder körperlichen Beeinträchtigungen",
+      "Enge Koordination und Beratung zwischen Familien, Schulen und Ämtern",
+      "Karriereangebote und Jobs für pädagogische Fachkräfte und Quereinsteiger"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Erfahrung in der Schulbegleitung",
+      "Pädagogische Leitung durch eine staatlich anerkannte Erzieherin & Sozialpädagogin B.A.",
+      "Pädagogisch geschultes Personal mit hoher sozialer Kompetenz",
+      "Kontinuierliche Weiterbildung der Mitarbeiter und Kooperation mit Bildungsträgern",
+      "Persönliches Versprechen und Leitmotiv: 'Wir sehen Dich'"
+    ],
+    "localReferences": [
+      "Isernhagen",
+      "Am Ortfelde"
+    ],
+    "differentiators": [
+      "Fokus auf echte Teilhabe und Entwicklung statt reiner Betreuung",
+      "Kleiner, engagierter Träger mit familiärem und herzlichem Ansatz",
+      "Individuelle, passgenaue und flexible Lösungen für jedes Kind",
+      "Gelebte Inklusion als tägliche Haltung, nicht nur als Theorie"
+    ],
+    "faqIntent": [
+      "Wie beantrage ich eine Schulbegleitung für mein Kind?",
+      "Wer hat einen rechtlichen Anspruch auf Schulbegleitung?",
+      "Welche Voraussetzungen müssen für eine Bewilligung erfüllt sein?",
+      "Was genau sind die Aufgaben einer Schulbegleitung?",
+      "Wie funktioniert die Zusammenarbeit mit Lehrkräften und Schulen?"
+    ]
+  },
+  "keywords": [
+    "Inklusive Schulbegleitung",
+    "Schulbegleitung Isernhagen",
+    "Schulbegleiter werden",
+    "Schulbegleitung beantragen",
+    "Anspruch auf Schulbegleitung",
+    "Inklusion Schule",
+    "Schulassistenz",
+    "Autismus Schulbegleitung",
+    "ADHS Schulbegleitung",
+    "Pädagogische Fachkräfte Inklusion"
+  ],
+  "h1Suggestions": [
+    "Hand in Hand: Deine inklusive Schulbegleitung",
+    "Inklusive Schulbegleitung mit Herz & Verstand",
+    "Schulbegleitung in Isernhagen: Wir sehen Dich",
+    "Gemeinsam stark für Inklusion im Schulalltag",
+    "Individuelle Schulbegleitung für Dein Kind"
+  ],
+  "subtitleSuggestions": [
+    "Wir unterstützen Kinder mit besonderen Herausforderungen im Schulalltag. Erfahren, empathisch und individuell angepasst an Eure Bedürfnisse.",
+    "Ob Autismus, ADHS oder andere Bedürfnisse: Unsere pädagogischen Fachkräfte begleiten Dein Kind auf dem Weg zu mehr Selbstständigkeit.",
+    "Seit über 10 Jahren begleiten wir Kinder und Jugendliche verlässlich durch die Schulzeit. Lass uns gemeinsam Schule für alle möglich machen.",
+    "Wir bauen Brücken zwischen Familien, Schulen und Ämtern. Für eine echte Teilhabe und individuelle Förderung Deines Kindes.",
+    "Finde die passende Unterstützung für Dein Kind oder werde Teil unseres engagierten Teams. Wir beraten Dich gerne unverbindlich."
+  ],
+  "mustCover": [
+    "Die doppelte Zielgruppenansprache: Eltern, die Hilfe suchen, und Fachkräfte, die einen Job suchen",
+    "Das zentrale Leitmotiv 'Wir sehen Dich' als Ausdruck von Empathie und Wertschätzung",
+    "Die konkreten Herausforderungen, bei denen geholfen wird (Autismus, ADHS, körperliche/seelische Beeinträchtigungen)",
+    "Die Brückenfunktion des Unternehmens zwischen Elternhaus, Schule und Behörden",
+    "Eine klare Schritt-für-Schritt-Anleitung oder Verlinkung zur Beantragung der Schulbegleitung"
+  ],
+  "avoidAngles": [
+    "Die Dienstleistung als reines 'Babysitting' oder reine 'Betreuung' darzustellen (der Text betont ausdrücklich 'echte Teilhabe und Entwicklung')",
+    "Kühle, rein bürokratische oder klinische Sprache (widerspricht dem herzlichen, empathischen Markenauftritt)",
+    "Garantien für die Bewilligung durch Ämter auszusprechen (das Unternehmen berät und koordiniert nur)"
+  ]
+}

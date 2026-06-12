@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-04-27T04:39:52.563Z",
+  "clientId": "nicezeit",
+  "siteId": "eisdiele-suedstadt",
+  "sourceBaseUrl": "https://nicezeit.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Haupt-Keyword: Eisdiele Südstadt",
+  "briefingMainKeyword": "Eisdiele Südstadt",
+  "deployDomainKeyword": "eisdiele-suedstadt",
+  "topics": {
+    "coreServices": [
+      "Handgemachtes Premiumeis (klassisch und ausgefallen)",
+      "Vegane Eissorten und pflanzliche Alternativen",
+      "Milchshakes und Iced Matcha Latte (Mango, Erdbeere)",
+      "Besondere Kreationen (Spaghettieis, Eis im Croissant, Leibniz Butterkeks Eis)",
+      "Wintersorten im 500ml Glas und Adventskalender",
+      "Event-Catering und Vermietungen"
+    ],
+    "trustSignals": [
+      "100 % natürliche Zutaten ohne künstliche Aromen oder Farbstoffe",
+      "Gläserne Manufaktur mit Einblick in die Eisproduktion",
+      "Regionale Zutaten (z. B. Milch aus der Region)",
+      "Top-Kundenbewertungen (Top 5 in Hannover, 5/5 Sterne)",
+      "Etabliertes Eishandwerk seit 2019"
+    ],
+    "localReferences": [
+      "Hannover Südstadt",
+      "Hannover Linden (Linden-Nord am Schmuckplatz)",
+      "Hannover List",
+      "Regionale Lieferanten aus dem Umland"
+    ],
+    "differentiators": [
+      "Komplett naturbelassenes Eis ohne Chichi",
+      "Kreative Sortenentwicklung (Kunden können eigene Sommersorten kreieren)",
+      "Ganzjähriges Angebot mit speziellen Winter-Festivals und Wintersorten",
+      "Moderne, unkonventionelle Inneneinrichtung (Quaderlandschaft)"
+    ],
+    "faqIntent": [
+      "Was kostet eine Kugel Eis in Hannover?",
+      "Warum ist das Eis so besonders cremig?",
+      "Gibt es vegane Eissorten im Angebot?",
+      "Wo finde ich die beste Eisdiele in der Südstadt?",
+      "Woher stammt eigentlich der Begriff Eisdiele?"
+    ]
+  },
+  "keywords": [
+    "Eisdiele Südstadt",
+    "eisdiele-suedstadt",
+    "Handgemachtes Eis Hannover",
+    "Veganes Eis Südstadt",
+    "Premiumeis Hannover",
+    "Natürliches Eis ohne künstliche Aromen",
+    "Eismanufaktur Hannover"
+  ],
+  "h1Suggestions": [
+    "Deine neue Eisdiele Südstadt",
+    "Handgemachtes Eis in der eisdiele-suedstadt",
+    "Eisdiele Südstadt: 100% natürliches Eis",
+    "eisdiele-suedstadt: Dein Premium-Eis",
+    "Natürliches Premiumeis in Hannover"
+  ],
+  "subtitleSuggestions": [
+    "Besuche unsere Eisdiele Südstadt und genieße handgemachtes, 100 % natürliches Premiumeis ohne künstliche Aromen. Jetzt probieren!",
+    "Willkommen in der eisdiele-suedstadt! Entdecke kreative, vegane und klassische Eissorten aus regionalen Zutaten direkt in Hannover.",
+    "In unserer Eisdiele Südstadt erwartet dich echtes Eishandwerk. Schau uns in der gläsernen Manufaktur zu und finde deine Lieblingssorte.",
+    "Deine eisdiele-suedstadt für echten Genuss: Ob Spaghettieis, vegane Sorten oder Iced Matcha Latte – bei uns kommt nur das Beste in die Waffel.",
+    "Erlebe handgemachtes Eis aus regionaler Milch und natürlichen Zutaten. Komm vorbei und schmecke den Unterschied in Hannover."
+  ],
+  "mustCover": [
+    "Fokus auf den Standort als Eisdiele Südstadt (laut Briefing-Vorgabe)",
+    "Hervorhebung der 100 % natürlichen, handgemachten Herstellung ohne künstliche Aromen",
+    "Erwähnung der regionalen Zutaten (z. B. regionale Milch) und der veganen Alternativen",
+    "Transparenz durch die gläserne Produktion (Kunden können bei der Herstellung zuschauen)",
+    "Hinweis auf besondere Kreationen (Spaghettieis, Iced Matcha Latte, Winterspecials)",
+    "Kontaktmöglichkeiten und Event-Angebote (Vermietungen, E-Mail, Telefon)"
+  ],
+  "avoidAngles": [
+    "Industrielle Massenproduktion oder die Verwendung von künstlichen Zusatzstoffen suggerieren",
+    "Ausschließlich auf die Standorte Linden oder List fokussieren (die Südstadt muss im Zentrum stehen)",
+    "Billig-Preise bewerben (es handelt sich um hochwertiges Premiumeis, Qualität steht im Vordergrund)",
+    "Klassische Standard-Italiener-Klischees bedienen (die Marke positioniert sich modern, kreativ und unkonventionell)"
+  ]
+}

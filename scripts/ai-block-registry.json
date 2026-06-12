@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "pageAliasToSlimRoot": {
+    "ueber-uns": "ueberUns"
+  },
+  "blocks": [
+    {
+      "id": "home-pageTitle",
+      "pageName": "home",
+      "propertyPath": "pageTitle",
+      "promptSection": "clone-block-page-title"
+    },
+    {
+      "id": "home-metadata",
+      "pageName": "home",
+      "propertyPath": "metadata",
+      "promptSection": "clone-block-metadata"
+    },
+    {
+      "id": "home-hero",
+      "pageName": "home",
+      "propertyPath": "hero",
+      "promptSection": "clone-block-hero"
+    },
+    {
+      "id": "home-info",
+      "pageName": "home",
+      "propertyPath": "info",
+      "promptSection": "clone-block-info"
+    },
+    {
+      "id": "home-contact",
+      "pageName": "home",
+      "propertyPath": "contact",
+      "promptSection": "clone-block-contact"
+    },
+    {
+      "id": "home-gallery",
+      "pageName": "home",
+      "propertyPath": "gallery",
+      "promptSection": "clone-block-gallery"
+    },
+    {
+      "id": "home-map",
+      "pageName": "home",
+      "propertyPath": "map",
+      "promptSection": "clone-block-map"
+    },
+    {
+      "id": "home-faq",
+      "pageName": "home",
+      "propertyPath": "faq",
+      "promptSection": "clone-block-faq-intro"
+    },
+    {
+      "id": "home-trust",
+      "pageName": "home",
+      "propertyPath": "trust",
+      "promptSection": "clone-block-trust"
+    },
+    {
+      "id": "home-usp",
+      "pageName": "home",
+      "propertyPath": "usp",
+      "promptSection": "clone-block-usp"
+    },
+    {
+      "id": "home-features",
+      "pageName": "home",
+      "propertyPath": "features",
+      "promptSection": "clone-block-features"
+    },
+    {
+      "id": "home-cta",
+      "pageName": "home",
+      "propertyPath": "cta",
+      "promptSection": "clone-block-cta"
+    },
+    {
+      "id": "home-services",
+      "pageName": "home",
+      "propertyPath": "services",
+      "promptSection": "clone-block-services"
+    },
+    {
+      "id": "home-reviews",
+      "pageName": "home",
+      "propertyPath": "reviews",
+      "promptSection": "clone-block-reviews-intro"
+    },
+    {
+      "id": "faq-pageTitle",
+      "pageName": "faq",
+      "propertyPath": "pageTitle",
+      "promptSection": "clone-block-page-title"
+    },
+    {
+      "id": "faq-metadata",
+      "pageName": "faq",
+      "propertyPath": "metadata",
+      "promptSection": "clone-block-metadata"
+    },
+    {
+      "id": "faq-hero",
+      "pageName": "faq",
+      "propertyPath": "hero",
+      "promptSection": "clone-block-hero"
+    },
+    {
+      "id": "impressum-pageTitle",
+      "pageName": "impressum",
+      "propertyPath": "pageTitle",
+      "promptSection": "clone-block-page-title"
+    },
+    {
+      "id": "impressum-metadata",
+      "pageName": "impressum",
+      "propertyPath": "metadata",
+      "promptSection": "clone-block-metadata"
+    },
+    {
+      "id": "datenschutz-pageTitle",
+      "pageName": "datenschutz",
+      "propertyPath": "pageTitle",
+      "promptSection": "clone-block-page-title"
+    },
+    {
+      "id": "datenschutz-metadata",
+      "pageName": "datenschutz",
+      "propertyPath": "metadata",
+      "promptSection": "clone-block-metadata"
+    },
+    {
+      "id": "ueber-uns-pageTitle",
+      "pageName": "ueber-uns",
+      "propertyPath": "pageTitle",
+      "promptSection": "clone-block-page-title"
+    },
+    {
+      "id": "ueber-uns-metadata",
+      "pageName": "ueber-uns",
+      "propertyPath": "metadata",
+      "promptSection": "clone-block-metadata"
+    },
+    {
+      "id": "ueber-uns-hero",
+      "pageName": "ueber-uns",
+      "propertyPath": "hero",
+      "promptSection": "clone-block-hero"
+    },
+    {
+      "id": "ueber-uns-info",
+      "pageName": "ueber-uns",
+      "propertyPath": "info",
+      "promptSection": "clone-block-info"
+    },
+    {
+      "id": "ueber-uns-blocks",
+      "pageName": "ueber-uns",
+      "propertyPath": "blocks",
+      "isArrayRoot": true,
+      "batchSize": 4,
+      "promptSection": "clone-block-ueberuns-blocks"
+    }
+  ]
+}

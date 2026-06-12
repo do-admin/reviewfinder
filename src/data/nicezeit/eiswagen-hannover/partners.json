@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hannover 96",
+    "url": "https://www.hannover96.de/",
+    "logo": "hannover-96-logo.webp",
+    "description": "Als Aushängeschild der Landeshauptstadt verbindet Hannover 96 Sport und Stadtkultur. Der Roten unterstützt lokale Initiativen und fördert das Miteinander in Linden."
+  },
+  {
+    "name": "gourmego",
+    "url": "https://www.gourmego.de/",
+    "logo": "gourmego-logo.webp",
+    "description": "gourmego ist Spezialist für natürliche Eisrohstoffe ohne Aromen und Farbstoffe. NAPURESS® Qualität vom Großhändler für Eismanufakturen und Eiscafés in Europa."
+  },
+  {
+    "name": "Bauer Banse",
+    "url": "https://www.bauer-banse.de/",
+    "logo": "bauerbanse-logo.webp",
+    "description": "Hofverkauf und Wochenmärkte: Bauer Banse bringt frische Landprodukte aus Kakerbeck nach Hannover – unter anderem auf den Märkten in Linden und der Lister Meile."
+  },
+  {
+    "name": "Backring Nord",
+    "url": "https://www.backring.de/",
+    "logo": "backring-nord-logo.webp",
+    "description": "Das größte private Fachgroßhandelsunternehmen für Eiscafés und Bäckereien in Deutschland. Backring Nord steht für Qualität, Beratung und zuverlässige Lieferung."
+  },
+  {
+    "name": "Leibniz",
+    "url": "https://www.leibniz.com/de/",
+    "logo": "leibniz-logo.webp",
+    "description": "Bahlsen Leibniz – das Original mit 52 Zähnen aus Hannover. Von klassisch bis Choco: die ideale Beilage zu einem cremigen Eisbecher oder einem starken Kaffee."
+  },
+  {
+    "name": "Machwitz Kaffee",
+    "url": "https://www.machwitz-kaffee.de/",
+    "logo": "machwitz-logo.webp",
+    "description": "Als beste Rösterei Niedersachsens ausgezeichnet: Machwitz Kaffee verbindet seit 1883 Handwerkskunst und fairen Direkthandel für außergewöhnlichen Kaffeegenuss."
+  },
+  {
+    "name": "Waffelfabrik",
+    "url": "https://www.waffelfabrik.de/",
+    "logo": "waffelfabrik-logo.webp",
+    "description": "Professionelle Eiswaffeln für Eiscafés und Manufakturen. Die Waffelfabrik fertigt Eistüten und Waffelbecher in konsistenter Qualität für den Eis-Fachhandel."
+  }
+]

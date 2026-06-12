@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-04-24T07:39:49.997Z",
+  "clientId": "tiemann-photography",
+  "siteId": "fotograf-hamburg",
+  "sourceBaseUrl": "https://tiemann-photography.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword:Fotograf in Hamburg",
+  "briefingMainKeyword": "Fotograf in Hamburg",
+  "deployDomainKeyword": "fotograf-hamburg",
+  "topics": {
+    "coreServices": [
+      "Hochzeitsreportagen im modernen Editorial-Stil",
+      "Businessporträts und Personal Branding für Unternehmen und LinkedIn",
+      "Schwangerschaftsshootings im eigenen Studio (inklusive Leihkleider)",
+      "Zubuchbare Second-Shooter-Option für Hochzeiten"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Berufserfahrung",
+      "Eigenes, festes Fotostudio in Hamburg (Bleicherstraße)",
+      "Kostenloses Beratungsgespräch innerhalb von 24 Stunden",
+      "Ruhige, strukturierte und professionelle Arbeitsweise"
+    ],
+    "localReferences": [
+      "Hamburg (Fotostudio in der Bleicherstraße 2, 22767 Hamburg)",
+      "Wulfsmühle in Tangstedt (Hochzeitslocation im Hamburger Umland)"
+    ],
+    "differentiators": [
+      "Zeitlose Bildsprache mit modernen Editorial-Vibes (z. B. gezielter Blitzlicht-Einsatz)",
+      "Fokus auf visuelle Konsistenz und starke Bilder mit Haltung",
+      "Anspruchsvolle Zielgruppe: Für Menschen, die mehr erwarten als nur schöne Bilder",
+      "Rundum-Betreuung im Studio mit vielfältigen Hintergründen und Leihkleidern"
+    ],
+    "faqIntent": [
+      "Wann sollte ich den Fotografen für meine Hochzeit buchen?",
+      "Was ist ein Second Shooter und welche Vorteile bietet er bei einer Hochzeit?",
+      "Wo finden die Schwangerschaftsshootings statt und was muss ich mitbringen?",
+      "Wie schnell erhalte ich eine Rückmeldung nach meiner Anfrage?"
+    ]
+  },
+  "keywords": [
+    "Fotograf in Hamburg",
+    "fotograf-hamburg",
+    "Hochzeitsfotograf Hamburg",
+    "Businessporträt Hamburg",
+    "Schwangerschaftsshooting Hamburg",
+    "Fotostudio Hamburg",
+    "Hochzeitsreportage Editorial Stil",
+    "Personal Branding Fotograf"
+  ],
+  "h1Suggestions": [
+    "Dein professioneller Fotograf in Hamburg",
+    "Zeitlose Bilder vom fotograf-hamburg",
+    "Fotograf in Hamburg für Hochzeit & Business",
+    "fotograf-hamburg: Ästhetik & Qualität",
+    "Hochzeits- & Businessfotografie in Hamburg"
+  ],
+  "subtitleSuggestions": [
+    "Als erfahrener Fotograf in Hamburg halte ich deine Geschichte in zeitlosen Hochzeitsreportagen und starken Businessporträts fest.",
+    "Buche deinen fotograf-hamburg für ästhetische Bilder mit Editorial-Vibes. Über 10 Jahre Erfahrung für Hochzeiten, Business und Schwangerschaft.",
+    "Dein Fotograf in Hamburg für visuelle Konsistenz. Kostenloses Beratungsgespräch innerhalb von 24 Stunden sichern und im eigenen Studio shooten.",
+    "Entdecke die Arbeit vom fotograf-hamburg: Ruhige, professionelle Umsetzung für Menschen und Unternehmen, die mehr als nur schöne Bilder erwarten.",
+    "Hochwertige Fotografie im eigenen Studio in Hamburg oder on Location. Spezialisiert auf Hochzeiten, Business-Porträts und Schwangerschaftsshootings."
+  ],
+  "mustCover": [
+    "Integration des Haupt-Keywords 'Fotograf in Hamburg' als zentrales Thema",
+    "Hervorhebung der über 10-jährigen Berufserfahrung und der professionellen, ruhigen Arbeitsweise",
+    "Erwähnung des eigenen Fotostudios in Hamburg (Bleicherstraße 2)",
+    "Vorstellung der drei Kernbereiche: Hochzeiten (Editorial-Stil), Business/LinkedIn und Schwangerschaft",
+    "Hinweis auf das kostenlose Beratungsgespräch mit Rückmeldung innerhalb von 24 Stunden",
+    "Betonung der zeitlosen, ästhetischen Bildsprache und des hohen Qualitätsanspruchs"
+  ],
+  "avoidAngles": [
+    "Marktschreierische Rabattaktionen oder Fokus auf günstige Preise",
+    "Übertrieben verspielte oder kitschige Sprache (passt nicht zum Editorial- und Business-Anspruch)",
+    "Darstellung als reines Hobby-Projekt (es handelt sich um ein professionelles Business mit eigenem Studio)"
+  ]
+}

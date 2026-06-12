@@ -1,0 +1,1145 @@
+{
+  "driveFolderId": "1dxJoS6W6M6Umvx7RkC_1Vl-U8cHhlGL2",
+  "clientName": "Cube Guest House",
+  "clientDomain": "cube-guesthouse.com",
+  "sectionIds": [
+    {
+      "id": "hero",
+      "visible": true
+    },
+    {
+      "id": "info",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "visible": true
+    },
+    {
+      "id": "team",
+      "visible": true
+    },
+    {
+      "id": "faq",
+      "visible": true
+    },
+    {
+      "id": "reviews",
+      "visible": true
+    },
+    {
+      "id": "map",
+      "visible": true
+    },
+    {
+      "id": "contact",
+      "visible": true
+    },
+    {
+      "id": "trust",
+      "visible": true
+    }
+  ],
+  "websites": [
+    {
+      "id": "hout-bay-guest-house",
+      "deployDomain": "hout-bay-guest-house.co.za",
+      "googleTagId": "G-KFL7244RQG",
+      "datenschutzResponsibleMode": "client",
+      "impressumResponsibleMode": "client",
+      "websiteBriefing": "Main Keyword:Hout Bay Guest House",
+      "business": {
+        "name": "Cube Guest House",
+        "brandName": "Cube Guest House",
+        "legalName": "Cube Partnership",
+        "location": {
+          "city": "7806",
+          "district": "Kapstadt",
+          "neighborhood": "Hout Bay"
+        },
+        "locationAddress": {
+          "street": "Luisa Way 20",
+          "postalCode": "7806",
+          "city": "Kapstadt"
+        },
+        "phone": "+491725813431",
+        "email": "hello@cube-guesthouse.com",
+        "openingHours": {
+          "short": "Täglich für dich da",
+          "detailed": "Wir sind täglich im Hout Bay Guest House für dich erreichbar. Dein Check-in erfolgt ganz entspannt nach persönlicher Absprache.",
+          "display": "Täglich geöffnet"
+        },
+        "contactPerson": {
+          "name": "Dirk",
+          "title": "Dein Gastgeber im Hout Bay Guest House",
+          "imageUrl": "/images/hout-bay-guest-house/team/hout-bay-guest-house-team.webp"
+        },
+        "bookingUrl": "",
+        "social": {
+          "instagram": "",
+          "facebook": "https://www.facebook.com/people/CUBE-Guest-House-in-Cape-Town/61558534452623/#",
+          "whatsappNumber": "491725813431"
+        },
+        "ustId": "4580257659",
+        "vertreter": "Cube Partnership",
+        "registergericht": "",
+        "hrbNummer": "",
+        "googlePlacesId": "ChIJ3_X84NxozB0R8bGt7FZ4P7c",
+        "legalAddress": {
+          "street": "20 Luisa Way",
+          "postalCode": "7806",
+          "city": "Hout Bay"
+        }
+      },
+      "header": {
+        "logoUrl": "/images/hout-bay-guest-house/hout-bay-guest-house-logo.webp",
+        "logoAlt": "Hout Bay Guest House Logo",
+        "logoWidth": 120,
+        "ariaLabelNavigation": "Hauptnavigation",
+        "ariaMenuOpen": "Menü öffnen",
+        "ariaMenuClose": "Menü schließen",
+        "links": [
+          {
+            "label": "Über uns",
+            "url": "/ueber-uns",
+            "href": "/de/ueber-uns"
+          },
+          {
+            "label": "FAQ",
+            "url": "/faq",
+            "href": "/de/faq"
+          },
+          {
+            "label": "ONLINE BUCHUNG",
+            "href": "https://book.nightsbridge.com/38058",
+            "type": "button"
+          },
+          {
+            "label": "WhatsApp",
+            "href": "https://wa.me/491725813431",
+            "type": "whatsapp"
+          }
+        ]
+      },
+      "footer": {
+        "navigation": {
+          "label": "Navigation",
+          "links": [
+            {
+              "link": "https://cube-guesthouse.com/rooms",
+              "linkLabel": "Zimmer & Suiten"
+            },
+            {
+              "link": "/ueber-uns",
+              "linkLabel": "Über uns"
+            }
+          ]
+        },
+        "contact": {
+          "label": "Kontakt",
+          "links": [
+            {
+              "link": "tel:+491725813431",
+              "linkLabel": "+49 172 5813431"
+            },
+            {
+              "link": "mailto:hello@cube-guesthouse.com",
+              "linkLabel": "hello@cube-guesthouse.com"
+            }
+          ]
+        },
+        "followUs": "Folge uns",
+        "openingHoursLabel": "Öffnungszeiten",
+        "imprint": "Impressum",
+        "privacy": "Datenschutz",
+        "grounding": "Grounding"
+      },
+      "cookie": {
+        "title": "Deine Datenschutz-Einstellungen",
+        "description": "Wir nutzen Cookies, um Dir die bestmögliche Erfahrung auf unserer Website zu bieten und unsere Dienste stetig zu verbessern.",
+        "acceptAll": "Alle akzeptieren",
+        "acceptEssential": "Nur essenzielle",
+        "moreInfo": "Mehr Informationen"
+      },
+      "notFound": {
+        "title": "Ups! Diese Seite ist wohl auf Safari.",
+        "description": "Die gesuchte Seite hat sich leider verirrt. Lass uns dich schnell zurück ins Hout Bay Guest House bringen. Dort warten schon ein entspannter Platz am Pool und unser spektakulärer Meerblick auf dich.",
+        "backHome": "Zurück zur Startseite"
+      },
+      "translationsMetadata": {
+        "disclaimer": {
+          "aiTranslation": "Dieser Text wurde automatisch übersetzt. Bei Fragen zu deinem Aufenthalt im Hout Bay Guest House helfen wir dir gerne persönlich weiter!",
+          "dismissAria": "Hinweis ausblenden",
+          "infoAria": "Informationen zur Übersetzung"
+        },
+        "common": {
+          "close": "Schließen",
+          "selectLanguage": "Sprache auswählen"
+        }
+      },
+      "index": {
+        "redirectTitle": "Weiterleitung…",
+        "redirectTo": "Weiterleitung nach"
+      },
+      "pages": [
+        {
+          "name": "home",
+          "pageTitle": "Dein Hout Bay Guest House",
+          "metadata": {
+            "geo": {
+              "icbm": "-34.0246038, 18.3532004",
+              "region": "",
+              "position": "-34.0246038;18.3532004",
+              "placename": "Hout Bay, Kapstadt"
+            },
+            "title": "Hout Bay Guest House: Deine exklusive Villa in Kapstadt",
+            "keywords": "Hout Bay Guest House, Cube Guest House, Gästehaus Kapstadt, Boutique Hotel Hout Bay, Unterkunft Hout Bay Meerblick, Südafrika Rundreise Unterkunft, Villa Kapstadt mieten, Gästehaus Südafrika mit Pool, Urlaub Kapstadt, Hout Bay Unterkunft",
+            "openGraph": {
+              "url": "https://hout-bay-guest-house.co.za",
+              "title": "Hout Bay Guest House | Deine exklusive Villa in Kapstadt",
+              "images": [
+                {
+                  "alt": "Exklusives Hout Bay Guest House mit großem Pool und herrlichem Meerblick in Kapstadt",
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Dein exklusives Hout Bay Guest House in Kapstadt. Genieße Meerblick, Pool & veganes Frühstück in sicherer Lage. Buche jetzt deinen Traumurlaub!"
+            },
+            "twitter": {
+              "title": "Hout Bay Guest House | Deine exklusive Villa in Kapstadt",
+              "description": "Dein exklusives Hout Bay Guest House in Kapstadt. Genieße Meerblick, Pool & veganes Frühstück in sicherer Lage. Buche jetzt deinen Traumurlaub!",
+              "images": [
+                {
+                  "alt": "Exklusives Hout Bay Guest House mit großem Pool und herrlichem Meerblick in Kapstadt",
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            },
+            "description": "Dein exklusives Hout Bay Guest House in Kapstadt. Genieße Meerblick, Pool & veganes Frühstück in sicherer Lage. Buche jetzt deinen Traumurlaub!",
+            "schema": [
+              {
+                "id": "organization",
+                "schemaType": "organization",
+                "data": {
+                  "name": "Cube Guest House",
+                  "legalName": "Cube Partnership",
+                  "alternateName": [],
+                  "description": "Exklusives Boutique-Gästehaus in Hout Bay, Kapstadt mit fünf individuellen Zimmern, Pool und spektakulärem Meerblick.",
+                  "telephone": "+491725813431",
+                  "email": "hello@cube-guesthouse.com",
+                  "url": "https://hout-bay-guest-house.co.za",
+                  "logo": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hout-bay-guest-house-logo.webp",
+                  "sameAs": [
+                    "https://www.facebook.com/people/CUBE-Guest-House-in-Cape-Town/61558534452623/#"
+                  ],
+                  "address": {
+                    "@type": "PostalAddress",
+                    "name": "Cube Guest House",
+                    "streetAddress": "20 Luisa Way",
+                    "postalCode": "7806",
+                    "addressLocality": "Hout Bay",
+                    "addressRegion": "Western Cape",
+                    "addressCountry": "ZA"
+                  }
+                }
+              },
+              {
+                "id": "website",
+                "schemaType": "website",
+                "data": {
+                  "name": "Cube Guest House Website",
+                  "url": "https://hout-bay-guest-house.co.za",
+                  "description": "Offizielle Website des Cube Guest House in Hout Bay, Kapstadt. Entdecke unsere luxuriösen Suiten und buche deinen Traumurlaub in Südafrika.",
+                  "inLanguage": "de-DE",
+                  "publisher": {
+                    "@id": "#organization"
+                  },
+                  "telephone": "+491725813431",
+                  "email": "hello@cube-guesthouse.com",
+                  "legalName": "Cube Partnership"
+                }
+              },
+              {
+                "id": "local-business",
+                "schemaType": "localBusiness",
+                "data": {
+                  "@type": "LocalBusiness",
+                  "name": "Cube Guest House",
+                  "description": "Modernes Boutique-Gästehaus in sicherer Hanglage von Hout Bay. Wir bieten individuelle Zimmer, hausgemachtes Frühstück und persönliche Rundreise-Beratung.",
+                  "url": "https://hout-bay-guest-house.co.za",
+                  "telephone": "+491725813431",
+                  "email": "hello@cube-guesthouse.com",
+                  "priceRange": "$$$",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Luisa Way 20",
+                    "postalCode": "7806",
+                    "addressLocality": "Kapstadt",
+                    "addressRegion": "Western Cape",
+                    "addressCountry": "ZA"
+                  },
+                  "geo": {
+                    "latitude": "-34.0246038",
+                    "longitude": "18.3532004"
+                  },
+                  "openingHoursSpecification": ["So 00:00-24:00"],
+                  "sameAs": [
+                    "https://www.facebook.com/people/CUBE-Guest-House-in-Cape-Town/61558534452623/#"
+                  ],
+                  "legalName": "Cube Partnership"
+                }
+              }
+            ]
+          },
+          "hero": {
+            "h1": "Dein exklusives Hout Bay Guest House",
+            "backgroundImage": "/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+            "backgroundImageAlt": "Die moderne Pool-Terrasse des Hout Bay Guest House mit spektakulärem Blick auf die Berge und den Ozean in Kapstadt",
+            "locationPrefix": "Dein Traumurlaub in",
+            "locationSuffix": "Kapstadt",
+            "namePrefix": "Willkommen im",
+            "callAriaLabel": "Rufe das Team vom Hout Bay Guest House an",
+            "since": "Boutique-Gästehaus",
+            "buttons": [
+              {
+                "text": "ONLINE BUCHUNG",
+                "link": "https://book.nightsbridge.com/38058",
+                "variant": "primary"
+              },
+              {
+                "text": "+49 172 5813431",
+                "link": "tel:+491725813431",
+                "variant": "outline"
+              }
+            ],
+            "card1Icon": "Home",
+            "card1Line1": "5 Boutique-Zimmer",
+            "card1Line2": "Jedes Zimmer ein echtes Unikat",
+            "card2Icon": "MapPin",
+            "card2Line1": "Luisa Way 20",
+            "card2Line2": "Hout Bay · 7806 Kapstadt, Südafrika",
+            "card3Icon": "Clock",
+            "card3Line1": "Täglich für dich da",
+            "card3Line2": "Persönlicher Service"
+          },
+          "info": {
+            "description": "Willkommen in unserer modernen Villa in Kapstadt. In ruhiger Hanglage mit spektakulärem Berg- und Meerblick bietet dir unser Hout Bay Guest House den perfekten Rückzugsort für deine Südafrika-Reise.",
+            "paragraph1": "Jedes unserer fünf Zimmer ist ein echtes Unikat – vom freistehenden Häuschen mit eigenem Sonnendeck bis zur eleganten Suite. Freu dich auf eine hochwertige Ausstattung mit Apple TV, Espressomaschine und einer gut gefüllten Minibar.",
+            "paragraph2": "Damit du Kapstadt völlig entspannt entdecken kannst, statten wir dich mit einem lokalen Gäste-Handy aus. Gastgeber Dirk und das gesamte Team stehen dir bei der Planung deines Roadtrips jederzeit mit persönlichen Geheimtipps zur Seite.",
+            "quote": "Wir möchten, dass du dich bei uns nicht wie ein Tourist fühlst, sondern wie ein willkommener Freund.",
+            "imageUrl": "/images/hout-bay-guest-house/info/hout-bay-guest-house-info.webp",
+            "imageAlt": "Blick auf den großen Pool und das moderne Hout Bay Guest House in Kapstadt",
+            "activities": {
+              "title": "Südafrika-Rundreisen & Ausflüge",
+              "description": "Starte deine Abenteuer direkt von unserer sicheren Hanglage aus. Wir helfen dir gerne bei der Planung deiner Touren und geben dir die besten Insider-Tipps für Kapstadt und Umgebung.",
+              "icon": "Map"
+            },
+            "nutrition": {
+              "title": "Hausgemachtes Frühstück am Pool",
+              "description": "Genieße dein morgendliches Frühstück direkt auf unserer sonnigen Pool-Terrasse. Wir verwöhnen dich mit frischen, hausgemachten Köstlichkeiten und bieten auf Wunsch auch vielfältige vegane Optionen.",
+              "icon": "Coffee"
+            },
+            "garden": {
+              "title": "Entspannung mit Meerblick",
+              "description": "Lass die Seele an unserem großen Pool baumeln und genieße die ruhige Atmosphäre. Die Kombination aus modernem Boutique-Charakter und atemberaubender Natur macht jeden Moment besonders.",
+              "icon": "Sun"
+            },
+            "values": {
+              "nature": "Ruhige Hanglage in einem sicheren Viertel mit traumhaftem Blick auf Berge und Ozean.",
+              "mindfulness": "Persönliche Betreuung und familiäre Atmosphäre stehen bei uns an erster Stelle.",
+              "participation": "Von der Reiseplanung bis zum lokalen Gäste-Handy – wir machen deinen Aufenthalt unbeschwert."
+            },
+            "valueIcons": {
+              "mindfulness": "Heart",
+              "nature": "Mountain",
+              "participation": "Smartphone"
+            },
+            "sectionTitle": "Dein exklusives Hout Bay Guest House",
+            "activitiesLabel": "Entdecken",
+            "nutritionLabel": "Genießen",
+            "gardenLabel": "Wohlfühlen",
+            "mindfulness": "Herzliche Gastfreundschaft",
+            "nature": "Spektakuläre Lage",
+            "participation": "Individueller Service"
+          },
+          "contact": {
+            "location": "Ruhige Hanglage in Hout Bay, Kapstadt – dein sicherer Rückzugsort mit spektakulärem Berg- und Meerblick.",
+            "locationLabel": "Standort",
+            "addressName": "Hout Bay Guest House",
+            "bookOnline": "Zimmer buchen",
+            "bookOnlineDesc": "Sichere dir jetzt deine Suite in unserer modernen Villa für deinen Traumurlaub in Südafrika.",
+            "infoTitle": "Kontakt & Anreise",
+            "addressLabel": "Adresse",
+            "openingHoursLabel": "Öffnungszeiten",
+            "phoneLabel": "Telefon",
+            "emailLabel": "E-Mail",
+            "bookingTitle": "Buche dein Hout Bay Guest House",
+            "bookingIntro": "Bereit für unvergessliche Tage in Kapstadt? Ob Fragen zu unseren individuellen Zimmern, dem hausgemachten Frühstück am Pool oder Tipps für deine Rundreise – Dirk und das Team sind gerne für dich da.",
+            "bookingButton": "Jetzt anfragen"
+          },
+          "gallery": {
+            "title": "Einblicke in das Hout Bay Guest House",
+            "subtitle": "Entdecke unsere fünf individuellen Zimmer, die moderne Architektur und den spektakulären Blick auf Berge und Ozean.",
+            "ariaLabel": "Bildergalerie des Hout Bay Guest House",
+            "images": [
+              {
+                "src": "/images/hout-bay-guest-house/gallerie/hout-bay-guest-house-1.webp",
+                "alt": "Modernes Zimmer im Hout Bay Guest House mit gemütlichem Bett und stilvoller Einrichtung"
+              },
+              {
+                "src": "/images/hout-bay-guest-house/gallerie/hout-bay-guest-house-2.webp",
+                "alt": "Großer Pool auf der Terrasse mit herrlichem Blick auf die Berge von Hout Bay"
+              },
+              {
+                "src": "/images/hout-bay-guest-house/gallerie/hout-bay-guest-house-3.webp",
+                "alt": "Elegantes Badezimmer in einer unserer luxuriösen Suiten"
+              },
+              {
+                "src": "/images/hout-bay-guest-house/gallerie/hout-bay-guest-house-4.webp",
+                "alt": "Hausgemachtes, frisches Frühstück auf der sonnigen Pool-Terrasse"
+              },
+              {
+                "src": "/images/hout-bay-guest-house/gallerie/hout-bay-guest-house-5.webp",
+                "alt": "Freistehendes Häuschen mit eigenem Sonnendeck und Meerblick"
+              },
+              {
+                "src": "/images/hout-bay-guest-house/gallerie/hout-bay-guest-house-6.webp",
+                "alt": "Entspannte Atmosphäre im Außenbereich unserer Kap-Villa"
+              },
+              {
+                "src": "/images/hout-bay-guest-house/gallerie/hout-bay-guest-house-7.webp",
+                "alt": "Detailansicht der hochwertigen Zimmerausstattung mit Espressomaschine"
+              },
+              {
+                "src": "/images/hout-bay-guest-house/gallerie/hout-bay-guest-house-8.webp",
+                "alt": "Spektakulärer Ausblick auf den Ozean und die Bucht von Hout Bay"
+              }
+            ],
+            "roomsTitle": "Unsere individuellen Zimmer & Suiten",
+            "roomsDescription": "Jedes unserer fünf Zimmer ist ein echtes Unikat. Freu dich auf modernes Design, eine gut gefüllte Minibar, Apple TV und deine eigene Espressomaschine für den perfekten Start in den Tag.",
+            "outdoorTitle": "Pool, Terrasse & spektakuläre Ausblicke",
+            "outdoorDescription": "Genieße die ruhige Hanglage in unserem sicheren Viertel. Entspanne am großen Pool, lass den Blick über die Berge schweifen und starte hier entspannt in deine Südafrika-Rundreise.",
+            "imageOf": "Bild {current} von {total}",
+            "rooms": "Zimmer & Suiten",
+            "outdoor": "Außenbereich & Pool",
+            "prevImage": "Vorheriges Bild",
+            "nextImage": "Nächstes Bild"
+          },
+          "team": {
+            "title": "Dein Gastgeber im Hout Bay Guest House",
+            "subtitle": "Erlebe echte Gastfreundschaft. Dirk und das gesamte Team sorgen dafür, dass dein Aufenthalt in unserer sicheren Kap-Villa unvergesslich wird – persönliche Geheimtipps für deine Südafrika-Rundreise inklusive.",
+            "teamMember": {
+              "quote": "Ob beim hausgemachten Frühstück am Pool oder bei der Planung deines Roadtrips – wir möchten, dass dein Urlaub am Kap einfach perfekt wird."
+            }
+          },
+          "map": {
+            "description": "Finde dein Hout Bay Guest House in sicherer Hanglage. Genieße den spektakulären Berg- und Meerblick in Kapstadt.",
+            "publicTransport": "Am bequemsten erreichst du uns mit dem Mietwagen oder Uber. Die nächste MyCiTi-Bushaltestelle liegt im Zentrum von Hout Bay.",
+            "parking": "Wir bieten dir sichere Parkmöglichkeiten direkt an unserer Villa, damit dein Mietwagen während deines Aufenthalts gut geschützt ist.",
+            "mapEmbedUrl": "",
+            "addressTitle": "Deine Adresse am Kap",
+            "iframeTitle": "Karte mit dem Standort des Hout Bay Guest House in Kapstadt",
+            "sectionTitle": "So findest du dein Hout Bay Guest House",
+            "openOnMap": "Auf Google Maps öffnen",
+            "visitUs": "Besuche uns in Hout Bay",
+            "publicTransportLabel": "Anreise & Transfer",
+            "parkingLabel": "Parkmöglichkeiten"
+          },
+          "reviews": {
+            "title": "Das sagen unsere Gäste über das Hout Bay Guest House",
+            "subtitle": "Lies selbst, warum so viele Südafrika-Reisende unsere herzliche Gastfreundschaft, das hausgemachte Frühstück und den spektakulären Meerblick lieben.",
+            "reviewData": {
+              "displayName": {
+                "text": "CUBE Guest House",
+                "languageCode": "en"
+              },
+              "formattedAddress": "20 Luisa Way, Hout Bay, Cape Town, 7806, South Africa",
+              "reviews": [
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT2s1bE1ERTJaRk0xWDJnMlYyVnBRVjkxU1dKdFJXYxAB",
+                  "relativePublishTimeDescription": "vor 2 Monaten",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wow! Wir hatten eine richtig tolle Woche dort! Der Garten ist ne 10 von 10! Wir kommen nächstes Jahr auf jeden Fall wieder.",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Wow! Wir hatten eine richtig tolle Woche dort! Der Garten ist ne 10 von 10! Wir kommen nächstes Jahr auf jeden Fall wieder.",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Lars Hermes",
+                    "uri": "https://www.google.com/maps/contrib/116033917985581201459?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrbhCNuoFABUeiRYn2o-Wj_PBk8ebiLOUbhmJo2I-e8wFEMIY=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2026-02-18T07:50:41.410Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1bE1ERTJaRk0xWDJnMlYyVnBRVjkxU1dKdFJXYxAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CAIQACodChtycF9oOk5lMDE2ZFM1X2g2V2VpQV91SWJtRWc%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChdDSUhNMG9nS0VJQ0FnSUNoMW9YeWlnRRAB",
+                  "relativePublishTimeDescription": "vor 3 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Für unseren ersten Kapstadt-Urlaub haben wir uns für das CUBE Guest House entschieden und was sollen wir sagen - wir sind absolut begeistert. Schon vor der Anreise stand uns Dirk mit Rat und Tat zur Seite und hat uns bei oragnisatorischen Dingen geholfen. Von dem Moment als wir im CUBE ankamen, haben wir uns willkommen und sicher gefühlt. Das gesamte Guest House ist in einem hervorragenden Zustand und jedes der Zimmer hat seinen eigenen Charme. Die Außenanlage ist top gepflegt und lädt zum Relaxen ein. Es ist ein fast schon magischer Ort. Das Frühstück ist eine glatte 10/10 mit einer riesigen Auswahl an frischen Früchten, Avocado, Brötchen, Eiern und allem, was das Herz begehrt. Sollten noch Wünsche offen bleiben, so kann man diese einfach äußern und es wird sich prompt drum gekümmert. Die sechs Nächte gingen leider viel zu schnell vorbei, doch ich bin mir sicher, dass wir noch mal wiederkommen werden. Vielen Dank für die tolle Zeit!",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Für unseren ersten Kapstadt-Urlaub haben wir uns für das CUBE Guest House entschieden und was sollen wir sagen - wir sind absolut begeistert. Schon vor der Anreise stand uns Dirk mit Rat und Tat zur Seite und hat uns bei oragnisatorischen Dingen geholfen. Von dem Moment als wir im CUBE ankamen, haben wir uns willkommen und sicher gefühlt. Das gesamte Guest House ist in einem hervorragenden Zustand und jedes der Zimmer hat seinen eigenen Charme. Die Außenanlage ist top gepflegt und lädt zum Relaxen ein. Es ist ein fast schon magischer Ort. Das Frühstück ist eine glatte 10/10 mit einer riesigen Auswahl an frischen Früchten, Avocado, Brötchen, Eiern und allem, was das Herz begehrt. Sollten noch Wünsche offen bleiben, so kann man diese einfach äußern und es wird sich prompt drum gekümmert. Die sechs Nächte gingen leider viel zu schnell vorbei, doch ich bin mir sicher, dass wir noch mal wiederkommen werden. Vielen Dank für die tolle Zeit!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Jan Götze",
+                    "uri": "https://www.google.com/maps/contrib/109278190776442227469?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIt3vDyjdoV-HgdgA1C4drl1WBVTaB-7J3CzqENJmJlkHDcZg=s1920-c-rp-mo-ba4-br100"
+                  },
+                  "publishTime": "2023-02-12T11:39:07.097Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNoMW9YeWlnRRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgICh1oXyigE%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChdDSUhNMG9nS0VJQ0FnSUNsck1EaDZ3RRAB",
+                  "relativePublishTimeDescription": "vor 2 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wir sind durch Zufall drauf gestoßen und waren nur begeistert. Tolle Location, super Zimmer, geräumiges Bad, super Dusche, der Ausblick... ein Traum. Das Frühstück auf der Terasse für alle am großen Tisch wie in der Großfamilie, Taku, der Manager, ist superfreundlich, immer gut drauf und stets hilfsbereit. Genauso Dirk, der Eigentümer; er ist einfach genial, superfreundlich, hat immer noch ein paar Tips zur Verfeinerung der geplanten Aktivitäten/Touren/Restaurantbesuche auf Lager.\nDanke, dass wir uns bei Euch wie zuhause fühlen durften!",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Wir sind durch Zufall drauf gestoßen und waren nur begeistert. Tolle Location, super Zimmer, geräumiges Bad, super Dusche, der Ausblick... ein Traum. Das Frühstück auf der Terasse für alle am großen Tisch wie in der Großfamilie, Taku, der Manager, ist superfreundlich, immer gut drauf und stets hilfsbereit. Genauso Dirk, der Eigentümer; er ist einfach genial, superfreundlich, hat immer noch ein paar Tips zur Verfeinerung der geplanten Aktivitäten/Touren/Restaurantbesuche auf Lager.\nDanke, dass wir uns bei Euch wie zuhause fühlen durften!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Anja Schuette-Andrew",
+                    "uri": "https://www.google.com/maps/contrib/116530346873779975177?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLIPOwnXiXaYZ3pRkFPQKj6M0FL9c6p2VDCTQwfpZNLpgkHe5g=s1920-c-rp-mo-ba2-br100"
+                  },
+                  "publishTime": "2023-11-14T14:38:25.027Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNsck1EaDZ3RRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIClrMDh6wE%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChZDSUhNMG9nS0VJQ0FnSURsZ05uMmRREAE",
+                  "relativePublishTimeDescription": "vor 2 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wiedermal haben wir eine wunderbare Zeit im Cube verbracht. Das Cube wird sofort zu einem zweiten Zuhause, indem man sich rundherum wohl fühlt, was nicht zuletzt an der verbindlichen Freundlichkeit der Gastgeber liegt. Ein ganz besonderes Extra, von dem wir zum wiederholten Mal profitieren konnten, ist das Dirk Engelmann auf Wunsch Tagesaktivitäten, Essensvorschläge und auch für Rundreisen Unterkünfte vorschlägt und reserviert. Wir haben so Orte und Lokale entdeckt, die wir selber nie gefunden hätten.",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Wiedermal haben wir eine wunderbare Zeit im Cube verbracht. Das Cube wird sofort zu einem zweiten Zuhause, indem man sich rundherum wohl fühlt, was nicht zuletzt an der verbindlichen Freundlichkeit der Gastgeber liegt. Ein ganz besonderes Extra, von dem wir zum wiederholten Mal profitieren konnten, ist das Dirk Engelmann auf Wunsch Tagesaktivitäten, Essensvorschläge und auch für Rundreisen Unterkünfte vorschlägt und reserviert. Wir haben so Orte und Lokale entdeckt, die wir selber nie gefunden hätten.",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Alexandra Hartmann",
+                    "uri": "https://www.google.com/maps/contrib/104660692232082667446?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmfYwbkhNuKgwJBhoL1dXm_w_bHFRKZJGMoJ6dM5nL_0w3pbcA=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2023-11-29T12:44:38.584Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURsZ05uMmRREAE!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIDlgNn2dQ%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChZDSUhNMG9nS0VJQ0FnSUNvZ09td0p3EAE",
+                  "relativePublishTimeDescription": "vor 7 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wir können das Cube Guest House absolut empfehlen, es fühlt sich an, als würde man seine langjährigen Freunde besuchen :-). Dirk stand uns mit Rat und Tat zur Seite. Die Unterkunft ist wahnsinnig schön, gepflegt und sauber. Wir hatten das Bambus Häuschen direkt am Pool und fanden es total besonders und schön. Wir haben uns einfach wohl gefühlt und es wahr ein toller Urlaub! Vielen Dank, wir kommen wieder!\nJule & Philipp",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Wir können das Cube Guest House absolut empfehlen, es fühlt sich an, als würde man seine langjährigen Freunde besuchen :-). Dirk stand uns mit Rat und Tat zur Seite. Die Unterkunft ist wahnsinnig schön, gepflegt und sauber. Wir hatten das Bambus Häuschen direkt am Pool und fanden es total besonders und schön. Wir haben uns einfach wohl gefühlt und es wahr ein toller Urlaub! Vielen Dank, wir kommen wieder!\nJule & Philipp",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Julie Riet",
+                    "uri": "https://www.google.com/maps/contrib/103440113962194254429?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_affMefFPro7qoT9oRLY96xIekPLszrAjwFxKg7wXUD5YaMwI=s1920-c-rp-mo-ba2-br100"
+                  },
+                  "publishTime": "2019-01-30T09:15:00.337Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNvZ09td0p3EAE!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgICogOmwJw%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChdDSUhNMG9nS0VJQ0FnSURWdGRDSG9nRRAB",
+                  "relativePublishTimeDescription": "vor 2 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Ruhige Oase mit tollem Ambiente und gepflegtem Garten. Sehr nettes Personal und tolles Frühstück. Abends ein Glas Wein im Wohnzimmer mit toller Aussicht. Hout Bay ist abseits des Troubels, aber ein toller Ausgangspunkt alles zu erreichen.",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Ruhige Oase mit tollem Ambiente und gepflegtem Garten. Sehr nettes Personal und tolles Frühstück. Abends ein Glas Wein im Wohnzimmer mit toller Aussicht. Hout Bay ist abseits des Troubels, aber ein toller Ausgangspunkt alles zu erreichen.",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Klaus Klugesherz",
+                    "uri": "https://www.google.com/maps/contrib/101286101218672958138?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKvl5OyqvMFAbQc8RXsq4CjT-H1MGhTf0pF2C3YOiVh4_2C=s1920-c-rp-mo-ba3-br100"
+                  },
+                  "publishTime": "2023-12-14T15:11:00.431Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURWdGRDSG9nRRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIDVtdCHogE%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChZDSUhNMG9nS0VJQ0FnSUNnOTlPa1JREAE",
+                  "relativePublishTimeDescription": "vor 11 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Ein tolles Guest House. Patrick und Dirk lesen einem die Wünsche von den Augen ab.\nSie organisieren alle Events und machen dazu noch tolle Vorschläge.\nDas Haus,die Zimmer,die Gartenanlage mit Pool, vom Feinsten.\nDas Frühstück ist jeden Morgen ein Erlebnis.\nWir haben fürs nächste Jahr schon wieder gebucht.",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Ein tolles Guest House. Patrick und Dirk lesen einem die Wünsche von den Augen ab.\nSie organisieren alle Events und machen dazu noch tolle Vorschläge.\nDas Haus,die Zimmer,die Gartenanlage mit Pool, vom Feinsten.\nDas Frühstück ist jeden Morgen ein Erlebnis.\nWir haben fürs nächste Jahr schon wieder gebucht.",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Dominika Hindrichs",
+                    "uri": "https://www.google.com/maps/contrib/105952807880172884911?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8BEcwszE94AM5idSuJIWQf3LPndcHbwnZs_NiliBF2DXbaA=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2015-04-26T08:48:21.086Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNnOTlPa1JREAE!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgICg99OkRQ%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChZDSUhNMG9nS0VJQ0FnSUR3NE5XNUJ3EAE",
+                  "relativePublishTimeDescription": "vor 7 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wir durften zwei Wochen bei Dirk, Patrick und Paul (dem liebsten Hund) verbringen.\n\nZimmer: wir belegten die beiden Zimmer im oberen Stock nebeneinander. Das war die optimale Wahl. Sehr modern, bequeme Betten und viel Stauraum.\nZimmer1: coole Aussicht, Balkon, riesig\nZimmer2: modern, schönes Bad\n\nLage: die Lage ist optimal für Ausflüge nach Hout Bay (Seelöwen), Hermanus (Wale), Simonstown (Pinguine), Kap der guten Hoffnung und natürlich Campsbay, Waterfront, Chapmans Peak und Tablemountain.\n\nService: wir haben in vielen Tophäuser der Welt übernachtet, aber die Crew hier topped alles. Das Frühstück erfüllt jeden Wunsch. Einfach nur wow!",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Wir durften zwei Wochen bei Dirk, Patrick und Paul (dem liebsten Hund) verbringen.\n\nZimmer: wir belegten die beiden Zimmer im oberen Stock nebeneinander. Das war die optimale Wahl. Sehr modern, bequeme Betten und viel Stauraum.\nZimmer1: coole Aussicht, Balkon, riesig\nZimmer2: modern, schönes Bad\n\nLage: die Lage ist optimal für Ausflüge nach Hout Bay (Seelöwen), Hermanus (Wale), Simonstown (Pinguine), Kap der guten Hoffnung und natürlich Campsbay, Waterfront, Chapmans Peak und Tablemountain.\n\nService: wir haben in vielen Tophäuser der Welt übernachtet, aber die Crew hier topped alles. Das Frühstück erfüllt jeden Wunsch. Einfach nur wow!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Stephan Suter",
+                    "uri": "https://www.google.com/maps/contrib/117544471746087547654?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlMEdyU-fgBFRFj6FThcLJOSarTZIfysiv96VgQhA_Y1PuC1Y=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2018-10-19T21:53:59.252Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR3NE5XNUJ3EAE!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIDw4NW5Bw%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChZDSUhNMG9nS0VJQ0FnSUMwOUo3Uk9REAE",
+                  "relativePublishTimeDescription": "vor 6 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Sehr gute persönliche Atmosphäre mit einem immer hilfsbereiten Dirk die Tipps  für jegliche Aktivitäten waren sehr hilfreich genauso wie das buchen von Restaurants online check in und und und das Frühstück war lecker immer frisch umfangreich  und ausreichend. Gerne wieder eine volle Empfehlung danke an Dirk und Patrick LG",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Sehr gute persönliche Atmosphäre mit einem immer hilfsbereiten Dirk die Tipps  für jegliche Aktivitäten waren sehr hilfreich genauso wie das buchen von Restaurants online check in und und und das Frühstück war lecker immer frisch umfangreich  und ausreichend. Gerne wieder eine volle Empfehlung danke an Dirk und Patrick LG",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Helmut Schmitz",
+                    "uri": "https://www.google.com/maps/contrib/110719481251930987890?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9Ia6bnhBr67p4nalYCjuvXZpmtksoPqIACd8snu05SKtw1A=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2019-09-16T14:57:40.804Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMwOUo3Uk9REAE!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIC09J7ROQ%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChdDSUhNMG9nS0VJQ0FnSURjN0tLR2lnRRAB",
+                  "relativePublishTimeDescription": "Bearbeitet: vor 4 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wann immer wir wieder nach ZA kommen, werden wir in jedem Fall erneut ins CUBE ziehen. Versprochen.",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Wann immer wir wieder nach ZA kommen, werden wir in jedem Fall erneut ins CUBE ziehen. Versprochen.",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Torralf Köhler",
+                    "uri": "https://www.google.com/maps/contrib/100852301219135695591?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgDbnhrui-N5XJ-fFTJ1Rn-i2sfeU8YX1BrEfQPgyarblbortW=s1920-c-rp-mo-ba5-br100"
+                  },
+                  "publishTime": "2021-12-21T08:33:44.225Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURjN0tLR2lnRRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIDc7KKGigE%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChdDSUhNMG9nS0VJQ0FnSURBN1BfVHNnRRAB",
+                  "relativePublishTimeDescription": "vor 10 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Geniales Guesthouse mit einem tollen Blick auf die Berge und das Meer in Hout Bay!",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Geniales Guesthouse mit einem tollen Blick auf die Berge und das Meer in Hout Bay!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Thomas",
+                    "uri": "https://www.google.com/maps/contrib/117586835077722664584?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbIFsTdKSaflVRb5BvbexbJjP2BdVsDYTI9VbJMsZqP-DaiNBg=s1920-c-rp-mo-ba3-br100"
+                  },
+                  "publishTime": "2015-08-09T04:53:53.467Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURBN1BfVHNnRRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIDA7P_TsgE%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChZDSUhNMG9nS0VJQ0FnSURvMkstaEhREAE",
+                  "relativePublishTimeDescription": "vor 7 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "sehr empfehlenswert",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "sehr empfehlenswert",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Peter Cramer",
+                    "uri": "https://www.google.com/maps/contrib/114581152901006345447?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpWcyDfpIHVT0HmaqpPi8bHZoBevOULsVXcJrF3BDu-MTWrBoU=s1920-c-rp-mo-ba2-br100"
+                  },
+                  "publishTime": "2019-03-11T11:01:33.920Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURvMkstaEhREAE!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIDo2K-hHQ%7C%7C?hl=de"
+                },
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT210V016VXpUelpHTmkxRlRVVnFTRWRJWkhsWWRWRRAB",
+                  "relativePublishTimeDescription": "vor 5 Monaten",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wir waren dort, um unsere Flitterwochen ausklingen zu lassen. Es war ein Ort der Ruhe. Ein besonderer Dank gilt unserem Gastgeber und dem Besitzer für die außergewöhnliche Gastfreundschaft während unseres Aufenthalts! Taku, sein Team und seine Frau! Vielen, vielen Dank!\nIch poste nur ein Foto von der Aussicht aus unserem Fenster. Den Rest müsst ihr euch unbedingt selbst ansehen – es ist einfach traumhaft!\n\nUnd dann ist da noch der Gastgeberhund King, der euren Aufenthalt noch schöner macht 😍",
+                    "languageCode": "en"
+                  },
+                  "originalText": {
+                    "text": "We went there to finish off our honeymoon. It was a place of peace, special thanks to our host and the owner for the exceptional hospitality we received during our stay!\nTaku his team and his wife! Thank you thank you thank you!\nI only post one picture, just of the view we had trough our window, the rest you must go and see yourself it’s amazing!\n\nAlso there is the extra host dog King who will make your stay even more enjoyable 😍",
+                    "languageCode": "en"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Erikas Cekanauskas",
+                    "uri": "https://www.google.com/maps/contrib/113725992424880269640?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6YsgeHUme2gLhEPahenWqTZ7lQ09ep_Ts9kf3hc6R2e4TNQ=s1920-c-rp-mo-ba3-br100"
+                  },
+                  "publishTime": "2025-11-23T11:20:36.237Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210V016VXpUelpHTmkxRlRVVnFTRWRJWkhsWWRWRRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CAIQACodChtycF9oOmtWMzUzTzZGNi1FTUVqSEdIZHlYdVE%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChdDSUhNMG9nS0VJQ0FnSUMxa2ZPMHVnRRAB",
+                  "relativePublishTimeDescription": "vor 2 Jahren",
+                  "rating": 5,
+                  "text": {
+                    "text": "Unser Aufenthalt im Cube war wunderbar, ein wahres Paradies in Haut Bay. Schon beim Betreten des Hauses fiel uns die Sauberkeit auf – makellose Zimmer und Gemeinschaftsbereiche, die ein echtes Engagement für Hygiene widerspiegelten.\n\nDie Liebe zum Detail in der Zimmereinrichtung war beeindruckend; es fühlte sich an wie eine gelungene Mischung aus Komfort und Stil. Die kleinen Aufmerksamkeiten und Details verliehen dem Zimmer eine persönliche Note und machten unseren Aufenthalt unvergesslich.\n\nDer Manager und die Mitarbeiter waren die wahren Schätze dieses Gästehauses. Ihre Herzlichkeit und Hilfsbereitschaft schufen eine einladende Atmosphäre. Sie taten alles, um unseren Aufenthalt so angenehm wie möglich zu gestalten und stellten sicher, dass all unsere Bedürfnisse erfüllt wurden. Vielen Dank, Dirk!\n\nUnd erst das Frühstück – ein Genuss für Augen und Gaumen! Das Angebot war nicht nur köstlich, sondern präsentierte auch die Aromen der Region. Der Morgen wurde zu einem fröhlichen Erlebnis mit einer Vielfalt, die für jeden Geschmack etwas bot.\n\nWir freuen uns schon auf unseren nächsten Besuch, es war uns ein großes Vergnügen.",
+                    "languageCode": "en"
+                  },
+                  "originalText": {
+                    "text": "Our stay at Cube was wonderful, a heaven spot in Haut Bay. From the moment we walked in, the cleanliness of the place was striking – spotless rooms and common areas that reflected a genuine commitment to hygiene.\n\nThe attention to detail in our room decor was impressive; it felt like a blend of comfort and style. The little touches and details, added a personal  style that made the stay memorable.\n\nThe manager and staff were the true gems of this guest house. Their warmth and eagerness to assist created a welcoming atmosphere. They went out of their way to ensure our stay was comfortable, ensuring all our needs were met. Thank you Dirk!\n\nAnd let's talk about breakfast – a feast for both the eyes and taste buds. The spread was not only delicious but also showcased the local flavors. The morning became a joyous affair with a variety that catered to different preferences.\n\nCan t wait to come back, it has been a great pleasure.",
+                    "languageCode": "en"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Camilla Corradi",
+                    "uri": "https://www.google.com/maps/contrib/117425866995784571097?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7mQPZcKlXeN837BAIz4E3lRVKYWftPv8kU1Fqz5zloKaxYA=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2023-12-31T11:05:57.382Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxa2ZPMHVnRRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgIC1kfO0ugE%7C%7C?hl=de"
+                },
+                {
+                  "name": "ChdDSUhNMG9nS0VJQ0FnSUNIcUpQdHJ3RRAB",
+                  "relativePublishTimeDescription": "vor einem Jahr",
+                  "rating": 5,
+                  "text": {
+                    "text": "Das Cube ist ein wunderschönes Gästehaus mit einer atemberaubenden Aussicht. Der freundliche Taku ist ein hervorragender Gastgeber und stets hilfsbereit und freundlich. Dirk, du und dein Team machen den Aufenthalt im Cube mit dem absoluten Luxus, den es zu bieten hat, perfekt. Jeder Aufenthalt ist ein Traum! Ich kann das Cube jedem wärmstens empfehlen, der in der wunderschönen Hout Bay übernachten möchte.",
+                    "languageCode": "en"
+                  },
+                  "originalText": {
+                    "text": "The Cube is a beautiful guest house with the most amazing views. The friendly Taku is an excellent host, and is always willing to assist with a smile on his face. Dirk, you and your team make the stay perfect with the absolute luxury the Cube has to offer. Every stay is a dream! Would definitely recommend the Cube to anyone looking to stay in beautiful Hout Bay.",
+                    "languageCode": "en"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Dominique Damster",
+                    "uri": "https://www.google.com/maps/contrib/117004033121336208098?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI-FR3c2oTx4kDp-TNtCB-6NMjLrWiBsw9Dbt1UQZUgNXKb6w=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2024-08-31T15:56:21.450Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIcUpQdHJ3RRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CIHM0ogKEICAgICHqJPtrwE%7C%7C?hl=de"
+                },
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT21zellrMHpkV05PZW5wck9HdE9TV2xWTkhFeGExRRAB",
+                  "relativePublishTimeDescription": "vor 3 Monaten",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wir haben hier ein paar Nächte verbracht und sind einige Jahre später wiedergekommen. Die Qualität war immer noch dieselbe. Tolle Besitzer und ein super Team.",
+                    "languageCode": "en"
+                  },
+                  "originalText": {
+                    "text": "We spent a few nights here and re visited a few years later. The quality was still the same. Great owners and team.",
+                    "languageCode": "en"
+                  },
+                  "authorAttribution": {
+                    "displayName": "J A",
+                    "uri": "https://www.google.com/maps/contrib/105046160056421431099?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIo26y9UY0c1OCvrGpzxud2aob5IN4rw6VTPcaZ29oWvruQmA=s1920-c-rp-mo-ba3-br100"
+                  },
+                  "publishTime": "2026-01-14T20:16:29.785Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21zellrMHpkV05PZW5wck9HdE9TV2xWTkhFeGExRRAB!2m1!1s0x0:0xb73f7856ecadb1f1!3m1!1s2@1:CAIQACodChtycF9oOmszYk0zdWNOenprOGtOSWlVNHExa1E%7C%7C?hl=de"
+                }
+              ],
+              "userRatingCount": 49,
+              "rating": 4.8
+            },
+            "minimumRating": 5,
+            "rating": "5.0"
+          },
+          "faq": {
+            "title": "Deine Fragen an das Hout Bay Guest House",
+            "subtitle": "Hast du noch Fragen zu deinem Traumurlaub in Kapstadt? Hier beantworten wir dir alles Wichtige rund um unsere individuellen Zimmer, das Frühstück am Pool und deine sichere Südafrika-Rundreise.",
+            "faqDataFile": "faq.json"
+          },
+          "trust": {
+            "partner": "Vertrauen & Qualität",
+            "H2": "Verbunden mit der City of Cape Town",
+            "qualityPartners": "Unser Partner ist das offizielle Portal der Metropolregion Kapstadt: Von Verwaltung und Bürgerdiensten bis zu verlässlichen Infos für Bewohner und Besucher – so findest du alles Wichtige rund um die Mother City an einem Ort.",
+            "logos": []
+          }
+        },
+        {
+          "name": "faq",
+          "pageTitle": "Häufige Fragen",
+          "metadata": {
+            "title": "Häufige Fragen | Hout Bay Guest House Kapstadt",
+            "description": "Du hast Fragen zu deinem Aufenthalt im Hout Bay Guest House? Hier findest du alle Antworten zu Zimmern, Frühstück, Sicherheit und deiner Südafrika-Reise.",
+            "keywords": "FAQ Hout Bay Guest House, Häufige Fragen Gästehaus Kapstadt, Cube Guest House, Boutique Hotel Hout Bay, Unterkunft Hout Bay Meerblick, Südafrika Rundreise Unterkunft, sichere Unterkunft Kapstadt",
+            "openGraph": {
+              "url": "https://hout-bay-guest-house.co.za",
+              "title": "Häufige Fragen | Hout Bay Guest House Kapstadt",
+              "images": [
+                {
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 0,
+                  "height": 0,
+                  "alt": "Blick auf das moderne Hout Bay Guest House mit Pool und spektakulärem Meerblick in Kapstadt"
+                }
+              ],
+              "description": "Du hast Fragen zu deinem Aufenthalt im Hout Bay Guest House? Hier findest du alle Antworten zu Zimmern, Frühstück, Sicherheit und deiner Südafrika-Reise."
+            },
+            "twitter": {
+              "title": "Häufige Fragen | Hout Bay Guest House Kapstadt",
+              "description": "Du hast Fragen zu deinem Aufenthalt im Hout Bay Guest House? Hier findest du alle Antworten zu Zimmern, Frühstück, Sicherheit und deiner Südafrika-Reise.",
+              "images": [
+                {
+                  "alt": "Blick auf das moderne Hout Bay Guest House mit Pool und spektakulärem Meerblick in Kapstadt",
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Häufige Fragen zum Hout Bay Guest House",
+            "lead": "Du planst deinen Traumurlaub in Kapstadt und hast noch Fragen? Hier haben wir die wichtigsten Informationen rund um deinen Aufenthalt in unserem Hout Bay Guest House für dich zusammengefasst."
+          },
+          "faqDataFile": "faq-xxl.json",
+          "schema": []
+        },
+        {
+          "name": "impressum",
+          "pageTitle": "Impressum",
+          "metadata": {
+            "title": "Impressum | Hout Bay Guest House",
+            "description": "Impressum und rechtliche Hinweise des Hout Bay Guest House in Kapstadt. Alle Informationen zum Betreiber unserer exklusiven Villa.",
+            "keywords": "Impressum, Hout Bay Guest House, rechtliche Hinweise, Kontakt, Kapstadt",
+            "openGraph": {
+              "url": "https://hout-bay-guest-house.co.za",
+              "title": "Impressum | Hout Bay Guest House",
+              "images": [
+                {
+                  "alt": "Blick auf den Pool und das Hout Bay Guest House in Kapstadt",
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Impressum und rechtliche Hinweise des Hout Bay Guest House in Kapstadt. Alle Informationen zum Betreiber unserer exklusiven Villa."
+            },
+            "twitter": {
+              "title": "Impressum | Hout Bay Guest House",
+              "description": "Impressum und rechtliche Hinweise des Hout Bay Guest House in Kapstadt. Alle Informationen zum Betreiber unserer exklusiven Villa.",
+              "images": [
+                {
+                  "alt": "Blick auf den Pool und das Hout Bay Guest House in Kapstadt",
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "datenschutz",
+          "pageTitle": "Datenschutz",
+          "metadata": {
+            "title": "Datenschutz | Hout Bay Guest House Kapstadt",
+            "description": "Datenschutzerklärung des Hout Bay Guest House in Kapstadt. Hier informieren wir dich transparent über die Verarbeitung und den Schutz deiner Daten.",
+            "keywords": "Datenschutz, Datenschutzerklärung, Hout Bay Guest House, Kapstadt",
+            "openGraph": {
+              "url": "https://hout-bay-guest-house.co.za",
+              "title": "Datenschutz | Hout Bay Guest House Kapstadt",
+              "images": [
+                {
+                  "alt": "Hout Bay Guest House Kapstadt",
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Datenschutzerklärung des Hout Bay Guest House in Kapstadt. Hier informieren wir dich transparent über die Verarbeitung und den Schutz deiner Daten."
+            },
+            "twitter": {
+              "title": "Datenschutz | Hout Bay Guest House Kapstadt",
+              "description": "Datenschutzerklärung des Hout Bay Guest House in Kapstadt. Hier informieren wir dich transparent über die Verarbeitung und den Schutz deiner Daten.",
+              "images": [
+                {
+                  "alt": "Hout Bay Guest House Kapstadt",
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "ueber-uns",
+          "pageTitle": "Hout Bay Guest House",
+          "h1": "Dein exklusives Hout Bay Guest House",
+          "metadata": {
+            "title": "Hout Bay Guest House | Cube Guest House Kapstadt",
+            "description": "Entdecke dein Hout Bay Guest House in Kapstadt. Sichere Hanglage, Meerblick, individuelles Design & veganes Frühstück. Buche jetzt deinen Traumurlaub!",
+            "keywords": "Hout Bay Guest House, Gästehaus Kapstadt, Boutique Hotel Hout Bay, Unterkunft Hout Bay Meerblick, Südafrika Rundreise Unterkunft, Villa Kapstadt mieten",
+            "openGraph": {
+              "url": "https://hout-bay-guest-house.co.za",
+              "title": "Dein exklusives Hout Bay Guest House in Kapstadt",
+              "images": [
+                {
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/about/hout-bay-guest-house-ueber-uns.webp",
+                  "width": 0,
+                  "height": 0,
+                  "alt": "Ausblick vom Hout Bay Guest House auf die Berge und den Ozean in Kapstadt"
+                }
+              ],
+              "description": "Erlebe unvergessliche Tage in unserem Hout Bay Guest House. Genieße Meerblick, einen großen Pool und erstklassigen Service in Kapstadt."
+            }
+          },
+          "blocks": [
+            {
+              "type": "heading",
+              "level": 1,
+              "text": "Traumurlaub am Kap: Dein Hout Bay Guest House in Kapstadt"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Hallo, ich bin Dirk, dein leidenschaftlicher Gastgeber im Hout Bay Guest House. Meine Mission ist es, dir weit mehr als nur eine Übernachtungsmöglichkeit zu bieten – ich möchte dir ein luxuriöses, sicheres und familiäres Zuhause am Kap der Guten Hoffnung erschaffen. Gemeinsam mit meinem engagierten Team sorge ich jeden Tag dafür, dass dein Aufenthalt in Südafrika von der ersten Minute an absolut unvergesslich wird. Wir lieben es, unsere ganz persönlichen Geheimtipps mit dir zu teilen und deine Reise zu einem echten Erlebnis zu machen."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/hout-bay-guest-house/about/hout-bay-guest-house-ueber-uns.webp",
+              "alt": "Dirk – Dein Gastgeber im Hout Bay Guest House in Kapstadt"
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Herzliche Gastfreundschaft trifft auf modernes Design"
+            },
+            {
+              "type": "paragraph",
+              "variant": "subline",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Bei uns erwartet dich eine einzigartige Kombination aus modernem Boutique-Charakter und einer wunderbar familiären Atmosphäre."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Wir möchten, dass du dich völlig entspannen, den Alltag weit hinter dir lassen und dich rundum geborgen fühlen kannst. Deshalb legen wir größten Wert auf eine persönliche, herzliche Betreuung, die immer aufmerksam, aber niemals aufdringlich ist. Dein Wohlbefinden und ein tiefes Gefühl von Sicherheit stehen für uns an allererster Stelle."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Deine luxuriöse Auszeit in unserer eleganten Kap-Villa"
+            },
+            {
+              "type": "paragraph",
+              "variant": "subline",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Unsere moderne Villa bietet dir fünf völlig individuell gestaltete Zimmer und Suiten, wie beispielsweise die Cosmopolitan Suite oder das freistehende Häuschen mit eigenem Sonnendeck."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Jeder dieser Rückzugsorte ist ein echtes Unikat und verwöhnt dich mit hochwertigen Annehmlichkeiten wie einem Apple TV, einer gut gefüllten Minibar und einer eigenen Espressomaschine. Morgens servieren wir dir ein reichhaltiges, hausgemachtes Frühstück direkt auf unserer sonnigen Pool-Terrasse – selbstverständlich auch mit vielfältigen veganen Optionen. Damit du Kapstadt völlig unbeschwert erkunden kannst, statten wir dich mit einem lokalen Gäste-Handy aus und stehen dir bei der Planung deiner Südafrika-Rundreise jederzeit mit Rat und Tat zur Seite."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Der perfekte Rückzugsort für Entdecker und Genießer"
+            },
+            {
+              "type": "paragraph",
+              "variant": "subline",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Unser Hout Bay Guest House ist der ideale Ort für Individualtouristen, die großen Wert auf exklusives Design, höchsten Komfort und exzellentes Essen legen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Paare auf Hochzeitsreise finden bei uns eine romantische, ruhige Oase, um ihre Liebe ungestört zu feiern und die Seele baumeln zu lassen. Auch wenn du gerade erst zu einem aufregenden Roadtrip entlang der Garden Route aufbrichst, bietet dir unsere Unterkunft den perfekten, entspannten Startpunkt für dein großes südafrikanisches Abenteuer."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Sicherheit und exzellenter Service für dein gutes Gefühl"
+            },
+            {
+              "type": "paragraph",
+              "variant": "subline",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Wir wissen, dass Sicherheit auf Reisen ein besonders wichtiges Thema ist, deshalb liegt unsere Villa in einem gehobenen, absolut sicheren und gefragten Viertel von Kapstadt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Du kannst dich bei uns rundum geborgen fühlen und dich voll und ganz auf die Schönheit deines Urlaubs konzentrieren. Die vielen hervorragenden und authentischen Gästebewertungen auf Plattformen wie TripAdvisor bestätigen unsere Leidenschaft für erstklassigen Service. Unser gesamtes Team arbeitet jeden Tag mit Herzblut daran, deine Erwartungen nicht nur zu erfüllen, sondern mit echter südafrikanischer Gastfreundschaft zu übertreffen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Spektakuläre Ausblicke in ruhiger Hanglage"
+            },
+            {
+              "type": "paragraph",
+              "variant": "subline",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Eingebettet in die atemberaubende Natur von Hout Bay, einem der schönsten Vororte von Kapstadt, genießt du bei uns eine unvergleichliche Ruhe fernab des Trubels."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Unsere exklusive Hanglage schenkt dir jeden Tag aufs Neue einen spektakulären Blick auf die majestätischen Berge und den weiten Ozean. Von hier aus bist du bestens angebunden, um die pulsierende Metropole zu erkunden, und kannst abends in die friedliche Idylle deiner Unterkunft zurückkehren. In ausgewählten Suiten wie der Corner, Cosmopolitan oder Comb View sorgt zudem eine Klimaanlage für angenehme Erfrischung nach einem sonnigen Tag."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Beginne dein südafrikanisches Abenteuer mit uns"
+            },
+            {
+              "type": "paragraph",
+              "variant": "subline",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Lass uns gemeinsam dafür sorgen, dass deine Zeit am Kap zu einer deiner schönsten Erinnerungen wird."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Wir freuen uns schon sehr darauf, dich bald persönlich bei uns am kristallklaren Pool begrüßen zu dürfen. Melde dich einfach bei uns, um deinen Traumurlaub im Hout Bay Guest House zu planen – wir stehen dir mit Rat und Tat zur Seite und bereiten alles für deine Ankunft vor."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "grounding",
+          "pageTitle": "Hout Bay Guest House",
+          "metadata": {
+            "title": "Hout Bay Guest House | Boutique-Gästehaus Kapstadt",
+            "description": "Entdecke dein exklusives Hout Bay Guest House in Kapstadt. Genieße Meerblick, individuelle Zimmer, Pool & veganes Frühstück. Buche deinen Traumurlaub!",
+            "keywords": "Hout Bay Guest House, Gästehaus Kapstadt, Boutique Hotel Hout Bay, Unterkunft Hout Bay Meerblick, Südafrika Rundreise Unterkunft, Villa Kapstadt mieten",
+            "openGraph": {
+              "url": "https://hout-bay-guest-house.co.za",
+              "title": "Dein exklusives Hout Bay Guest House in Kapstadt",
+              "images": [
+                {
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": "Blick auf den Pool und das Hout Bay Guest House mit Bergen im Hintergrund"
+                }
+              ],
+              "description": "Erlebe unvergessliche Tage in unserem Hout Bay Guest House. Genieße Meerblick, einen großen Pool und erstklassigen Service in Kapstadt."
+            },
+            "twitter": {
+              "title": "Dein exklusives Hout Bay Guest House in Kapstadt",
+              "description": "Erlebe unvergessliche Tage in unserem Hout Bay Guest House. Genieße Meerblick, einen großen Pool und erstklassigen Service in Kapstadt.",
+              "images": [
+                {
+                  "alt": "Blick auf den Pool und das Hout Bay Guest House mit Bergen im Hintergrund",
+                  "url": "https://www.hout-bay-guest-house.co.za/images/hout-bay-guest-house/hero/hout-bay-guest-house-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Dein exklusives Hout Bay Guest House",
+            "lead": "Erlebe unvergessliche Tage in unserer modernen Villa. Genieße spektakulären Meerblick, entspanne am großen Pool und lass dich von unserem hausgemachten Frühstück verwöhnen – der perfekte Start für dein Südafrika-Abenteuer."
+          },
+          "schema": []
+        }
+      ],
+      "impressumBacklink": {
+        "headingTitle": "Konzept, Design und technische Umsetzung",
+        "title": "Website erstellen lassen",
+        "link": "https://www.hero-pages.com/website-erstellen-lassen"
+      },
+      "languages": []
+    }
+  ]
+}

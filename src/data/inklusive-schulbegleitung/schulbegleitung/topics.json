@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-04-23T09:50:28.539Z",
+  "clientId": "inklusive-schulbegleitung",
+  "siteId": "schulassistenz",
+  "sourceBaseUrl": "https://inklusive-schulbegleitung.de",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword: Schulbegleitung Hannover",
+  "briefingMainKeyword": "Schulbegleitung Hannover",
+  "deployDomainKeyword": "schulbegleitung-hannover",
+  "topics": {
+    "coreServices": [
+      "Individuelle Schulbegleitung für Kinder und Jugendliche",
+      "Unterstützung im Unterricht, in den Pausen und bei schulischen Aktivitäten",
+      "Förderung von Selbstständigkeit, Selbstbewusstsein und Teilhabe",
+      "Begleitung bei Autismus, ADHS und anderen besonderen Herausforderungen (seelisch, sozial, körperlich)",
+      "Enge Zusammenarbeit, Beratung und Koordination mit Familien, Schulen und Ämtern"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Erfahrung in der Schulbegleitung",
+      "Pädagogische Leitung durch staatlich anerkannte Erzieherin & Sozialpädagogin B.A.",
+      "Pädagogisch geschultes Fachpersonal mit hoher sozialer Kompetenz",
+      "Kontinuierliche Weiterbildung und enge Kooperation mit Bildungsträgern",
+      "Persönlicher, kleiner Träger mit festen Ansprechpartnern"
+    ],
+    "localReferences": [
+      "Hannover",
+      "Region Hannover",
+      "Isernhagen"
+    ],
+    "differentiators": [
+      "Fokus auf echte Teilhabe und gelebte Inklusion statt reiner Betreuung",
+      "Markenversprechen: 'Wir sehen Dich' – individuelle Wahrnehmung jedes Kindes",
+      "Kleines, engagiertes Team mit viel Herz, Empathie und Verstand",
+      "Passgenaue und flexible Lösungen, die sich nach den Bedürfnissen des Kindes richten"
+    ],
+    "faqIntent": [
+      "Wie beantrage ich eine Schulbegleitung für mein Kind?",
+      "Wer hat Anspruch auf eine Schulbegleitung und welche Voraussetzungen gelten?",
+      "Was sind die genauen Aufgaben einer Schulbegleitung im Alltag?",
+      "Wie arbeitet der Träger mit Lehrkräften und Fachstellen zusammen?",
+      "Welche Qualifikationen haben die Schulbegleiter?"
+    ]
+  },
+  "keywords": [
+    "Schulbegleitung Hannover",
+    "Inklusive Schulbegleitung Hannover",
+    "Schulbegleiter werden Hannover",
+    "Schulassistenz Isernhagen",
+    "Integrationshelfer Hannover",
+    "Schulbegleitung Autismus ADHS",
+    "Schulbegleitung beantragen",
+    "Teilhabeassistenz Schule",
+    "Inklusion Schule Hannover"
+  ],
+  "h1Suggestions": [
+    "Schulbegleitung Hannover: Hand in Hand",
+    "Deine inklusive Schulbegleitung Hannover",
+    "Schulbegleitung Hannover & Region",
+    "Individuelle Schulbegleitung in Hannover",
+    "Mit Herz & Verstand: Schulbegleitung"
+  ],
+  "subtitleSuggestions": [
+    "Wir bieten professionelle Schulbegleitung Hannover: Individuelle Unterstützung für Kinder mit besonderen Herausforderungen im Schulalltag.",
+    "Hand in Hand für gelebte Inklusion: Deine verlässliche Schulbegleitung Hannover und Isernhagen für echte Teilhabe und Selbstständigkeit.",
+    "Erfahrene Fachkräfte für die Schulbegleitung Hannover. Wir begleiten Kinder mit Autismus, ADHS und anderen Bedürfnissen empathisch im Unterricht.",
+    "Du suchst eine liebevolle Schulbegleitung Hannover? Wir beraten Familien, koordinieren mit Schulen und fördern die Stärken deines Kindes."
+  ],
+  "mustCover": [
+    "Das Hauptkeyword 'Schulbegleitung Hannover' und den regionalen Bezug (Hannover/Isernhagen) prominent platzieren.",
+    "Doppelte Zielgruppenansprache: Eltern, die Unterstützung suchen, und Fachkräfte, die einen Job suchen ('Werde Teil unseres Teams').",
+    "Spezifische Herausforderungen wie Autismus, ADHS sowie seelische, soziale und körperliche Beeinträchtigungen benennen.",
+    "Die Leitgedanken 'Wir sehen Dich' und 'Hand in Hand' als zentrale, empathische Markenbotschaft integrieren.",
+    "Hilfestellung und Informationen zum Beantragungsprozess und den rechtlichen Voraussetzungen für Eltern anbieten."
+  ],
+  "avoidAngles": [
+    "Klinische, rein medizinische oder distanzierte Sprache (die Marke betont Herz, Wärme und Empathie).",
+    "Darstellung als anonymer Großträger oder Massenabfertigung (es ist explizit ein kleiner, engagierter Träger).",
+    "Versprechen von schulischen Bestnoten oder Nachhilfe (Fokus liegt auf Teilhabe, Selbstständigkeit und Inklusion)."
+  ]
+}

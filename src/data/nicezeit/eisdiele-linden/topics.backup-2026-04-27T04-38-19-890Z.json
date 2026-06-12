@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-04-18T16:44:04.460Z",
+  "clientId": "nicezeit",
+  "siteId": "eisdiele-linden",
+  "sourceBaseUrl": "https://nicezeit.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": null,
+  "briefingMainKeyword": null,
+  "deployDomainKeyword": "eisdiele-linden",
+  "topics": {
+    "coreServices": [
+      "Handgemachtes Premiumeis (klassische und ausgefallene Sorten)",
+      "Veganes Eis auf höchstem Niveau",
+      "Milchshakes und Iced Matcha Latte (Mango, Erdbeere)",
+      "Spezialitäten wie Spaghettieis und Eis im Croissant",
+      "Eis im 500ml Glas für zu Hause",
+      "Event-Catering und Vermietungen"
+    ],
+    "trustSignals": [
+      "Gläserne Manufaktur (Kunden können bei der Produktion zusehen)",
+      "100 % natürliche Zutaten ohne künstliche Aromen oder Farbstoffe",
+      "Regionale Zutaten (z. B. Milch aus der Region)",
+      "Sehr gute Kundenbewertungen (Top 5 in Hannover, 5/5 Sterne)",
+      "Etabliert seit 2019"
+    ],
+    "localReferences": [
+      "Hannover-Linden (Linden-Nord, direkt am Schmuckplatz)",
+      "Hannover-List",
+      "Hannover-Südstadt"
+    ],
+    "differentiators": [
+      "Kein Chichi, Fokus auf das Weglassen unnötiger Zutaten",
+      "Kreative Kooperationen (z. B. Nicezeit X Leibniz Butterkeks Eis)",
+      "Saisonale Specials (Winter Festival, Adventskalender, Wintersorten)",
+      "Kunden können eigene Sommersorten kreieren"
+    ],
+    "faqIntent": [
+      "Preise für eine Kugel Eis in Hannover",
+      "Gründe für die besondere Cremigkeit des Eises",
+      "Wo es das beste Eis in Hannover gibt",
+      "Herkunft des Begriffs Eisdiele",
+      "Aktuelle Öffnungszeiten (Hinweis auf vorübergehende Schließung)"
+    ]
+  },
+  "keywords": [
+    "eisdiele-linden",
+    "Eisdiele Hannover",
+    "Handgemachtes Eis Hannover",
+    "Veganes Eis Linden",
+    "Premiumeis Hannover",
+    "Eismanufaktur Hannover",
+    "Eisdiele List",
+    "Spaghettieis Hannover",
+    "Eis Catering Hannover"
+  ],
+  "h1Suggestions": [
+    "Deine Eisdiele-Linden für natürliches Eis",
+    "Handgemachtes Premiumeis in Hannover",
+    "Nicezeit: Veganes Eis aus der Manufaktur",
+    "Eisdiele-Linden: Handwerk trifft Geschmack",
+    "100 % natürliches Eis in Hannover-Linden"
+  ],
+  "subtitleSuggestions": [
+    "Besuche die beliebte Eisdiele-Linden am Schmuckplatz. Wir bieten dir 100 % natürliches, handgemachtes Premiumeis ohne künstliche Aromen.",
+    "Entdecke kreative Eissorten, vegane Highlights und echte Klassiker in unserer gläsernen Eismanufaktur in Hannover-Linden und der List.",
+    "Ob klassisches Spaghettieis oder vegane Kreationen: In deiner Eisdiele-Linden genießt du bestes Eis aus regionalen Zutaten mit viel Liebe.",
+    "Erlebe puren Eisgenuss in Hannover. Hausgemacht, regional und einfach lecker – schau uns in der gläsernen Produktion direkt auf die Finger!",
+    "Deine Eisdiele-Linden für echte Geschmackserlebnisse. Von Iced Matcha Latte bis zum Eis im Croissant – handgemacht und 100 % natürlich."
+  ],
+  "mustCover": [
+    "Betonung der 100 % natürlichen Zutaten ohne künstliche Aromen oder Farbstoffe",
+    "Erwähnung der gläsernen Manufaktur und der handwerklichen Herstellung am Schmuckplatz",
+    "Hervorhebung des veganen Eis-Angebots und der kreativen Sorten",
+    "Informationen zu Event-Catering und Vermietungen für Feiern",
+    "Saisonale Specials wie Wintersorten im Glas oder Eis im Croissant",
+    "Fokus auf regionale Zutaten wie Milch aus der Region"
+  ],
+  "avoidAngles": [
+    "Hinweise auf industrielle Massenproduktion oder künstliche Zusatzstoffe",
+    "Steife, formelle Sie-Ansprache (die Marke nutzt ein lockeres Du/Euch)",
+    "Fokus auf Discounter-Preise (es handelt sich um hochwertiges Premiumeis)",
+    "Überregionale oder deutschlandweite Filialversprechen (starker Hannover-Fokus)"
+  ]
+}

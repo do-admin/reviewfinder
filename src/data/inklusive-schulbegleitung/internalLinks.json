@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-04-23T06:04:09.373Z",
+  "version": 1,
+  "pageCount": 4,
+  "linkCount": 6,
+  "links": {
+    "static:schulassistenz:Startseite": [
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Schulbegleitung Hannover & Isernhagen | Hand in Hand",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "schulbegleitung hannover",
+          "schulbegleitung",
+          "hannover",
+          "inklusive schulbegleitung",
+          "inklusive"
+        ],
+        "relevanceScore": 0.61
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "Schulbegleitung",
+        "targetTitle": "Inklusive Schulbegleitung Hannover | Hand in Hand",
+        "targetPath": "Schulbegleitung",
+        "matchedKeywords": [
+          "schulbegleitung hannover",
+          "schulbegleitung",
+          "hannover",
+          "inklusive",
+          "kinder"
+        ],
+        "relevanceScore": 0.48
+      }
+    ],
+    "static:schulassistenz:Schulbegleitung": [
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Schulbegleitung Hannover & Isernhagen | Hand in Hand",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "inklusive",
+          "schulbegleitung",
+          "hannover",
+          "schulbegleitung hannover",
+          "schulassistenz"
+        ],
+        "relevanceScore": 0.5
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "Startseite",
+        "targetTitle": "Schulbegleitung Hannover: Wir sehen Dich | Hand in Hand",
+        "targetPath": "Startseite",
+        "matchedKeywords": [
+          "inklusive",
+          "schulbegleitung",
+          "hannover",
+          "schulbegleitung hannover",
+          "schulassistenz"
+        ],
+        "relevanceScore": 0.48
+      }
+    ],
+    "static:schulassistenz:ueber-uns": [
+      {
+        "targetType": "static",
+        "targetSlug": "Startseite",
+        "targetTitle": "Schulbegleitung Hannover: Wir sehen Dich | Hand in Hand",
+        "targetPath": "Startseite",
+        "matchedKeywords": [
+          "schulbegleitung hannover",
+          "schulbegleitung",
+          "hannover",
+          "isernhagen",
+          "inklusive schulbegleitung"
+        ],
+        "relevanceScore": 0.61
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "Schulbegleitung",
+        "targetTitle": "Inklusive Schulbegleitung Hannover | Hand in Hand",
+        "targetPath": "Schulbegleitung",
+        "matchedKeywords": [
+          "schulbegleitung hannover",
+          "schulbegleitung",
+          "hannover",
+          "inklusive",
+          "inklusion schule"
+        ],
+        "relevanceScore": 0.5
+      }
+    ]
+  }
+}

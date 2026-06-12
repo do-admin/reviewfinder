@@ -1,0 +1,17 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/data/*": ["./src/data/current/*"]
+    },
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "moduleResolution": "bundler",
+    "module": "ESNext",
+    "target": "ES2020"
+  },
+  "include": ["src/**/*", "astro.config.mjs", "**/*.astro"],
+  "exclude": ["node_modules"]
+}

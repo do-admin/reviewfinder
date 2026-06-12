@@ -1,0 +1,2932 @@
+{
+  "driveFolderId": "1jgC1ptUpCqNsDyfDUoN2u2TV7m4R_rgu",
+  "clientName": "Hand in Hand",
+  "clientDomain": "inklusive-schulbegleitung.de",
+  "sectionIds": [
+    {
+      "id": "hero",
+      "visible": true
+    },
+    {
+      "id": "info",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "visible": true
+    },
+    {
+      "id": "team",
+      "visible": true
+    },
+    {
+      "id": "faq",
+      "visible": true
+    },
+    {
+      "id": "reviews",
+      "visible": true
+    },
+    {
+      "id": "map",
+      "visible": true
+    },
+    {
+      "id": "contact",
+      "visible": true
+    },
+    {
+      "id": "trust",
+      "visible": true
+    }
+  ],
+  "websites": [
+    {
+      "id": "schulbegleiter",
+      "deployDomain": "schulbegleiter.me",
+      "googleTagId": "G-GLB4B9882Z",
+      "websiteBriefing": "Main Keyword: Schulbegleiter",
+      "business": {
+        "name": "Hand in Hand",
+        "brandName": "Hand in Hand",
+        "legalName": "Hand in Hand GmbH",
+        "location": {
+          "city": "Isernhagen",
+          "district": "Region Hannover",
+          "neighborhood": "Isernhagen NB"
+        },
+        "phone": "+491731696192",
+        "email": "info@inklusive-schulbegleitung.de",
+        "openingHours": {
+          "short": "Mo-Fr 08:00-15:00",
+          "detailed": "Montag bis Freitag: 08:00 - 15:00 Uhr. Außerhalb dieser Zeiten sind wir gerne nach vorheriger Vereinbarung für Dich da.",
+          "display": "Mo. - Fr.: 08:00 - 15:00 Uhr"
+        },
+        "contactPerson": {
+          "name": "Dein Team bei Hand in Hand",
+          "title": "Inklusive Schulbegleitung & Assistenz",
+          "imageUrl": "/images/schulbegleiter/team/schulbegleiter-team.webp"
+        },
+        "bookingUrl": "",
+        "social": {
+          "instagram": "https://www.instagram.com/hand_in_hand_hannover",
+          "facebook": "",
+          "whatsappNumber": ""
+        },
+        "ustId": "",
+        "vertreter": "Jan Ziehme",
+        "googlePlacesId": "ChIJm_0Wiy91sEcRCOrkYudR9Mg",
+        "registergericht": "Hannover",
+        "hrbNummer": "HRB 229182",
+        "legalAddress": {
+          "street": "Am Ortfelde 59",
+          "postalCode": "30916",
+          "city": "Isernhagen"
+        },
+        "locationAddress": {
+          "street": "Am Ortfelde 59",
+          "postalCode": "30916",
+          "city": "Isernhagen"
+        }
+      },
+      "header": {
+        "logoUrl": "/images/schulbegleiter/schulbegleiter-logo.webp",
+        "logoAlt": "Logo Hand in Hand - Inklusive Schulbegleitung Isernhagen",
+        "logoWidth": 160,
+        "ariaLabelNavigation": "Hauptnavigation",
+        "ariaMenuOpen": "Menü öffnen",
+        "ariaMenuClose": "Menü schließen",
+        "links": [
+          {
+            "label": "Über uns",
+            "url": "/ueber-uns",
+            "href": "/de/ueber-uns"
+          },
+          {
+            "label": "FAQ",
+            "url": "/faq",
+            "href": "/de/faq"
+          },
+          {
+            "label": "mehr erfahren",
+            "href": "mailto:info@inklusive-schulbegleitung.de",
+            "type": "button"
+          }
+        ]
+      },
+      "footer": {
+        "navigation": {
+          "label": "Navigation",
+          "links": [
+            {
+              "link": "https://inklusive-schulbegleitung.de/individuelle-schulbegleitung",
+              "linkLabel": "Schulbegleitung"
+            },
+            {
+              "link": "https://inklusive-schulbegleitung.de/karriere",
+              "linkLabel": "Karriere"
+            }
+          ]
+        },
+        "contact": {
+          "label": "Kontakt",
+          "links": [
+            {
+              "link": "tel:+491731696192",
+              "linkLabel": "+49 173 1696192"
+            },
+            {
+              "link": "mailto:info@inklusive-schulbegleitung.de",
+              "linkLabel": "info@inklusive-schulbegleitung.de"
+            }
+          ]
+        },
+        "followUs": "Folge uns",
+        "openingHoursLabel": "Öffnungszeiten",
+        "imprint": "Impressum",
+        "privacy": "Datenschutz",
+        "grounding": "Grounding"
+      },
+      "cookie": {
+        "title": "Deine Datenschutz-Einstellungen",
+        "description": "Wir nutzen Cookies, um unsere Website für Dich so hilfreich wie möglich zu gestalten. So findest Du schnell die passenden Informationen rund um unsere inklusive Schulbegleitung.",
+        "acceptAll": "Alle akzeptieren",
+        "acceptEssential": "Nur essenzielle",
+        "moreInfo": "Mehr Informationen"
+      },
+      "notFound": {
+        "title": "Hoppla, diese Seite haben wir nicht gefunden.",
+        "description": "Vielleicht hast Du Dich vertippt oder der Link ist veraltet. Egal, ob Du individuelle Schulbegleitung für Dein Kind suchst oder als pädagogische Fachkraft unser Team in Isernhagen verstärken möchtest – lass uns gemeinsam den richtigen Weg finden.",
+        "backHome": "Zur Startseite"
+      },
+      "translationsMetadata": {
+        "disclaimer": {
+          "aiTranslation": "Diese Seite wurde automatisch übersetzt, damit wir für alle Familien da sein können. Bitte entschuldige kleine sprachliche Ungenauigkeiten.",
+          "dismissAria": "Hinweis schließen",
+          "infoAria": "Informationen zur Übersetzung"
+        },
+        "common": {
+          "close": "Schließen",
+          "selectLanguage": "Sprache auswählen"
+        }
+      },
+      "index": {
+        "redirectTitle": "Weiterleitung…",
+        "redirectTo": "Weiterleitung nach"
+      },
+      "pages": [
+        {
+          "name": "home",
+          "pageTitle": "Schulbegleiter in Isernhagen – Hand in Hand für Dein Kind",
+          "metadata": {
+            "geo": {
+              "icbm": "52.455566399999995, 9.800053799999999",
+              "region": "",
+              "position": "52.455566399999995;9.800053799999999",
+              "placename": "Isernhagen"
+            },
+            "title": "Schulbegleiter Isernhagen | Hand in Hand – Wir sehen Dich",
+            "keywords": "Schulbegleiter, Schulbegleitung Isernhagen, Inklusive Schulbegleitung, Schulbegleiter werden, Schulbegleitung beantragen, Schulassistenz, Inklusion Schule, Begleitung Autismus ADHS, Schulbegleitung Voraussetzungen, Schulbegleiter Jobs",
+            "openGraph": {
+              "url": "https://www.schulbegleiter.me/de",
+              "title": "Schulbegleiter Isernhagen | Hand in Hand – Wir sehen Dich",
+              "images": [
+                {
+                  "alt": "Ein Schulbegleiter und ein Kind gehen Hand in Hand",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+                }
+              ],
+              "description": "Dein Schulbegleiter in Isernhagen für echte Inklusion. Wir unterstützen Kinder mit Autismus & ADHS. Jetzt beraten lassen oder Teil des Teams werden!"
+            },
+            "twitter": {
+              "title": "Schulbegleiter Isernhagen | Hand in Hand – Wir sehen Dich",
+              "description": "Dein Schulbegleiter in Isernhagen für echte Inklusion. Wir unterstützen Kinder mit Autismus & ADHS. Jetzt beraten lassen oder Teil des Teams werden!",
+              "images": [
+                {
+                  "alt": "Ein Schulbegleiter und ein Kind gehen Hand in Hand",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+                }
+              ]
+            },
+            "description": "Dein Schulbegleiter in Isernhagen für echte Inklusion. Wir unterstützen Kinder mit Autismus & ADHS. Jetzt beraten lassen oder Teil des Teams werden!",
+            "schema": [
+              {
+                "id": "organization",
+                "schemaType": "organization",
+                "data": {
+                  "name": "Hand in Hand – Inklusive Schulbegleitung Isernhagen",
+                  "legalName": "Hand in Hand GmbH",
+                  "alternateName": [],
+                  "description": "Dein Schulbegleiter in Isernhagen: Wir bieten individuelle Unterstützung für Kinder mit besonderen Bedürfnissen wie Autismus oder ADHS. Echtes Miteinander im Schulalltag, Hand in Hand.",
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleiter.me",
+                  "url": "https://www.schulbegleiter.me/de",
+                  "sameAs": [
+                    "https://www.facebook.com/schulbegleiter.me"
+                  ],
+                  "address": [
+                    {
+                      "[@type]": "PostalAddress",
+                      "name": "Büro Isernhagen",
+                      "streetAddress": "Am Ortfelde 59",
+                      "postalCode": "30916",
+                      "addressLocality": "Isernhagen",
+                      "addressRegion": "Niedersachsen",
+                      "addressCountry": "DE"
+                    }
+                  ],
+                  "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "15:00"
+                  },
+                  "logo": "https://www.schulbegleiter.me/images/schulbegleiter/schulbegleiter-logo.webp"
+                }
+              },
+              {
+                "id": "website",
+                "schemaType": "website",
+                "data": {
+                  "name": "Hand in Hand – Dein Schulbegleiter in Isernhagen",
+                  "url": "https://www.schulbegleiter.me/de",
+                  "description": "Wir sind Dein engagierter Schulbegleiter in Isernhagen. Mit Herz und Verstand fördern wir echte Inklusion und unterstützen Dein Kind individuell im Schulalltag.",
+                  "inLanguage": "de-DE",
+                  "publisher": {
+                    "[@id]": "#organization"
+                  },
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleiter.me",
+                  "legalName": "Hand in Hand GmbH",
+                  "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "15:00"
+                  }
+                }
+              },
+              {
+                "id": "local-business",
+                "schemaType": "localBusiness",
+                "data": {
+                  "[@type]": "LocalBusiness",
+                  "name": "Schulbegleiter Hand in Hand Isernhagen",
+                  "description": "Du suchst einen Schulbegleiter in Isernhagen? Wir unterstützen Kinder mit Autismus, ADHS und anderen Herausforderungen. Wir sehen Dich und Dein Kind!",
+                  "url": "https://www.schulbegleiter.me/de",
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleiter.me",
+                  "address": {
+                    "[@type]": "PostalAddress",
+                    "streetAddress": "Am Ortfelde 59",
+                    "postalCode": "30916",
+                    "addressLocality": "Isernhagen",
+                    "addressRegion": "Niedersachsen",
+                    "addressCountry": "DE"
+                  },
+                  "geo": {
+                    "latitude": "52.455566399999995",
+                    "longitude": "9.800053799999999"
+                  },
+                  "openingHoursSpecification": [],
+                  "sameAs": [
+                    "https://www.instagram.com/schulbegleiter.me"
+                  ],
+                  "legalName": "Hand in Hand GmbH"
+                }
+              }
+            ]
+          },
+          "hero": {
+            "h1": "Hand in Hand: Deine Schulbegleitung Hannover & Isernhagen",
+            "backgroundImageAlt": "Ein Schulbegleiter geht Hand in Hand mit einem Kind durch einen sonnigen Schulflur, symbolisiert Unterstützung und Zusammenhalt.",
+            "locationPrefix": "Dein Partner in",
+            "locationSuffix": "für inklusive Schulbegleitung",
+            "namePrefix": "Dein Team bei",
+            "callAriaLabel": "Kontaktiere uns für individuelle Schulbegleitung und Unterstützung im Antragsdschungel",
+            "since": "Über 10 Jahre Erfahrung in der inklusiven Schulbegleitung",
+            "card1Icon": "diversity_3",
+            "card1Line1": "Echte Inklusion",
+            "card1Line2": "Wir sehen Dich",
+            "card2Icon": "school",
+            "card2Line1": "Über 10 Jahre",
+            "card2Line2": "Praktische Erfahrung",
+            "card3Icon": "favorite",
+            "card3Line1": "Mit Herz & Verstand",
+            "card3Line2": "Persönliche Begleitung",
+            "buttons": [
+              {
+                "text": "mehr erfahren",
+                "link": "mailto:info@inklusive-schulbegleitung.de",
+                "variant": "primary"
+              },
+              {
+                "text": "+49 173 1696192",
+                "link": "tel:+491731696192",
+                "variant": "outline"
+              }
+            ],
+            "backgroundImage": "/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+          },
+          "info": {
+            "description": "Wir sind Hand in Hand – Dein Partner für inklusive Schulbegleitung in Isernhagen. Seit über 10 Jahren unterstützen wir Kinder und Jugendliche mit besonderen Bedürfnissen, wie Autismus oder ADHS, dabei, ihren Schulalltag selbstbewusst zu meistern. Bei uns steht der Mensch im Mittelpunkt – ob als begleitetes Kind, Familie oder wertgeschätztes Teammitglied.",
+            "paragraph1": "Unser Versprechen „Wir sehen Dich“ gilt für jedes Kind, jede Familie und unser gesamtes Team. Wir wissen, dass jeder Mensch einzigartig ist, und gestalten die Schulbegleitung passgenau nach den individuellen Anforderungen. So fördern wir echte Teilhabe und Selbstständigkeit in der Schule.",
+            "paragraph2": "Ob Unterstützung im Unterricht, in Pausen oder bei der Koordination mit Ämtern – unsere pädagogisch geschulten Schulbegleiter sind verlässlich an Deiner Seite. Wir beraten Eltern umfassend zur Beantragung. Gleichzeitig bieten wir engagierten Fachkräften ein wertschätzendes Arbeitsumfeld, um gemeinsam Inklusion zu gestalten.",
+            "quote": "„Wir sehen Dich.“ – Ein Versprechen, das wir leben, um Kindern mit besonderen Herausforderungen den Weg zu echter Teilhabe im Schulalltag zu ebnen.",
+            "imageAlt": "Eine Schulbegleiterin und ein Kind lachen gemeinsam beim Lernen an einem Schreibtisch in der Schule.",
+            "activities": {
+              "title": "Individuelle Begleitung",
+              "description": "Wir unterstützen Dein Kind im Schulalltag, im Unterricht und in den Pausen – genau so, wie es benötigt wird. Unsere Schulbegleiter fördern Selbstständigkeit und soziale Kompetenzen.",
+              "icon": "child_care"
+            },
+            "nutrition": {
+              "title": "Hilfe beim Antrag",
+              "description": "Der Weg zur Schulbegleitung kann komplex sein. Wir beraten Dich umfassend zu Voraussetzungen und Antragstellung und helfen Dir, die benötigte Unterstützung zu erhalten.",
+              "icon": "description"
+            },
+            "garden": {
+              "title": "Starke Zusammenarbeit",
+              "description": "Wir bauen Brücken zwischen Familien, Schulen und Ämtern. Als erfahrene Schulbegleiter koordinieren wir alle Beteiligten für eine optimale Unterstützung Deines Kindes.",
+              "icon": "people"
+            },
+            "values": {
+              "nature": "Wir legen Wert auf eine entspannte Lernumgebung, in der sich Dein Kind wohlfühlt und entfalten kann.",
+              "mindfulness": "Wir begegnen jedem Kind mit Achtsamkeit und Respekt, um seine individuellen Stärken zu fördern.",
+              "participation": "Echte Inklusion bedeutet für uns, dass Dein Kind aktiv am Schulgeschehen teilhaben kann."
+            },
+            "valueIcons": {
+              "mindfulness": "self_improvement",
+              "nature": "eco",
+              "participation": "diversity_3"
+            },
+            "sectionTitle": "Dein Weg zu mehr Teilhabe und Selbstständigkeit",
+            "activitiesLabel": "Individuelle Begleitung",
+            "nutritionLabel": "Hilfe beim Antrag",
+            "gardenLabel": "Starke Zusammenarbeit",
+            "mindfulness": "Achtsamkeit & Respekt",
+            "nature": "Wohlfühlen & Entfalten",
+            "participation": "Echte Inklusion",
+            "imageUrl": "/images/schulbegleiter/info/schulbegleiter-info.webp"
+          },
+          "contact": {
+            "location": "Isernhagen",
+            "locationLabel": "Standort",
+            "addressName": "Hand in Hand",
+            "bookOnline": "Kontaktiere uns",
+            "bookOnlineDesc": "Hast Du Fragen zur Schulbegleitung oder möchtest Du unser Team unterstützen? Wir sind für Dich da und melden uns schnellstmöglich bei Dir.",
+            "infoTitle": "Deine Ansprechpartner für Schulbegleitung",
+            "addressLabel": "Adresse",
+            "openingHoursLabel": "Öffnungszeiten",
+            "phoneLabel": "Telefon",
+            "emailLabel": "E-Mail",
+            "bookingTitle": "Wir sind für Dich da",
+            "bookingIntro": "Ob Eltern, die Unterstützung suchen, oder angehende Schulbegleiter – wir freuen uns auf Deine Nachricht. Gemeinsam finden wir die beste Lösung.",
+            "bookingButton": "Nachricht senden"
+          },
+          "gallery": {
+            "title": "Einblicke in unsere Schulbegleitung",
+            "subtitle": "Wir zeigen Dir, wie wir Kinder im Schulalltag „Hand in Hand“ begleiten und echte Inklusion leben.",
+            "ariaLabel": "Impressionen unserer Arbeit im Bereich der Schulbegleitung",
+            "images": [
+              {
+                "src": "/images/schulbegleiter/gallerie/schulbegleiter-1.webp",
+                "alt": "Schulbegleiterin und Kind lesen gemeinsam ein Buch im Klassenzimmer"
+              },
+              {
+                "src": "/images/schulbegleiter/gallerie/schulbegleiter-2.webp",
+                "alt": "Schulbegleiterin und Kind lösen gemeinsam eine Aufgabe am Tisch"
+              },
+              {
+                "src": "/images/schulbegleiter/gallerie/schulbegleiter-3.webp",
+                "alt": "Kind zeigt Schulbegleiterin stolz eine gemalte Zeichnung"
+              },
+              {
+                "src": "/images/schulbegleiter/gallerie/schulbegleiter-4.webp",
+                "alt": "Schulbegleiterin unterstützt Kind beim Schreiben im Unterricht"
+              },
+              {
+                "src": "/images/schulbegleiter/gallerie/schulbegleiter-5.webp",
+                "alt": "Kind und Schulbegleiterin lachen gemeinsam auf dem Schulhof"
+              },
+              {
+                "src": "/images/schulbegleiter/gallerie/schulbegleiter-6.webp",
+                "alt": "Schulbegleiterin und Kind unterhalten sich während einer Pause"
+              },
+              {
+                "src": "/images/schulbegleiter/gallerie/schulbegleiter-7.webp",
+                "alt": "Kind arbeitet konzentriert am PC, Schulbegleiterin beobachtet unterstützend"
+              },
+              {
+                "src": "/images/schulbegleiter/gallerie/schulbegleiter-8.webp",
+                "alt": "Schulbegleiterin und Kind bauen gemeinsam etwas mit Legosteinen"
+              }
+            ],
+            "roomsTitle": "Im Klassenzimmer und mehr",
+            "roomsDescription": "Unsere Schulbegleiter unterstützen Dein Kind direkt im Unterricht, bei Gruppenarbeiten oder individuellen Lernphasen. Ganz nach unserem Leitmotiv „Wir sehen Dich“ schaffen wir ein Umfeld, in dem sich jedes Kind sicher und verstanden fühlt.",
+            "outdoorTitle": "Pausen und soziale Interaktion",
+            "outdoorDescription": "Auch außerhalb des Klassenzimmers sind wir als Schulbegleiter verlässlich da. Ob in der Pause oder auf dem Schulweg – wir fördern echte Teilhabe und helfen bei der Integration in die Klassengemeinschaft.",
+            "rooms": "Innenräume",
+            "outdoor": "Außenbereich",
+            "prevImage": "Vorheriges Bild",
+            "nextImage": "Nächstes Bild"
+          },
+          "team": {
+            "title": "Unsere Schulbegleiter: Wir sehen Dich",
+            "subtitle": "Unser familiäres Team aus engagierten Schulbegleitern setzt sich täglich für echte Teilhabe ein. Finde die passende Unterstützung für Dein Kind oder werde selbst Teil unserer Mission.",
+            "teamMember": {
+              "quote": "Ich sehe Dich – dieses Versprechen gilt für jedes Kind, jede Familie und jedes Teammitglied."
+            }
+          },
+          "map": {
+            "description": "Besuche uns in Isernhagen. Wir freuen uns darauf, Dich kennenzulernen und gemeinsam den passenden Schulbegleiter für Dein Kind zu finden.",
+            "publicTransport": "Du erreichst uns bequem mit den öffentlichen Verkehrsmitteln. Die nächste Haltestelle in Isernhagen ist nur wenige Gehminuten entfernt.",
+            "parking": "Kostenfreie Parkplätze stehen Dir direkt vor unserem Büro am Ortfelde oder in der unmittelbaren Umgebung zur Verfügung.",
+            "addressTitle": "Unser Standort in Isernhagen",
+            "iframeTitle": "Google Maps Karte von Hand in Hand in Isernhagen",
+            "sectionTitle": "Finde uns in Isernhagen",
+            "openOnMap": "Auf Google Maps öffnen",
+            "visitUs": "Besuche uns",
+            "publicTransportLabel": "Öffentliche Verkehrsmittel",
+            "parkingLabel": "Parkmöglichkeiten",
+            "mapEmbedUrl": ""
+          },
+          "reviews": {
+            "title": "Erfahrungen mit unseren Schulbegleitern",
+            "subtitle": "Lies hier, wie Familien und Fachkräfte unsere Arbeit als Schulbegleiter erleben – Hand in Hand und auf Augenhöhe.",
+            "reviewData": {
+              "displayName": {
+                "text": "Am Ortfelde 59"
+              },
+              "formattedAddress": "Am Ortfelde 59, 30916 Isernhagen, Germany",
+              "reviews": [],
+              "userRatingCount": 0
+            },
+            "minimumRating": 4,
+            "rating": "5.0"
+          },
+          "faq": {
+            "title": "Häufig gestellte Fragen zu Deinem Schulbegleiter",
+            "subtitle": "Du hast Fragen zur Schulbegleitung? Hier findest Du Antworten auf häufige Anliegen rund um Antrag, Voraussetzungen und unsere Unterstützung für Dein Kind."
+          },
+          "trust": {
+            "partner": "Hand in Hand mit starken Partnern",
+            "H2": "Hand in Hand mit Schulen, Ämtern und Bildungspartnern",
+            "qualityPartners": "Vertrauen durch Erfahrung: Mit über 10 Jahren Praxis als Schulbegleiter und einer starken pädagogischen Leitung bieten wir Verlässlichkeit. Ob Du Unterstützung für Dein Kind suchst oder als Fachkraft in Isernhagen einsteigen möchtest – wir begegnen Dir auf Augenhöhe.",
+            "trustDataFile": "partners.json",
+            "logos": [
+              {
+                "src": "/images/schulbegleiter/trustblock/schulbegleiter-bpa-arbeitgeberverband-logo.webp",
+                "alt": "Logo eines regionalen Bildungspartners der Schulbegleitung Hand in Hand"
+              },
+              {
+                "src": "/images/schulbegleiter/trustblock/schulbegleiter-jugendamt-logo.webp",
+                "alt": "Qualitätssiegel für pädagogische Fachkräfte in der Schulassistenz"
+              },
+              {
+                "src": "/images/schulbegleiter/trustblock/schulbegleiter-kinderschutzzentrum-hannover.webp",
+                "alt": "Kooperationspartner für Inklusion an Schulen in Isernhagen"
+              },
+              {
+                "src": "/images/schulbegleiter/trustblock/schulbegleiter-landeshauptstadt-hannover-logo.webp",
+                "alt": "Partnernetzwerk für die Förderung und Teilhabe von Kindern"
+              }
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "pageTitle": "FAQ",
+          "metadata": {
+            "title": "FAQ: Dein Schulbegleiter in Isernhagen | Hand in Hand",
+            "description": "Fragen zur Schulbegleitung? Finde Antworten zu Anspruch, Antrag und unseren Schulbegleitern in Isernhagen. Wir sehen Dich und helfen Dir gerne weiter.",
+            "keywords": "Schulbegleiter, Schulbegleitung, FAQ, Fragen, Antworten, Isernhagen, Autismus, ADHS, Antrag Schulbegleitung, Voraussetzungen, Aufgaben Schulbegleiter, Schulassistenz",
+            "openGraph": {
+              "url": "https://www.schulbegleiter.me/de/faq",
+              "title": "FAQ: Dein Schulbegleiter in Isernhagen | Hand in Hand",
+              "images": [
+                {
+                  "alt": "Kind und Schulbegleiterin im Gespräch, lächelnd",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+                }
+              ],
+              "description": "Fragen zur Schulbegleitung? Finde Antworten zu Anspruch, Antrag und unseren Schulbegleitern in Isernhagen. Wir sehen Dich und helfen Dir gerne weiter."
+            },
+            "twitter": {
+              "title": "FAQ: Dein Schulbegleiter in Isernhagen | Hand in Hand",
+              "description": "Fragen zur Schulbegleitung? Finde Antworten zu Anspruch, Antrag und unseren Schulbegleitern in Isernhagen. Wir sehen Dich und helfen Dir gerne weiter.",
+              "images": [
+                {
+                  "alt": "Kind und Schulbegleiterin im Gespräch, lächelnd",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Häufige Fragen zur Schulbegleitung",
+            "lead": "Du hast Fragen zur Schulbegleitung, zu den Voraussetzungen oder zur Antragsstellung? Hier findest Du Antworten auf die häufigsten Anliegen und erfährst, wie wir Dich „Hand in Hand“ unterstützen können."
+          },
+          "faqDataFile": "faq-xxl.json",
+          "schema": []
+        },
+        {
+          "name": "impressum",
+          "pageTitle": "Impressum",
+          "metadata": {
+            "title": "Impressum | Hand in Hand – Dein Schulbegleiter in Isernhagen",
+            "description": "Impressum der Hand in Hand GmbH in Isernhagen. Alle rechtlichen Informationen zu Deinem engagierten Schulbegleiter. Nimm jetzt Kontakt auf!",
+            "keywords": "Impressum, Schulbegleiter, Hand in Hand, Isernhagen, Kontakt, Schulbegleitung, Informationen",
+            "openGraph": {
+              "url": "https://www.schulbegleiter.me/de/impressum",
+              "title": "Impressum | Hand in Hand – Dein Schulbegleiter in Isernhagen",
+              "images": [
+                {
+                  "alt": "Logo von Hand in Hand: Inklusive Schulbegleitung",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+                }
+              ],
+              "description": "Impressum der Hand in Hand GmbH in Isernhagen. Alle rechtlichen Informationen zu Deinem engagierten Schulbegleiter. Nimm jetzt Kontakt auf!"
+            },
+            "twitter": {
+              "title": "Impressum | Hand in Hand – Dein Schulbegleiter in Isernhagen",
+              "description": "Impressum der Hand in Hand GmbH in Isernhagen. Alle rechtlichen Informationen zu Deinem engagierten Schulbegleiter. Nimm jetzt Kontakt auf!",
+              "images": [
+                {
+                  "alt": "Logo von Hand in Hand: Inklusive Schulbegleitung",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "datenschutz",
+          "pageTitle": "Datenschutz",
+          "metadata": {
+            "title": "Datenschutz | Schulbegleiter in Isernhagen – Hand in Hand",
+            "description": "Dein Vertrauen ist uns wichtig. Erfahre hier, wie wir als Schulbegleiter mit Deinen Daten umgehen. Wir schützen Deine Privatsphäre – Hand in Hand.",
+            "keywords": "Datenschutz, Schulbegleiter, Isernhagen, Hand in Hand, Privatsphäre, Datenverarbeitung, Inklusive Schulbegleitung",
+            "openGraph": {
+              "url": "https://www.schulbegleiter.me/de/datenschutz",
+              "title": "Datenschutz | Schulbegleiter in Isernhagen – Hand in Hand",
+              "images": [
+                {
+                  "alt": "Datenschutzinformationen von Hand in Hand – Inklusive Schulbegleitung",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+                }
+              ],
+              "description": "Dein Vertrauen ist uns wichtig. Erfahre hier, wie wir als Schulbegleiter mit Deinen Daten umgehen. Wir schützen Deine Privatsphäre – Hand in Hand."
+            },
+            "twitter": {
+              "title": "Datenschutz | Schulbegleiter in Isernhagen – Hand in Hand",
+              "description": "Dein Vertrauen ist uns wichtig. Erfahre hier, wie wir als Schulbegleiter mit Deinen Daten umgehen. Wir schützen Deine Privatsphäre – Hand in Hand.",
+              "images": [
+                {
+                  "alt": "Datenschutzinformationen von Hand in Hand – Inklusive Schulbegleitung",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "ueber-uns",
+          "pageTitle": "Über uns: Schulbegleiter mit Herz in Isernhagen – Hand in Hand",
+          "metadata": {
+            "title": "Über Uns – Dein Schulbegleiter in Isernhagen",
+            "description": "Lerne Hand in Hand kennen – Deinen Schulbegleiter in Isernhagen. Wir begleiten Dein Kind mit Herz und Fachwissen zu echter Inklusion. Jetzt informieren!",
+            "keywords": "Über uns, Schulbegleiter, Schulbegleitung Isernhagen, Inklusion, Autismus, ADHS, Schulassistenz, Hand in Hand, Unser Team",
+            "openGraph": {
+              "url": "https://www.schulbegleiter.me/de/ueber-uns",
+              "title": "Über Uns – Dein Schulbegleiter in Isernhagen",
+              "images": [
+                {
+                  "alt": "Team von Hand in Hand, Schulbegleiter",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/about/schulbegleiter-ueber-uns.webp"
+                }
+              ],
+              "description": "Lerne Hand in Hand kennen – Deinen Schulbegleiter in Isernhagen. Wir begleiten Dein Kind mit Herz und Fachwissen zu echter Inklusion. Jetzt informieren!"
+            }
+          },
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Wir sind „Hand in Hand – Inklusive Schulbegleitung“ aus Isernhagen. Unser Versprechen „Wir sehen Dich“ gilt für jedes Kind, jede Familie und jedes Teammitglied. Für uns ist Inklusion mehr als nur Anwesenheit in der Schule – sie entsteht, wenn Du Dich verstanden fühlst und Dein Kind die Unterstützung bekommt, die wirklich zu ihm passt."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/schulbegleiter/about/schulbegleiter-ueber-uns.webp",
+              "alt": "Eine Schulbegleiterin liest einem Kind ein Buch vor und lächelt dabei"
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Erfahrung und pädagogische Leitung"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Seit über 10 Jahren sind wir in der inklusiven Schulbegleitung zu Hause. Die pädagogische Leitung liegt bei einer staatlich anerkannten Erzieherin und Sozialpädagogin B.A. Unser Team ist pädagogisch geschult, bringt hohe soziale Kompetenz mit und bildet sich kontinuierlich weiter – auch in Kooperation mit anerkannten Bildungsträgern. So bleibt die Begleitung für Dein Kind fachlich fundiert und menschlich nahbar."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Was wir als Schulbegleiter für Dich tun"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Wir unterstützen Kinder und Jugendliche mit besonderen Herausforderungen – etwa bei Autismus, ADHS oder seelischen, sozialen und körperlichen Beeinträchtigungen – dabei, den Schulalltag selbstbewusst zu meistern. Dazu gehören individuelle Begleitung im Unterricht und in den Pausen, Förderung sozialer Kompetenzen und verlässliche Koordination mit Schule und Ämtern. Wenn Du eine Schulbegleitung beantragen möchtest, erklären wir Dir die Schritte verständlich und stehen Dir beratend zur Seite."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Partner statt anonymer Träger"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Als kleiner, persönlicher Träger legen wir auf feste Ansprechpartner und transparente Kommunikation. Wir arbeiten Hand in Hand mit Familien, Schulen und Behörden und entwickeln flexible Lösungen, die sich an den Bedürfnissen Deines Kindes orientieren. So entsteht Vertrauen – und ein Schulalltag, in dem sich Dein Kind entfalten kann."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Werde Teil unseres Teams"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Du möchtest als Schulbegleiter in Isernhagen eine sinnstiftende Aufgabe übernehmen und gelebte Inklusion mitgestalten? Wir suchen Menschen mit Herz und Verstand, bieten Fortbildungen und ein Team, das sich gegenseitig stützt. Melde Dich gern – wir freuen uns darauf, Dich kennenzulernen."
+                }
+              ]
+            }
+          ],
+          "h1": "Dein engagierter Schulbegleiter in Isernhagen"
+        },
+        {
+          "name": "grounding",
+          "pageTitle": "Grounding | Hand in Hand",
+          "metadata": {
+            "title": "Grounding | Hand in Hand",
+            "description": "KI-Grounding-Seite für Hand in Hand — strukturierte Entity-Definitionen und Fakten zur Website für KI-Systeme.",
+            "keywords": "Grounding, KI, AI, Hand in Hand, Referenzseite",
+            "openGraph": {
+              "url": "https://schulbegleitung-hannover.org/de/wissensgrundlage",
+              "title": "Grounding | Hand in Hand",
+              "images": [
+                {
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": "Hand in Hand - Inklusive Schulbegleitung Isernhagen"
+                }
+              ],
+              "description": "KI-Grounding-Seite für Hand in Hand."
+            },
+            "twitter": {
+              "title": "Grounding | Hand in Hand",
+              "description": "KI-Grounding-Seite für Hand in Hand.",
+              "images": [
+                {
+                  "alt": "Hand in Hand - Inklusive Schulbegleitung Isernhagen",
+                  "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Grounding",
+            "lead": "Strukturierte Fakten und Entity-Definitionen zu Hand in Hand."
+          },
+          "schema": []
+        }
+      ],
+      "impressumBacklink": {
+        "headingTitle": "Konzept, Design und technische Umsetzung",
+        "title": "Website erstellen lassen",
+        "link": "https://www.hero-pages.com/website-erstellen-lassen"
+      },
+      "languages": [],
+      "clientDomain": "www.schulbegleiter.me"
+    },
+    {
+      "id": "schulbegleitung-hannover",
+      "deployDomain": "schulbegleitung-hannover.org",
+      "googleTagId": "G-GYMTLML5X1",
+      "websiteBriefing": "Main Keyword: Schulbegleitung Hannover",
+      "business": {
+        "name": "Hand in Hand",
+        "brandName": "Hand in Hand",
+        "legalName": "Hand in Hand GmbH",
+        "location": {
+          "city": "Isernhagen",
+          "district": "Region Hannover",
+          "neighborhood": "Isernhagen NB"
+        },
+        "phone": "+491731696192",
+        "email": "info@inklusive-schulbegleitung.de",
+        "openingHours": {
+          "short": "Mo-Fr 08:00-15:00",
+          "detailed": "Montag bis Freitag: 08:00 - 15:00 Uhr. Außerhalb dieser Zeiten sind wir gerne nach vorheriger Vereinbarung für Dich da.",
+          "display": "Mo. - Fr.: 08:00 - 15:00 Uhr"
+        },
+        "contactPerson": {
+          "name": "Dein Team bei Hand in Hand",
+          "title": "Schulbegleitung Hannover & Umgebung",
+          "imageUrl": "/images/schulbegleitung-hannover/team/schulbegleitung-hannover-team.webp"
+        },
+        "bookingUrl": "",
+        "social": {
+          "instagram": "https://www.instagram.com/hand_in_hand_hannover",
+          "facebook": "",
+          "whatsappNumber": ""
+        },
+        "ustId": "",
+        "vertreter": "Jan Ziehme",
+        "googlePlacesId": "ChIJm_0Wiy91sEcRCOrkYudR9Mg",
+        "registergericht": "Hannover",
+        "hrbNummer": "HRB 229182",
+        "legalAddress": {
+          "street": "Am Ortfelde 59",
+          "postalCode": "30916",
+          "city": "Isernhagen"
+        },
+        "locationAddress": {
+          "street": "Am Ortfelde 59",
+          "postalCode": "30916",
+          "city": "Isernhagen"
+        }
+      },
+      "header": {
+        "logoUrl": "/images/schulbegleitung-hannover/schulbegleitung-hannover-logo.webp",
+        "logoAlt": "Logo Hand in Hand - Inklusive Schulbegleitung Isernhagen",
+        "logoWidth": 160,
+        "ariaLabelNavigation": "Hauptnavigation",
+        "ariaMenuOpen": "Menü öffnen",
+        "ariaMenuClose": "Menü schließen",
+        "links": [
+          {
+            "label": "Über uns",
+            "url": "/ueber-uns",
+            "href": "/de/ueber-uns"
+          },
+          {
+            "label": "FAQ",
+            "url": "/faq",
+            "href": "/de/faq"
+          },
+          {
+            "label": "mehr erfahren",
+            "href": "mailto:info@inklusive-schulbegleitung.de",
+            "type": "button"
+          }
+        ]
+      },
+      "footer": {
+        "navigation": {
+          "label": "Navigation",
+          "links": [
+            {
+              "link": "https://inklusive-schulbegleitung.de/individuelle-schulbegleitung",
+              "linkLabel": "Schulbegleitung"
+            },
+            {
+              "link": "https://inklusive-schulbegleitung.de/karriere",
+              "linkLabel": "Karriere"
+            }
+          ]
+        },
+        "contact": {
+          "label": "Kontakt",
+          "links": [
+            {
+              "link": "tel:+491731696192",
+              "linkLabel": "+49 173 1696192"
+            },
+            {
+              "link": "mailto:info@inklusive-schulbegleitung.de",
+              "linkLabel": "info@inklusive-schulbegleitung.de"
+            }
+          ]
+        },
+        "followUs": "Folge uns",
+        "openingHoursLabel": "Öffnungszeiten",
+        "imprint": "Impressum",
+        "privacy": "Datenschutz",
+        "grounding": "Grounding"
+      },
+      "cookie": {
+        "title": "Deine Datenschutz-Einstellungen",
+        "description": "Wir nutzen Cookies, um unsere Website für Dich so hilfreich wie möglich zu gestalten. So findest Du schnell die passenden Informationen rund um unsere inklusive Schulbegleitung.",
+        "acceptAll": "Alle akzeptieren",
+        "acceptEssential": "Nur essenzielle",
+        "moreInfo": "Mehr Informationen"
+      },
+      "notFound": {
+        "title": "Hoppla, diese Seite haben wir nicht gefunden.",
+        "description": "Vielleicht hast Du Dich vertippt oder der Link ist veraltet. Egal, ob Du individuelle Schulbegleitung für Dein Kind suchst oder als pädagogische Fachkraft unser Team in Isernhagen verstärken möchtest – lass uns gemeinsam den richtigen Weg finden.",
+        "backHome": "Zur Startseite"
+      },
+      "translationsMetadata": {
+        "disclaimer": {
+          "aiTranslation": "Diese Seite wurde automatisch übersetzt, damit wir für alle Familien da sein können. Bitte entschuldige kleine sprachliche Ungenauigkeiten.",
+          "dismissAria": "Hinweis schließen",
+          "infoAria": "Informationen zur Übersetzung"
+        },
+        "common": {
+          "close": "Schließen",
+          "selectLanguage": "Sprache auswählen"
+        }
+      },
+      "index": {
+        "redirectTitle": "Weiterleitung…",
+        "redirectTo": "Weiterleitung nach"
+      },
+      "pages": [
+        {
+          "name": "home",
+          "pageTitle": "Schulbegleitung Hannover: Hand in Hand – Wir sehen Dich!",
+          "metadata": {
+            "geo": {
+              "icbm": "52.455566399999995, 9.800053799999999",
+              "region": "",
+              "position": "52.455566399999995;9.800053799999999",
+              "placename": "Isernhagen"
+            },
+            "title": "Inklusive Schulbegleitung Hannover | Hand in Hand",
+            "keywords": "Schulbegleitung Hannover, Inklusive Schulbegleitung, Schulbegleiter werden, Schulassistenz Isernhagen, Integrationshelfer Hannover, Schulbegleitung Autismus ADHS, Schulbegleitung beantragen, Teilhabeassistenz Schule, Inklusion Schule Hannover, Schulbegleitung Region Hannover, Teilhabeassistenz Hannover, Schulbegleiter Jobs",
+            "openGraph": {
+              "url": "https://www.schulbegleitung-hannover.org/de",
+              "title": "Schulbegleitung Hannover: Dein Partner für Inklusion",
+              "images": [
+                {
+                  "alt": "Hand in Hand – Inklusive Schulbegleitung in Hannover",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+                }
+              ],
+              "description": "Inklusive Schulbegleitung in Hannover & Isernhagen. Wir fördern Kinder mit Autismus & ADHS. Finde Unterstützung für dein Kind oder werde Teil des Teams!"
+            },
+            "twitter": {
+              "title": "Schulbegleitung Hannover: Dein Partner für Inklusion",
+              "description": "Inklusive Schulbegleitung in Hannover & Isernhagen. Wir fördern Kinder mit Autismus & ADHS. Finde Unterstützung für dein Kind oder werde Teil des Teams!",
+              "images": [
+                {
+                  "alt": "Hand in Hand – Inklusive Schulbegleitung in Hannover",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+                }
+              ]
+            },
+            "description": "Inklusive Schulbegleitung in Hannover & Isernhagen. Wir fördern Kinder mit Autismus & ADHS. Finde Unterstützung für dein Kind oder werde Teil des Teams!",
+            "schema": [
+              {
+                "id": "https://www.schulbegleitung-hannover.org/de",
+                "schemaType": "Organization",
+                "data": {
+                  "name": "Hand in Hand – Inklusive Schulbegleitung",
+                  "legalName": "Hand in Hand GmbH",
+                  "alternateName": [],
+                  "description": "Hand in Hand bietet individuelle Schulbegleitung in Hannover und der Region. Wir fördern Teilhabe und Selbstständigkeit bei Kindern mit besonderen Bedürfnissen, Autismus oder ADHS. Werde Teil unseres Teams!",
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleitung-hannover.org",
+                  "url": "https://www.schulbegleitung-hannover.org/de",
+                  "sameAs": [
+                    "https://www.facebook.com/handinhandinklusive"
+                  ],
+                  "address": [
+                    {
+                      "[@type]": "PostalAddress",
+                      "name": "Büro Isernhagen",
+                      "streetAddress": "Am Ortfelde 59",
+                      "postalCode": "30916",
+                      "addressLocality": "Isernhagen",
+                      "addressRegion": "Niedersachsen",
+                      "addressCountry": "DE"
+                    }
+                  ],
+                  "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "15:00"
+                  }
+                }
+              },
+              {
+                "id": "https://www.schulbegleitung-hannover.org/de",
+                "schemaType": "WebSite",
+                "data": {
+                  "name": "Schulbegleitung Hannover",
+                  "url": "https://www.schulbegleitung-hannover.org/de",
+                  "description": "Inklusive Schulbegleitung in Hannover & Isernhagen. Wir fördern Kinder mit Autismus & ADHS. Finde Unterstützung für dein Kind oder werde Teil des Teams!",
+                  "inLanguage": "de-DE",
+                  "publisher": {
+                    "[@id]": "#organization"
+                  },
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleitung-hannover.org",
+                  "legalName": "Hand in Hand GmbH",
+                  "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "15:00"
+                  }
+                }
+              },
+              {
+                "id": "https://www.schulbegleitung-hannover.org/de#local-business",
+                "schemaType": "LocalBusiness",
+                "data": {
+                  "[@type]": "LocalBusiness",
+                  "name": "Hand in Hand – Inklusive Schulbegleitung",
+                  "description": "Hand in Hand bietet individuelle Schulbegleitung in Hannover und der Region. Wir fördern Teilhabe und Selbstständigkeit bei Kindern mit besonderen Bedürfnissen, Autismus oder ADHS. Werde Teil unseres Teams!",
+                  "url": "https://www.schulbegleitung-hannover.org/de",
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleitung-hannover.org",
+                  "address": {
+                    "[@type]": "PostalAddress",
+                    "streetAddress": "Am Ortfelde 59",
+                    "postalCode": "30916",
+                    "addressLocality": "Isernhagen",
+                    "addressRegion": "Niedersachsen",
+                    "addressCountry": "DE"
+                  },
+                  "geo": {
+                    "latitude": "52.455566399999995",
+                    "longitude": "9.800053799999999"
+                  },
+                  "openingHoursSpecification": [],
+                  "sameAs": [
+                    "https://www.facebook.com/handinhandinklusive"
+                  ],
+                  "legalName": "Hand in Hand GmbH"
+                }
+              }
+            ]
+          },
+          "hero": {
+            "h1": "Schulbegleitung Hannover: Wir sehen Dich",
+            "backgroundImageAlt": "Kind und Schulbegleiterin im Gespräch, lachend in einem Schulflur, symbolisiert Unterstützung und Freude im Schulalltag.",
+            "locationPrefix": "In",
+            "locationSuffix": "und Region",
+            "namePrefix": "Dein Partner",
+            "callAriaLabel": "Kontaktiere uns für eine persönliche Beratung zu Schulbegleitung in Hannover und Isernhagen.",
+            "since": "Seit über 10 Jahren an Deiner Seite",
+            "card1Icon": "favorite",
+            "card1Line1": "Individuelle",
+            "card1Line2": "Förderung",
+            "card2Icon": "school",
+            "card2Line1": "Mit Herz",
+            "card2Line2": "& Verstand",
+            "card3Icon": "diversity_3",
+            "card3Line1": "Echte",
+            "card3Line2": "Teilhabe",
+            "buttons": [
+              {
+                "text": "mehr erfahren",
+                "link": "mailto:info@inklusive-schulbegleitung.de",
+                "variant": "primary"
+              },
+              {
+                "text": "+49 173 1696192",
+                "link": "tel:+491731696192",
+                "variant": "outline"
+              }
+            ],
+            "backgroundImage": "/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+          },
+          "info": {
+            "description": "Du suchst eine einfühlsame Schulbegleitung in Hannover oder der Region? Bei Hand in Hand stehen wir dir und deinem Kind zur Seite. Wir bieten individuelle Unterstützung für Kinder und Jugendliche mit besonderen Herausforderungen wie Autismus, ADHS oder anderen Beeinträchtigungen. Unser Ziel ist es, echte Teilhabe am Schulalltag zu ermöglichen.",
+            "paragraph1": "In der Schulbegleitung Hannover setzen wir auf ein kleines, engagiertes Team, das dein Kind nicht nur begleitet, sondern wirklich sieht – mit all seinen Stärken und Bedürfnissen. Wir fördern Selbstständigkeit und Selbstbewusstsein, damit dein Kind aktiv am Unterricht und am sozialen Leben teilhaben kann. Ob als Unterstützung im Unterricht oder als Sicherheit gebende Begleitung in den Pausen – wir sind verlässliche Partner.",
+            "paragraph2": "Als erfahrener Träger in Isernhagen und der Region Hannover wissen wir, wie wichtig vertrauensvolle Zusammenarbeit ist. Wir helfen dir bei Fragen zur Beantragung und koordinieren eng mit Schulen und Ämtern. Gleichzeitig suchen wir Menschen mit Herz und Verstand: Du bist pädagogische Fachkraft oder Quereinsteiger? Werde Teil unseres Teams und gestalte gelebte Inklusion aktiv mit!",
+            "quote": "„Wir sehen Dich“ – dieses Versprechen gilt für jedes Kind, jede Familie und jedes Teammitglied. Hand in Hand schaffen wir ein Umfeld, in dem Inklusion gelingt.",
+            "imageAlt": "Eine einfühlsame Schulbegleiterin von Hand in Hand unterstützt ein Kind beim Lernen im Klassenraum in Hannover.",
+            "activities": {
+              "title": "Individuelle Begleitung",
+              "description": "Wir unterstützen dein Kind im Unterricht, in den Pausen und bei schulischen Aktivitäten, ganz nach seinen Bedürfnissen.",
+              "icon": "FaBookOpen"
+            },
+            "nutrition": {
+              "title": "Stärkung der Selbstständigkeit",
+              "description": "Gezielte Förderung von Selbstständigkeit, Selbstbewusstsein und echter Teilhabe am Schulleben.",
+              "icon": "FaChild"
+            },
+            "garden": {
+              "title": "Umfassende Unterstützung",
+              "description": "Begleitung bei Autismus, ADHS und weiteren seelischen, sozialen oder körperlichen Herausforderungen.",
+              "icon": "FaHandsHelping"
+            },
+            "values": {
+              "nature": "Wir arbeiten Hand in Hand mit Familien, Schulen und Ämtern, um die bestmögliche Unterstützung zu gewährleisten. Du bist nicht allein.",
+              "mindfulness": "Bei uns steht dein Kind im Mittelpunkt. Wir sehen seine Einzigartigkeit und passen unsere Unterstützung flexibel an seine individuellen Bedürfnisse an.",
+              "participation": "Wir glauben an gelebte Inklusion. Jedes Kind hat das Recht, voll und ganz am Schulleben teilzuhaben und seine Potenziale zu entfalten."
+            },
+            "valueIcons": {
+              "mindfulness": "FaEye",
+              "nature": "FaHandshake",
+              "participation": "FaUsers"
+            },
+            "sectionTitle": "Deine Schulbegleitung in Hannover: Herz & Verstand für echte Inklusion",
+            "activitiesLabel": "Was wir tun",
+            "nutritionLabel": "Wofür wir stehen",
+            "gardenLabel": "Wen wir begleiten",
+            "mindfulness": "Individuelle Wahrnehmung",
+            "nature": "Gemeinsam stark",
+            "participation": "Gelebte Inklusion",
+            "imageUrl": "/images/schulbegleitung-hannover/info/schulbegleitung-hannover-info.webp"
+          },
+          "contact": {
+            "location": "Isernhagen",
+            "locationLabel": "Standort",
+            "addressName": "Hand in Hand – Inklusive Schulbegleitung",
+            "bookOnline": "Termin vereinbaren",
+            "bookOnlineDesc": "Wir sind für Dich da! Vereinbare jetzt ein unverbindliches Erstgespräch, um uns und unsere Arbeit kennenzulernen. Gemeinsam finden wir die beste Unterstützung für Dein Kind.",
+            "infoTitle": "Umfassende Unterstützung – Deine Fragen sind uns wichtig",
+            "addressLabel": "Anschrift",
+            "openingHoursLabel": "Sprechzeiten",
+            "phoneLabel": "Telefon",
+            "emailLabel": "E-Mail",
+            "bookingTitle": "Lass uns ins Gespräch kommen",
+            "bookingIntro": "Du hast Fragen zur Schulbegleitung in Hannover oder möchtest mehr über unsere Arbeit erfahren? Wir beraten Dich umfassend zu allen Themen rund um die individuelle Unterstützung für Dein Kind. Auch wenn Du Teil unseres Teams werden möchtest, freuen wir uns auf Deine Nachricht!",
+            "bookingButton": "Jetzt Kontakt aufnehmen"
+          },
+          "gallery": {
+            "title": "Momente der Inklusion: Schulbegleitung Hannover",
+            "subtitle": "Entdecke in unserer Galerie, wie wir Kinder in Hannover und Isernhagen „Hand in Hand“ im Schulalltag unterstützen und ihre Stärken fördern.",
+            "ariaLabel": "Galerie unserer Arbeit in der Schulbegleitung",
+            "images": [
+              {
+                "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-1.webp",
+                "alt": "Schulbegleitung unterstützt ein Kind beim Lernen am Schreibtisch"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-2.webp",
+                "alt": "Kind und Schulbegleitung lesen gemeinsam ein Buch"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-3.webp",
+                "alt": "Schulbegleitung und Kind im Gespräch während einer Pause"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-4.webp",
+                "alt": "Ein Kind mit Schulbegleitung im Klassenzimmer"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-5.webp",
+                "alt": "Schulbegleitung hilft einem Kind beim Basteln oder Zeichnen"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-6.webp",
+                "alt": "Kind und Schulbegleitung im Freien, entspannte Atmosphäre"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-7.webp",
+                "alt": "Schulbegleitung und Kind interagieren freundlich im Schulflur"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-8.webp",
+                "alt": "Schulbegleitung unterstützt ein Kind bei einer Gruppenarbeit"
+              }
+            ],
+            "roomsTitle": "Im Klassenzimmer",
+            "roomsDescription": "Wir sind an der Seite deines Kindes – im Unterricht, bei Aufgaben und besonders in herausfordernden Momenten. So fördern wir Selbstständigkeit und Freude am Lernen.",
+            "outdoorTitle": "Pausen & Freizeit",
+            "outdoorDescription": "Auch außerhalb des Klassenzimmers sorgen wir für eine sichere und unterstützende Umgebung, in der dein Kind sich wohlfühlt und Freunde findet.",
+            "rooms": "Im Unterricht",
+            "outdoor": "Pausen & Schulhof",
+            "prevImage": "Vorheriges Bild",
+            "nextImage": "Nächstes Bild"
+          },
+          "team": {
+            "title": "Unser Team: Wir sehen Dich",
+            "subtitle": "Als Dein Team für die Schulbegleitung Hannover setzen wir uns täglich für echte Teilhabe ein. Finde die passende Unterstützung für Dein Kind oder werde selbst Teil unserer Mission.",
+            "teamMember": {
+              "quote": "Ich sehe Dich – dieses Versprechen gilt für jedes Kind, jede Familie und jedes Teammitglied."
+            }
+          },
+          "map": {
+            "description": "Unser Büro in Isernhagen ist das Herzstück unserer Arbeit und die zentrale Anlaufstelle für Familien aus Hannover und der Region. Sprich uns an – wir sind für Dich da!",
+            "publicTransport": "Du erreichst uns in Isernhagen auch bequem mit den öffentlichen Verkehrsmitteln. Plane Deinen Weg zu uns am besten vorab.",
+            "parking": "Kostenlose Parkmöglichkeiten befinden sich direkt vor unserem Bürogebäude.",
+            "addressTitle": "Unser Büro in Isernhagen",
+            "iframeTitle": "Unser Standort in Isernhagen – Dein Weg zu uns",
+            "sectionTitle": "Wir sind für Dich da: Dein Weg zu uns",
+            "openOnMap": "Auf der Karte öffnen",
+            "visitUs": "Besuche uns in Isernhagen!",
+            "publicTransportLabel": "Öffentliche Verkehrsmittel",
+            "parkingLabel": "Parken",
+            "mapEmbedUrl": ""
+          },
+          "reviews": {
+            "title": "Stimmen zu unserer Schulbegleitung",
+            "subtitle": "Lies hier, wie Familien, Lehrkräfte und unser Team die Zusammenarbeit mit Hand in Hand erleben – gemeinsam für echte Teilhabe.",
+            "reviewData": {
+              "displayName": {
+                "text": "Am Ortfelde 59"
+              },
+              "formattedAddress": "Am Ortfelde 59, 30916 Isernhagen, Germany",
+              "reviews": [],
+              "userRatingCount": 0
+            },
+            "minimumRating": 4,
+            "rating": "5.0"
+          },
+          "faq": {
+            "title": "Häufige Fragen zur Schulbegleitung in Hannover",
+            "subtitle": "Du hast Fragen zur Schulbegleitung Hannover? Hier findest Du Antworten, die Dich unterstützen und Orientierung geben. Wir sind für Dich da."
+          },
+          "trust": {
+            "partner": "Unsere Partner für eine starke Schulbegleitung in Hannover",
+            "H2": "Starke Partner für Inklusion und Schulbegleitung in Hannover",
+            "qualityPartners": "Wir kooperieren eng mit Schulen, Ämtern und Bildungsträgern in Hannover und Isernhagen. Durch diesen stetigen Austausch und unsere kontinuierliche Weiterbildung sichern wir eine Schulbegleitung, die mit Herz und Verstand agiert – für starke Kinder und ein starkes Team.",
+            "trustDataFile": "partners.json",
+            "logos": [
+              {
+                "src": "/images/schulbegleitung-hannover/trustblock/schulbegleitung-hannover-bpa-arbeitgeberverband-logo.webp",
+                "alt": "Logo eines regionalen Bildungspartners der Schulbegleitung Hand in Hand"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/trustblock/schulbegleitung-hannover-jugendamt-logo.webp",
+                "alt": "Qualitätssiegel für pädagogische Fachkräfte in der Schulassistenz"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/trustblock/schulbegleitung-hannover-kinderschutzzentrum-hannover.webp",
+                "alt": "Kooperationspartner für Inklusion an Schulen in Isernhagen"
+              },
+              {
+                "src": "/images/schulbegleitung-hannover/trustblock/schulbegleitung-hannover-landeshauptstadt-hannover-logo.webp",
+                "alt": "Partnernetzwerk für die Förderung und Teilhabe von Kindern"
+              }
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "pageTitle": "Häufige Fragen",
+          "metadata": {
+            "title": "FAQ Schulbegleitung Hannover: Antworten auf Deine Fragen",
+            "description": "Fragen zur Schulbegleitung in Hannover? Hier findest Du Antworten zu Anträgen, Voraussetzungen und unserer Unterstützung – Hand in Hand für Dein Kind.",
+            "keywords": "Schulbegleitung Hannover FAQ, Schulbegleitung beantragen, Voraussetzungen Schulbegleitung, Aufgaben Schulbegleitung, Schulbegleiter Qualifikation, Inklusion Schule Hannover",
+            "openGraph": {
+              "url": "https://www.schulbegleitung-hannover.org/de/faq",
+              "title": "FAQ Schulbegleitung Hannover: Antworten auf Deine Fragen",
+              "images": [
+                {
+                  "alt": "Häufig gestellte Fragen zur Schulbegleitung in Hannover",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+                }
+              ],
+              "description": "Fragen zur Schulbegleitung in Hannover? Hier findest Du Antworten zu Anträgen, Voraussetzungen und unserer Unterstützung – Hand in Hand für Dein Kind."
+            },
+            "twitter": {
+              "title": "FAQ Schulbegleitung Hannover: Antworten auf Deine Fragen",
+              "description": "Fragen zur Schulbegleitung in Hannover? Hier findest Du Antworten zu Anträgen, Voraussetzungen und unserer Unterstützung – Hand in Hand für Dein Kind.",
+              "images": [
+                {
+                  "alt": "Häufig gestellte Fragen zur Schulbegleitung in Hannover",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Deine Fragen zur Schulbegleitung Hannover",
+            "lead": "Du hast Fragen zur Schulbegleitung, zum Antrag oder zu unserer Arbeit in Hannover und Isernhagen? Hier findest Du Antworten auf die häufigsten Anliegen und erfährst, wie wir Dein Kind und Deine Familie „Hand in Hand“ unterstützen."
+          },
+          "faqDataFile": "faq-xxl.json",
+          "schema": []
+        },
+        {
+          "name": "impressum",
+          "pageTitle": "Impressum",
+          "metadata": {
+            "title": "Impressum | Hand in Hand – Schulbegleitung Hannover",
+            "description": "Das Impressum von Hand in Hand, deiner Schulbegleitung in Hannover und Isernhagen. Hier findest du alle rechtlichen Informationen zu unserem Träger.",
+            "keywords": "Schulbegleitung Hannover, Inklusive Schulbegleitung, Schulassistenz Isernhagen, Integrationshelfer Hannover, Schulbegleitung Autismus, ADHS Schulbegleitung, Schulbegleitung beantragen, Teilhabeassistenz Schule, Inklusion Schule Hannover, Hand in Hand",
+            "openGraph": {
+              "url": "https://www.schulbegleitung-hannover.org/de/impressum",
+              "title": "Impressum | Hand in Hand – Schulbegleitung Hannover",
+              "images": [
+                {
+                  "alt": "Logo von Hand in Hand – Inklusive Schulbegleitung",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+                }
+              ],
+              "description": "Das Impressum von Hand in Hand, deiner Schulbegleitung in Hannover und Isernhagen. Hier findest du alle rechtlichen Informationen zu unserem Träger."
+            },
+            "twitter": {
+              "title": "Impressum | Hand in Hand – Schulbegleitung Hannover",
+              "description": "Das Impressum von Hand in Hand, deiner Schulbegleitung in Hannover und Isernhagen. Hier findest du alle rechtlichen Informationen zu unserem Träger.",
+              "images": [
+                {
+                  "alt": "Logo von Hand in Hand – Inklusive Schulbegleitung",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "datenschutz",
+          "pageTitle": "Datenschutz",
+          "metadata": {
+            "title": "Datenschutz bei Hand in Hand – Schulbegleitung Hannover",
+            "description": "Erfahre hier, wie Hand in Hand Deine Daten schützt und verarbeitet. Transparenter Datenschutz für Deine Schulbegleitung in Hannover und Isernhagen.",
+            "keywords": "Datenschutz Schulbegleitung Hannover, Hand in Hand Datenschutz, Datensicherheit Schulbegleitung, Persönliche Daten Schutz Hannover, Schulbegleitung Isernhagen Datenschutz",
+            "openGraph": {
+              "url": "https://www.schulbegleitung-hannover.org/de/datenschutz",
+              "title": "Datenschutz bei Hand in Hand – Schulbegleitung Hannover",
+              "images": [
+                {
+                  "alt": "Datenschutz-Informationen für Schulbegleitung Hannover",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+                }
+              ],
+              "description": "Erfahre hier, wie Hand in Hand Deine Daten schützt und verarbeitet. Transparenter Datenschutz für Deine Schulbegleitung in Hannover und Isernhagen."
+            },
+            "twitter": {
+              "title": "Datenschutz bei Hand in Hand – Schulbegleitung Hannover",
+              "description": "Erfahre hier, wie Hand in Hand Deine Daten schützt und verarbeitet. Transparenter Datenschutz für Deine Schulbegleitung in Hannover und Isernhagen.",
+              "images": [
+                {
+                  "alt": "Datenschutz-Informationen für Schulbegleitung Hannover",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "ueber-uns",
+          "pageTitle": "Über uns: Deine Schulbegleitung in Hannover",
+          "metadata": {
+            "title": "Über uns: Deine Schulbegleitung in Hannover & Isernhagen",
+            "description": "Lerne Hand in Hand kennen: Dein Träger für inklusive Schulbegleitung in Hannover. Mit Herz und Verstand für echte Teilhabe. Jetzt mehr erfahren!",
+            "keywords": "Über uns Schulbegleitung Hannover, Hand in Hand Schulbegleitung, Inklusive Schulbegleitung Hannover, Schulassistenz Isernhagen, Integrationshelfer Hannover, Schulbegleitung Autismus ADHS, Team Schulbegleitung Hannover, Wer wir sind Schulbegleitung",
+            "openGraph": {
+              "url": "https://www.schulbegleitung-hannover.org/de/ueber-uns",
+              "title": "Über uns: Deine Schulbegleitung in Hannover & Isernhagen",
+              "images": [
+                {
+                  "alt": "Team von Hand in Hand – Inklusive Schulbegleitung, lächelnd und empathisch",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/about/schulbegleitung-hannover-ueber-uns.webp"
+                }
+              ],
+              "description": "Lerne Hand in Hand kennen: Dein Träger für inklusive Schulbegleitung in Hannover. Mit Herz und Verstand für echte Teilhabe. Jetzt mehr erfahren!"
+            }
+          },
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Bei Hand in Hand in Hannover steht ein Ziel im Mittelpunkt: Jedes Kind hat das Recht auf echte Teilhabe – und darauf, gesehen zu werden. „Wir sehen Dich“ ist für uns kein Slogan, sondern Arbeitsalltag. Wir begleiten Dein Kind individuell im Schulalltag in Hannover, Isernhagen und der Region und stärken Selbstständigkeit Schritt für Schritt."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/schulbegleitung-hannover/about/schulbegleitung-hannover-ueber-uns.webp",
+              "alt": "Ein Schulbegleiter und ein Kind, die Hand in Hand ein Schulgebäude betreten, symbolisieren Unterstützung und Inklusion."
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Kleines Team, feste Ansprechpartner"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Wir sind ein überschaubares, engagiertes Team mit über 10 Jahren Erfahrung in der Schulbegleitung. Die pädagogische Leitung liegt bei einer staatlich anerkannten Erzieherin und Sozialpädagogin B.A. Du erreichst bei uns verlässliche Kontaktpersonen, die Dich auf Augenhöhe begleiten – auch wenn es um Anträge, Abstimmung mit der Schule oder Fragen zu Autismus, ADHS und weiteren Unterstützungsbedarfen geht."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Echte Teilhabe durch individuelle Begleitung"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Unsere Schulbegleitung geht über reine Anwesenheit hinaus: Wir bauen Brücken zwischen Deinem Kind, Lehrkräften und dem Schulalltag. Gemeinsam mit Familien, Schule und Ämtern erarbeiten wir Lösungen, die zu Deinem Kind passen – im Unterricht, in den Pausen und bei schulischen Aktivitäten."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Qualität und Weiterbildung"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Unser pädagogisches Personal wird regelmäßig fortgebildet und bringt hohe soziale Kompetenz mit. Als persönlicher Träger bleiben wir für Dich greifbar – mit fachlicher Tiefe und einem Arbeitsstil, der Vertrauen schafft."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Karriere: Werde Schulbegleiter in der Region Hannover"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Du suchst eine sinnstiftende Aufgabe? Wir freuen uns über pädagogische Fachkräfte und motivierte Quereinsteiger, die Inklusion mit Herz und Verstand leben möchten. Du bekommst Fortbildungen, ein wertschätzendes Team und die Chance, den Schulalltag von Kindern spürbar zu verbessern. Sprich uns gern an."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Gemeinsam stark im Schulalltag"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Verlässlichkeit zählt – für Familien, Schulen und vor allem für die Kinder. Deshalb koordinieren wir transparent, bleiben flexibel, wenn sich Bedürfnisse ändern, und stehen Dir in Hannover und Umgebung als Partner zur Seite."
+                }
+              ]
+            }
+          ],
+          "h1": "Deine inklusive Schulbegleitung Hannover"
+        },
+        {
+          "name": "grounding",
+          "pageTitle": "Grounding | Hand in Hand",
+          "metadata": {
+            "title": "Grounding | Hand in Hand",
+            "description": "KI-Grounding-Seite für Hand in Hand — strukturierte Entity-Definitionen und Fakten zur Website für KI-Systeme.",
+            "keywords": "Grounding, KI, AI, Hand in Hand, Referenzseite",
+            "openGraph": {
+              "url": "https://schulbegleitung-hannover.org/de/wissensgrundlage",
+              "title": "Grounding | Hand in Hand",
+              "images": [
+                {
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": "Hand in Hand - Inklusive Schulbegleitung Hannover"
+                }
+              ],
+              "description": "KI-Grounding-Seite für Hand in Hand."
+            },
+            "twitter": {
+              "title": "Grounding | Hand in Hand",
+              "description": "KI-Grounding-Seite für Hand in Hand.",
+              "images": [
+                {
+                  "alt": "Hand in Hand - Inklusive Schulbegleitung Hannover",
+                  "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Grounding",
+            "lead": "Strukturierte Fakten und Entity-Definitionen zu Hand in Hand."
+          },
+          "schema": []
+        }
+      ],
+      "impressumBacklink": {
+        "headingTitle": "Konzept, Design und technische Umsetzung",
+        "title": "Website Design",
+        "link": "https://www.hero-pages.com/website-design"
+      },
+      "languages": [],
+      "clientDomain": "www.schulbegleitung-hannover.org"
+    },
+    {
+      "id": "schulbegleitung",
+      "deployDomain": "schulbegleitung.info",
+      "googleTagId": "G-8Y1S2FJYLZ",
+      "websiteBriefing": "Main Keyword: Schulbegleitung",
+      "business": {
+        "name": "Hand in Hand",
+        "brandName": "Hand in Hand",
+        "legalName": "Hand in Hand GmbH",
+        "location": {
+          "city": "Isernhagen",
+          "district": "Region Hannover",
+          "neighborhood": "Isernhagen NB"
+        },
+        "phone": "+491731696192",
+        "email": "info@inklusive-schulbegleitung.de",
+        "openingHours": {
+          "short": "Mo-Fr 08:00-15:00",
+          "detailed": "Montag bis Freitag: 08:00 - 15:00 Uhr. Außerhalb dieser Zeiten sind wir gerne nach vorheriger Vereinbarung für Dich da.",
+          "display": "Mo. - Fr.: 08:00 - 15:00 Uhr"
+        },
+        "contactPerson": {
+          "name": "Dein Team bei Hand in Hand",
+          "title": "Inklusive Schulbegleitung",
+          "imageUrl": "/images/schulbegleitung/team/schulbegleitung-team.webp"
+        },
+        "bookingUrl": "",
+        "social": {
+          "instagram": "https://www.instagram.com/hand_in_hand_hannover",
+          "facebook": "",
+          "whatsappNumber": ""
+        },
+        "ustId": "",
+        "vertreter": "Jan Ziehme",
+        "googlePlacesId": "ChIJm_0Wiy91sEcRCOrkYudR9Mg",
+        "registergericht": "Hannover",
+        "hrbNummer": "HRB 229182",
+        "legalAddress": {
+          "street": "Am Ortfelde 59",
+          "postalCode": "30916",
+          "city": "Isernhagen"
+        },
+        "locationAddress": {
+          "street": "Am Ortfelde 59",
+          "postalCode": "30916",
+          "city": "Isernhagen"
+        }
+      },
+      "header": {
+        "logoUrl": "/images/schulbegleitung/schulbegleitung-logo.webp",
+        "logoAlt": "Logo Hand in Hand - Inklusive Schulbegleitung Isernhagen",
+        "logoWidth": 160,
+        "ariaLabelNavigation": "Hauptnavigation",
+        "ariaMenuOpen": "Menü öffnen",
+        "ariaMenuClose": "Menü schließen",
+        "links": [
+          {
+            "label": "Über uns",
+            "url": "/ueber-uns",
+            "href": "/de/ueber-uns"
+          },
+          {
+            "label": "FAQ",
+            "url": "/faq",
+            "href": "/de/faq"
+          },
+          {
+            "label": "mehr erfahren",
+            "href": "mailto:info@inklusive-schulbegleitung.de",
+            "type": "button"
+          }
+        ]
+      },
+      "footer": {
+        "navigation": {
+          "label": "Navigation",
+          "links": [
+            {
+              "link": "https://inklusive-schulbegleitung.de/individuelle-schulbegleitung",
+              "linkLabel": "Schulbegleitung"
+            },
+            {
+              "link": "https://inklusive-schulbegleitung.de/karriere",
+              "linkLabel": "Karriere"
+            }
+          ]
+        },
+        "contact": {
+          "label": "Kontakt",
+          "links": [
+            {
+              "link": "tel:+491731696192",
+              "linkLabel": "+49 173 1696192"
+            },
+            {
+              "link": "mailto:info@inklusive-schulbegleitung.de",
+              "linkLabel": "info@inklusive-schulbegleitung.de"
+            }
+          ]
+        },
+        "followUs": "Folge uns",
+        "openingHoursLabel": "Öffnungszeiten",
+        "imprint": "Impressum",
+        "privacy": "Datenschutz",
+        "grounding": "Grounding"
+      },
+      "cookie": {
+        "title": "Deine Datenschutz-Einstellungen",
+        "description": "Wir nutzen Cookies, um unsere Website für Dich so hilfreich wie möglich zu gestalten. So findest Du schnell die passenden Informationen rund um unsere inklusive Schulbegleitung.",
+        "acceptAll": "Alle akzeptieren",
+        "acceptEssential": "Nur essenzielle",
+        "moreInfo": "Mehr Informationen"
+      },
+      "notFound": {
+        "title": "Hoppla, diese Seite haben wir nicht gefunden.",
+        "description": "Vielleicht hast Du Dich vertippt oder der Link ist veraltet. Egal, ob Du individuelle Schulbegleitung für Dein Kind suchst oder als pädagogische Fachkraft unser Team in Isernhagen verstärken möchtest – lass uns gemeinsam den richtigen Weg finden.",
+        "backHome": "Zur Startseite"
+      },
+      "translationsMetadata": {
+        "disclaimer": {
+          "aiTranslation": "Diese Seite wurde automatisch übersetzt, damit wir für alle Familien da sein können. Bitte entschuldige kleine sprachliche Ungenauigkeiten.",
+          "dismissAria": "Hinweis schließen",
+          "infoAria": "Informationen zur Übersetzung"
+        },
+        "common": {
+          "close": "Schließen",
+          "selectLanguage": "Sprache auswählen"
+        }
+      },
+      "index": {
+        "redirectTitle": "Weiterleitung…",
+        "redirectTo": "Weiterleitung nach"
+      },
+      "pages": [
+        {
+          "name": "home",
+          "pageTitle": "Schulbegleitung Hannover | Hand in Hand – Wir sehen Dich",
+          "metadata": {
+            "geo": {
+              "icbm": "52.455566399999995, 9.800053799999999",
+              "region": "",
+              "position": "52.455566399999995;9.800053799999999",
+              "placename": "Isernhagen"
+            },
+            "title": "Schulbegleitung Hannover: Hand in Hand für Dein Kind",
+            "keywords": "Schulbegleitung Hannover, Inklusive Schulbegleitung, Schulassistenz Isernhagen, Integrationshelfer, Autismus ADHS, Schulbegleitung beantragen, Teilhabeassistenz, Inklusion Schule, Schulbegleiter werden",
+            "openGraph": {
+              "url": "https://www.schulbegleitung.info/de",
+              "title": "Schulbegleitung Hannover: Hand in Hand für Dein Kind",
+              "images": [
+                {
+                  "alt": "Kinder gehen Hand in Hand, symbolisch für Schulbegleitung",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+                }
+              ],
+              "description": "Schulbegleitung Hannover & Isernhagen: Empathische Begleitung für Kinder mit Autismus/ADHS. Eltern beraten lassen oder Teil unseres Teams werden!"
+            },
+            "twitter": {
+              "title": "Schulbegleitung Hannover: Hand in Hand für Dein Kind",
+              "description": "Schulbegleitung Hannover & Isernhagen: Empathische Begleitung für Kinder mit Autismus/ADHS. Eltern beraten lassen oder Teil unseres Teams werden!",
+              "images": [
+                {
+                  "alt": "Kinder gehen Hand in Hand, symbolisch für Schulbegleitung",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+                }
+              ]
+            },
+            "description": "Schulbegleitung Hannover & Isernhagen: Empathische Begleitung für Kinder mit Autismus/ADHS. Eltern beraten lassen oder Teil unseres Teams werden!",
+            "schema": [
+              {
+                "id": "https://www.schulbegleitung.info/de#organization",
+                "schemaType": "Organization",
+                "data": {
+                  "name": "Hand in Hand – Inklusive Schulbegleitung",
+                  "legalName": "Hand in Hand GmbH",
+                  "alternateName": [],
+                  "description": "Hand in Hand bietet individuelle Schulbegleitung für Kinder mit besonderen Bedürfnissen in Hannover und Isernhagen. Unser engagiertes Team fördert Selbstständigkeit und Teilhabe mit Herz und Verstand.",
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleitung.info",
+                  "url": "https://www.schulbegleitung.info/de",
+                  "sameAs": [
+                    "https://www.schulbegleitung.info"
+                  ],
+                  "address": [
+                    {
+                      "[@type]": "PostalAddress",
+                      "name": "Hand in Hand – Inklusive Schulbegleitung",
+                      "streetAddress": "Am Ortfelde 59",
+                      "postalCode": "30916",
+                      "addressLocality": "Isernhagen",
+                      "addressRegion": "Niedersachsen",
+                      "addressCountry": "DE"
+                    }
+                  ],
+                  "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "15:00"
+                  }
+                }
+              },
+              {
+                "id": "https://www.schulbegleitung.info/de#webpage",
+                "schemaType": "WebPage",
+                "data": {
+                  "name": "Schulbegleitung Hannover: Hand in Hand für Dein Kind",
+                  "url": "https://www.schulbegleitung.info/de",
+                  "description": "Schulbegleitung Hannover & Isernhagen: Empathische Begleitung für Kinder mit Autismus/ADHS. Eltern beraten lassen oder Teil unseres Teams werden!",
+                  "inLanguage": "de-DE",
+                  "publisher": {
+                    "[@id]": "#organization"
+                  },
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleitung.info",
+                  "legalName": "Hand in Hand GmbH",
+                  "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "15:00"
+                  }
+                }
+              },
+              {
+                "id": "https://www.schulbegleitung.info/de#local-business",
+                "schemaType": "LocalBusiness",
+                "data": {
+                  "[@type]": "LocalBusiness",
+                  "name": "Hand in Hand – Inklusive Schulbegleitung",
+                  "description": "Hand in Hand bietet individuelle Schulbegleitung für Kinder mit besonderen Bedürfnissen in Hannover und Isernhagen. Unser engagiertes Team fördert Selbstständigkeit und Teilhabe mit Herz und Verstand.",
+                  "url": "https://www.schulbegleitung.info/de",
+                  "telephone": "+4951147315000",
+                  "email": "info@schulbegleitung.info",
+                  "address": {
+                    "[@type]": "PostalAddress",
+                    "streetAddress": "Am Ortfelde 59",
+                    "postalCode": "30916",
+                    "addressLocality": "Isernhagen",
+                    "addressRegion": "Niedersachsen",
+                    "addressCountry": "DE"
+                  },
+                  "geo": {
+                    "latitude": "52.455566399999995",
+                    "longitude": "9.800053799999999"
+                  },
+                  "openingHoursSpecification": [],
+                  "sameAs": [
+                    "https://www.schulbegleitung.info"
+                  ],
+                  "legalName": "Hand in Hand GmbH"
+                }
+              }
+            ]
+          },
+          "hero": {
+            "h1": "Schulbegleitung Hannover: Wir sehen Dich",
+            "backgroundImageAlt": "Ein Kind und eine Schulbegleitung lernen gemeinsam in einer freundlichen Umgebung.",
+            "locationPrefix": "in",
+            "locationSuffix": "und Isernhagen",
+            "namePrefix": "Deine Schulbegleitung",
+            "callAriaLabel": "Kontaktiere Hand in Hand für Schulbegleitung in Hannover und der Region",
+            "since": "Über 10 Jahre Erfahrung",
+            "card1Icon": "diversity_3",
+            "card1Line1": "Individuelle Förderung",
+            "card1Line2": "Für echte Teilhabe",
+            "card2Icon": "favorite",
+            "card2Line1": "Mit Herz & Verstand",
+            "card2Line2": "Engagiertes Team",
+            "card3Icon": "school",
+            "card3Line1": "Erfahrene Fachkräfte",
+            "card3Line2": "Für Dein Kind da",
+            "buttons": [
+              {
+                "text": "mehr erfahren",
+                "link": "mailto:info@inklusive-schulbegleitung.de",
+                "variant": "primary"
+              },
+              {
+                "text": "+49 173 1696192",
+                "link": "tel:+491731696192",
+                "variant": "outline"
+              }
+            ],
+            "backgroundImage": "/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+          },
+          "info": {
+            "description": "Du suchst eine einfühlsame Schulbegleitung in Hannover und der Region, die Dein Kind wirklich sieht? Bei Hand in Hand begleiten wir Kinder und Jugendliche mit besonderen Bedürfnissen – sei es bei Autismus, ADHS oder anderen seelischen, sozialen oder körperlichen Herausforderungen. Wir stehen Dir und Deinem Kind zur Seite, damit echte Teilhabe am Schulalltag gelingt.",
+            "paragraph1": "Unser kleines, engagiertes Team bietet individuelle Unterstützung im Unterricht, in den Pausen und bei allen schulischen Aktivitäten. Wir fördern Selbstständigkeit und Selbstbewusstsein, damit Dein Kind seine Stärken entdecken und entfalten kann. Bei uns steht die individuelle Persönlichkeit im Vordergrund: Wir entwickeln Lösungen, die sich zu 100 % nach den Bedürfnissen Deines Kindes richten.",
+            "paragraph2": "Wir arbeiten Hand in Hand mit Familien, Schulen und Ämtern zusammen, um den Beantragungsprozess so einfach wie möglich zu gestalten. Du erhältst bei uns feste Ansprechpartner für eine gelebte Inklusion in Isernhagen und Hannover. Du möchtest selbst Brücken bauen? Wir suchen immer engagierte Menschen, die unser Team verstärken möchten.",
+            "quote": "„Wir sehen Dich“ – dieses Versprechen gilt für jedes Kind, jede Familie und jedes Teammitglied. Wir entfalten Potenziale, Hand in Hand.",
+            "imageAlt": "Ein Schulbegleiter sitzt lächelnd neben einem Kind im Rollstuhl am Schreibtisch und hilft bei den Hausaufgaben in einem hellen Klassenzimmer.",
+            "activities": {
+              "title": "Individuelle Begleitung",
+              "description": "Wir bieten maßgeschneiderte Unterstützung im Unterricht und in den Pausen, damit Dein Kind seine Schulzeit aktiv mitgestalten kann.",
+              "icon": "person_add"
+            },
+            "nutrition": {
+              "title": "Stärkung der Selbstständigkeit",
+              "description": "Wir fördern gezielt die Fähigkeiten Deines Kindes, um ein selbstbewusstes und eigenständiges Lernen zu ermöglichen.",
+              "icon": "self_improvement"
+            },
+            "garden": {
+              "title": "Echte Teilhabe",
+              "description": "Unser Ziel ist gelebte Inklusion, in der jedes Kind dazugehört und sein volles Potenzial entfalten kann.",
+              "icon": "diversity_3"
+            },
+            "values": {
+              "nature": "Jedes Kind ist einzigartig. Wir sehen und stärken seine individuellen Talente und Bedürfnisse.",
+              "mindfulness": "Wir begegnen jedem Kind mit Empathie, Geduld und Respekt, um eine vertrauensvolle Basis zu schaffen.",
+              "participation": "Wir schaffen ein Umfeld, in dem sich Dein Kind sicher und selbstwirksam fühlt und aktiv am Schulleben teilnehmen kann."
+            },
+            "valueIcons": {
+              "mindfulness": "volunteer_activism",
+              "nature": "lightbulb",
+              "participation": "groups"
+            },
+            "sectionTitle": "Deine Schulbegleitung in Hannover: Mit Herz für echte Inklusion",
+            "activitiesLabel": "Individuelle Begleitung",
+            "nutritionLabel": "Stärkung der Selbstständigkeit",
+            "gardenLabel": "Echte Teilhabe",
+            "mindfulness": "Achtsamkeit & Empathie",
+            "nature": "Individuelle Stärken",
+            "participation": "Aktive Teilhabe",
+            "imageUrl": "/images/schulbegleitung/info/schulbegleitung-info.webp"
+          },
+          "contact": {
+            "location": "Isernhagen, Region Hannover",
+            "locationLabel": "Standort",
+            "addressName": "Hand in Hand",
+            "bookOnline": "Beratung buchen",
+            "bookOnlineDesc": "Wir sind für Dich da! Vereinbare ganz einfach einen Termin für ein persönliches Kennenlernen. Wir freuen uns darauf, Dich und Dein Kind kennenzulernen und gemeinsam zu schauen, wie wir Euch Hand in Hand unterstützen können.",
+            "infoTitle": "Kontakt & Öffnungszeiten",
+            "addressLabel": "Adresse",
+            "openingHoursLabel": "Öffnungszeiten",
+            "phoneLabel": "Telefon",
+            "emailLabel": "E-Mail",
+            "bookingTitle": "Lass uns ins Gespräch kommen!",
+            "bookingIntro": "Du suchst eine liebevolle Schulbegleitung in Hannover oder hast Fragen zum Antrag? Oder möchtest Du als Fachkraft Teil unseres Teams werden? Hast Du Fragen zum Antrag oder zum Ablauf? Wir beraten Dich gerne persönlich.",
+            "bookingButton": "Termin vereinbaren"
+          },
+          "gallery": {
+            "title": "Einblicke in unsere Arbeit: Schulbegleitung in Hannover",
+            "subtitle": "Wir zeigen Dir, wie wir Kinder und Jugendliche in der Region Hannover und Isernhagen unterstützen. Jeder Moment zählt!",
+            "ariaLabel": "Galerie unserer Schulbegleitung",
+            "images": [
+              {
+                "src": "/images/schulbegleitung/gallerie/schulbegleitung-1.webp",
+                "alt": "Ein Schulbegleiter und ein Kind lachen gemeinsam über ein Buch in einem ruhigen Schulflur."
+              },
+              {
+                "src": "/images/schulbegleitung/gallerie/schulbegleitung-2.webp",
+                "alt": "Ein Kind mit Schulbegleitung arbeitet konzentriert an einem Gruppentisch im Klassenzimmer."
+              },
+              {
+                "src": "/images/schulbegleitung/gallerie/schulbegleitung-3.webp",
+                "alt": "Zwei Kinder und eine Schulbegleiterin spielen auf dem Schulhof, ein Ball liegt daneben."
+              },
+              {
+                "src": "/images/schulbegleitung/gallerie/schulbegleitung-4.webp",
+                "alt": "Eine Schulbegleiterin erklärt einem Kind geduldig ein Arbeitsblatt in einem hellen Klassenzimmer."
+              },
+              {
+                "src": "/images/schulbegleitung/gallerie/schulbegleitung-5.webp",
+                "alt": "Ein Kind zeigt stolz seine Zeichnung einer Schulbegleiterin, die aufmerksam zuhört."
+              },
+              {
+                "src": "/images/schulbegleitung/gallerie/schulbegleitung-6.webp",
+                "alt": "Ein Schulbegleiter hilft einem Kind beim Sortieren von Materialien am Tisch in einer Schule."
+              },
+              {
+                "src": "/images/schulbegleitung/gallerie/schulbegleitung-7.webp",
+                "alt": "Ein Kind und eine Schulbegleiterin gehen lachend Hand in Hand auf einem Schulweg."
+              },
+              {
+                "src": "/images/schulbegleitung/gallerie/schulbegleitung-8.webp",
+                "alt": "Überblick über ein Schulfest mit vielen lachenden Kindern und engagierten Schulbegleitern."
+              }
+            ],
+            "roomsTitle": "In der Schule",
+            "roomsDescription": "Ob im Klassenzimmer, in der Bibliothek oder bei Gruppenarbeiten – wir sind an der Seite Deines Kindes, wo es uns braucht.",
+            "outdoorTitle": "Draußen & in den Pausen",
+            "outdoorDescription": "Auch außerhalb des Unterrichts fördern wir die soziale Interaktion und die aktive Teilnahme am Schulleben.",
+            "rooms": "Innenbereiche der Schule",
+            "outdoor": "Außenbereiche der Schule",
+            "prevImage": "Vorheriges Bild",
+            "nextImage": "Nächstes Bild"
+          },
+          "team": {
+            "title": "Unser Team: Wir sehen Dich",
+            "subtitle": "Unser familiäres Team aus erfahrenen Fachkräften ermöglicht täglich Teilhabe durch individuelle Schulassistenz. Finde die passende Unterstützung für Dein Kind oder werde selbst Teil unserer Mission.",
+            "teamMember": {
+              "quote": "Ich sehe Dich – dieses Versprechen gilt für jedes Kind, jede Familie und jedes Teammitglied."
+            }
+          },
+          "map": {
+            "description": "Besuche unser Büro in Isernhagen. Wir nehmen uns gerne Zeit, um Deine Fragen zur Schulbegleitung persönlich zu besprechen.",
+            "publicTransport": "Du erreichst unser Büro in Isernhagen bequem mit den öffentlichen Verkehrsmitteln aus Hannover und der Region.",
+            "parking": "Parkplätze stehen Dir direkt an unserem Büro in Isernhagen zur Verfügung.",
+            "addressTitle": "Unser Büro in Isernhagen",
+            "iframeTitle": "Google Maps Karte mit unserem Standort",
+            "sectionTitle": "Finde uns in der Region Hannover",
+            "openOnMap": "Auf Google Maps öffnen",
+            "visitUs": "Besuche uns in Isernhagen",
+            "publicTransportLabel": "Öffentliche Verkehrsmittel",
+            "parkingLabel": "Parken",
+            "mapEmbedUrl": ""
+          },
+          "reviews": {
+            "title": "Erfahrungen mit unserer Schulbegleitung Hannover",
+            "subtitle": "Lies hier, wie Familien und pädagogische Fachkräfte die gemeinsame Arbeit mit unserem Team erleben – für echte Teilhabe im Schulalltag.",
+            "reviewData": {
+              "displayName": {
+                "text": "Am Ortfelde 59"
+              },
+              "formattedAddress": "Am Ortfelde 59, 30916 Isernhagen, Germany",
+              "reviews": [],
+              "userRatingCount": 0
+            },
+            "minimumRating": 4,
+            "rating": "4.9"
+          },
+          "faq": {
+            "title": "Häufige Fragen zur Schulbegleitung Hannover",
+            "subtitle": "Der Weg zur passenden Unterstützung wirft oft Fragen auf. Von der Beantragung bis zum gemeinsamen Schulalltag – hier geben wir Dir Orientierung und klären die wichtigsten Punkte für Familien in Hannover und Isernhagen."
+          },
+          "trust": {
+            "partner": "Dein verlässlicher Partner für Schulbegleitung in Hannover",
+            "H2": "Hand in Hand mit Dir und den Schulen",
+            "qualityPartners": "Gemeinsam für echte Teilhabe: Unsere starken Partner",
+            "trustDataFile": "partners.json",
+            "logos": [
+              {
+                "src": "/images/schulbegleitung/trustblock/schulbegleitung-bpa-arbeitgeberverband-logo.webp",
+                "alt": "Logo eines regionalen Bildungspartners der Schulbegleitung Hand in Hand"
+              },
+              {
+                "src": "/images/schulbegleitung/trustblock/schulbegleitung-jugendamt-logo.webp",
+                "alt": "Qualitätssiegel für pädagogische Fachkräfte in der Schulassistenz"
+              },
+              {
+                "src": "/images/schulbegleitung/trustblock/schulbegleitung-kinderschutzzentrum-hannover.webp",
+                "alt": "Kooperationspartner für Inklusion an Schulen in Isernhagen"
+              },
+              {
+                "src": "/images/schulbegleitung/trustblock/schulbegleitung-landeshauptstadt-hannover-logo.webp",
+                "alt": "Partnernetzwerk für die Förderung und Teilhabe von Kindern"
+              }
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "pageTitle": "Häufige Fragen",
+          "metadata": {
+            "title": "FAQ: Antworten zur Schulbegleitung Hannover & Region",
+            "description": "Du hast Fragen zur Schulbegleitung? Hier findest Du Antworten zu Anträgen, Voraussetzungen und unserer Arbeit in Hannover. Wir helfen Dir gerne weiter!",
+            "keywords": "FAQ Schulbegleitung, Schulbegleitung beantragen, Voraussetzungen Schulbegleitung, Aufgaben Schulbegleitung, Schulbegleiter Qualifikation, Schulassistenz Hannover, Integrationshelfer Fragen, Schulbegleitung Autismus ADHS, Inklusion Schule Hannover",
+            "openGraph": {
+              "url": "https://www.schulbegleitung.info/de/faq",
+              "title": "FAQ: Antworten zur Schulbegleitung Hannover & Region",
+              "images": [
+                {
+                  "alt": "FAQ-Bereich der Schulbegleitung Hand in Hand",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+                }
+              ],
+              "description": "Du hast Fragen zur Schulbegleitung? Hier findest Du Antworten zu Anträgen, Voraussetzungen und unserer Arbeit in Hannover. Wir helfen Dir gerne weiter!"
+            },
+            "twitter": {
+              "title": "FAQ: Antworten zur Schulbegleitung Hannover & Region",
+              "description": "Du hast Fragen zur Schulbegleitung? Hier findest Du Antworten zu Anträgen, Voraussetzungen und unserer Arbeit in Hannover. Wir helfen Dir gerne weiter!",
+              "images": [
+                {
+                  "alt": "FAQ-Bereich der Schulbegleitung Hand in Hand",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Deine Fragen zur Schulbegleitung in Hannover",
+            "lead": "Du hast Fragen zu Schulbegleitung, Antragstellung oder unserem Team? Hier findest Du Antworten und wertvolle Infos, damit Du Dich gut aufgehoben fühlst. Wir sind für Dich da – in Hannover und Isernhagen."
+          },
+          "faqDataFile": "faq-xxl.json",
+          "schema": []
+        },
+        {
+          "name": "impressum",
+          "pageTitle": "Impressum",
+          "metadata": {
+            "title": "Impressum | Hand in Hand – Deine Schulbegleitung in Hannover",
+            "description": "Das Impressum von Hand in Hand, deinem Partner für Schulbegleitung in Hannover und Isernhagen. Wir stehen für Transparenz und Verlässlichkeit.",
+            "keywords": "Impressum, Schulbegleitung Hannover, Hand in Hand, Isernhagen, Schulassistenz, Inklusion, Rechtliches",
+            "openGraph": {
+              "url": "https://www.schulbegleitung.info/de/impressum",
+              "title": "Impressum | Hand in Hand – Deine Schulbegleitung in Hannover",
+              "images": [
+                {
+                  "alt": "Logo von Hand in Hand, inklusive Schulbegleitung",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+                }
+              ],
+              "description": "Das Impressum von Hand in Hand, deinem Partner für Schulbegleitung in Hannover und Isernhagen. Wir stehen für Transparenz und Verlässlichkeit."
+            },
+            "twitter": {
+              "title": "Impressum | Hand in Hand – Deine Schulbegleitung in Hannover",
+              "description": "Das Impressum von Hand in Hand, deinem Partner für Schulbegleitung in Hannover und Isernhagen. Wir stehen für Transparenz und Verlässlichkeit.",
+              "images": [
+                {
+                  "alt": "Logo von Hand in Hand, inklusive Schulbegleitung",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "datenschutz",
+          "pageTitle": "Datenschutz",
+          "metadata": {
+            "title": "Datenschutz bei Hand in Hand: Deine Daten sind sicher",
+            "description": "Bei Hand in Hand nehmen wir den Schutz deiner persönlichen Daten sehr ernst. Hier erfährst du, wie wir deine Privatsphäre wahren und deine Daten schützen.",
+            "keywords": "Datenschutz, Hand in Hand, Schulbegleitung, Daten, Privatsphäre, Sicherheit, Informationen, Schutz, Vertrauen",
+            "openGraph": {
+              "url": "https://www.schulbegleitung.info/de/datenschutz",
+              "title": "Datenschutz bei Hand in Hand: Deine Daten sind sicher",
+              "images": [
+                {
+                  "alt": "Datenschutz-Erklärung von Hand in Hand",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+                }
+              ],
+              "description": "Bei Hand in Hand nehmen wir den Schutz deiner persönlichen Daten sehr ernst. Hier erfährst du, wie wir deine Privatsphäre wahren und deine Daten schützen."
+            },
+            "twitter": {
+              "title": "Datenschutz bei Hand in Hand: Deine Daten sind sicher",
+              "description": "Bei Hand in Hand nehmen wir den Schutz deiner persönlichen Daten sehr ernst. Hier erfährst du, wie wir deine Privatsphäre wahren und deine Daten schützen.",
+              "images": [
+                {
+                  "alt": "Datenschutz-Erklärung von Hand in Hand",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "ueber-uns",
+          "pageTitle": "Über Uns: Deine Schulbegleitung in Hannover & Isernhagen",
+          "metadata": {
+            "title": "Über uns: Hand in Hand – Deine Schulbegleitung in Hannover",
+            "description": "Lerne Hand in Hand kennen – Deine inklusive Schulbegleitung in Hannover & Isernhagen. Wir begleiten Kinder mit Herz und Verstand. Jetzt Kontakt aufnehmen!",
+            "keywords": "Über uns, Hand in Hand, Schulbegleitung Hannover, inklusive Schulbegleitung, Team, Werte, Philosophie, Isernhagen",
+            "openGraph": {
+              "url": "https://www.schulbegleitung.info/de/ueber-uns",
+              "title": "Über uns: Hand in Hand – Deine Schulbegleitung in Hannover",
+              "images": [
+                {
+                  "alt": "Team von Hand in Hand, inklusive Schulbegleitung Hannover",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/about/schulbegleitung-ueber-uns.webp"
+                }
+              ],
+              "description": "Lerne Hand in Hand kennen – Deine inklusive Schulbegleitung in Hannover & Isernhagen. Wir begleiten Kinder mit Herz und Verstand. Jetzt Kontakt aufnehmen!"
+            }
+          },
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Bei Hand in Hand sehen wir Dein Kind als Persönlichkeit – nicht als Diagnose. In Hannover, Isernhagen und der Region Hannover ermöglichen wir mit unserer Schulbegleitung eine selbstbestimmte Teilhabe am Schulleben. Wir arbeiten mit Herz und Verstand und bauen Brücken dort, wo Unterstützung gebraucht wird."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/schulbegleitung/about/schulbegleitung-ueber-uns.webp",
+              "alt": "Zwei Hände halten ein kleines, grünes Blatt. Symbolisiert Fürsorge und Wachstum in der Schulbegleitung."
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Mehr als Aufsicht: individuelle Begleitung"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Wir begleiten Dein Kind bei Autismus, ADHS sowie seelischen, sozialen oder körperlichen Beeinträchtigungen – im Unterricht, in den Pausen und bei schulischen Aktivitäten. Ziel ist immer: Selbstständigkeit und Selbstbewusstsein stärken, damit echte Teilhabe möglich wird."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Persönlicher Träger, feste Ansprechpartner"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Als kleiner Träger kennen wir unsere Familien. Wir koordinieren eng mit Schule und Ämtern, mit über 10 Jahren Erfahrung und einem Team, das sich regelmäßig fortbildet. Die pädagogische Leitung liegt bei einer staatlich anerkannten Erzieherin und Sozialpädagogin B.A. – für Dich bedeutet das: professionelle und einfühlsame Begleitung aus einer Hand."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "„Wir sehen Dich“ – unser Versprechen"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Wir nehmen jedes Kind in seiner Einzigartigkeit wahr und passen unsere Unterstützung flexibel an. Inklusion heißt für uns: Niemand muss sich verbiegen, um dazuzugehören. Dafür tauschen wir uns transparent mit Lehrkräften und Fachstellen aus und ziehen gemeinsam mit Dir an einem Strang."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Beantragung und Beratung"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Der Weg zur Schulbegleitung kann bürokratisch wirken – wir lassen Dich nicht allein. Wir erklären Abläufe, Voraussetzungen und unterstützen Dich bei der Abstimmung mit den zuständigen Stellen. Schreib uns gern, wenn Du Orientierung brauchst."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Karriere: Team Hand in Hand"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Unser pädagogisches Team bringt hohe soziale Kompetenz und kontinuierliche Weiterbildung mit. Wenn Du „Wir sehen Dich“ als gelebte Haltung teilen und als Schulbegleiter in der Region aktiv werden möchtest, freuen wir uns auf Deine Bewerbung."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Hand in Hand für echte Teilhabe"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Ob Du als Familie Entlastung suchst oder als Fachkraft einen Job mit Sinn – bei uns treffen Menschen aufeinander, die Inklusion ernst meinen. Gemeinsam machen wir aus Schule einen Ort, an dem jedes Kind Stärken entfalten kann."
+                }
+              ]
+            }
+          ],
+          "h1": "Deine inklusive Schulbegleitung Hannover"
+        },
+        {
+          "name": "grounding",
+          "pageTitle": "Grounding | Hand in Hand",
+          "metadata": {
+            "title": "Grounding | Hand in Hand",
+            "description": "KI-Grounding-Seite für Hand in Hand — strukturierte Entity-Definitionen und Fakten zur Website für KI-Systeme.",
+            "keywords": "Grounding, KI, AI, Hand in Hand, Referenzseite",
+            "openGraph": {
+              "url": "https://schulbegleitung-hannover.org/de/wissensgrundlage",
+              "title": "Grounding | Hand in Hand",
+              "images": [
+                {
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": "Hand in Hand - Inklusive Schulbegleitung Hannover"
+                }
+              ],
+              "description": "KI-Grounding-Seite für Hand in Hand."
+            },
+            "twitter": {
+              "title": "Grounding | Hand in Hand",
+              "description": "KI-Grounding-Seite für Hand in Hand.",
+              "images": [
+                {
+                  "alt": "Hand in Hand - Inklusive Schulbegleitung Hannover",
+                  "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Grounding",
+            "lead": "Strukturierte Fakten und Entity-Definitionen zu Hand in Hand."
+          },
+          "schema": []
+        }
+      ],
+      "impressumBacklink": {
+        "headingTitle": "Konzept, Design und technische Umsetzung",
+        "title": "Website Design",
+        "link": "https://www.hero-pages.com/website-design"
+      },
+      "languages": [],
+      "clientDomain": "www.schulbegleitung.info"
+    },
+    {
+      "id": "schulassistenz",
+      "deployDomain": "schulassistenz.online",
+      "googleTagId": "G-QP4RRVGZW7",
+      "websiteBriefing": "Main Keyword: Schulassistenz",
+      "business": {
+        "name": "Hand in Hand",
+        "brandName": "Hand in Hand",
+        "legalName": "Hand in Hand GmbH",
+        "location": {
+          "city": "Isernhagen",
+          "district": "Region Hannover",
+          "neighborhood": "Isernhagen NB"
+        },
+        "phone": "+491731696192",
+        "email": "info@inklusive-schulbegleitung.de",
+        "openingHours": {
+          "short": "Mo-Fr 08:00-15:00",
+          "detailed": "Montag bis Freitag: 08:00 - 15:00 Uhr. Außerhalb dieser Zeiten sind wir gerne nach vorheriger Vereinbarung für Dich da.",
+          "display": "Mo. - Fr.: 08:00 - 15:00 Uhr"
+        },
+        "contactPerson": {
+          "name": "Dein Team bei Hand in Hand",
+          "title": "Dein Team für Schulassistenz & Inklusion",
+          "imageUrl": "/images/schulassistenz/team/schulassistenz-team.webp"
+        },
+        "bookingUrl": "",
+        "social": {
+          "instagram": "https://www.instagram.com/hand_in_hand_hannover",
+          "facebook": "",
+          "whatsappNumber": ""
+        },
+        "ustId": "",
+        "vertreter": "Jan Ziehme",
+        "googlePlacesId": "ChIJm_0Wiy91sEcRCOrkYudR9Mg",
+        "registergericht": "Hannover",
+        "hrbNummer": "HRB 229182",
+        "legalAddress": {
+          "street": "Am Ortfelde 59",
+          "postalCode": "30916",
+          "city": "Isernhagen"
+        },
+        "locationAddress": {
+          "street": "Am Ortfelde 59",
+          "postalCode": "30916",
+          "city": "Isernhagen"
+        }
+      },
+      "header": {
+        "logoUrl": "/images/schulassistenz/schulassistenz-logo.webp",
+        "logoAlt": "Logo Hand in Hand – Schulassistenz & Schulbegleitung Isernhagen",
+        "logoWidth": 160,
+        "ariaLabelNavigation": "Hauptnavigation",
+        "ariaMenuOpen": "Menü öffnen",
+        "ariaMenuClose": "Menü schließen",
+        "links": [
+          {
+            "label": "Über uns",
+            "url": "/ueber-uns",
+            "href": "/de/ueber-uns"
+          },
+          {
+            "label": "FAQ",
+            "url": "/faq",
+            "href": "/de/faq"
+          },
+          {
+            "label": "mehr erfahren",
+            "href": "mailto:info@inklusive-schulbegleitung.de",
+            "type": "button"
+          }
+        ]
+      },
+      "footer": {
+        "navigation": {
+          "label": "Navigation",
+          "links": [
+            {
+              "link": "https://inklusive-schulbegleitung.de/individuelle-schulbegleitung",
+              "linkLabel": "Schulbegleitung"
+            },
+            {
+              "link": "https://inklusive-schulbegleitung.de/karriere",
+              "linkLabel": "Karriere"
+            }
+          ]
+        },
+        "contact": {
+          "label": "Kontakt",
+          "links": [
+            {
+              "link": "tel:+491731696192",
+              "linkLabel": "+49 173 1696192"
+            },
+            {
+              "link": "mailto:info@inklusive-schulbegleitung.de",
+              "linkLabel": "info@inklusive-schulbegleitung.de"
+            }
+          ]
+        },
+        "followUs": "Folge uns",
+        "openingHoursLabel": "Öffnungszeiten",
+        "imprint": "Impressum",
+        "privacy": "Datenschutz",
+        "grounding": "Grounding"
+      },
+      "cookie": {
+        "title": "Deine Datenschutz-Einstellungen",
+        "description": "Wir nutzen Cookies, um unsere Website für Dich so hilfreich wie möglich zu gestalten. So findest Du schnell die passenden Informationen rund um Schulassistenz und Schulbegleitung.",
+        "acceptAll": "Alle akzeptieren",
+        "acceptEssential": "Nur essenzielle",
+        "moreInfo": "Mehr Informationen"
+      },
+      "notFound": {
+        "title": "Hoppla, diese Seite haben wir nicht gefunden.",
+        "description": "Vielleicht hast Du Dich vertippt oder der Link ist veraltet. Egal, ob Du Schulassistenz und Schulbegleitung für Dein Kind suchst oder als pädagogische Fachkraft unser Team in Isernhagen verstärken möchtest – lass uns gemeinsam den richtigen Weg finden.",
+        "backHome": "Zur Startseite"
+      },
+      "translationsMetadata": {
+        "disclaimer": {
+          "aiTranslation": "Diese Seite wurde automatisch übersetzt, damit wir für alle Familien da sein können. Bitte entschuldige kleine sprachliche Ungenauigkeiten.",
+          "dismissAria": "Hinweis schließen",
+          "infoAria": "Informationen zur Übersetzung"
+        },
+        "common": {
+          "close": "Schließen",
+          "selectLanguage": "Sprache auswählen"
+        }
+      },
+      "index": {
+        "redirectTitle": "Weiterleitung…",
+        "redirectTo": "Weiterleitung nach"
+      },
+      "pages": [
+        {
+          "name": "home",
+          "pageTitle": "Schulassistenz Hannover & Isernhagen | Hand in Hand",
+          "metadata": {
+            "geo": {
+              "icbm": "52.455566399999995, 9.800053799999999",
+              "region": "",
+              "position": "52.455566399999995;9.800053799999999",
+              "placename": "Isernhagen"
+            },
+            "title": "Schulassistenz Hannover & Isernhagen | Hand in Hand",
+            "keywords": "Schulassistenz Hannover, Schulassistenz Isernhagen, Schulbegleitung Hannover, Inklusive Schulbegleitung, Schulbegleiter werden Hannover, Teilhabeassistenz, Integrationshelfer, Autismus, ADHS, Inklusion Schule Hannover",
+            "openGraph": {
+              "url": "https://www.schulassistenz.online/de",
+              "title": "Schulassistenz Hannover & Isernhagen | Hand in Hand",
+              "images": [
+                {
+                  "alt": "Kinder, die Hand in Hand zur Schule gehen, symbolisieren Schulassistenz und Inklusion",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+                }
+              ],
+              "description": "Schulassistenz Hannover & Isernhagen: Hand in Hand begleitet Dein Kind mit Herz zu mehr Teilhabe. Beantragung, Schulbegleitung, Team – jetzt Kontakt."
+            },
+            "twitter": {
+              "title": "Schulassistenz Hannover & Isernhagen | Hand in Hand",
+              "description": "Schulassistenz Hannover & Isernhagen: Hand in Hand begleitet Dein Kind mit Herz zu mehr Teilhabe. Beantragung, Schulbegleitung, Team – jetzt Kontakt.",
+              "images": [
+                {
+                  "alt": "Kinder, die Hand in Hand zur Schule gehen, symbolisieren Schulassistenz und Inklusion",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+                }
+              ]
+            },
+            "description": "Schulassistenz Hannover & Isernhagen: Hand in Hand begleitet Dein Kind mit Herz zu mehr Teilhabe. Beantragung, Schulbegleitung, Team – jetzt Kontakt.",
+            "schema": [
+              {
+                "id": "https://www.schulassistenz.online/de",
+                "schemaType": "Organization",
+                "data": {
+                  "name": "Hand in Hand – Schulassistenz & Schulbegleitung",
+                  "legalName": "Hand in Hand GmbH",
+                  "alternateName": [],
+                  "description": "Schulassistenz Hannover & Isernhagen: Hand in Hand begleitet Dein Kind mit Herz zu mehr Teilhabe. Beantragung, Schulbegleitung, Team – jetzt Kontakt.",
+                  "telephone": "+49-5139-982000",
+                  "email": "info@schulassistenz.online",
+                  "url": "https://www.schulassistenz.online/de",
+                  "sameAs": [
+                    "https://www.facebook.com/schulassistenzonline"
+                  ],
+                  "address": [
+                    {
+                      "[@type]": "PostalAddress",
+                      "name": "Hand in Hand – Schulassistenz & Schulbegleitung",
+                      "streetAddress": "Im See 20",
+                      "postalCode": "30916",
+                      "addressLocality": "Isernhagen",
+                      "addressRegion": "Niedersachsen",
+                      "addressCountry": "Deutschland"
+                    }
+                  ],
+                  "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "15:00"
+                  }
+                }
+              },
+              {
+                "id": "https://www.schulassistenz.online/de",
+                "schemaType": "WebSite",
+                "data": {
+                  "name": "Schulassistenz Online",
+                  "url": "https://www.schulassistenz.online/de",
+                  "description": "Schulassistenz Hannover & Isernhagen: Hand in Hand begleitet Dein Kind mit Herz zu mehr Teilhabe. Beantragung, Schulbegleitung, Team – jetzt Kontakt.",
+                  "inLanguage": "de-DE",
+                  "publisher": {
+                    "[@id]": "#organization"
+                  },
+                  "telephone": "+49-5139-982000",
+                  "email": "info@schulassistenz.online",
+                  "legalName": "Hand in Hand GmbH",
+                  "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "15:00"
+                  }
+                }
+              },
+              {
+                "id": "https://www.schulassistenz.online/de",
+                "schemaType": "LocalBusiness",
+                "data": {
+                  "[@type]": "LocalBusiness",
+                  "name": "Hand in Hand – Schulassistenz & Schulbegleitung",
+                  "description": "Schulassistenz Hannover & Isernhagen: Hand in Hand begleitet Dein Kind mit Herz zu mehr Teilhabe. Beantragung, Schulbegleitung, Team – jetzt Kontakt.",
+                  "url": "https://www.schulassistenz.online/de",
+                  "telephone": "+49-5139-982000",
+                  "email": "info@schulassistenz.online",
+                  "address": {
+                    "[@type]": "PostalAddress",
+                    "streetAddress": "Im See 20",
+                    "postalCode": "30916",
+                    "addressLocality": "Isernhagen",
+                    "addressRegion": "Niedersachsen",
+                    "addressCountry": "Deutschland"
+                  },
+                  "geo": {
+                    "latitude": "52.4578",
+                    "longitude": "9.8398"
+                  },
+                  "openingHoursSpecification": [],
+                  "sameAs": [
+                    "https://www.facebook.com/schulassistenzonline"
+                  ],
+                  "legalName": "Hand in Hand GmbH"
+                }
+              }
+            ]
+          },
+          "hero": {
+            "h1": "Schulassistenz in Hannover: Hand in Hand",
+            "backgroundImageAlt": "Schulassistenz im Klassenzimmer: Kind und pädagogische Fachkraft lesen gemeinsam ein Buch.",
+            "locationPrefix": "in",
+            "locationSuffix": "und Region",
+            "namePrefix": "Deine",
+            "callAriaLabel": "Ruf uns jetzt an für eine individuelle Beratung zur Schulassistenz, Schulbegleitung und Teilhabeassistenz für Dein Kind.",
+            "since": "Seit über 10 Jahren an Deiner Seite",
+            "card1Icon": "star",
+            "card1Line1": "Über 10 Jahre Erfahrung",
+            "card1Line2": "für Dein Kind",
+            "card2Icon": "favorite",
+            "card2Line1": "Mit Herz & Verstand",
+            "card2Line2": "in Hannover & Region",
+            "card3Icon": "school",
+            "card3Line1": "Gelebte Inklusion",
+            "card3Line2": "für jedes Kind",
+            "buttons": [
+              {
+                "text": "mehr erfahren",
+                "link": "mailto:info@inklusive-schulbegleitung.de",
+                "variant": "primary"
+              },
+              {
+                "text": "+49 173 1696192",
+                "link": "tel:+491731696192",
+                "variant": "outline"
+              }
+            ],
+            "backgroundImage": "/images/schulassistenz/hero/schulassistenz-hero.webp"
+          },
+          "info": {
+            "description": "Manchmal brauchen Kinder besondere Unterstützung im Schulalltag. Mit Schulassistenz und Schulbegleitung in Hannover und Isernhagen stehen wir Familien verlässlich zur Seite – und bieten engagierten Fachkräften einen sinnstiftenden Job in einem wertschätzenden Team.",
+            "paragraph1": "Wir verstehen uns als engagierter Partner für Schulassistenz und Schulbegleitung an Deiner Seite. Unser Ziel ist es, echte Teilhabe und gelebte Inklusion zu ermöglichen. Ob bei Autismus, ADHS oder anderen seelischen, sozialen oder körperlichen Herausforderungen: Wir sehen Dein Kind in seiner Einzigartigkeit und schaffen ein Umfeld, in dem es wachsen und lernen kann.",
+            "paragraph2": "Mit Herz und Verstand begleiten wir Kinder im Unterricht und in den Pausen. Wir fördern gezielt die Selbstständigkeit und stärken das Selbstvertrauen Deines Kindes. Dabei lassen wir Dich nicht allein: Wir helfen Dir konkret bei der Beantragung und koordinieren alles mit Schulen und Ämtern. Du möchtest selbst Brücken bauen? Werde als pädagogische Fachkraft oder Quereinsteiger Teil unseres Teams!",
+            "quote": "Wir sehen Dich – dieses Versprechen gilt für jedes Kind, jede Familie und jedes Teammitglied. Hand in Hand schaffen wir ein Umfeld, in dem Dein Kind sein Potenzial entfalten kann.",
+            "imageAlt": "Ein Schulkind mit Schulassistenz und Schulbegleitung bei einer Lernaktivität am Tisch, die beiden lächeln.",
+            "activities": {
+              "title": "Individuelle Begleitung",
+              "description": "Dein Kind erhält maßgeschneiderte Schulassistenz und Begleitung im Unterricht und bei allen schulischen Aktivitäten – abgestimmt auf seine speziellen Bedürfnisse.",
+              "icon": "individual_support"
+            },
+            "nutrition": {
+              "title": "Echte Teilhabe fördern",
+              "description": "Unser Fokus liegt auf der aktiven Förderung: Wir befähigen Dein Kind, das Schulleben eigenständig zu meistern und eigene Stärken zu entdecken.",
+              "icon": "active_participation"
+            },
+            "garden": {
+              "title": "Starke Partnerschaft",
+              "description": "Als kleiner, persönlicher Träger arbeiten wir eng mit Dir, der Schule und den Ämtern zusammen, um Euch bestmöglich zu entlasten.",
+              "icon": "strong_partnership"
+            },
+            "values": {
+              "nature": "Jedes Kind ist einzigartig. Wir sehen die individuellen Bedürfnisse und Fähigkeiten Deines Kindes und passen unsere Unterstützung flexibel an.",
+              "mindfulness": "Wir arbeiten nicht nur mit Fachwissen, sondern auch mit viel Empathie und einem tiefen Verständnis für die Situation Deines Kindes und Deiner Familie.",
+              "participation": "Unser Ziel ist es, Dein Kind zu befähigen, selbstständig zu handeln und sich aktiv in die Schulgemeinschaft einzubringen. Wir bauen Brücken."
+            },
+            "valueIcons": {
+              "mindfulness": "empathy_icon",
+              "nature": "individuality_icon",
+              "participation": "inclusion_icon"
+            },
+            "sectionTitle": "Schulassistenz Hannover: Mit Herz & Verstand",
+            "activitiesLabel": "Individuelle Begleitung",
+            "nutritionLabel": "Echte Teilhabe fördern",
+            "gardenLabel": "Starke Partnerschaft",
+            "mindfulness": "Herz & Empathie",
+            "nature": "Individuell & Flexibel",
+            "participation": "Gelebte Inklusion",
+            "imageUrl": "/images/schulassistenz/info/schulassistenz-info.webp"
+          },
+          "contact": {
+            "location": "Isernhagen",
+            "locationLabel": "Standort",
+            "addressName": "Hand in Hand",
+            "bookOnline": "Kontakt aufnehmen",
+            "bookOnlineDesc": "Du suchst Schulassistenz oder Schulbegleitung in Hannover oder Isernhagen? Oder möchtest Du unser Team verstärken? Wir freuen uns auf Deine Nachricht und melden uns schnellstmöglich bei Dir.",
+            "infoTitle": "Wir sind für Dich da",
+            "addressLabel": "Adresse",
+            "openingHoursLabel": "Öffnungszeiten",
+            "phoneLabel": "Telefon",
+            "emailLabel": "E-Mail",
+            "bookingTitle": "Sprich mit uns!",
+            "bookingIntro": "Egal ob Du Schulassistenz und Schulbegleitung für Dein Kind suchst oder Teil unseres engagierten Teams werden möchtest – wir sind offen für Deine Fragen und Anliegen. Kontaktiere uns ganz einfach.",
+            "bookingButton": "Nachricht senden"
+          },
+          "gallery": {
+            "title": "Momente der Inklusion: Schulassistenz & Schulbegleitung Hannover",
+            "subtitle": "Wir zeigen Dir, wie Schulassistenz und gelebte Inklusion im Schulalltag aussehen – mit Herz und Verstand in Hannover und Isernhagen.",
+            "ariaLabel": "Galerie: Schulassistenz und Schulbegleitung",
+            "images": [
+              {
+                "src": "/images/schulassistenz/gallerie/schulassistenz-1.webp",
+                "alt": "Schulbegleiterin unterstützt ein Kind beim Lesen im Klassenzimmer"
+              },
+              {
+                "src": "/images/schulassistenz/gallerie/schulassistenz-2.webp",
+                "alt": "Ein Kind mit Schulbegleitung arbeitet konzentriert an einer Aufgabe im Klassenzimmer, umgeben von anderen Schülern."
+              },
+              {
+                "src": "/images/schulassistenz/gallerie/schulassistenz-3.webp",
+                "alt": "Schulbegleiterin hilft einem Kind, seine Schultasche zu packen"
+              },
+              {
+                "src": "/images/schulassistenz/gallerie/schulassistenz-4.webp",
+                "alt": "Gruppe von Kindern und einer Schulbegleiterin lachend im Klassenzimmer"
+              },
+              {
+                "src": "/images/schulassistenz/gallerie/schulassistenz-5.webp",
+                "alt": "Schulbegleiterin und Kind unterhalten sich auf dem Schulhof"
+              },
+              {
+                "src": "/images/schulassistenz/gallerie/schulassistenz-6.webp",
+                "alt": "Zwei Kinder spielen gemeinsam, begleitet von einer Schulbegleiterin"
+              },
+              {
+                "src": "/images/schulassistenz/gallerie/schulassistenz-7.webp",
+                "alt": "Schulbegleiterin und Kind bauen einen Turm aus Bauklötzen"
+              },
+              {
+                "src": "/images/schulassistenz/gallerie/schulassistenz-8.webp",
+                "alt": "Schulbegleiterin zeigt einem Kind etwas in einem Buch"
+              }
+            ],
+            "roomsTitle": "Im Unterricht & in der Schule",
+            "roomsDescription": "Wir sind an Deiner Seite, wenn es um das Lernen, die Organisation und das Miteinander im Schulgebäude geht.",
+            "outdoorTitle": "Pausen & Schulhof",
+            "outdoorDescription": "Auch draußen sorgen wir für Sicherheit, Teilhabe und Freude am gemeinsamen Spiel.",
+            "rooms": "Im Schulgebäude",
+            "outdoor": "Im Freien",
+            "prevImage": "Vorheriges Bild",
+            "nextImage": "Nächstes Bild"
+          },
+          "team": {
+            "title": "Deine Schulassistenz: Wir sehen Dich",
+            "subtitle": "Unser familiäres Team aus engagierten Fachkräften setzt täglich Schulassistenz und Schulbegleitung für echte Teilhabe um. Finde die passende Unterstützung für Dein Kind oder werde selbst Teil unserer Mission.",
+            "teamMember": {
+              "quote": "Ich sehe Dich – dieses Versprechen gilt für jedes Kind, jede Familie und jedes Teammitglied."
+            }
+          },
+          "map": {
+            "description": "Besuche uns in Isernhagen! Hier beraten wir Dich persönlich und finden gemeinsam die passende Schulassistenz und Schulbegleitung für Dein Kind. Wir freuen uns auf Dich.",
+            "publicTransport": "Unser Büro ist gut an den ÖPNV angebunden. Plane Deine Anfahrt am besten bequem online.",
+            "parking": "Es gibt Parkmöglichkeiten direkt vor Ort oder in unmittelbarer Umgebung.",
+            "addressTitle": "Unser Büro in Isernhagen",
+            "iframeTitle": "Standort von Hand in Hand in Isernhagen auf Google Maps",
+            "sectionTitle": "Hier findest Du uns in der Region Hannover",
+            "openOnMap": "Auf Google Maps öffnen",
+            "visitUs": "Besuche uns!",
+            "publicTransportLabel": "Öffentliche Verkehrsmittel",
+            "parkingLabel": "Parken",
+            "mapEmbedUrl": ""
+          },
+          "reviews": {
+            "title": "Was andere über unsere Schulassistenz sagen",
+            "subtitle": "Erfahrungen von Familien und Schulen. So erleben Eltern und pädagogische Fachkräfte unsere Schulassistenz und Schulbegleitung für echte Teilhabe und gelebte Inklusion in Hannover und Isernhagen.",
+            "reviewData": {
+              "displayName": {
+                "text": "Am Ortfelde 59"
+              },
+              "formattedAddress": "Am Ortfelde 59, 30916 Isernhagen, Germany",
+              "reviews": [],
+              "userRatingCount": 0
+            },
+            "minimumRating": 4,
+            "rating": "5.0"
+          },
+          "faq": {
+            "title": "Deine Fragen zur Schulassistenz Hannover",
+            "subtitle": "Ob Du als Elternteil Unterstützung bei der Beantragung von Schulassistenz suchst oder als Fachkraft Teil unseres Teams werden möchtest – hier findest Du erste Antworten und Orientierung."
+          },
+          "trust": {
+            "partner": "Erfahrung & pädagogische Kompetenz",
+            "H2": "Über 10 Jahre Schulassistenz mit Schulen in Hannover und Isernhagen",
+            "qualityPartners": "Hand in Hand mit starken Partnern",
+            "trustDataFile": "partners.json",
+            "logos": [
+              {
+                "src": "/images/schulassistenz/trustblock/schulassistenz-bpa-arbeitgeberverband-logo.webp",
+                "alt": "Logo eines regionalen Bildungspartners für Schulassistenz und Schulbegleitung Hand in Hand"
+              },
+              {
+                "src": "/images/schulassistenz/trustblock/schulassistenz-jugendamt-logo.webp",
+                "alt": "Qualitätssiegel für pädagogische Fachkräfte in der Schulassistenz"
+              },
+              {
+                "src": "/images/schulassistenz/trustblock/schulassistenz-kinderschutzzentrum-hannover.webp",
+                "alt": "Kooperationspartner für Inklusion an Schulen in Isernhagen"
+              },
+              {
+                "src": "/images/schulassistenz/trustblock/schulassistenz-landeshauptstadt-hannover-logo.webp",
+                "alt": "Partnernetzwerk für die Förderung und Teilhabe von Kindern"
+              }
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "pageTitle": "FAQ: Schulassistenz Hannover | Hand in Hand",
+          "metadata": {
+            "title": "FAQ Schulassistenz Hannover: Deine Fragen | Hand in Hand",
+            "description": "Fragen zur Schulassistenz und Schulbegleitung in Hannover & Isernhagen? Hier findest Du Antworten zu Beantragung, Aufgaben und unserem Team.",
+            "keywords": "FAQ Schulassistenz Hannover, Schulassistenz Isernhagen, Schulassistenz beantragen, Schulbegleitung Hannover, Aufgaben Schulassistenz, Qualifikation Schulbegleiter, Inklusion Schule Hannover, Teilhabeassistenz, Autismus, ADHS",
+            "openGraph": {
+              "url": "https://www.schulassistenz.online/de/faq",
+              "title": "FAQ Schulassistenz Hannover: Deine Fragen | Hand in Hand",
+              "images": [
+                {
+                  "alt": "Häufig gestellte Fragen zur Schulassistenz in Hannover",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+                }
+              ],
+              "description": "Fragen zur Schulassistenz und Schulbegleitung in Hannover & Isernhagen? Hier findest Du Antworten zu Beantragung, Aufgaben und unserem Team."
+            },
+            "twitter": {
+              "title": "FAQ Schulassistenz Hannover: Deine Fragen | Hand in Hand",
+              "description": "Fragen zur Schulassistenz und Schulbegleitung in Hannover & Isernhagen? Hier findest Du Antworten zu Beantragung, Aufgaben und unserem Team.",
+              "images": [
+                {
+                  "alt": "Häufig gestellte Fragen zur Schulassistenz in Hannover",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Deine Fragen zur Schulassistenz Hannover",
+            "lead": "Hier findest Du Antworten auf häufige Fragen zu Schulassistenz und Schulbegleitung in Hannover und Isernhagen. Ob Du als Familie Orientierung suchst oder als Fachkraft Teil unseres Teams werden möchtest – wir gehen diesen Weg Hand in Hand."
+          },
+          "faqDataFile": "faq-xxl.json",
+          "schema": []
+        },
+        {
+          "name": "impressum",
+          "pageTitle": "Impressum | Hand in Hand Schulassistenz Hannover",
+          "metadata": {
+            "title": "Impressum | Hand in Hand Schulassistenz Hannover",
+            "description": "Impressum von Hand in Hand – Schulassistenz und Schulbegleitung in Hannover und Isernhagen. Hier findest Du alle rechtlichen Informationen und Kontaktdaten.",
+            "keywords": "Impressum, Schulassistenz Hannover, Schulassistenz Isernhagen, Schulbegleitung, Hand in Hand, Kontakt, rechtliche Angaben",
+            "openGraph": {
+              "url": "https://www.schulassistenz.online/de/impressum",
+              "title": "Impressum | Hand in Hand Schulassistenz Hannover",
+              "images": [
+                {
+                  "alt": "Impressum von Hand in Hand Schulassistenz Hannover",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+                }
+              ],
+              "description": "Impressum von Hand in Hand – Schulassistenz und Schulbegleitung in Hannover und Isernhagen. Hier findest Du alle rechtlichen Informationen und Kontaktdaten."
+            },
+            "twitter": {
+              "title": "Impressum | Hand in Hand Schulassistenz Hannover",
+              "description": "Impressum von Hand in Hand – Schulassistenz und Schulbegleitung in Hannover und Isernhagen. Hier findest Du alle rechtlichen Informationen und Kontaktdaten.",
+              "images": [
+                {
+                  "alt": "Impressum von Hand in Hand Schulassistenz Hannover",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "datenschutz",
+          "pageTitle": "Datenschutz | Hand in Hand Schulassistenz Hannover",
+          "metadata": {
+            "title": "Datenschutz | Hand in Hand Schulassistenz Hannover",
+            "description": "Dein Vertrauen ist uns wichtig. Erfahre hier, wie wir bei Hand in Hand Deine Daten zur Schulassistenz und Schulbegleitung in Hannover schützen und welche Rechte Du hast.",
+            "keywords": "Datenschutz, Schulassistenz Hannover, Schulbegleitung, Hand in Hand, Daten schützen, Privatsphäre, Informationspflichten",
+            "openGraph": {
+              "url": "https://www.schulassistenz.online/de/datenschutz",
+              "title": "Datenschutz bei Schulassistenz & Schulbegleitung in Hannover",
+              "images": [
+                {
+                  "alt": "Datenschutz bei Hand in Hand Schulassistenz",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+                }
+              ],
+              "description": "Dein Vertrauen ist uns wichtig. Erfahre hier, wie wir bei Hand in Hand Deine Daten zur Schulassistenz und Schulbegleitung in Hannover schützen und welche Rechte Du hast."
+            },
+            "twitter": {
+              "title": "Datenschutz bei Schulassistenz & Schulbegleitung in Hannover",
+              "description": "Dein Vertrauen ist uns wichtig. Erfahre hier, wie wir bei Hand in Hand Deine Daten zur Schulassistenz und Schulbegleitung in Hannover schützen und welche Rechte Du hast.",
+              "images": [
+                {
+                  "alt": "Datenschutz bei Hand in Hand Schulassistenz",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "ueber-uns",
+          "pageTitle": "Über uns: Schulassistenz Hannover | Hand in Hand",
+          "metadata": {
+            "title": "Über uns | Hand in Hand: Schulassistenz Hannover",
+            "description": "Lerne Hand in Hand kennen – Deine Schulassistenz in Hannover. Wir begleiten Kinder mit Herz & Verstand. Jetzt informieren oder Teil des Teams werden!",
+            "keywords": "Schulassistenz Hannover, Schulassistenz Isernhagen, Hand in Hand, Inklusive Schulbegleitung, Schulbegleiter Team, Teilhabeassistenz, Autismus, ADHS, Schulbegleitung Region Hannover, Jobs Schulbegleitung",
+            "openGraph": {
+              "url": "https://www.schulassistenz.online/de/ueber-uns",
+              "title": "Über uns | Hand in Hand: Schulassistenz Hannover",
+              "images": [
+                {
+                  "alt": "Zwei Hände, die sich halten – Symbol für die empathische Schulassistenz von Hand in Hand in Hannover.",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/about/schulassistenz-ueber-uns.webp"
+                }
+              ],
+              "description": "Lerne Hand in Hand kennen – Deine Schulassistenz in Hannover. Wir begleiten Kinder mit Herz & Verstand. Jetzt informieren oder Teil des Teams werden!"
+            }
+          },
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "„Wir sehen Dich“ ist das Herzstück von Hand in Hand. Als Schulassistenz und Schulbegleitung in Hannover und Isernhagen unterstützen wir Kinder mit besonderen Herausforderungen – etwa Autismus, ADHS oder seelischen, sozialen und körperlichen Beeinträchtigungen. Wir sind kein anonymer Träger: Du bekommst feste Ansprechpartner und eine Begleitung, die sich an Deinem Kind orientiert."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/schulassistenz/about/schulassistenz-ueber-uns.webp",
+              "alt": "Kinder spielen Hand in Hand auf dem Schulhof"
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Team, Erfahrung, pädagogische Leitung"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Hinter der Schulassistenz steht ein engagiertes Team mit sehr hoher sozialer Kompetenz. Unter der Leitung einer staatlich anerkannten Erzieherin und Sozialpädagogin B.A. bringen wir über 10 Jahre Erfahrung mit. Regelmäßige Fortbildungen und enger Austausch mit Schulen halten unsere Arbeit aktuell – für Dich heißt das: warmherzige und professionelle Unterstützung."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Brücken im Schulalltag"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Im Rahmen von Schulassistenz und Schulbegleitung sind unsere Fachkräfte Vertrauenspersonen: Sie helfen bei Struktur und Aufgaben, fördern positives Miteinander in den Pausen und arbeiten Hand in Hand mit Dir und den Lehrkräften. So entsteht ein Umfeld, in dem sich Dein Kind sicher fühlen und seine Stärken entwickeln kann."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Individuelle Lösungen"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Jedes Kind ist anders. Deshalb planen wir flexibel und passgenau – ob Unterricht, Pausen oder besondere Situationen. Wir begleiten einfühlsam und kompetent in Hannover und Umgebung."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Antrag und Abstimmung – wir helfen"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Der Weg zur Schulassistenz kann komplex wirken. Wir beraten Dich zu Abläufen und Voraussetzungen und unterstützen bei der Koordination mit Ämtern und Schulen in der Region Hannover."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Dein Job mit Sinn"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Du bist pädagogische Fachkraft oder Quereinsteiger und möchtest Schulassistenz und Schulbegleitung in Hannover mitgestalten? Wir bieten Fortbildung, feste Ansprechpartner und ein Team auf Augenhöhe. Bewirb Dich gern bei uns."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Vertrauen statt Distanz"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Seit über 10 Jahren begleiten wir Familien in Hannover und Umgebung. Als kleiner Träger kennen wir die Geschichten hinter den Anträgen – und bleiben für Dich erreichbar, wenn es darauf ankommt."
+                }
+              ]
+            }
+          ],
+          "h1": "Wir sehen Dich: Deine Schulassistenz Hannover"
+        },
+        {
+          "name": "grounding",
+          "pageTitle": "Grounding | Hand in Hand",
+          "metadata": {
+            "title": "Grounding | Hand in Hand",
+            "description": "KI-Grounding zu Hand in Hand Schulassistenz Hannover — strukturierte Fakten für KI-Systeme.",
+            "keywords": "Grounding, Schulassistenz Hannover, KI, AI, Hand in Hand, Referenzseite",
+            "openGraph": {
+              "url": "https://www.schulassistenz.online/de/wissensgrundlage",
+              "title": "Grounding | Hand in Hand",
+              "images": [
+                {
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": "Hand in Hand – Schulassistenz & Schulbegleitung Isernhagen"
+                }
+              ],
+              "description": "KI-Grounding zu Hand in Hand Schulassistenz Hannover — strukturierte Fakten für KI-Systeme."
+            },
+            "twitter": {
+              "title": "Grounding | Hand in Hand",
+              "description": "KI-Grounding zu Hand in Hand Schulassistenz Hannover — strukturierte Fakten für KI-Systeme.",
+              "images": [
+                {
+                  "alt": "Hand in Hand – Schulassistenz & Schulbegleitung Isernhagen",
+                  "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Grounding",
+            "lead": "Strukturierte Fakten und Entity-Definitionen zu Schulassistenz und Schulbegleitung (Hand in Hand, Hannover & Isernhagen)."
+          },
+          "schema": []
+        }
+      ],
+      "impressumBacklink": {
+        "headingTitle": "Konzept, Design und technische Umsetzung",
+        "title": "Website erstellen lassen",
+        "link": "https://www.hero-pages.com/website-erstellen-lassen"
+      },
+      "languages": [],
+      "clientDomain": "www.schulassistenz.online"
+    }
+  ]
+}

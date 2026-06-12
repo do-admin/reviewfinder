@@ -1,0 +1,16 @@
+[
+  "Colors (HSL 'H S% L%' components). Only the tokens listed below live here;",
+  "everything else (background, foreground, muted, border, ring, destructive, …)",
+  "uses the defaults in src/styles/globals.css.",
+  "",
+  "  primary, accent        ← PO-picked. From Excel (Farbe - Brand / Farbe - Akzent) or auto-extracted by pnpm 05-extract-website:colors.",
+  "  primary-foreground     ← readable text color on primary, auto-derived from WCAG luminance (light bg → dark text, else white).",
+  "  accent-foreground      ← same rule, applied to accent.",
+  "  tertiary               ← auto-derived from primary + accent (hue midpoint, saturation and lightness clamped for visibility). Powers card 1 in <Info>.",
+  "  tertiary-foreground    ← same WCAG-luminance rule, applied to the derived tertiary.",
+  "  accent-soft            ← pastel card background, derived from accent; boosted when accent is too pale or too grey to show at /20 opacity.",
+  "  hero-cta               ← primary CTA button background in the Hero. Defaults to primary; only switches to white for near-black monochrome brands (s<10, L<20) where a filled pill would vanish on the hero photo.",
+  "  hero-cta-foreground    ← same WCAG-luminance rule, applied to hero-cta.",
+  "",
+  "Any key set explicitly here wins over derivation. Derivation lives in scripts/dev/sync-theme-to-globals.mjs."
+]

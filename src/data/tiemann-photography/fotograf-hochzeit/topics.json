@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-04-24T07:48:04.872Z",
+  "clientId": "tiemann-photography",
+  "siteId": "fotograf-hochzeit",
+  "sourceBaseUrl": "https://tiemann-photography.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword:Hochzeitsfotograf",
+  "briefingMainKeyword": "Hochzeitsfotograf",
+  "deployDomainKeyword": "fotograf-hochzeit",
+  "topics": {
+    "coreServices": [
+      "Hochzeitsreportagen und Hochzeitsfotografie",
+      "Businessporträts und Personal Branding",
+      "Schwangerschaftsshootings im Studio (inklusive Leihkleider)",
+      "Editorial-Shootings",
+      "Zubuchbare Second-Shooter-Option für Hochzeiten"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Berufserfahrung",
+      "Kostenloses Beratungsgespräch innerhalb von 24 Stunden",
+      "Eigenes, festes Fotostudio in Hamburg",
+      "Ruhige und professionelle Arbeitsweise",
+      "Hoher Anspruch an Qualität und Struktur"
+    ],
+    "localReferences": [
+      "Hamburg",
+      "Bleicherstraße 2, 22767 Hamburg (Fotostudio)",
+      "Tangstedt",
+      "Wulfsmühle (Hochzeitslocation)"
+    ],
+    "differentiators": [
+      "Editorial-Vibes durch gezielten Blitzlicht-Einsatz",
+      "Zeitlose und klare Bildsprache statt kurzlebiger Trends",
+      "Verbindung von ästhetischem Gespür und Struktur",
+      "Rundum-Service im Studio (z. B. Leihkleider für Schwangere)"
+    ],
+    "faqIntent": [
+      "Was ist ein Second Shooter und warum ist er sinnvoll?",
+      "Wann sollte ich den Fotografen für meine Hochzeit buchen?",
+      "Wie läuft ein Schwangerschaftsshooting ab?",
+      "Bietest du auch Business-Shootings an?",
+      "Wie schnell kann ich ein Beratungsgespräch bekommen?"
+    ]
+  },
+  "keywords": [
+    "Hochzeitsfotograf",
+    "fotograf-hochzeit",
+    "Hochzeitsreportage Hamburg",
+    "Businessporträt Hamburg",
+    "Schwangerschaftsshooting Studio",
+    "Editorial Hochzeitsbilder",
+    "Fotostudio Hamburg",
+    "Hochzeitsfotograf Hamburg"
+  ],
+  "h1Suggestions": [
+    "Dein Hochzeitsfotograf in Hamburg",
+    "Editorial fotograf-hochzeit Hamburg",
+    "Hochzeitsfotograf für zeitlose Bilder",
+    "Stilvoller fotograf-hochzeit & Studio"
+  ],
+  "subtitleSuggestions": [
+    "Als erfahrener Hochzeitsfotograf halte ich eure Geschichte in zeitlosen, modernen Bildern fest. Vereinbart jetzt ein kostenloses Beratungsgespräch.",
+    "Suchst du einen fotograf-hochzeit mit Editorial-Vibe? Ich biete ruhige, professionelle Hochzeitsreportagen im Raum Hamburg und Tangstedt an.",
+    "Euer Hochzeitsfotograf für authentische Reportagen. Über 10 Jahre Erfahrung, ein eigenes Studio in Hamburg und ein Blick für das Wesentliche.",
+    "Vom Businessporträt bis zum fotograf-hochzeit Einsatz: Ich verbinde ästhetisches Gespür mit höchster Qualität für unvergessliche Erinnerungen."
+  ],
+  "mustCover": [
+    "Fokus auf das Hauptkeyword Hochzeitsfotograf",
+    "Über 10 Jahre Erfahrung und professionelle, ruhige Arbeitsweise",
+    "Hinweis auf das eigene Fotostudio in Hamburg (Bleicherstraße)",
+    "Angebot des kostenlosen Beratungsgesprächs innerhalb von 24 Stunden",
+    "Erwähnung der Editorial-Bildsprache und zeitlosen Ästhetik",
+    "Zusätzliche Leistungen wie Businessporträts und Schwangerschaftsshootings"
+  ],
+  "avoidAngles": [
+    "Billige Preise oder Rabattaktionen",
+    "Massenabfertigung oder unpersönliche Ansprache",
+    "Kitschige oder übertrieben romantische Floskeln (Fokus liegt auf zeitlos, klar, Editorial)",
+    "Unerfahrene oder hobbyhafte Darstellung"
+  ]
+}

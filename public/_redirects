@@ -1,0 +1,11 @@
+# Legacy German slugs on English locale → localized English paths (301).
+# Reverse: English slugs on German locale → canonical German paths.
+# Generated for routeSlugs where de/en differ (see language.config.json).
+
+/en/datenschutz /en/privacy-policy 301
+/en/impressum /en/imprint 301
+/en/ueber-uns /en/about-us 301
+
+/de/privacy-policy /de/datenschutz 301
+/de/imprint /de/impressum 301
+/de/about-us /de/ueber-uns 301

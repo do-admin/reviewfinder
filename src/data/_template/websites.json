@@ -1,0 +1,618 @@
+{
+  "clientName": "Template",
+  "clientDomain": "example.com",
+  "driveFolderId": "",
+  "sectionIds": [
+    {
+      "id": "hero",
+      "visible": true
+    },
+    {
+      "id": "info",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "visible": true
+    },
+    {
+      "id": "team",
+      "visible": true
+    },
+    {
+      "id": "faq",
+      "visible": true
+    },
+    {
+      "id": "reviews",
+      "visible": true
+    },
+    {
+      "id": "map",
+      "visible": true
+    },
+    {
+      "id": "contact",
+      "visible": true
+    },
+    {
+      "id": "trust",
+      "visible": true
+    }
+  ],
+  "websites": [
+    {
+      "id": "",
+      "deployDomain": "",
+      "googleTagId": "",
+      "datenschutzResponsibleMode": "client",
+      "impressumResponsibleMode": "client",
+      "websiteBriefing": "",
+      "business": {
+        "name": "",
+        "brandName": "",
+        "legalName": "",
+        "location": {
+          "city": "",
+          "district": "",
+          "neighborhood": ""
+        },
+        "locationAddress": {
+          "street": "",
+          "postalCode": "",
+          "city": ""
+        },
+        "phone": "",
+        "email": "",
+        "openingHours": {
+          "short": "",
+          "detailed": "",
+          "display": ""
+        },
+        "contactPerson": {
+          "name": "",
+          "title": "",
+          "imageUrl": ""
+        },
+        "bookingUrl": "",
+        "social": {
+          "instagram": "",
+          "facebook": "",
+          "whatsappNumber": ""
+        },
+        "ustId": "",
+        "vertreter": "",
+        "registergericht": "",
+        "hrbNummer": "",
+        "googlePlacesId": "",
+        "legalAddress": {
+          "street": "",
+          "postalCode": "",
+          "city": ""
+        }
+      },
+      "header": {
+        "logoUrl": "",
+        "logoAlt": "",
+        "logoWidth": 0,
+        "ariaLabelNavigation": "",
+        "ariaMenuOpen": "",
+        "ariaMenuClose": "",
+        "links": [
+          {
+            "label": "Über Uns",
+            "url": "/ueber-uns"
+          },
+          {
+            "label": "FAQ",
+            "url": "/faq"
+          },
+          {
+            "label": "",
+            "href": "",
+            "type": "button"
+          },
+          {
+            "label": "WhatsApp",
+            "href": "",
+            "type": "whatsapp"
+          }
+        ]
+      },
+      "footer": {
+        "navigation": {
+          "label": "Navigation",
+          "links": [
+            {
+              "link": "",
+              "linkLabel": ""
+            },
+            {
+              "link": "",
+              "linkLabel": ""
+            }
+          ]
+        },
+        "contact": {
+          "label": "Kontakt",
+          "links": [
+            {
+              "link": "tel:",
+              "linkLabel": ""
+            },
+            {
+              "link": "mailto:",
+              "linkLabel": ""
+            }
+          ]
+        },
+        "followUs": "Folge uns",
+        "openingHoursLabel": "Öffnungszeiten",
+        "imprint": "Impressum",
+        "privacy": "Datenschutz",
+        "grounding": "Grounding"
+      },
+      "cookie": {
+        "title": "Deine Datenschutz-Einstellungen",
+        "description": "Wir nutzen Cookies, um Dir die bestmögliche Erfahrung auf unserer Website zu bieten und unsere Dienste stetig zu verbessern.",
+        "acceptAll": "Alle akzeptieren",
+        "acceptEssential": "Nur essenzielle",
+        "moreInfo": "Mehr Informationen"
+      },
+      "notFound": {
+        "title": "",
+        "description": "",
+        "backHome": ""
+      },
+      "translationsMetadata": {
+        "disclaimer": {
+          "aiTranslation": "",
+          "dismissAria": "",
+          "infoAria": ""
+        },
+        "common": {
+          "close": "",
+          "selectLanguage": ""
+        }
+      },
+      "index": {
+        "redirectTitle": "Weiterleitung…",
+        "redirectTo": "Weiterleitung nach"
+      },
+      "pages": [
+        {
+          "name": "home",
+          "pageTitle": "",
+          "metadata": {
+            "geo": {
+              "icbm": "",
+              "region": "",
+              "position": "",
+              "placename": ""
+            },
+            "title": "",
+            "keywords": "",
+            "openGraph": {
+              "url": "",
+              "title": "",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": ""
+            },
+            "twitter": {
+              "title": "",
+              "description": "",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            },
+            "description": "",
+            "schema": [
+              {
+                "id": "organization",
+                "schemaType": "organization",
+                "data": {
+                  "name": "",
+                  "legalName": "",
+                  "alternateName": [],
+                  "description": "",
+                  "telephone": "",
+                  "email": "",
+                  "url": "",
+                  "logo": "",
+                  "sameAs": [],
+                  "address": {
+                    "@type": "PostalAddress",
+                    "name": "",
+                    "streetAddress": "",
+                    "postalCode": "",
+                    "addressLocality": "",
+                    "addressRegion": "",
+                    "addressCountry": "DE"
+                  }
+                }
+              },
+              {
+                "id": "website",
+                "schemaType": "website",
+                "data": {
+                  "name": "",
+                  "url": "",
+                  "description": "",
+                  "inLanguage": "de-DE",
+                  "publisher": {
+                    "@id": "#organization"
+                  }
+                }
+              },
+              {
+                "id": "local-business",
+                "schemaType": "localBusiness",
+                "data": {
+                  "@type": "LocalBusiness",
+                  "name": "",
+                  "description": "",
+                  "url": "",
+                  "telephone": "",
+                  "email": "",
+                  "priceRange": "",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "",
+                    "postalCode": "",
+                    "addressLocality": "",
+                    "addressRegion": "",
+                    "addressCountry": "DE"
+                  },
+                  "geo": {
+                    "latitude": "",
+                    "longitude": ""
+                  },
+                  "openingHoursSpecification": [],
+                  "sameAs": []
+                }
+              }
+            ]
+          },
+          "hero": {
+            "h1": "",
+            "backgroundImage": "",
+            "backgroundImageAlt": "",
+            "locationPrefix": "",
+            "locationSuffix": "",
+            "namePrefix": "",
+            "callAriaLabel": "",
+            "since": "",
+            "buttons": [
+              {
+                "text": "",
+                "link": "",
+                "variant": "primary"
+              },
+              {
+                "text": "",
+                "link": "",
+                "variant": "outline"
+              }
+            ],
+            "card1Icon": "Users",
+            "card1Line1": "0",
+            "card1Line2": "",
+            "card2Icon": "MapPin",
+            "card2Line1": "",
+            "card2Line2": "",
+            "card3Icon": "Clock",
+            "card3Line1": "",
+            "card3Line2": ""
+          },
+          "info": {
+            "description": "",
+            "paragraph1": "",
+            "paragraph2": "",
+            "quote": "",
+            "imageUrl": "",
+            "imageAlt": "",
+            "activities": {
+              "title": "",
+              "description": "",
+              "icon": ""
+            },
+            "nutrition": {
+              "title": "",
+              "description": "",
+              "icon": ""
+            },
+            "garden": {
+              "title": "",
+              "description": "",
+              "icon": ""
+            },
+            "values": {
+              "nature": "",
+              "mindfulness": "",
+              "participation": ""
+            },
+            "valueIcons": {
+              "mindfulness": "",
+              "nature": "",
+              "participation": ""
+            },
+            "sectionTitle": "",
+            "activitiesLabel": "",
+            "nutritionLabel": "",
+            "gardenLabel": "",
+            "mindfulness": "",
+            "nature": "",
+            "participation": ""
+          },
+          "contact": {
+            "location": "",
+            "locationLabel": "",
+            "addressName": "",
+            "bookOnline": "",
+            "bookOnlineDesc": "",
+            "infoTitle": "",
+            "addressLabel": "",
+            "openingHoursLabel": "",
+            "phoneLabel": "",
+            "emailLabel": "",
+            "bookingTitle": "",
+            "bookingIntro": "",
+            "bookingButton": ""
+          },
+          "gallery": {
+            "title": "",
+            "subtitle": "",
+            "ariaLabel": "",
+            "images": [],
+            "roomsTitle": "",
+            "roomsDescription": "",
+            "outdoorTitle": "",
+            "outdoorDescription": "",
+            "imageOf": "Bild {current} von {total}",
+            "rooms": "",
+            "outdoor": "",
+            "prevImage": "",
+            "nextImage": ""
+          },
+          "team": {
+            "title": "",
+            "subtitle": "",
+            "teamMember": {
+              "quote": ""
+            }
+          },
+          "map": {
+            "description": "",
+            "publicTransport": "",
+            "parking": "",
+            "mapEmbedUrl": "",
+            "addressTitle": "",
+            "iframeTitle": "",
+            "sectionTitle": "",
+            "openOnMap": "",
+            "visitUs": "",
+            "publicTransportLabel": "",
+            "parkingLabel": ""
+          },
+          "reviews": {
+            "title": "Das sagen unsere Kunden",
+            "subtitle": "Echte Bewertungen von Eigentümern und Beiräten",
+            "reviewerRoleLabel": "Eigentümer",
+            "reviewData": {
+              "reviews": [],
+              "displayName": {
+                "text": "",
+                "languageCode": ""
+              },
+              "userRatingCount": 0,
+              "formattedAddress": "",
+              "rating": 0
+            },
+            "minimumRating": 5,
+            "rating": ""
+          },
+          "faq": {
+            "title": "",
+            "subtitle": "",
+            "faqDataFile": "faq.json"
+          },
+          "trust": {
+            "partner": "",
+            "H2": "",
+            "qualityPartners": "",
+            "trustDataFile": "partners.json"
+          }
+        },
+        {
+          "name": "faq",
+          "pageTitle": "",
+          "metadata": {
+            "title": "",
+            "description": "",
+            "keywords": "",
+            "openGraph": {
+              "url": "",
+              "title": "",
+              "images": [
+                {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "alt": ""
+                }
+              ],
+              "description": ""
+            },
+            "twitter": {
+              "title": "",
+              "description": "",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "",
+            "lead": ""
+          },
+          "faqDataFile": "faq-xxl.json",
+          "schema": []
+        },
+        {
+          "name": "impressum",
+          "pageTitle": "",
+          "metadata": {
+            "title": "",
+            "description": "",
+            "keywords": "",
+            "openGraph": {
+              "url": "",
+              "title": "",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": ""
+            },
+            "twitter": {
+              "title": "",
+              "description": "",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "datenschutz",
+          "pageTitle": "",
+          "metadata": {
+            "title": "",
+            "description": "",
+            "keywords": "",
+            "openGraph": {
+              "url": "",
+              "title": "",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": ""
+            },
+            "twitter": {
+              "title": "",
+              "description": "",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "ueber-uns",
+          "pageTitle": "",
+          "h1": "",
+          "metadata": {
+            "title": "",
+            "description": "",
+            "keywords": "",
+            "openGraph": {
+              "url": "",
+              "title": "",
+              "images": [
+                {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "alt": ""
+                }
+              ],
+              "description": ""
+            }
+          },
+          "blocks": []
+        },
+        {
+          "name": "grounding",
+          "pageTitle": "",
+          "metadata": {
+            "title": "",
+            "description": "",
+            "keywords": "",
+            "openGraph": {
+              "url": "",
+              "title": "",
+              "images": [
+                {
+                  "url": "",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": ""
+                }
+              ],
+              "description": ""
+            },
+            "twitter": {
+              "title": "",
+              "description": "",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "",
+            "lead": ""
+          },
+          "schema": []
+        }
+      ],
+      "impressumBacklink": {
+        "headingTitle": "Konzept, Design und technische Umsetzung",
+        "title": "",
+        "link": ""
+      },
+      "languages": []
+    }
+  ]
+}

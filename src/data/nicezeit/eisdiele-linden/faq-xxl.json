@@ -1,0 +1,354 @@
+[
+  {
+    "group_name": "Definitionen und Unterschiede",
+    "faqs": [
+      {
+        "question": "Was ist der Unterschied zwischen Gelato und Eiscreme?",
+        "answer": "Gelato wird im Vergleich zu klassischer Eiscreme mit deutlich weniger Sahne und dafür mehr Milch hergestellt. Zudem wird es langsamer gerührt, wodurch weniger Luft in die Masse gelangt und die Konsistenz dichter und cremiger wird. Da Gelato bei einer etwas höheren Temperatur serviert wird, kommen die Aromen beim Essen intensiver zur Geltung."
+      },
+      {
+        "question": "Was ist der Unterschied zwischen Eiscreme und Eis?",
+        "answer": "Der Begriff Eis dient als allgemeiner Oberbegriff für alles Gefrorene, von Wassereis bis hin zu Milcherzeugnissen. Eiscreme hingegen ist eine rechtlich geschützte Bezeichnung, die einen Mindestfettgehalt von 10 Prozent aus Milchfett vorschreibt. Andere Sorten wie Milcheis oder Fruchteis unterliegen jeweils eigenen, weniger strengen Richtlinien bezüglich ihrer Zusammensetzung."
+      },
+      {
+        "question": "Was darf sich Eiscreme nennen?",
+        "answer": "Damit ein Produkt im Handel als Eiscreme deklariert werden darf, muss es laut Gesetz mindestens 10 Prozent Milchfett enthalten. Diese Fettquelle muss direkt aus Milch, Sahne oder Butter stammen, um die geforderte Qualität zu gewährleisten. Andere Bezeichnungen wie \"Eis\" ohne den Zusatz \"Creme\" können hingegen auch pflanzliche Fette oder geringere Fettanteile enthalten."
+      },
+      {
+        "question": "Was ist der Unterschied zwischen Eis und Softeis?",
+        "answer": "Softeis unterscheidet sich von herkömmlichem Speiseeis vor allem durch seine Temperatur und den extrem hohen Luftanteil. Während Kugeleis fest gefroren bei etwa minus 14 Grad gelagert wird, kommt Softeis direkt aus der Maschine bei etwa minus 6 Grad in die Waffel. Durch dieses Verfahren wirkt es auf der Zunge wesentlich weicher und cremiger, obwohl die Grundzutaten oft identisch sind."
+      },
+      {
+        "question": "Welches Eis ist Eiscreme?",
+        "answer": "Nur Eis, das einen Mindestanteil von 10 Prozent Milchfett aufweist, darf offiziell als Eiscreme bezeichnet werden. Dazu gehören meist klassische Milcheissorten wie Vanille, Schokolade oder Nuss, sofern sie mit ausreichend Sahne zubereitet wurden. Sorbets oder Wassereis fallen hingegen nicht unter diese Kategorie, da ihnen die fetthaltige Milchbasis fehlt."
+      },
+      {
+        "question": "Ist Erdbeereis Milcheis?",
+        "answer": "Erdbeereis kann sowohl als Sorbet auf Wasserbasis als auch als Milcheis hergestellt werden. In der klassischen Eisdiele ist es oft ein Fruchteis, das einen gewissen Anteil an Milchprodukten enthält, um es cremiger zu machen. Wenn es rein aus Früchten, Zucker und Wasser besteht, handelt es sich hingegen um ein veganes Sorbet."
+      },
+      {
+        "question": "Ist Erdbeereis mit Milch hergestellt?",
+        "answer": "In vielen Fällen wird Erdbeereis tatsächlich unter Verwendung von Milch oder Sahne zubereitet, um die typisch zarte Textur zu erreichen. Es gibt jedoch auch Varianten, die als reines Fruchteis oder Sorbet deklariert sind und ohne tierische Produkte auskommen. Ein Blick auf die Inhaltsstoffe hilft dabei, zwischen der fruchtigen Wasserbasis und der cremigen Milchbasis zu unterscheiden."
+      },
+      {
+        "question": "Was ist Cassata Gelato?",
+        "answer": "Cassata Gelato ist eine traditionelle sizilianische Eisspezialität, die meist aus mehreren Schichten besteht. Sie enthält typischerweise kandierte Früchte, Nüsse und oft auch eine Schicht aus Ricotta-Creme oder Biskuit. Diese Sorte ist besonders für ihren farbenfrohen Anblick und die komplexe Mischung verschiedener Texturen bekannt."
+      },
+      {
+        "question": "Was ist der Unterschied zwischen Joghurt-Eis und Frozen Joghurt?",
+        "answer": "Joghurt-Eis ist ein klassisches Speiseeis, dem Joghurt für den Geschmack beigemischt wurde und das meist einen höheren Zuckergehalt hat. Frozen Joghurt hingegen besteht primär aus frischem Joghurt und Magermilch, wodurch er fettärmer und säuerlicher schmeckt. Er wird oft wie Softeis serviert und mit frischen Toppings wie Früchten oder Nüssen garniert."
+      }
+    ]
+  },
+  {
+    "group_name": "Zutaten und Herstellung",
+    "faqs": [
+      {
+        "question": "Warum Kondensmilch im Eis?",
+        "answer": "Kondensmilch ist eine beliebte Zutat für hausgemachtes Eis, da sie den Gefrierpunkt senkt und die Bildung großer Eiskristalle verhindert. Sie sorgt durch ihren hohen Zucker- und Fettgehalt für eine wunderbar cremige Konsistenz, selbst wenn man keine Eismaschine besitzt. Zudem verleiht sie dem Eis eine feine, karamellige Note, die das Gesamtaroma abrundet."
+      },
+      {
+        "question": "Welche Zutaten für Eiscreme?",
+        "answer": "Die Grundbausteine für eine klassische Eiscreme sind Milch, Sahne, Zucker und oft auch Eigelb als Bindemittel. Diese Mischung wird durch Aromen wie Vanille, Kakao oder Fruchtpürees ergänzt, um die gewünschte Sorte zu kreieren. Wichtig ist ein ausgewogenes Verhältnis zwischen Fett und Zucker, damit das Eis nach dem Gefrieren geschmeidig bleibt."
+      },
+      {
+        "question": "Was braucht man für einen Schoko-Milchshake?",
+        "answer": "Für einen perfekten Schoko-Milchshake benötigst du lediglich Schokoladeneis, kalte Milch und nach Belieben etwas Schokoladensauce oder Kakaopulver. Alle Zutaten werden in einem Mixer so lange vermengt, bis eine schaumige und gleichmäßige Konsistenz entsteht. Wer es besonders üppig mag, kann den Shake am Ende noch mit einer Sahnehaube und Schokostreuseln verfeinern."
+      },
+      {
+        "question": "Was macht Vanilleeis cremig?",
+        "answer": "Die Cremigkeit von Vanilleeis resultiert aus dem Zusammenspiel von Fett aus der Sahne und dem Emulgator Eigelb. Während des Gefrierens muss die Masse ständig gerührt werden, um die entstehenden Eiskristalle klein zu halten und Luft unterzuheben. Je feiner die Verteilung dieser Komponenten ist, desto zarter schmilzt das Eis später auf der Zunge."
+      },
+      {
+        "question": "Was ist alles in Vanilleeis drin?",
+        "answer": "Ein klassisches Vanilleeis besteht im Kern aus Sahne, Milch, Zucker, Eigelb und echter Vanille. Industriell hergestellte Varianten können zusätzlich Emulgatoren und Stabilisatoren enthalten, um die Haltbarkeit und Textur zu optimieren. In hochwertigem Eis erkennt man die echte Vanille oft an den kleinen schwarzen Markpunkten."
+      },
+      {
+        "question": "Was genau ist Stracciatella-Eis?",
+        "answer": "Stracciatella-Eis ist eine Milcheissorte, die durch ihre feinen Schokoladensplitter besticht. Der Name leitet sich vom italienischen Wort \"stracciare\" ab, was so viel wie zerschreddern oder zerreißen bedeutet. Traditionell wird geschmolzene Schokolade in das fast fertige Eis gegossen, wo sie sofort erstarrt und in kleine Stücke zerbrochen wird."
+      },
+      {
+        "question": "Woraus besteht Stracciatella-Eis?",
+        "answer": "Die Basis besteht aus einer hellen Milcheis-Mischung, die meist dezent mit Vanille verfeinert wird. Hinzu kommen unregelmäßige Stücke aus dunkler Schokolade, die für den charakteristischen Knackeffekt sorgen. Neben Milch, Sahne und Zucker sind die Schokoladenraspel somit die wichtigste Komponente dieses Klassikers."
+      },
+      {
+        "question": "Was ist das Weiße in Stracciatella-Eis?",
+        "answer": "Das Weiße im Stracciatella-Eis ist die Basis-Eismasse, die primär aus Milch und Sahne hergestellt wird. Da sie kaum farbintensive Zutaten enthält, behält sie ihre helle, fast schneeweiße Optik bei. Sie bildet den neutralen und cremigen Kontrast zu den dunklen Schokoladenstücken, die untergemischt werden."
+      },
+      {
+        "question": "Welche Schokolade für Stracciatella-Eis?",
+        "answer": "Für Stracciatella-Eis empfiehlt sich eine Zartbitterschokolade mit einem hohen Kakaobutteranteil, da diese besonders gut schmilzt. Wenn die warme Schokolade auf das eiskalte Milcheis trifft, härtet sie schnell aus und lässt sich leicht in die typischen Splitter zerbrechen. Vollmilchschokolade ist weniger geeignet, da sie oft zu weich bleibt und nicht den gewünschten Kontrast bietet."
+      },
+      {
+        "question": "Was braucht man für Stracciatella-Eis?",
+        "answer": "Du benötigst für die Grundmasse Milch, Sahne, Zucker und eine Prise Vanille. Für die Einlage ist hochwertige dunkle Kuvertüre unverzichtbar, die kurz vor Ende des Gefriervorgangs hinzugefügt wird. Optional kann etwas Johannisbrotkernmehl als natürliches Bindemittel helfen, die Konsistenz noch geschmeidiger zu machen."
+      },
+      {
+        "question": "Was ist in Erdbeereis drin?",
+        "answer": "Ein gutes Erdbeereis besteht zu einem großen Teil aus pürierten, frischen Erdbeeren, Zucker und einer Basis aus Milch oder Wasser. Oft wird ein Spritzer Zitronensaft hinzugefügt, um die natürliche Farbe der Frucht zu erhalten und das Aroma zu intensivieren. Bei industriellen Produkten finden sich manchmal auch Farbstoffe wie Rote-Bete-Saft, um das Rosa optisch zu verstärken."
+      },
+      {
+        "question": "Sind in Erdbeereis echte Erdbeeren enthalten?",
+        "answer": "In handwerklich hergestelltem Eis aus der Diele oder hochwertigen Markenprodukten sind echte Früchte in Form von Püree oder Stücken die Regel. Günstigere Discounter-Produkte setzen hingegen oft vermehrt auf Aromen, um Kosten zu sparen. Ein Blick auf die Zutatenliste gibt Aufschluss darüber, wie hoch der tatsächliche Fruchtanteil im Produkt ist."
+      },
+      {
+        "question": "Wie wird Eis in der Eismaschine besonders cremig?",
+        "answer": "Für maximale Cremigkeit sollte die Eismasse vor dem Gefrieren gut durchgekühlt sein, idealerweise über mehrere Stunden im Kühlschrank. Die Maschine sorgt dann durch permanentes Rühren dafür, dass keine großen Eiskristalle entstehen und genügend Luft untergehoben wird. Ein ausreichender Fettanteil durch Sahne unterstützt diesen Prozess und sorgt für ein samtiges Mundgefühl."
+      },
+      {
+        "question": "Warum wird Eis in der Eismaschine nicht cremig?",
+        "answer": "Wenn das Eis kristallin oder hart wird, liegt das oft an einem zu hohen Wasseranteil oder zu wenig Zucker. Auch eine unzureichende Kühlleistung der Maschine kann dazu führen, dass der Gefrierprozess zu lange dauert und sich große Kristalle bilden. Achte darauf, den Behälter lange genug vorzufrieren oder die Zutatenliste um Emulgatoren wie Eigelb zu ergänzen."
+      },
+      {
+        "question": "Kann man aus Joghurt Eiscreme herstellen?",
+        "answer": "Ja, Joghurt lässt sich hervorragend zu Eis verarbeiten, wobei man meist zwischen Joghurt-Eis und Frozen Joghurt unterscheidet. Durch die Zugabe von Sahne und Zucker entsteht eine cremige Masse, die durch die Säure des Joghurts besonders erfrischend schmeckt. Besonders griechischer Joghurt eignet sich aufgrund seines höheren Fettgehalts ideal für ein geschmeidiges Ergebnis."
+      },
+      {
+        "question": "Kann man Softeis aus dem Thermomix einfrieren?",
+        "answer": "Man kann die im Thermomix hergestellte Eismasse durchaus einfrieren, allerdings verliert sie dabei oft ihre typische Softeis-Konsistenz. Nach dem kompletten Durchfrieren im Tiefkühler wird das Eis meist sehr hart und muss vor dem Verzehr erneut kurz aufgemixt werden. Um den Softeis-Effekt zu bewahren, sollte es am besten direkt nach der Zubereitung verzehrt werden."
+      },
+      {
+        "question": "Wie macht man Erdbeereis weniger eisig?",
+        "answer": "Um eine zu kristalline Textur bei Erdbeereis zu vermeiden, sollte man den Wassergehalt der Früchte durch Zugabe von Fett oder Zucker ausgleichen. Auch die Verwendung von Invertzucker oder einem kleinen Schuss Alkohol kann den Gefrierpunkt senken und das Eis geschmeidiger halten. Wichtig ist zudem, die Erdbeeren so fein wie möglich zu pürieren, damit keine großen gefrorenen Klumpen entstehen."
+      },
+      {
+        "question": "Was macht Softeis cremig?",
+        "answer": "Die extreme Cremigkeit von Softeis entsteht durch eine spezielle Maschine, die permanent Luft in die flüssige Eismasse pumpt. Zudem wird das Eis bei einer relativ milden Temperatur von etwa minus 6 Grad serviert, wodurch es nicht so hart gefriert wie Kugeleis. Die Rezeptur enthält oft Stabilisatoren, die dafür sorgen, dass die Struktur trotz des hohen Luftanteils stabil bleibt."
+      },
+      {
+        "question": "Warum ist Softeis so weich?",
+        "answer": "Softeis ist deshalb so weich, weil es einen deutlich höheren Luftanteil besitzt als herkömmliches Speiseeis. Durch das spezielle Aufschlagen in der Softeismaschine wird die Masse voluminös und leicht. Da es zudem bei einer höheren Temperatur ausgegeben wird, schmilzt es schneller und fühlt sich auf der Zunge wesentlich geschmeidiger an."
+      }
+    ]
+  },
+  {
+    "group_name": "Preise und Finanzen",
+    "faqs": [
+      {
+        "question": "Wie viel kostet eine Kugel Eis bei der Eisdiele?",
+        "answer": "Der Preis für eine Kugel Eis liegt in Deutschland aktuell meist zwischen 1,50 Euro und 2,50 Euro. In Großstädten oder an touristischen Hotspots können die Preise jedoch auch deutlich darüber liegen. Viele Betreiber rechtfertigen die Kosten mit gestiegenen Preisen für Energie, Miete und hochwertige Rohstoffe."
+      },
+      {
+        "question": "Was kostet eine Kugel Eis in St. Tropez?",
+        "answer": "In exklusiven Urlaubsorten wie St. Tropez ist Eis deutlich teurer und kann pro Kugel zwischen 4 und 7 Euro kosten. Der Preis spiegelt hier oft weniger den reinen Warenwert als vielmehr die exklusive Lage und das Prestige des Ortes wider. Wer dort am Hafen ein Eis genießt, zahlt für das besondere Ambiente einen erheblichen Aufschlag."
+      },
+      {
+        "question": "Wie viel kostet eine Kugel Eis bei Dolomiti?",
+        "answer": "Bei der bekannten Kette Dolomiti orientieren sich die Preise meist am regionalen Durchschnitt der jeweiligen Stadt. In der Regel muss man mit etwa 1,80 Euro bis 2,20 Euro pro Kugel rechnen. Je nach Standort und Ausstattung der Filiale können die Preise für Spezialsorten jedoch variieren."
+      },
+      {
+        "question": "Was kostet Vanilleeis bei Edeka?",
+        "answer": "Bei Edeka variieren die Preise für Vanilleeis stark, je nachdem ob man zur günstigen Eigenmarke \"Gut & Günstig\" oder zu Premiummarken greift. Eine Standardpackung der Eigenmarke kostet oft unter 2 Euro, während Markenprodukte wie Häagen-Dazs bis zu 7 Euro kosten können. Aktuelle Angebote im Prospekt können diese Preise natürlich kurzfristig senken."
+      },
+      {
+        "question": "Was kostet Vanilleeis bei Netto?",
+        "answer": "Netto Marken-Discount bietet Vanilleeis in der Familienpackung oft sehr preiswert an, meist für rund 1,50 Euro bis 2,00 Euro für einen Liter. Neben den günstigen Eigenmarken finden sich dort auch Markenprodukte wie Landliebe, die preislich etwas höher angesiedelt sind. Die Preise sind jedoch stabil und gehören zu den niedrigsten im Lebensmittelhandel."
+      },
+      {
+        "question": "Was kostet Vanilleeis mit heißen Himbeeren?",
+        "answer": "In einem Restaurant oder Eiscafé kostet die klassische Portion Vanilleeis mit heißen Himbeeren, oft als \"Heiße Liebe\" bekannt, meist zwischen 6,50 Euro und 9,50 Euro. Der Preis setzt sich aus den Kugeln Eis, der Fruchtzubereitung und meist einer Portion Sahne zusammen. Wenn man es zu Hause zubereitet, liegen die reinen Materialkosten natürlich deutlich niedriger."
+      },
+      {
+        "question": "Was kostet eine Portion Sahne in der Eisdiele?",
+        "answer": "Für einen Klecks Schlagsahne verlangen die meisten Eisdielen mittlerweile zwischen 1,00 Euro und 1,50 Euro Aufpreis. Da die Sahne oft frisch aufgeschlagen wird und die Personalkosten sowie die Reinigung der Maschinen steigen, ist dieser Preis Standard geworden. In manchen Cafés ist die Sahne bei großen Eisbechern jedoch bereits im Gesamtpreis enthalten."
+      },
+      {
+        "question": "Wie viel Geld verdient man bei der Eisdiele?",
+        "answer": "Aushilfen in Eisdielen verdienen in Deutschland in der Regel den gesetzlichen Mindestlohn pro Stunde. Hinzu kommen oft Trinkgelder, die besonders an heißen Sommertagen eine attraktive Nebeneinkunft darstellen können. Festangestellte Mitarbeiter oder Filialleiter haben natürlich ein höheres Gehalt, das je nach Region und Verantwortung variiert."
+      },
+      {
+        "question": "Was verdient man mit Softeis?",
+        "answer": "Der Verkauf von Softeis gilt als sehr lukrativ, da die Gewinnmarge pro Portion aufgrund des hohen Luftanteils oft über 70 Prozent liegt. Die Fixkosten für die speziellen Maschinen und deren Reinigung sind jedoch hoch und müssen erst einmal erwirtschaftet werden. Insgesamt ist Softeis für viele Kioskbesitzer ein wichtiges Standbein im Sommergeschäft."
+      },
+      {
+        "question": "Wie viel Geld macht eine Eisdiele am Tag?",
+        "answer": "An einem sehr sonnigen Tag kann eine gut besuchte Eisdiele in Bestlage Umsätze von 2.000 bis 5.000 Euro erzielen. Davon müssen jedoch alle Kosten für Ware, Personal, Pacht und Steuern abgezogen werden, bevor der tatsächliche Gewinn feststeht. An Regentagen oder im Winter bricht dieser Umsatz hingegen oft fast vollständig ein."
+      },
+      {
+        "question": "Wie viel kostet ein Softeis in der Produktion?",
+        "answer": "Die reinen Warenkosten für eine Portion Softeis sind erstaunlich gering und liegen oft nur bei etwa 20 bis 40 Cent. Da die Masse durch Luft stark aufgebläht wird, verbraucht man pro Portion nur wenig Eismix. Die tatsächlichen Kosten entstehen vor allem durch die teuren Maschinen, den Stromverbrauch und den hohen Reinigungsaufwand."
+      }
+    ]
+  },
+  {
+    "group_name": "Marken und Produkte",
+    "faqs": [
+      {
+        "question": "Wo wird Kinder Bueno Eis hergestellt?",
+        "answer": "Das Kinder Bueno Eis wird im Rahmen einer Kooperation zwischen Ferrero und dem Weltmarktführer Unilever produziert. Die Herstellung findet meist in großen europäischen Werken von Unilever statt, wie beispielsweise in Heppenheim, Deutschland. Von dort aus wird das beliebte Eis in die Supermärkte in ganz Europa geliefert."
+      },
+      {
+        "question": "Wie lange gibt es Kinder Bueno Eis?",
+        "answer": "Das Kinder Bueno Eis wurde im Frühjahr 2018 unter großer medialer Aufmerksamkeit auf den Markt gebracht. Zuvor gab es jahrelang Gerüchte und Fan-Wünsche, bis Ferrero die offizielle Zusammenarbeit mit Langnese startete. Seit der Einführung gehört es zu den erfolgreichsten Neueinführungen im Bereich der Marken-Eisriegel."
+      },
+      {
+        "question": "Wann kam Kinder Bueno Eis raus?",
+        "answer": "Der offizielle Verkaufsstart für das Kinder Bueno Eis in Deutschland war im März 2018. Es wurde zeitgleich mit anderen Ferrero-Eissorten wie dem Kinder Schokolade Ice Cream Stick eingeführt. Seit diesem Zeitpunkt ist es fest im Sortiment der meisten Supermärkte und Tankstellen etabliert."
+      },
+      {
+        "question": "Wer steckt hinter Bruno Gelato?",
+        "answer": "Bruno Gelato wurde von Bruno Lucchetta gegründet, einem Italiener, der die Eistradition nach Deutschland brachte. Das Unternehmen produziert heute in großem Stil italienisches Speiseeis für die Gastronomie und den Einzelhandel. Bekannt ist die Marke vor allem für ihre dekorativen, durchsichtigen Wannen, in denen das Eis präsentiert wird."
+      },
+      {
+        "question": "Welche Eiscreme aus dem Supermarkt ist die beste?",
+        "answer": "Welche Supermarkt-Eiscreme die beste ist, bleibt natürlich Geschmackssache, doch Marken wie Häagen-Dazs oder Ben & Jerry’s schneiden in Umfragen oft am besten ab. Auch die Eigenmarken von Edeka oder Rewe gewinnen regelmäßig Tests von Organisationen wie Stiftung Warentest. Entscheidend für die Qualität ist meist ein hoher Sahneanteil und der Verzicht auf künstliche Aromen."
+      },
+      {
+        "question": "Welches Vanilleeis hat am besten abgeschnitten?",
+        "answer": "In aktuellen Tests von Stiftung Warentest oder Öko-Test belegen oft die Bio-Eigenmarken der Supermärkte oder Marken wie Landliebe die vorderen Plätze. Diese überzeugen durch echte Vanille und eine saubere Zutatenliste ohne unnötige Zusatzstoffe. Günstige Discounter-Eiscremes schneiden oft überraschend gut ab, was das Preis-Leistungs-Verhältnis angeht."
+      },
+      {
+        "question": "Warum gibt es kein Magnum Eis mehr?",
+        "answer": "Es ist ein Gerücht, dass es kein Magnum Eis mehr gibt, da es weltweit weiterhin eine der stärksten Eismarken ist. Gelegentlich werden jedoch einzelne Sorten oder Varianten aus dem Sortiment genommen, um Platz für neue Innovationen zu schaffen. Falls es in einem speziellen Laden fehlt, liegt das meist an regionalen Lieferproblemen oder einer Sortimentsentscheidung des Händlers."
+      },
+      {
+        "question": "Hat Edeka Mochi Eis?",
+        "answer": "Ja, die meisten Edeka-Filialen führen mittlerweile Mochi Eis, oft von Trendmarken wie \"Little Moons\" oder als eigene Premium-Linie. Diese japanische Spezialität aus Klebreisteig mit Eisfüllung befindet sich meist in den kleineren Truhen für Trend-Produkte. Die Verfügbarkeit kann jedoch je nach Größe und Standort des Marktes variieren."
+      },
+      {
+        "question": "Hat Lidl Mochi Eis?",
+        "answer": "Lidl bietet Mochi Eis regelmäßig als Aktionsware unter seiner Eigenmarke Vitasia während der Asien-Wochen an. In manchen Filialen wurde das Produkt aufgrund der hohen Nachfrage sogar fest in das Tiefkühlsortiment aufgenommen. Es ist eine preiswerte Alternative zu den teuren Markenprodukten aus dem Feinkostladen."
+      }
+    ]
+  },
+  {
+    "group_name": "Geschichte und Namen",
+    "faqs": [
+      {
+        "question": "Warum heißt die Eisdiele Eisdiele?",
+        "answer": "Der Name stammt aus der Zeit, als italienische Einwanderer Eis aus den Fenstern ihrer Erdgeschosswohnungen verkauften. Um den Kunden den Zugang zu erleichtern, legten sie Holzbretter, sogenannte Dielen, über die Fenstersimse oder auf den Boden davor. Daraus entwickelte sich im deutschen Sprachgebrauch der Begriff Eisdiele für das ganze Geschäft."
+      },
+      {
+        "question": "Warum heißt Eisdiele Diele?",
+        "answer": "Das Wort Diele bezieht sich ursprünglich auf den hölzernen Vorbau oder die Bretter, auf denen das Eis serviert wurde. Da es früher kaum feste Ladenlokale für Eis gab, waren diese Bretterkonstruktionen das markanteste Merkmal der Verkaufsstellen. Heute ist der Begriff ein fester Teil der deutschen Sprache, auch wenn moderne Eisdielen meist aus Stein und Glas bestehen."
+      },
+      {
+        "question": "Wo war die erste Eisdiele in Deutschland?",
+        "answer": "Die erste offizielle Eisdiele Deutschlands soll bereits im Jahr 1799 in Hamburg eröffnet worden sein. Ein Italiener namens Almoni bot dort erstmals gefrorene Köstlichkeiten für die breite Öffentlichkeit an. Später, im späten 19. Jahrhundert, verbreitete sich die Eiskultur massiv durch italienische Familien im Ruhrgebiet."
+      },
+      {
+        "question": "Hat Margaret Thatcher das Softeis erfunden?",
+        "answer": "Es ist ein weit verbreiteter Mythos, dass die ehemalige britische Premierministerin das Softeis im Alleingang erfunden hat. Als junge Chemikerin war sie jedoch Teil eines Teams, das Methoden entwickelte, um mehr Luft in Eiscreme zu pumpen. Sie hat also zur technologischen Entwicklung beigetragen, ist aber nicht die alleinige Erfinderin des Produkts."
+      }
+    ]
+  },
+  {
+    "group_name": "Gesundheit und Ernährung",
+    "faqs": [
+      {
+        "question": "Ist Vanilleeis gesund?",
+        "answer": "Vanilleeis ist primär ein Genussmittel und aufgrund des hohen Zucker- und Fettgehalts nicht im klassischen Sinne gesund. Es liefert zwar durch die Milch etwas Kalzium, sollte aber wegen der hohen Energiedichte nur in Maßen verzehrt werden. Wer auf die Gesundheit achtet, sollte zu Varianten mit echter Vanille und wenig Zusatzstoffen greifen."
+      },
+      {
+        "question": "Ist Eis gesund für Kinder?",
+        "answer": "Für Kinder ist Eis eine willkommene Nascherei, die in einen ausgewogenen Ernährungsplan passt, solange es eine Ausnahme bleibt. Es enthält Kalzium aus der Milch, aber eben auch viel Energie, was bei mangelnder Bewegung zu Übergewicht führen kann. Eltern sollten darauf achten, dass das Eis keine künstlichen Farbstoffe enthält, die die Konzentration beeinflussen könnten."
+      },
+      {
+        "question": "Wie viel Kalorien hat ein Kinder Bueno Eis?",
+        "answer": "Ein klassisches Kinder Bueno Eis in der Waffel (Cone) schlägt mit etwa 204 Kalorien zu Buche. Damit liegt es im durchschnittlichen Bereich für ein Milcheis dieser Größe. Die kleineren Riegel-Varianten oder die Mini-Versionen haben entsprechend weniger Kalorien pro Portion."
+      },
+      {
+        "question": "Wie viel Kalorien hat ein Kinderschokolade-Eis?",
+        "answer": "Ein Kinder Ice Cream Stick, der dem klassischen Riegel nachempfunden ist, enthält etwa 100 bis 110 Kalorien. Da diese Portionen recht klein gehalten sind, eignen sie sich gut als kontrollierter Snack für zwischendurch. Größere Varianten wie die Cones haben hingegen fast die doppelte Kalorienmenge."
+      },
+      {
+        "question": "Wie viel Kalorien hat 1 Kugel Erdbeereis?",
+        "answer": "Eine durchschnittliche Kugel Erdbeereis auf Milchbasis hat etwa 80 bis 100 Kalorien. Handelt es sich hingegen um ein fettfreies Erdbeer-Sorbet, liegt der Wert meist nur bei etwa 60 bis 70 Kalorien. Der Kaloriengehalt hängt also stark davon ab, ob Sahne oder nur Wasser und Zucker verwendet wurden."
+      },
+      {
+        "question": "Wie viel Zucker ist in Erdbeereis?",
+        "answer": "In einer Kugel Erdbeereis stecken meist zwischen 15 und 20 Gramm Zucker, was etwa fünf bis sechs Zuckerwürfeln entspricht. Der Zucker stammt dabei sowohl aus den Früchten selbst als auch aus dem zugesetzten Kristallzucker. Da Zucker den Gefrierpunkt senkt, ist er für die geschmeidige Textur des Eises technisch unverzichtbar."
+      },
+      {
+        "question": "Ist in Stracciatella-Eis Alkohol drin?",
+        "answer": "In herkömmlichem Stracciatella-Eis aus dem Supermarkt oder der Eisdiele ist in der Regel kein Alkohol enthalten. Manchmal verwenden Hersteller jedoch kleinste Mengen Alkohol als Geschmacksträger oder um die Masse weich zu halten. Wenn Alkohol enthalten ist, muss dies in der Zutatenliste deklariert werden, was besonders für Kinder wichtig ist."
+      }
+    ]
+  },
+  {
+    "group_name": "Spezialthemen: Gelato (Cannabis)",
+    "faqs": [
+      {
+        "question": "Was hat Gelato für eine Wirkung?",
+        "answer": "Im Zusammenhang mit der gleichnamigen Cannabissorte beschreiben Nutzer die Wirkung als eine Mischung aus körperlicher Entspannung und geistiger Euphorie. Da es sich um einen Hybriden handelt, wirkt es oft ausgleichend und hilft dabei, Stress abzubauen, ohne zu müde zu machen. Beim Speiseeis Gelato beschränkt sich die Wirkung hingegen auf die Ausschüttung von Glückshormonen durch den Zucker."
+      },
+      {
+        "question": "Welche Wirkung hat Gelato?",
+        "answer": "Die Wirkung von Gelato-Cannabis ist für ihr starkes Profil bekannt, das oft ein warmes Körpergefühl und eine kreative Anregung hervorruft. Viele schätzen die Sorte für ihre Fähigkeit, Schmerzen zu lindern und gleichzeitig die Stimmung zu heben. Es ist eine beliebte Wahl für den späten Nachmittag oder Abend, um den Tag entspannt ausklingen zu lassen."
+      },
+      {
+        "question": "Ist Gelato Indica oder Sativa?",
+        "answer": "Gelato ist ein moderner Hybrid, der aus der Kreuzung von Sunset Sherbet und Thin Mint Girl Scout Cookies entstanden ist. Sie gilt als leicht Indica-dominant, was die beruhigende Wirkung auf den Körper erklärt. Dennoch sind genügend Sativa-Anteile enthalten, um einen klaren Kopf zu bewahren und nicht sofort einzuschlafen."
+      },
+      {
+        "question": "Ist Gelato 33 Indica oder Sativa?",
+        "answer": "Gelato 33, auch bekannt als \"Larry Bird\", ist ein spezifischer Phänotyp der Gelato-Familie und ebenfalls ein Hybrid mit Indica-Dominanz. Er zeichnet sich durch ein besonders kompaktes Knospenwachstum und ein intensives Aroma aus. Die Wirkung ist typisch für Hybride: erst belebend im Kopf, dann tief entspannend für die Muskulatur."
+      },
+      {
+        "question": "Ist Gelato eine Cali-Sorte?",
+        "answer": "Ja, Gelato gilt als eine der bekanntesten Sorten aus der kalifornischen Zuchtszene, oft als \"Cali-Weed\" bezeichnet. Sie wurde von der berühmten Cookie Fam in der San Francisco Bay Area entwickelt und hat von dort aus weltweite Bekanntheit erlangt. Der Name bezieht sich auf das dessertartige Aroma, das an italienisches Eis erinnert."
+      },
+      {
+        "question": "Ist Gelato eine Cannabispflanze?",
+        "answer": "Ja, neben der Bezeichnung für italienisches Speiseeis ist Gelato ein weltweit bekannter Name für eine potente Cannabissorte. Diese Sorte ist berühmt für ihre violetten Farbtöne und den süßen, fruchtigen Geruch. In Ländern mit legalem Markt gehört sie zu den am häufigsten nachgefragten Produkten in den Ausgabestellen."
+      },
+      {
+        "question": "Ist Gelato stark?",
+        "answer": "Gelato-Cannabis gilt als sehr potent, mit THC-Werten, die oft zwischen 20 und 25 Prozent liegen. Anfänger sollten daher vorsichtig sein, da die Wirkung sehr intensiv und langanhaltend ausfallen kann. Für erfahrene Nutzer bietet sie jedoch eine verlässliche und geschmacklich herausragende Erfahrung."
+      }
+    ]
+  },
+  {
+    "group_name": "Allgemeines und Vermischtes",
+    "faqs": [
+      {
+        "question": "Was ist die beste Eisdiele der Welt?",
+        "answer": "Den Titel der besten Eisdiele der Welt beanspruchen viele für sich, doch die Gelateria Dondoli in San Gimignano gewinnt regelmäßig internationale Preise. Auch die Gelateria di Piazza in Italien wird oft in Rankings als Spitzenreiter genannt. Letztlich entscheidet aber der persönliche Geschmack, ob eine traditionelle italienische Diele oder ein moderner Experimentalladen vorne liegt."
+      },
+      {
+        "question": "Welche Eisdiele ist die beste in Deutschland?",
+        "answer": "Zu den am besten bewerteten Eisdielen Deutschlands gehören oft Traditionsbetriebe wie das Ballabeni in München oder das Jones Ice Cream in Berlin. Plattformen wie Falstaff küren jährlich die beliebtesten Läden basierend auf Kundenbewertungen in verschiedenen Bundesländern. Qualität, Kreativität der Sorten und handwerkliche Herstellung sind dabei die wichtigsten Kriterien."
+      },
+      {
+        "question": "Welche Eisdielen in Hamburg haben die besten Eiscreme?",
+        "answer": "In Hamburg zählen Luicella's Ice Cream und die Eisprinzessinnen zu den absoluten Top-Adressen für handgemachtes Eis. Auch Delzepich im Stadtteil Uhlenhorst genießt Kultstatus für sein täglich frisch zubereitetes Milcheis. Wer es klassisch italienisch mag, ist bei Giovanni L. in der Innenstadt bestens aufgehoben."
+      },
+      {
+        "question": "Welches ist das beste Gelato?",
+        "answer": "Das beste Gelato zeichnet sich durch eine natürliche Farbwahl, eine cremige Textur ohne Eiskristalle und den Verzicht auf künstliche Aromen aus. Besonders Sorten wie Pistazie oder Haselnuss verraten viel über die Qualität, da hierfür teure Rohstoffe nötig sind. Experten raten dazu, auf Eisberge zu verzichten, die unnatürlich hoch aufgetürmt sind, da dies oft auf zu viele Emulgatoren hindeutet."
+      },
+      {
+        "question": "Wie lange kann man Softeis in der Maschine lassen?",
+        "answer": "Aus hygienischen Gründen sollte der Eismix für Softeis nicht länger als einen Tag in der Maschine verbleiben. Da die Geräte oft schwer zu reinigen sind, ist eine tägliche Entleerung und gründliche Desinfektion für die Lebensmittelsicherheit unerlässlich. Manche modernen Maschinen verfügen über eine Pasteurisierungsfunktion, die eine etwas längere Lagerung ermöglicht, doch frische Reinigung ist immer sicherer."
+      },
+      {
+        "question": "Wie lange ist selbstgemachtes Erdbeereis haltbar?",
+        "answer": "Hausgemachtes Eis hält sich im Tiefkühler etwa ein bis zwei Wochen, bevor der Geschmack und die Textur spürbar nachlassen. Da es keine Konservierungsstoffe enthält, bilden sich schneller Eiskristalle, die das Eis hart und wässrig machen können. Wenn frisches Eigelb verwendet wurde, sollte man das Eis zur Sicherheit noch schneller verzehren."
+      },
+      {
+        "question": "Wie lange hält selbstgemachtes Erdbeereis?",
+        "answer": "Die Haltbarkeit liegt bei idealen Bedingungen bei etwa 14 Tagen, danach leidet meist das Aroma der Früchte. Um Gefrierbrand zu vermeiden, sollte das Eis in einem luftdicht verschlossenen Behälter aufbewahrt werden. Vor dem Servieren empfiehlt es sich, das Eis kurz antauen zu lassen, damit es wieder geschmeidig wird."
+      },
+      {
+        "question": "Ist Eis im ICE für Kinder kostenlos?",
+        "answer": "Kinder erhalten im ICE der Deutschen Bahn gegen Vorlage ihrer Fahrkarte oft eine kleine Überraschung im Bordbistro, aber ein kostenloses Eis gehört meist nicht zum Standardangebot. Früher gab es spezielle Gutscheine für Kindermenüs, die eine Nachspeise enthielten. Es lohnt sich jedoch, das Personal im Bistro nach aktuellen Aktionen für die kleinen Fahrgäste zu fragen."
+      },
+      {
+        "question": "Warum bildet sich Eis im NoFrost Gefrierschrank?",
+        "answer": "Eisbildung in einem NoFrost-Gerät deutet meist auf eine defekte Türdichtung oder zu häufiges Öffnen der Tür hin, wodurch feuchte Luft eindringt. Wenn die automatische Abtaufunktion blockiert ist, kann die Feuchtigkeit nicht mehr abtransportiert werden und gefriert an den Wänden. Auch das Einlagern von noch warmen Speisen kann kurzfristig zur Eisbildung führen."
+      },
+      {
+        "question": "Warum gibt es kein Schoko Milchshake mehr bei McDonald's?",
+        "answer": "Dass es keinen Schokoladen-Milchshake mehr gibt, ist meist nur ein temporäres Problem aufgrund von Reinigungszyklen oder technischen Defekten der Shake-Maschine. In manchen Ländern oder Regionen kann es vorkommen, dass Sorten aufgrund geringer Nachfrage kurzzeitig aus dem Sortiment genommen werden. Grundsätzlich gehört der Schokoshake aber zum Kernsortiment des Fast-Food-Riesen."
+      },
+      {
+        "question": "Welches Eis essen Kinder am liebsten?",
+        "answer": "Kinder greifen klassischerweise am liebsten zu bunten Sorten wie Kaugummi-Eis oder Klassikern wie Schokolade und Erdbeere. Auch Eis mit Überraschungseffekten, wie knisternden Streuseln oder kleinen Figuren in der Waffel, steht hoch im Kurs. Im Supermarkt sind vor allem Wasser-Eis-Stangen oder Milcheis am Stiel wegen der einfachen Handhabung beliebt."
+      },
+      {
+        "question": "Wie funktioniert eine Softeismaschine für zuhause?",
+        "answer": "Eine Softeismaschine für den Heimgebrauch kühlt die eingefüllte flüssige Masse herunter und rührt gleichzeitig permanent Luft unter. Durch einen Hebel wird das Eis dann durch eine Sterndüse gepresst, was die typische Form erzeugt. Die meisten Geräte benötigen eine gewisse Vorlaufzeit, um die optimale Serviertemperatur von etwa minus 6 Grad zu erreichen."
+      }
+    ]
+  }
+]

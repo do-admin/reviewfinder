@@ -1,0 +1,149 @@
+[
+  {
+    "group_name": "Compensation for disadvantages (NA)",
+    "faqs": [
+      {
+        "question": "Which children receive compensation for disadvantages?",
+        "answer": "Compensation for disadvantages is aimed at students who, due to a disability or permanent impairment, have difficulties demonstrating their performance under regular conditions. The goal is to remove the barriers caused by the limitation without lowering the required standard of the tasks."
+      },
+      {
+        "question": "What types of compensation for disadvantages are there?",
+        "answer": "There are a variety of measures that are individually tailored to the child. These include, for example, extra time for exams, the use of aids such as laptops, or the provision of separate rooms."
+      },
+      {
+        "question": "Is compensation for disadvantages noted on the report card?",
+        "answer": "No, a pure compensation for disadvantages must not be noted on the report card, as it only adjusts the external conditions of the performance assessment. It is therefore \"invisible\" to third parties from the outside."
+      },
+      {
+        "question": "Can you get compensation for disadvantages with ADHD?",
+        "answer": "Yes, with diagnosed ADHD, there is often an entitlement to cushion concentration difficulties or impulsivity in everyday school life. Extra time or low-stimulus workspaces are often granted for this."
+      },
+      {
+        "question": "Can a school reject compensation for disadvantages?",
+        "answer": "The school can reject the application if the pedagogical requirements are not met or the diagnosis does not justify the measure. In this case, parents should seek a conversation with the school administration or get legal advice."
+      },
+      {
+        "question": "Is compensation for disadvantages also possible without a diagnosis?",
+        "answer": "As a rule, a medical or psychological diagnosis is mandatory to assert the legal claim."
+      },
+      {
+        "question": "Why is there often no compensation for disadvantages for dyscalculia?",
+        "answer": "This is due to the different decrees of the federal states; while dyslexia (LRS) is recognized almost everywhere, dyscalculia is legally evaluated differently in many regions. It is often argued that the arithmetic weakness affects the core area of performance assessment in mathematics, which would lead to grade protection rather than compensation for disadvantages."
+      },
+      {
+        "question": "How do I apply for compensation for disadvantages for my child?",
+        "answer": "Parents must submit a written, informal application to the school administration. Current medical certificates or expert reports that accurately describe the limitation should be attached to the application."
+      },
+      {
+        "question": "Can you be held back a grade with compensation for disadvantages?",
+        "answer": "Yes, compensation for disadvantages does not protect against not being promoted. It merely ensures that performance is evaluated fairly; if the grades are not sufficient despite the help, the general promotion rules apply."
+      },
+      {
+        "question": "What is the difference between grade protection and compensation for disadvantages?",
+        "answer": "While compensation for disadvantages only changes the general conditions, grade protection means that certain performances (e.g., spelling) are not evaluated at all."
+      },
+      {
+        "question": "Who decides on compensation for disadvantages in school?",
+        "answer": "The decision is usually made by the school administration on the recommendation of the class conference or the teachers involved."
+      },
+      {
+        "question": "What compensation for disadvantages is there for LRS (dyslexia)?",
+        "answer": "In the case of a reading and spelling weakness (dyslexia), extra time, the use of spelling programs, or a stronger weighting of oral performance can be granted."
+      },
+      {
+        "question": "For which subjects does the compensation for disadvantages apply?",
+        "answer": "In principle, it can apply to all subjects in which the impairment has a negative impact on performance."
+      }
+    ]
+  },
+  {
+    "group_name": "School accompaniment / Integration assistance",
+    "faqs": [
+      {
+        "question": "What is the difference between a school companion and an integration helper?",
+        "answer": "There is practically no difference; both terms refer to people who accompany children with support needs in everyday school life."
+      },
+      {
+        "question": "How much does an hour of school accompaniment cost?",
+        "answer": "Depending on the qualifications of the companion, the costs are usually between 30 and 60 euros per hour. However, the service is generally free of charge for the parents, as it is covered by the youth welfare office or social welfare office."
+      },
+      {
+        "question": "Can you work as a school companion without formal training?",
+        "answer": "Yes, a lateral entry is absolutely possible. Many providers are looking for dedicated assistants who are prepared through internal training."
+      },
+      {
+        "question": "What diagnosis is needed for a school companion?",
+        "answer": "The prerequisite is a mental, physical, or psychological disability that significantly hinders participation in class."
+      },
+      {
+        "question": "What is a school companion allowed and not allowed to do?",
+        "answer": "The companion assists with structuring everyday life and provides practical life support. However, they are not allowed to teach and are not responsible for grading."
+      },
+      {
+        "question": "Who approves a school companion?",
+        "answer": "Approval is granted by the responsible youth welfare office or social welfare office."
+      },
+      {
+        "question": "Why do autistic people need a school companion?",
+        "answer": "People on the autism spectrum often experience everyday school life as sensory overload. The school companion acts as a bridge to the environment here and helps with filtering stimuli."
+      },
+      {
+        "question": "How long does it take to apply for a school companion?",
+        "answer": "You should expect a processing time of several months. The process includes the application, medical reports, and often a personal interview with the specialist service."
+      },
+      {
+        "question": "What are the prerequisites for getting a school companion?",
+        "answer": "In addition to the diagnosis, an established need for participation is particularly crucial, proving that the child cannot cope with everyday school life without help."
+      },
+      {
+        "question": "How many hours do you work as a school companion?",
+        "answer": "This depends on the child's individual approval notice; the working hours are often based on the daily lesson hours."
+      },
+      {
+        "question": "What are not the tasks of a school companion?",
+        "answer": "The school companion is not a tutor, nor are they a substitute for general class supervision by the teacher."
+      }
+    ]
+  },
+  {
+    "group_name": "Special Educational Focuses (Basics)",
+    "faqs": [
+      {
+        "question": "What is the special educational focus on intellectual development?",
+        "answer": "This focus is determined when a child has comprehensive and long-lasting difficulties with learning. This is often accompanied by an IQ score of under 70."
+      },
+      {
+        "question": "What does the special educational focus on language entail?",
+        "answer": "This involves children whose communication skills are so severely impaired that they cannot follow the lessons without special help."
+      },
+      {
+        "question": "What is the special educational focus on emotional and social development (ESE)?",
+        "answer": "Students with this focus exhibit behaviors that hinder the building of positive relationships or learning success."
+      },
+      {
+        "question": "What does the special educational focus KME mean?",
+        "answer": "KME stands for Physical and Motor Development and is aimed at children with musculoskeletal impairments."
+      },
+      {
+        "question": "What is a school with a special educational focus on ESE?",
+        "answer": "This is a specialized educational institution that offers smaller classes and specially trained staff for children with behavioral issues."
+      },
+      {
+        "question": "What IQ is assumed for the special educational need for intellectual development?",
+        "answer": "Typically, this focus is considered for an IQ below 70 in combination with limitations in adaptive behavior."
+      },
+      {
+        "question": "When does a child receive the special educational need for language?",
+        "answer": "This happens when the language impairments are so severe that support at a mainstream school without assistance is no longer sufficient."
+      },
+      {
+        "question": "What is included in the special educational need for learning?",
+        "answer": "This focus is assigned when there are severe and persistent learning problems in multiple areas that cannot be explained by other special educational needs."
+      },
+      {
+        "question": "When does the special educational need ESE apply?",
+        "answer": "When the child's mental health or social behavior is so impaired that they cannot participate in regular classes without special educational help."
+      }
+    ]
+  }
+]

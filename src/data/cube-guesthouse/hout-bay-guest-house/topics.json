@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-04-27T06:12:39.531Z",
+  "clientId": "cube-guesthouse",
+  "siteId": "hout-bay-guest-house",
+  "sourceBaseUrl": "https://cube-guesthouse.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword:Hout Bay Guest House",
+  "briefingMainKeyword": "Hout Bay Guest House",
+  "deployDomainKeyword": "hout-bay-guest-house-co",
+  "topics": {
+    "coreServices": [
+      "Übernachtungen in einer modernen, eleganten Villa mit fünf individuellen Zimmern und Suiten",
+      "Reichhaltiges, hausgemachtes Frühstück auf der Pool-Terrasse (inklusive veganer Optionen)",
+      "Persönliche Beratung und Planungshilfe für Südafrika-Rundreisen",
+      "Hochwertige Zimmerausstattung: gut gefüllte Minibar, Espressomaschine, Apple TV",
+      "Bereitstellung eines südafrikanischen Mobiltelefons für Gäste"
+    ],
+    "trustSignals": [
+      "Hervorragende Gästebewertungen auf TripAdvisor",
+      "Persönliche und herzliche Gastfreundschaft durch den Gastgeber Dirk und sein Team",
+      "Sichere Lage in einem gehobenen, gefragten Viertel"
+    ],
+    "localReferences": [
+      "Hout Bay, Kapstadt, Südafrika",
+      "Ruhige Hanglage mit spektakulärem Blick auf die Berge und den Ozean"
+    ],
+    "differentiators": [
+      "Individuelle Architektur und Einrichtung jedes Zimmers (z. B. freistehendes Häuschen mit eigenem Sonnendeck)",
+      "Kombination aus modernem Design, Boutique-Charakter und familiärer Atmosphäre",
+      "Besondere technische Ausstattung wie Apple TV und ein lokales Gäste-Handy"
+    ],
+    "faqIntent": [
+      "Ist das Frühstück im Zimmerpreis inbegriffen und gibt es vegane Alternativen?",
+      "Welche Zimmer verfügen über eine Klimaanlage und Meerblick?",
+      "Ist die Gegend sicher für Touristen?",
+      "Eignet sich das Gästehaus für Flitterwochen oder als Startpunkt für einen Roadtrip?",
+      "Gibt es einen Pool und Möglichkeiten zur Entspannung?"
+    ]
+  },
+  "keywords": [
+    "Hout Bay Guest House",
+    "hout-bay-guest-house-co",
+    "Gästehaus Kapstadt",
+    "Boutique Hotel Hout Bay",
+    "Unterkunft Hout Bay Meerblick",
+    "Südafrika Rundreise Unterkunft",
+    "Villa Kapstadt mieten",
+    "Gästehaus Südafrika mit Pool"
+  ],
+  "h1Suggestions": [
+    "Dein exklusives Hout Bay Guest House",
+    "Willkommen im hout-bay-guest-house-co",
+    "Hout Bay Guest House: Traumurlaub am Kap",
+    "Modernes Gästehaus in Hout Bay, Kapstadt",
+    "hout-bay-guest-house-co: Deine Kap-Villa"
+  ],
+  "subtitleSuggestions": [
+    "Erlebe unvergessliche Tage in unserem Hout Bay Guest House. Genieße Meerblick, einen großen Pool und erstklassigen Service in Kapstadt.",
+    "Entdecke das hout-bay-guest-house-co: Deine sichere und elegante Unterkunft mit Bergblick, exzellentem Frühstück und persönlicher Betreuung.",
+    "Buche dein Zimmer im Hout Bay Guest House und starte deine Südafrika-Rundreise entspannt. Luxuriöse Suiten und veganes Frühstück warten auf dich.",
+    "Das hout-bay-guest-house-co bietet dir eine ruhige Hanglage, moderne Architektur und herzliche Gastfreundschaft für deinen perfekten Urlaub in Südafrika."
+  ],
+  "mustCover": [
+    "Fokus auf das Haupt-Keyword 'Hout Bay Guest House' als zentrale Identität der Website",
+    "Hervorhebung der sicheren, ruhigen Hanglage mit Berg- und Meerblick in Kapstadt",
+    "Detaillierte Beschreibung der fünf individuellen Zimmer (inklusive Apple TV, Minibar, Espressomaschine)",
+    "Erwähnung des inkludierten Frühstücks am Pool mit Fokus auf frische, hausgemachte und vegane Optionen",
+    "Betonung der persönlichen Betreuung durch Dirk und das Team, einschließlich der Beratung für Südafrika-Rundreisen"
+  ],
+  "avoidAngles": [
+    "Massenabfertigung oder unpersönlicher Hotel-Charakter (es ist ein familiäres, individuelles Gästehaus)",
+    "Pauschale Aussagen über Klimaanlagen in allen Zimmern (nur in bestimmten Suiten wie Corner, Cosmopolitan und Comb View vorhanden)",
+    "Billig-Hostel-Image (es ist eine gehobene, moderne Villa, auch wenn Zimmer für verschiedene Budgets angeboten werden)",
+    "Englische Floskeln im deutschen Text (z. B. 'Ocean View' statt 'Meerblick' oder 'Guesthouse' statt 'Gästehaus', sofern nicht Teil des Markennamens)"
+  ]
+}

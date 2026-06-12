@@ -1,0 +1,207 @@
+{
+  "variants": {
+    "client": {
+      "pageTitle": "Impressum",
+      "description": "Platzhalter in blocks/optionalGroups: {{firmenname}}, {{strasse}}, {{plz}}, {{ort}}, optional {{vertreter}}, {{registergericht}}, {{hrbNummer}}, {{ustId}}. Kontakt-Zeilen werden aus business.phone und business.email ergänzt (wenn gesetzt). Datenquelle: websites.json → business.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG)"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Firmenname: {{firmenname}}"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Postanschrift"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            { "type": "text", "value": "{{strasse}}" },
+            { "type": "br" },
+            { "type": "text", "value": "{{plz}} {{ort}}" }
+          ]
+        }
+      ],
+      "optionalGroups": [
+        {
+          "showIfNonEmpty": "vertreter",
+          "blocks": [
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Vertreten durch"
+            },
+            {
+              "type": "paragraph",
+              "parts": [{ "type": "text", "value": "{{vertreter}}" }]
+            }
+          ]
+        },
+        {
+          "showIfNonEmpty": "registergericht",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Registergericht: {{registergericht}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "showIfNonEmpty": "hrbNummer",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Handelsregisternummer (HRB): {{hrbNummer}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "showIfNonEmpty": "ustId",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: {{ustId}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "heroPages": {
+      "pageTitle": "Impressum",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Angaben gemäß § 5 DDG / Telemediengesetz (TMG)"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Die nachfolgenden Angaben gelten für dieses Onlineangebot, soweit nicht ausdrücklich etwas anderes geregelt ist."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Unternehmensangaben"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            { "type": "text", "value": "Firmenname: Hero Pages Inc." }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Rechtsform / Entity type: Delaware C Corporation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "EIN (Employer Identification Number): 32-0842978"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Gründungsdatum / Incorporation date: 4. Februar 2026"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            { "type": "text", "value": "Delaware file number: 10498070" }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vertretungsberechtigte Person"
+        },
+        {
+          "type": "paragraph",
+          "parts": [{ "type": "text", "value": "Lars Hermes" }]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Kontakt"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            { "type": "text", "value": "Telefon: " },
+            {
+              "type": "link",
+              "href": "tel:+4915121281631",
+              "value": "+49 1512 1281631"
+            },
+            { "type": "br" },
+            { "type": "text", "value": "E-Mail: " },
+            {
+              "type": "link",
+              "href": "mailto:legal@hero-pages.com",
+              "value": "legal@hero-pages.com"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Firmenanschrift"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            { "type": "text", "value": "1111b S Governors Ave" },
+            { "type": "br" },
+            { "type": "text", "value": "Suite 51997" },
+            { "type": "br" },
+            { "type": "text", "value": "Dover, DE 19904" },
+            { "type": "br" },
+            { "type": "text", "value": "United States" }
+          ]
+        }
+      ]
+    }
+  }
+}

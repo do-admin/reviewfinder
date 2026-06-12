@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hannover 96",
+    "url": "https://www.hannover96.de/",
+    "logo": "hannover-96-logo.webp",
+    "description": "As the flagship of the state capital, Hannover 96 combines sport and urban culture. The Reds support local initiatives and promote togetherness in Linden."
+  },
+  {
+    "name": "gourmego",
+    "url": "https://www.gourmego.de/",
+    "logo": "gourmego-logo.webp",
+    "description": "gourmego is a specialist for natural ice cream raw materials without flavors and colorants. NAPURESS® quality from the wholesaler for ice cream manufacturers and ice cream parlors in Europe."
+  },
+  {
+    "name": "Bauer Banse",
+    "url": "https://www.bauer-banse.de/",
+    "logo": "bauerbanse-logo.webp",
+    "description": "Farm sales and weekly markets: Bauer Banse brings fresh farm products from Kakerbeck to Hanover – including to the markets in Linden and Lister Meile."
+  },
+  {
+    "name": "Backring Nord",
+    "url": "https://www.backring.de/",
+    "logo": "backring-nord-logo.webp",
+    "description": "The largest private wholesale company for ice cream parlors and bakeries in Germany. Backring Nord stands for quality, advice, and reliable delivery."
+  },
+  {
+    "name": "Leibniz",
+    "url": "https://www.leibniz.com/de/",
+    "logo": "leibniz-logo.webp",
+    "description": "Bahlsen Leibniz – the original with 52 teeth from Hanover. From classic to Choco: the ideal accompaniment to a creamy ice cream sundae or a strong coffee."
+  },
+  {
+    "name": "Machwitz Kaffee",
+    "url": "https://www.machwitz-kaffee.de/",
+    "logo": "machwitz-logo.webp",
+    "description": "Awarded as the best roastery in Lower Saxony: Since 1883, Machwitz Kaffee has combined craftsmanship and fair direct trade for exceptional coffee enjoyment."
+  },
+  {
+    "name": "Waffelfabrik",
+    "url": "https://www.waffelfabrik.de/",
+    "logo": "waffelfabrik-logo.webp",
+    "description": "Professional ice cream cones for ice cream parlors and manufacturers. The Waffelfabrik produces ice cream cones and waffle cups in consistent quality for the ice cream trade."
+  }
+]

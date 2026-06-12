@@ -1,0 +1,43 @@
+{
+  "variants": {
+    "client": {
+      "responsibleHeading": "1. Controller",
+      "responsibleIntro": "The controller for data processing on this website is {{legalName}}, {{street}}, {{postalCode}} {{city}}."
+    },
+    "heroPages": {
+      "responsibleHeading": "1. Controller",
+      "responsibleIntro": "The controller for data processing on this website is {{legalName}}."
+    }
+  },
+  "shared": {
+    "contactLabelPhone": "Phone: ",
+    "contactLabelEmail": "Email: ",
+    "hostingHeading": "2. Access Data and Hosting",
+    "hostingParagraph1": "When accessing this website, technically necessary data (e.g., IP address, date and time, page accessed, browser information) is processed in server log files so that the website can be delivered stably and securely.",
+    "hostingParagraph2": "Processing is based on Art. 6 para. 1 lit. f GDPR (legitimate interest in secure and error-free operation).",
+    "contactHeading": "3. Contacting Us",
+    "contactParagraph": "If you contact us by email or phone, we process your information to handle your request. Depending on the request, processing is based on Art. 6 para. 1 lit. b GDPR (pre-contractual/contractual communication) or Art. 6 para. 1 lit. f GDPR (legitimate interest in efficient communication).",
+    "cookiesHeading": "4. Cookies and Similar Technologies",
+    "cookiesParagraph": "We use cookies and similar technologies to ensure the technical operation of the website and to perform statistical analyses. Non-essential technologies are only activated after your consent."
+  },
+  "googleAnalytics": {
+    "heading": "Google Analytics",
+    "paragraph1": "This website uses Google Analytics, a web analytics service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.",
+    "paragraph2": "Google Analytics helps us understand user behavior on our website (e.g., page views, time spent, devices used) to improve content and user experience.",
+    "paragraph3": "Its use is based on your consent (Art. 6 para. 1 lit. a GDPR in conjunction with § 25 para. 1 TDDDG). You can revoke your consent at any time with effect for the future.",
+    "linkLabel": "Further information can be found at: ",
+    "linkHref": "https://support.google.com/analytics/answer/6004245?hl=de"
+  },
+  "googleMaps": {
+    "heading": "Google Maps",
+    "paragraph1": "On individual pages, we use Google Maps to display our location. The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.",
+    "paragraph2": "When the map is loaded, personal data (e.g., IP address and technical connection data) may be transmitted to Google. Its use is based on Art. 6 para. 1 lit. f GDPR (legitimate interest in a user-friendly location display).",
+    "linkLabel": "Further information can be found at: ",
+    "linkHref": "https://policies.google.com/privacy?hl=de"
+  },
+  "rights": {
+    "heading": "Your Rights",
+    "paragraph1": "You have the right at any time to information about your stored personal data, to correction, deletion, restriction of processing, and to data portability within the framework of legal requirements.",
+    "paragraph2": "Furthermore, you have the right to revoke given consents at any time with effect for the future and to lodge a complaint with a competent data protection supervisory authority."
+  }
+}

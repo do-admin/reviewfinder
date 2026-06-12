@@ -1,0 +1,165 @@
+# Onboarding pipeline: scripts/onboard-client.ts
+#
+# Required repository secrets: GOOGLE_DRIVE_CREDENTIALS_JSON, OPENROUTER_API_KEY, FIRECRAWL_API_KEY
+# Strongly recommended: GOOGLE_PLACES_API_KEY (reviews + Places-backed steps). Optional: APIFY_API_TOKEN,
+#   OPENROUTER_REFERER_URL, OPENROUTER_MODEL_* (match your local .env.local / language.config.json).
+# Service account: share the Drive folder with the service account email; keep json as one secret.
+#
+# Generated files stay only in the job workspace unless you add artifact upload or a commit step.
+
+name: Onboard client
+
+on:
+  workflow_dispatch:
+    inputs:
+      google_drive_link:
+        description: Google Drive folder URL, share link, or raw folder id
+        required: true
+        type: string
+      client_id:
+        description: Optional. Same as --client-id= (override Excel client id)
+        required: false
+        type: string
+      extra_args:
+        description: "Optional. Extra args for onboard-client, e.g. --skip-reviews or --only=create"
+        required: false
+        type: string
+  repository_dispatch:
+    types: [onboard-client]
+
+concurrency:
+  group: onboard-client-${{ github.repository }}
+  cancel-in-progress: false
+
+env:
+  CI: 'true'
+  PULL_ASSETS_NO_PROMPT: '1'
+
+jobs:
+  onboard:
+    name: Run onboard-client
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    # Allow passing the Drive link from API: client_payload: { "google_drive_link": "https://..." }
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Resolve Google Drive link
+        env:
+          INPUT_LINK: ${{ github.event.inputs.google_drive_link }}
+          PAYLOAD_LINK: ${{ github.event.client_payload.google_drive_link }}
+        run: |
+          set -euo pipefail
+          RAW="${INPUT_LINK:-${PAYLOAD_LINK:-}}"
+          if [ -z "${RAW// }" ]; then
+            echo "Missing google_drive_link. Use workflow_dispatch with input, or repository_dispatch with client_payload.google_drive_link" >&2
+            exit 1
+          fi
+          RAW_TRIMMED="$(printf '%s' "$RAW" | tr -d '[:space:]')"
+          # URL patterns: /folders/{id} or id={id} or raw id
+          if [[ "$RAW_TRIMMED" =~ /folders/([^/?#]+) ]]; then
+            FOLDER_ID="${BASH_REMATCH[1]}"
+          elif [[ "$RAW_TRIMMED" =~ [?#&]id=([^&#]+) ]]; then
+            FOLDER_ID="${BASH_REMATCH[1]}"
+          else
+            FOLDER_ID="$RAW_TRIMMED"
+          fi
+          if [ -z "$FOLDER_ID" ]; then
+            echo "Could not determine folder id from: $RAW" >&2
+            exit 1
+          fi
+          echo "DRIVE_FOLDER_ID=$FOLDER_ID" >> "$GITHUB_ENV"
+          echo "Resolved Drive folder id: $FOLDER_ID"
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+          cache-dependency-path: pnpm-lock.yaml
+
+      - name: Write Google Drive service account (google-drive-credentials.json)
+        env:
+          GOOGLE_DRIVE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS_JSON }}
+        run: |
+          if [ -z "${GOOGLE_DRIVE_CREDENTIALS_JSON:-}" ]; then
+            echo "Repository secret GOOGLE_DRIVE_CREDENTIALS_JSON is not set" >&2
+            exit 1
+          fi
+          printf '%s' "$GOOGLE_DRIVE_CREDENTIALS_JSON" > google-drive-credentials.json
+
+      - name: Verify required secrets
+        env:
+          OR: ${{ secrets.OPENROUTER_API_KEY }}
+          FC: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: |
+          [ -n "$OR" ] || { echo "Missing repository secret: OPENROUTER_API_KEY" >&2; exit 1; }
+          [ -n "$FC" ] || { echo "Missing repository secret: FIRECRAWL_API_KEY" >&2; exit 1; }
+
+      - name: Create env file for local scripts
+        # Many scripts use dotenv.config({ path: '.env.local' }); writing once mirrors local dev.
+        run: |
+          umask 077
+          touch .env.local
+          {
+            echo "OPENROUTER_API_KEY=$OPENROUTER_API_KEY"
+            echo "FIRECRAWL_API_KEY=$FIRECRAWL_API_KEY"
+            echo "GOOGLE_PLACES_API_KEY=$GOOGLE_PLACES_API_KEY"
+            if [ -n "${APIFY_API_TOKEN:-}" ]; then echo "APIFY_API_TOKEN=$APIFY_API_TOKEN"; fi
+            if [ -n "${OPENROUTER_REFERER_URL:-}" ]; then echo "OPENROUTER_REFERER_URL=$OPENROUTER_REFERER_URL"; fi
+            if [ -n "${OPENROUTER_MODEL_WEBSITE_GEN:-}" ]; then echo "OPENROUTER_MODEL_WEBSITE_GEN=$OPENROUTER_MODEL_WEBSITE_GEN"; fi
+            if [ -n "${OPENROUTER_MODEL_GROUNDING:-}" ]; then echo "OPENROUTER_MODEL_GROUNDING=$OPENROUTER_MODEL_GROUNDING"; fi
+            if [ -n "${OPENROUTER_MODEL_KEYWORDS:-}" ]; then echo "OPENROUTER_MODEL_KEYWORDS=$OPENROUTER_MODEL_KEYWORDS"; fi
+            if [ -n "${OPENROUTER_MODEL_LLM_TXT:-}" ]; then echo "OPENROUTER_MODEL_LLM_TXT=$OPENROUTER_MODEL_LLM_TXT"; fi
+            if [ -n "${OPENROUTER_MODEL_DATA_VALIDATION:-}" ]; then echo "OPENROUTER_MODEL_DATA_VALIDATION=$OPENROUTER_MODEL_DATA_VALIDATION"; fi
+            if [ -n "${OPENROUTER_MODEL_COLOR_VISION:-}" ]; then echo "OPENROUTER_MODEL_COLOR_VISION=$OPENROUTER_MODEL_COLOR_VISION"; fi
+            if [ -n "${OPENROUTER_MODEL_CLIENT_PROMPT:-}" ]; then echo "OPENROUTER_MODEL_CLIENT_PROMPT=$OPENROUTER_MODEL_CLIENT_PROMPT"; fi
+          } >> .env.local
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          OPENROUTER_REFERER_URL: ${{ secrets.OPENROUTER_REFERER_URL }}
+          OPENROUTER_MODEL_WEBSITE_GEN: ${{ secrets.OPENROUTER_MODEL_WEBSITE_GEN }}
+          OPENROUTER_MODEL_GROUNDING: ${{ secrets.OPENROUTER_MODEL_GROUNDING }}
+          OPENROUTER_MODEL_KEYWORDS: ${{ secrets.OPENROUTER_MODEL_KEYWORDS }}
+          OPENROUTER_MODEL_LLM_TXT: ${{ secrets.OPENROUTER_MODEL_LLM_TXT }}
+          OPENROUTER_MODEL_DATA_VALIDATION: ${{ secrets.OPENROUTER_MODEL_DATA_VALIDATION }}
+          OPENROUTER_MODEL_COLOR_VISION: ${{ secrets.OPENROUTER_MODEL_COLOR_VISION }}
+          OPENROUTER_MODEL_CLIENT_PROMPT: ${{ secrets.OPENROUTER_MODEL_CLIENT_PROMPT }}
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Run onboard-client
+        env:
+          # Ensure child processes (tsx, pnpm child scripts) see API keys
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          OPENROUTER_REFERER_URL: ${{ secrets.OPENROUTER_REFERER_URL }}
+        run: |
+          set -euo pipefail
+          CMD=(pnpm run onboard-client -- --drive-folder-id="${DRIVE_FOLDER_ID}")
+          CLIENT_IN="${{ github.event.inputs.client_id }}"
+          PAYLOAD_CLIENT="${{ github.event.client_payload.client_id }}"
+          CID="${CLIENT_IN:-${PAYLOAD_CLIENT:-}}"
+          if [ -n "$CID" ]; then CMD+=("--client-id=$CID"); fi
+          EX="${{ github.event.inputs.extra_args }}"
+          PEX="${{ github.event.client_payload.extra_args }}"
+          EX="${EX:-$PEX}"
+          if [ -n "$EX" ]; then
+            # shellcheck disable=SC2206
+            read -r -a EXTRA <<< "$EX" || true
+            for a in "${EXTRA[@]}"; do [ -n "$a" ] && CMD+=("$a"); done
+          fi
+          "${CMD[@]}"

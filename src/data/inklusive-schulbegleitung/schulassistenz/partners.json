@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bpa Arbeitgeberverband",
+    "url": "https://www.bpa-arbeitgeberverband.de/",
+    "logo": "bpa-arbeitgeberverband-logo.webp",
+    "description": "Als Stimme der privaten Pflegeeinrichtungen fördert der bpa moderne Standards im Sozialwesen. Ein Partner, der die pflegerische Infrastruktur in unserer Gesellschaft nachhaltig mitgestaltet."
+  },
+  {
+    "name": "Kinderschutzzentrum Hannover",
+    "url": "https://www.ksz-hannover.de/",
+    "logo": "kinderschutzzentrum-hannover.webp",
+    "description": "Kompetente Beratung und Prävention unter einem Dach: Das Kinderschutzzentrum ist die wichtige Anlaufstelle in Hannover, wenn es um das Wohlergehen und den Schutz der Kleinsten geht."
+  },
+  {
+    "name": "Jugendamt Hannover",
+    "url": "https://www.unterstuetzung-die-ankommt.de/de/",
+    "logo": "jugendamt-logo.webp",
+    "description": "Erziehungshilfe und Förderung, die genau dort landet, wo sie gebraucht wird. Das Jugendamt Hannover begleitet Familien mit Herz und Fachverstand durch alle Lebensphasen."
+  },
+  {
+    "name": "Landeshauptstadt Hannover",
+    "url": "https://www.hannover.de/",
+    "logo": "landeshauptstadt-hannover-logo.webp",
+    "description": "Ob Behördengänge, grüne Stadträume oder lokale Events: Das offizielle Portal der Landeshauptstadt vernetzt Hannoveraner und Besucher mit allem, was unsere Stadt lebenswert macht."
+  }
+]

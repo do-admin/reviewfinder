@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hannover 96",
+    "url": "https://www.hannover96.de/",
+    "logo": "hannover-96-logo.webp",
+    "description": "Der Verein mit dem Motto „Niemals allein“ prägt Hannover seit über 125 Jahren. Hannover 96 bringt Menschen zusammen – wie ein guter Eisbecher in der Südstadt."
+  },
+  {
+    "name": "gourmego",
+    "url": "https://www.gourmego.de/",
+    "logo": "gourmego-logo.webp",
+    "description": "Natürliche Eisrohstoffe von gourmego: 100 % Fruchtpürees, Nusspasten und Eiszutaten ohne Konservierungsstoffe. Die Basis für authentisches Manufaktureis."
+  },
+  {
+    "name": "Bauer Banse",
+    "url": "https://www.bauer-banse.de/",
+    "logo": "bauerbanse-logo.webp",
+    "description": "Regionale Landwirtschaft von Bauer Banse: Frische Erzeugnisse vom Hof Kakerbeck. Auf den Hannoveraner Wochenmärkten ist Bauer Banse seit Jahren vertraut."
+  },
+  {
+    "name": "Backring Nord",
+    "url": "https://www.backring.de/",
+    "logo": "backring-nord-logo.webp",
+    "description": "Backring Nord beliefert Eiscafés und Gastronomie deutschlandweit. Erfahrener Partner mit breitem Sortiment für Bäckereien, Konditoreien und Eismanufakturen."
+  },
+  {
+    "name": "Leibniz",
+    "url": "https://www.leibniz.com/de/",
+    "logo": "leibniz-logo.webp",
+    "description": "Leibniz Butterkekse von Bahlsen – Hannovers Kultgebäck mit 52 Zähnen. Die klassische Begleitung zu Eis und Espresso, erhältlich in zahlreichen Varianten."
+  },
+  {
+    "name": "Machwitz Kaffee",
+    "url": "https://www.machwitz-kaffee.de/",
+    "logo": "machwitz-logo.webp",
+    "description": "Hannovers älteste Kaffeerösterei seit 1883. Machwitz verbindet traditionelle Trommelröstung mit Direct Trade – beste Bohnen aus ausgewählten Plantagen."
+  },
+  {
+    "name": "Waffelfabrik",
+    "url": "https://www.waffelfabrik.de/",
+    "logo": "waffelfabrik-logo.webp",
+    "description": "Eiswaffeln und Eistüten in Handwerksqualität. Die Waffelfabrik liefert die passenden Hüllen für natürliche Eiskreationen – knusprig und geschmacksneutral."
+  }
+]

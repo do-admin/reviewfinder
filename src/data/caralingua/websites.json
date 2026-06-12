@@ -1,0 +1,886 @@
+{
+  "driveFolderId": "1y_BcKZKKjBm83wySlSQwgeiLQWJvtkYE",
+  "clientName": "Caralingua",
+  "clientDomain": "caralingua.de",
+  "sectionIds": [
+    {
+      "id": "hero",
+      "visible": true
+    },
+    {
+      "id": "info",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "visible": true
+    },
+    {
+      "id": "team",
+      "visible": false
+    },
+    {
+      "id": "faq",
+      "visible": true
+    },
+    {
+      "id": "reviews",
+      "visible": true
+    },
+    {
+      "id": "map",
+      "visible": true
+    },
+    {
+      "id": "contact",
+      "visible": true
+    }
+  ],
+  "websites": [
+    {
+      "id": "logopaedie-duesseldorf-stadtmitte",
+      "deployDomain": "logopaedie-in-duesseldorf.de",
+      "googleTagId": "",
+      "business": {
+        "name": "Caralingua",
+        "brandName": "Caralingua",
+        "legalName": "Caralingua",
+        "location": {
+          "city": "Düsseldorf",
+          "district": "Stadtmitte",
+          "neighborhood": "Zentrum"
+        },
+        "phone": "+491733179246",
+        "email": "info@caralingua.de",
+        "openingHours": {
+          "short": "Termine nach Vereinbarung",
+          "detailed": "Montag bis Freitag nach vorheriger Terminvereinbarung",
+          "display": "Mo - Fr: nach Vereinbarung"
+        },
+        "contactPerson": {
+          "name": "Cara Klingberg",
+          "title": "Staatlich anerkannte Logopädin",
+          "imageUrl": "/images/logopaedie-duesseldorf-stadtmitte/team/logopaedie-duesseldorf-stadtmitte-team.webp"
+        },
+        "bookingUrl": "",
+        "social": {
+          "instagram": "https://www.instagram.com/caralingua/",
+          "facebook": "",
+          "whatsappNumber": ""
+        },
+        "ustId": "",
+        "vertreter": "Cara Klingberg",
+        "googlePlacesId": "ChIJNQbW71mqua0RMWHe_JTkEMI",
+        "legalAddress": {
+          "street": "Liesegangstrasse 20",
+          "postalCode": "40211",
+          "city": "Düsseldorf"
+        }
+      },
+      "header": {
+        "logoUrl": "/images/logopaedie-duesseldorf-stadtmitte/logopaedie-duesseldorf-stadtmitte-logo.webp",
+        "logoAlt": "caralingua Logopädie Düsseldorf Logo",
+        "logoWidth": 180,
+        "ariaLabelNavigation": "Hauptnavigation",
+        "ariaMenuOpen": "Menü öffnen",
+        "ariaMenuClose": "Menü schließen",
+        "links": [
+          {
+            "label": "Über mich",
+            "href": "/ueber-uns"
+          },
+          {
+            "label": "Häufige Fragen",
+            "href": "/faq"
+          },
+          {
+            "label": "Termin vereinbaren",
+            "href": "mailto:info@caralingua.de",
+            "type": "button"
+          }
+        ]
+      },
+      "footer": {
+        "navigation": {
+          "label": "Navigation",
+          "links": [
+            {
+              "link": "/ueber-uns",
+              "linkLabel": "Über uns"
+            },
+            {
+              "link": "/faq",
+              "linkLabel": "FAQ"
+            }
+          ]
+        },
+        "contact": {
+          "label": "Kontakt",
+          "links": [
+            {
+              "link": "tel:",
+              "linkLabel": "+49 173 3179246"
+            },
+            {
+              "link": "mailto:",
+              "linkLabel": "info@caralingua.de"
+            }
+          ]
+        },
+        "openingHoursLabel": "Öffnungszeiten",
+        "imprint": "Impressum",
+        "privacy": "Datenschutz"
+      },
+      "cookie": {
+        "title": "Deine Datenschutz-Einstellungen",
+        "description": "Wir nutzen Cookies, um Dir die bestmögliche Erfahrung auf unserer Website zu bieten und unsere Dienste stetig zu verbessern.",
+        "acceptAll": "Alle akzeptieren",
+        "acceptEssential": "Nur essenzielle",
+        "moreInfo": "Mehr Informationen"
+      },
+      "notFound": {
+        "title": "Seite nicht gefunden",
+        "description": "Manchmal fehlen uns die Worte – oder in diesem Fall die richtige Seite. Lass uns gemeinsam zurück zur Startseite gehen und den Faden wieder aufnehmen.",
+        "backHome": "Zurück zur Startseite"
+      },
+      "translationsMetadata": {
+        "disclaimer": {
+          "aiTranslation": "Diese Seite wurde maschinell übersetzt. Es können Fehler auftreten.",
+          "dismissAria": "Hinweis ausblenden",
+          "infoAria": "Weitere Informationen zur Übersetzung"
+        },
+        "common": {
+          "close": "Schließen",
+          "selectLanguage": "Sprache auswählen"
+        }
+      },
+      "index": {
+        "redirectTitle": "Weiterleitung…",
+        "redirectTo": "Weiterleitung nach"
+      },
+      "pages": [
+        {
+          "name": "Startseite",
+          "pageTitle": "Logopädie in Düsseldorf: Aus Liebe zur Sprache",
+          "metadata": {
+            "geo": {
+              "icbm": "51.2255, 6.7828",
+              "region": "DE-NW",
+              "position": "51.2255;6.7828",
+              "placename": "Düsseldorf"
+            },
+            "title": "Logopädie Düsseldorf Stadtmitte | caralingua Praxis",
+            "keywords": "Logopädie Düsseldorf, Logopädin Düsseldorf, Sprachtherapie, Kindersprache, Aphasie Therapie, Stimmstörung Behandlung, Sprachentwicklungsstörung, Hausbesuche Logopädie, Dyslalie Therapie, Logopädische Praxis Düsseldorf, caralingua, Sprechtherapie, Stimmtherapie",
+            "openGraph": {
+              "url": "https://caralingua.de",
+              "title": "Logopädie in Düsseldorf: Aus Liebe zur Sprache | caralingua",
+              "images": [
+                {
+                  "alt": "Einfühlsame Logopädie Behandlung in der Praxis caralingua in Düsseldorf",
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Wertschätzende Sprachtherapie für Kinder und Erwachsene in Düsseldorf. Gemeinsam öffnen wir die Türe zur Kommunikation im Alltag – ganz ohne Druck."
+            },
+            "twitter": {
+              "title": "Logopädie Düsseldorf Stadtmitte | caralingua Praxis",
+              "description": "Einfühlsame Sprachtherapie für Kinder und Erwachsene in Düsseldorf. Gemeinsam öffnen wir die Türe zur Kommunikation im Alltag – ganz ohne Druck.",
+              "images": [
+                {
+                  "alt": "Einfühlsame Logopädie Behandlung in der Praxis caralingua in Düsseldorf",
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            },
+            "description": "Einfühlsame Logopädie in Düsseldorf für Kinder & Erwachsene. Sprachtherapie ohne Druck, mit Herz & Verstand. Vereinbare jetzt deinen Termin bei caralingua!",
+            "schema": [
+              {
+                "id": "organization",
+                "schemaType": "organization",
+                "data": {
+                  "name": "caralingua",
+                  "legalName": "caralingua",
+                  "alternateName": [
+                    "Logopädie caralingua",
+                    "Praxis für Logopädie Cara Klingberg"
+                  ],
+                  "description": "Staatlich anerkannte Praxis für Logopädie in Düsseldorf. Einfühlsame Sprachtherapie, Sprechtherapie und Stimmtherapie für Kinder und Erwachsene.",
+                  "telephone": "+491733179246",
+                  "email": "info@caralingua.de",
+                  "url": "https://caralingua.de",
+                  "logo": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/logopaedie-duesseldorf-stadtmitte-logo.webp",
+                  "sameAs": [
+                    "https://www.instagram.com/caralingua/"
+                  ],
+                  "address": [
+                    {
+                      "@type": "PostalAddress",
+                      "name": "caralingua",
+                      "streetAddress": "Liesegangstrasse 20",
+                      "postalCode": "40211",
+                      "addressLocality": "Düsseldorf",
+                      "addressRegion": "Nordrhein-Westfalen",
+                      "addressCountry": "DE"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "website",
+                "schemaType": "website",
+                "data": {
+                  "name": "caralingua",
+                  "url": "https://caralingua.de",
+                  "description": "Praxis für Logopädie in Düsseldorf Stadtmitte",
+                  "inLanguage": "de-DE",
+                  "publisher": {
+                    "@id": "#organization"
+                  }
+                }
+              },
+              {
+                "id": "local-business",
+                "schemaType": "localBusiness",
+                "data": {
+                  "@type": "LocalBusiness",
+                  "name": "caralingua",
+                  "description": "Staatlich anerkannte Praxis für Logopädie in Düsseldorf. Einfühlsame Sprachtherapie, Sprechtherapie und Stimmtherapie für Kinder und Erwachsene.",
+                  "url": "https://caralingua.de",
+                  "telephone": "+491733179246",
+                  "email": "info@caralingua.de",
+                  "priceRange": "$$",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Liesegangstrasse 20",
+                    "postalCode": "40211",
+                    "addressLocality": "Düsseldorf",
+                    "addressRegion": "Nordrhein-Westfalen",
+                    "addressCountry": "DE"
+                  },
+                  "geo": {
+                    "latitude": "51.2255",
+                    "longitude": "6.7828"
+                  },
+                  "openingHoursSpecification": [
+                    "Mo-Fr 08:00-18:00"
+                  ],
+                  "sameAs": [
+                    "https://www.instagram.com/caralingua/"
+                  ]
+                }
+              }
+            ]
+          },
+          "hero": {
+            "h1": "Logopädie in Düsseldorf: Aus Liebe zur Sprache",
+            "backgroundImage": "/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+            "backgroundImageAlt": "Einfühlsame Logopädie-Behandlung in der Praxis caralingua in Düsseldorf",
+            "locationPrefix": "Zentral in",
+            "locationSuffix": "Düsseldorf",
+            "namePrefix": "Praxis",
+            "callAriaLabel": "Jetzt anrufen und Termin vereinbaren",
+            "since": "2015",
+            "buttons": [
+              {
+                "text": "Termin vereinbaren",
+                "link": "mailto:info@caralingua.de",
+                "variant": "primary"
+              }
+            ],
+            "card1Icon": "Users",
+            "card1Line1": "500 Glückliche Patient*innen",
+            "card1Line2": "Jedes Alter",
+            "card2Icon": "MapPin",
+            "card2Line1": "Liesegangstrasse 20",
+            "card2Line2": "40211 Düsseldorf",
+            "card3Icon": "Clock",
+            "card3Line1": "Mo - Fr: nach Vereinbarung",
+            "card3Line2": ""
+          },
+          "info": {
+            "description": "Wertschätzende Sprachtherapie für Kinder und Erwachsene. Gemeinsam öffnen wir die Türe zur Kommunikation im Alltag – ganz ohne Druck.",
+            "paragraph1": "In meiner Praxis in der Liesegangstraße 20 in Düsseldorf biete ich dir und deinen Angehörigen einen sicheren Hafen für alle sprachlichen Herausforderungen. Ob Sprachentwicklungsstörungen bei Kindern, Stimmprobleme oder neurologische Sprachstörungen wie Aphasie – hier stehst du als Mensch im Mittelpunkt.",
+            "paragraph2": "Mein Therapieansatz basiert auf Menschlichkeit, Empathie und einem liebevollen Umfeld. Anstatt Defizite abzuarbeiten, heben wir gemeinsam deine individuellen Stärken hervor. Nach ärztlicher Verordnung komme ich für die Therapie auch gerne zu dir nach Hause.",
+            "quote": "Mit Menschlichkeit und einem liebevollen Umfeld möchte ich deine Bedürfnisse und individuellen Stärken hervorheben – ganz ohne Druck!",
+            "imageUrl": "/images/logopaedie-duesseldorf-stadtmitte/info/logopaedie-duesseldorf-stadtmitte-info.webp",
+            "imageAlt": "Logopädin bei der einfühlsamen Sprachtherapie in Düsseldorf",
+            "activities": {
+              "title": "Individuelle Therapie",
+              "description": "Von der ausführlichen Anamnese bis zum maßgeschneiderten Therapieplan für Kinder und Erwachsene.",
+              "icon": "Leaf"
+            },
+            "nutrition": {
+              "title": "Transparente Beratung",
+              "description": "Klare Aufklärung zu Verordnungen, Kostenübernahme und dem Ablauf der Behandlung.",
+              "icon": "Utensils"
+            },
+            "garden": {
+              "title": "Hausbesuche",
+              "description": "Nach ärztlicher Verordnung komme ich für die logopädische Therapie auch zu dir nach Hause.",
+              "icon": "Sprout"
+            },
+            "values": {
+              "nature": "Natürliche Entwicklung im eigenen Tempo fördern.",
+              "mindfulness": "Achtsame und wertschätzende Begleitung ohne Leistungsdruck.",
+              "participation": "Aktive Teilhabe am alltäglichen Leben durch gestärkte Kommunikation."
+            },
+            "valueIcons": {
+              "mindfulness": "Heart",
+              "nature": "Sun",
+              "participation": "Users"
+            },
+            "sectionTitle": "Logopädie in Düsseldorf: Aus Liebe zur Sprache",
+            "activitiesLabel": "Therapieangebot",
+            "nutritionLabel": "Beratung",
+            "gardenLabel": "Hausbesuche",
+            "mindfulness": "Achtsamkeit",
+            "nature": "Natürlichkeit",
+            "participation": "Teilhabe"
+          },
+          "contact": {
+            "location": "Düsseldorf Stadtmitte",
+            "locationLabel": "Standort",
+            "addressName": "caralingua Logopädie",
+            "bookOnline": "Termin anfragen",
+            "bookOnlineDesc": "Vereinbare jetzt deinen Termin für eine individuelle Sprachtherapie.",
+            "infoTitle": "Kontakt & Anfahrt",
+            "addressLabel": "Praxisadresse",
+            "openingHoursLabel": "Sprechzeiten",
+            "phoneLabel": "Telefon",
+            "emailLabel": "E-Mail",
+            "bookingTitle": "Lass uns gemeinsam starten",
+            "bookingIntro": "Du suchst nach einer einfühlsamen logopädischen Begleitung für dich oder dein Kind? Melde dich gerne bei mir.",
+            "bookingButton": "Jetzt Termin anfragen"
+          },
+          "gallery": {
+            "title": "Unsere Praxisräume",
+            "subtitle": "Ein liebevolles Umfeld für deine Sprachentwicklung. Fühl dich wohl bei uns in Düsseldorf.",
+            "ariaLabel": "Bildergalerie der Praxisräume",
+            "images": [
+              {
+                "src": "/images/logopaedie-duesseldorf-stadtmitte/gallerie/logopaedie-duesseldorf-stadtmitte-1.webp",
+                "alt": "Helle und freundliche Praxisräume der Logopädie in Düsseldorf"
+              },
+              {
+                "src": "/images/logopaedie-duesseldorf-stadtmitte/gallerie/logopaedie-duesseldorf-stadtmitte-2.webp",
+                "alt": "Liebevoll eingerichtetes Therapiezimmer für Kinder"
+              },
+              {
+                "src": "/images/logopaedie-duesseldorf-stadtmitte/gallerie/logopaedie-duesseldorf-stadtmitte-3.webp",
+                "alt": "Gemütlicher Wartebereich der Logopädie-Praxis"
+              },
+              {
+                "src": "/images/logopaedie-duesseldorf-stadtmitte/gallerie/logopaedie-duesseldorf-stadtmitte-4.webp",
+                "alt": "Therapiematerialien für die spielerische Sprachentwicklung"
+              },
+              {
+                "src": "/images/logopaedie-duesseldorf-stadtmitte/gallerie/logopaedie-duesseldorf-stadtmitte-5.webp",
+                "alt": "Blick in unseren modernen Behandlungsraum"
+              },
+              {
+                "src": "/images/logopaedie-duesseldorf-stadtmitte/gallerie/logopaedie-duesseldorf-stadtmitte-6.webp",
+                "alt": "Entspannte Atmosphäre für die Sprachtherapie"
+              },
+              {
+                "src": "/images/logopaedie-duesseldorf-stadtmitte/gallerie/logopaedie-duesseldorf-stadtmitte-7.webp",
+                "alt": "Detailansicht der Praxisausstattung in Düsseldorf Stadtmitte"
+              },
+              {
+                "src": "/images/logopaedie-duesseldorf-stadtmitte/gallerie/logopaedie-duesseldorf-stadtmitte-8.webp",
+                "alt": "Einladender Eingangsbereich unserer Logopädie-Praxis"
+              }
+            ],
+            "roomsTitle": "Unsere Praxisräume",
+            "roomsDescription": "Tritt ein und fühl dich wohl! Unsere hellen und liebevoll eingerichteten Räume in Düsseldorf Stadtmitte bieten dir und deinem Kind eine entspannte Atmosphäre. Hier steht die Freude an der Sprache im Mittelpunkt – ganz ohne Druck.",
+            "outdoorTitle": "Mitten in Düsseldorf",
+            "outdoorDescription": "Du findest unsere Praxis zentral gelegen in der Liesegangstraße 20. Die gute Anbindung macht deinen Weg zu uns entspannt und unkompliziert.",
+            "imageOf": "Bild {current} von {total}",
+            "rooms": "Innenräume",
+            "outdoor": "Außenansicht",
+            "prevImage": "Vorheriges Bild",
+            "nextImage": "Nächstes Bild"
+          },
+          "team": {
+            "title": "Deine Logopädin",
+            "subtitle": "Mit Herz, Erfahrung und viel Liebe zur Sprache begleite ich dich auf deinem Weg.",
+            "teamMember": {
+              "quote": "Gemeinsam öffnen wir die Türe zu einer sprachlichen Kommunikation im Alltag. Ohne Druck und mit Fokus auf deine individuellen Stärken!"
+            }
+          },
+          "map": {
+            "description": "Unsere Praxis für Logopädie in der Liesegangstraße 20 in Düsseldorf Stadtmitte bietet empathische und kompetente Sprachtherapie für Kinder und Erwachsene.",
+            "publicTransport": "Unsere Praxis in der Liesegangstraße 20 ist optimal an den Nahverkehr angebunden. Du erreichst uns bequem mit verschiedenen Straßenbahn- und U-Bahn-Linien bis zu den nahegelegenen Haltestellen Schadowstraße oder Pempelforter Straße.",
+            "parking": "In der direkten Umgebung findest du mehrere Parkhäuser, wie zum Beispiel das Parkhaus Schadow-Arkaden oder das Parkhaus am Wehrhahn, die nur wenige Gehminuten von unserer Praxis entfernt sind.",
+            "addressTitle": "Anfahrt zu {name}",
+            "iframeTitle": "Google Maps Karte der Logopädie-Praxis caralingua in Düsseldorf",
+            "sectionTitle": "So findest du unsere Praxis",
+            "openOnMap": "Auf Google Maps öffnen",
+            "visitUs": "Besuche uns in Düsseldorf",
+            "publicTransportLabel": "Mit Bus & Bahn",
+            "parkingLabel": "Parkmöglichkeiten"
+          },
+          "faq": {
+            "title": "Deine Fragen zur Logopädie – verständlich beantwortet",
+            "subtitle": "Von der ärztlichen Verordnung bis zum ersten Termin: Hier findest du alle wichtigen Antworten rund um den Ablauf, die Kostenübernahme und unsere gemeinsamen Therapiestunden.",
+            "faqDataFile": "faq.json"
+          },
+          "trust": {
+            "partner": "Partner",
+            "H2": "Unsere Partner",
+            "qualityPartners": "Qualität & Mitgliedschaften",
+            "logos": []
+          },
+          "reviews": {
+            "reviewData": {
+              "displayName": {
+                "text": "caralingua - Praxis für Logopädie in Düsseldorf",
+                "languageCode": "de"
+              },
+              "formattedAddress": "Liesegangstraße 20, 40211 Düsseldorf, Germany",
+              "reviews": [
+                {
+                  "name": "places/ChIJNQbW71mqua0RMWHe_JTkEMI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5ZlMwUjRjVGgyUTNCQ1VXNDBURVE1ZGxsNFVGRRAB",
+                  "relativePublishTimeDescription": "5 months ago",
+                  "rating": 5,
+                  "text": {
+                    "text": "I am absolutely thrilled with the treatment I've received from Ms. Klingberg at the caralingua speech therapy practice. She works with utmost professionalism and empathy, and achieves noticeable progress. Each session is individually tailored and motivating. I can wholeheartedly recommend Ms. Klingberg – an outstanding therapist with a great deal of heart and expertise!",
+                    "languageCode": "en-US"
+                  },
+                  "originalText": {
+                    "text": "Ich bin rundum begeistert von der Behandlung bei Frau Klingberg in der Logopädie Praxis caralingua. Sie arbeitet äußerst professionell, einfühlsam und erzielt spürbare Fortschritte. Jede Sitzung ist individuell abgestimmt und motivierend gestaltet. Ich kann Frau Klingberg uneingeschränkt weiterempfehlen – eine hervorragende Therapeutin mit viel Herz und Fachkompetenz!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Costa Patentalis (CP Media & Network)",
+                    "uri": "https://www.google.com/maps/contrib/111388519255489428465/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtZ-mIlKx85cLzila0G5mWz71WWvMPb6yRHXiXXRnM7z7eCA=s128-c0x00000000-cc-rp-mo-ba2"
+                  },
+                  "publishTime": "2025-11-03T15:55:35.320706032Z",
+                  "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5ZlMwUjRjVGgyUTNCQ1VXNDBURVE1ZGxsNFVGRRAB&d=17924085&t=1",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5ZlMwUjRjVGgyUTNCQ1VXNDBURVE1ZGxsNFVGRRAB!2m1!1s0xadb9aa59efd60635:0xc210e494fcde6131"
+                },
+                {
+                  "name": "places/ChIJNQbW71mqua0RMWHe_JTkEMI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWck1GQjVVRFkyYVc1NVltUjFOR2d0UkdSb1owRRAB",
+                  "relativePublishTimeDescription": "4 months ago",
+                  "rating": 5,
+                  "text": {
+                    "text": "Ms. Klingberg works with absolute professionalism and competence, demonstrating a palpable passion for her profession. Significant progress was noticeable after only a short time. The entire practice impresses with its warm, friendly atmosphere and excellent organization. I feel I am in very good hands here – highly recommended!",
+                    "languageCode": "en-US"
+                  },
+                  "originalText": {
+                    "text": "Frau Klingberg arbeitet absolut professionell, kompetent und mit spürbarer Leidenschaft für ihren Beruf. Schon nach kurzer Zeit waren deutliche Fortschritte erkennbar. Die gesamte Praxis überzeugt durch eine warme, freundliche Atmosphäre und eine hervorragende Organisation. Ich fühle mich hier bestens aufgehoben – absolut empfehlenswert!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Amir",
+                    "uri": "https://www.google.com/maps/contrib/113701312200282431401/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLP_NKZhClW9l2j8YV08xVQU32xQeijQu1Y_ufLa_IFt10g1w=s128-c0x00000000-cc-rp-mo"
+                  },
+                  "publishTime": "2025-11-15T13:19:19.266213205Z",
+                  "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWck1GQjVVRFkyYVc1NVltUjFOR2d0UkdSb1owRRAB&d=17924085&t=1",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWck1GQjVVRFkyYVc1NVltUjFOR2d0UkdSb1owRRAB!2m1!1s0xadb9aa59efd60635:0xc210e494fcde6131"
+                },
+                {
+                  "name": "places/ChIJNQbW71mqua0RMWHe_JTkEMI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KVWRHNU5hbTA0U3pCV1RqWnlVVFp4YVVWdVlYYxAB",
+                  "relativePublishTimeDescription": "5 months ago",
+                  "rating": 5,
+                  "text": {
+                    "text": "My son (4 years old) and I (34 years old) are both receiving treatment from Cara.\n\nIt's a dream come true! We feel incredibly lucky to have found her. Cara comes to our home for treatments, and while I put my youngest to bed, my older son eagerly does the exercises with Cara. He's making significant progress, and he even enjoys doing the \"homework.\"\n\nI also feel very well cared for! She guides me through each exercise with patience and enjoyment, and I feel comfortable at all times, no matter how the exercise is going.\n\nI wholeheartedly recommend this wonderful practice.",
+                    "languageCode": "en-US"
+                  },
+                  "originalText": {
+                    "text": "Mein Sohn (4 Jahre) und ich (34 Jahre) sind bei Cara in Behabdlung.\n\nEs ist ein Traum! Wir können uns glücklich schätzen, sie gefunden zu haben. Cara kommt zur Behandlung nach Hause und während ich meinen kleinsten ins Bett bringe, macht mein älterer Sohn mit (Vor-)Freude die Übungen mit Cara. Er macht deutliche Fortschritte und auch die „Hausaufgaben“ macht er gerne.\n\nAuch ich fühle mich gut aufgehoben! Jede Übung geht sie mit Geduld und Spaß mit mir durch und ich fühle mich zu jederzeit wohl, egal wie die Übung verläuft.\n\nEs ist mir eine Herzensangelegenheit diese tolle Praxis weiter zu empfehlen.",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Birdy Himbeertraum",
+                    "uri": "https://www.google.com/maps/contrib/100993550544125661063/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPfZQnoaruAm9F0G-FGbuA1E7Oa7n8Gs5dUy3YbuwkT4Y19Q=s128-c0x00000000-cc-rp-mo"
+                  },
+                  "publishTime": "2025-10-29T16:34:07.183505080Z",
+                  "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KVWRHNU5hbTA0U3pCV1RqWnlVVFp4YVVWdVlYYxAB&d=17924085&t=1",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KVWRHNU5hbTA0U3pCV1RqWnlVVFp4YVVWdVlYYxAB!2m1!1s0xadb9aa59efd60635:0xc210e494fcde6131"
+                },
+                {
+                  "name": "places/ChIJNQbW71mqua0RMWHe_JTkEMI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WeVgyNWtWRmN3YjNSR2NUaHhkR2wyZEdWTVlXYxAB",
+                  "relativePublishTimeDescription": "2 months ago",
+                  "rating": 5,
+                  "text": {
+                    "text": "Cara is a lovely speech therapist with incredible patience. She radiates empathy and tries to do everything possible. Highly recommended!",
+                    "languageCode": "en-US"
+                  },
+                  "originalText": {
+                    "text": "Cara ist eine liebevolle Logopädin mit unglaublich viel Geduld. Sie strahlt super viel Empathie aus und versucht alles möglich zu machen. Sehr zu empfehlen!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Lisa Jeng",
+                    "uri": "https://www.google.com/maps/contrib/100883613805591587076/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ4ZUN1wiAaPdfsYzWoatbTk71dchX6B-C3hMV44nvJG3UbZg=s128-c0x00000000-cc-rp-mo"
+                  },
+                  "publishTime": "2026-01-10T21:13:04.011979557Z",
+                  "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WeVgyNWtWRmN3YjNSR2NUaHhkR2wyZEdWTVlXYxAB&d=17924085&t=1",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WeVgyNWtWRmN3YjNSR2NUaHhkR2wyZEdWTVlXYxAB!2m1!1s0xadb9aa59efd60635:0xc210e494fcde6131"
+                },
+                {
+                  "name": "places/ChIJNQbW71mqua0RMWHe_JTkEMI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JNFdERm5kMDQ1UkhCeWJYQnRXRzlwY2tsUlYzYxAB",
+                  "relativePublishTimeDescription": "8 months ago",
+                  "rating": 5,
+                  "text": {
+                    "text": "Unser Sohn wird von Frau Klingberg super professionell und kindgerecht zugleich therapiert - es ist sofort spürbar, dass sie ihre Arbeit mit großer Leidenschaft ausübt und und auf die individuellen Bedürfnisse jedes Kindes eingeht.\nFrau Klingberg hat es durch ihre außerordentlich herzliche und einfühlsame Art sofort geschafft ein Vertrauensverhältnis zu unserem\nSohn aufzubauen. Er geht nun super gern in ihre Praxis und entwickelt sich sehr gut. Wir fühlen uns dort als Familie bestens aufgehoben und können Frau Klingberg und Ihre Praxis von ganzem Herzen weiterempfehlen.",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Unser Sohn wird von Frau Klingberg super professionell und kindgerecht zugleich therapiert - es ist sofort spürbar, dass sie ihre Arbeit mit großer Leidenschaft ausübt und und auf die individuellen Bedürfnisse jedes Kindes eingeht.\nFrau Klingberg hat es durch ihre außerordentlich herzliche und einfühlsame Art sofort geschafft ein Vertrauensverhältnis zu unserem\nSohn aufzubauen. Er geht nun super gern in ihre Praxis und entwickelt sich sehr gut. Wir fühlen uns dort als Familie bestens aufgehoben und können Frau Klingberg und Ihre Praxis von ganzem Herzen weiterempfehlen.",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Caroline Jeremias",
+                    "uri": "https://www.google.com/maps/contrib/117309690006497120026/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwhuRIszw1EO33vTlu6ob9nQXeTNG-e5C089K43eLPYjSCTQ=s128-c0x00000000-cc-rp-mo"
+                  },
+                  "publishTime": "2025-07-15T10:44:25.587833121Z",
+                  "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JNFdERm5kMDQ1UkhCeWJYQnRXRzlwY2tsUlYzYxAB&d=17924085&t=1",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JNFdERm5kMDQ1UkhCeWJYQnRXRzlwY2tsUlYzYxAB!2m1!1s0xadb9aa59efd60635:0xc210e494fcde6131"
+                }
+              ],
+              "userRatingCount": 11,
+              "rating": 5
+            }
+          }
+        },
+        {
+          "name": "faq",
+          "pageTitle": "FAQ",
+          "metadata": {
+            "title": "FAQ: Deine Fragen zur Logopädie in Düsseldorf",
+            "description": "Du hast Fragen zu Rezepten, Kosten oder dem Ablauf der Sprachtherapie? Hier findest du alle Antworten rund um deine Logopädie-Praxis in Düsseldorf.",
+            "keywords": "Logopädie Düsseldorf, Sprachtherapie FAQ, Kosten Logopädie, Rezept Logopädie, caralingua, Logopädin Düsseldorf Stadtmitte, Hausbesuche Logopädie, Aphasie Therapie, Kindersprache, Sprachentwicklungsstörung, Dyslalie Behandlung, Stimmstörung",
+            "openGraph": {
+              "url": "https://www.caralingua.de/de/faq",
+              "title": "FAQ: Deine Fragen zur Logopädie in Düsseldorf",
+              "images": [
+                {
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": "Logopädie Düsseldorf FAQ"
+                }
+              ],
+              "description": "Du hast Fragen zu Rezepten, Kosten oder dem Ablauf der Sprachtherapie? Hier findest du alle Antworten rund um deine Logopädie-Praxis in Düsseldorf."
+            },
+            "twitter": {
+              "title": "FAQ: Deine Fragen zur Logopädie in Düsseldorf",
+              "description": "Du hast Fragen zu Rezepten, Kosten oder dem Ablauf der Sprachtherapie? Hier findest du alle Antworten rund um deine Logopädie-Praxis in Düsseldorf.",
+              "images": [
+                {
+                  "alt": "Logopädie Düsseldorf FAQ",
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Deine Fragen zur Logopädie in Düsseldorf",
+            "lead": "Hier findest du Antworten auf die wichtigsten Fragen rund um Verordnungen, Kosten und den Ablauf deiner Therapie bei caralingua in Düsseldorf."
+          },
+          "faqDataFile": "faq-xxl.json"
+        },
+        {
+          "name": "impressum",
+          "pageTitle": "Impressum",
+          "metadata": {
+            "title": "Impressum | caralingua Logopädie Düsseldorf",
+            "description": "Impressum der Logopädie-Praxis caralingua in Düsseldorf. Rechtliche Angaben und Kontaktinformationen.",
+            "keywords": "Impressum, caralingua, Logopädie Düsseldorf",
+            "openGraph": {
+              "url": "https://www.caralingua.de/de/impressum",
+              "title": "Impressum | caralingua Logopädie Düsseldorf",
+              "images": [
+                {
+                  "alt": "Impressum caralingua",
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Impressum der Logopädie-Praxis caralingua in Düsseldorf. Rechtliche Angaben und Kontaktinformationen."
+            },
+            "twitter": {
+              "title": "Impressum | caralingua Logopädie Düsseldorf",
+              "description": "Impressum der Logopädie-Praxis caralingua in Düsseldorf. Rechtliche Angaben und Kontaktinformationen.",
+              "images": [
+                {
+                  "alt": "Impressum caralingua",
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "datenschutz",
+          "pageTitle": "Datenschutz",
+          "metadata": {
+            "title": "Datenschutz | caralingua Logopädie Düsseldorf",
+            "description": "Datenschutzerklärung der Logopädie-Praxis caralingua in Düsseldorf. Transparente Informationen zur sicheren Verarbeitung der Patientendaten.",
+            "keywords": "Datenschutz, Datenschutzerklärung, caralingua, Logopädie Düsseldorf, Sprachtherapie Düsseldorf, Datensicherheit, SSL-Verschlüsselung, Logopädie Praxis, Patientendaten, Düsseldorf Stadtmitte",
+            "openGraph": {
+              "url": "https://www.caralingua.de/de/datenschutz",
+              "title": "Datenschutz | caralingua Logopädie Düsseldorf",
+              "images": [
+                {
+                  "alt": "Datenschutz caralingua",
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Datenschutzerklärung der Logopädie-Praxis caralingua in Düsseldorf. Transparente Informationen zur sicheren Verarbeitung der Patientendaten."
+            },
+            "twitter": {
+              "title": "Datenschutz | caralingua Logopädie Düsseldorf",
+              "description": "Datenschutzerklärung der Logopädie-Praxis caralingua in Düsseldorf. Transparente Informationen zur sicheren Verarbeitung der Patientendaten.",
+              "images": [
+                {
+                  "alt": "Datenschutz caralingua",
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/hero/logopaedie-duesseldorf-stadtmitte-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "ueber-uns",
+          "pageTitle": "Über uns",
+          "metadata": {
+            "title": "Über uns | caralingua Logopädie Düsseldorf",
+            "description": "Lerne Cara Klingberg und die Philosophie von caralingua kennen. Sprachtherapie in Düsseldorf mit Herz und ohne Druck. Jetzt Termin vereinbaren!",
+            "keywords": "Über uns, Cara Klingberg, Logopädin Düsseldorf, Philosophie Logopädie, Sprachtherapie, Kindersprache, Aphasie Therapie, Stimmstörung Behandlung, Sprachentwicklungsstörung, Logopädische Praxis Stadtmitte",
+            "openGraph": {
+              "url": "https://www.caralingua.de/de/ueber-uns",
+              "title": "Über uns | caralingua Logopädie Düsseldorf",
+              "images": [
+                {
+                  "url": "https://www.logopaedie-in-duesseldorf.de/images/logopaedie-duesseldorf-stadtmitte/about/logopaedie-duesseldorf-stadtmitte-ueber-uns.webp",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": "Cara Klingberg Logopädie Düsseldorf"
+                }
+              ],
+              "description": "Lerne Cara Klingberg und die Philosophie von caralingua kennen. Sprachtherapie in Düsseldorf mit Herz und ohne Druck. Jetzt Termin vereinbaren!"
+            }
+          },
+          "blocks": [
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Logopädie in Düsseldorf: Aus Liebe zur Sprache"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Herzlich willkommen bei caralingua! Mein Name ist Cara Klingberg und ich bin seit 2015 als staatlich anerkannte Logopädin in Düsseldorf tätig. Meine Mission ist es, dich und deine Liebsten auf einer vertrauten, wertschätzenden und an eure Lebensumstände angepassten Reise zu begleiten. Mit viel Empathie und Fachwissen möchte ich einen sicheren Hafen bieten, in dem wir gemeinsam eure individuellen Stärken entdecken und fördern."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/logopaedie-duesseldorf-stadtmitte/about/logopaedie-duesseldorf-stadtmitte-ueber-uns.webp",
+              "alt": "Cara Klingberg – Staatlich anerkannte Logopädin in Düsseldorf"
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Therapie auf Augenhöhe – ganz ohne Druck"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "In meiner logopädischen Praxis steht die Menschlichkeit immer im Mittelpunkt, denn Lernen und Wachsen gelingen am besten in einem liebevollen Umfeld. Ich verzichte bewusst auf strengen Leistungsdruck und passe die Sprachtherapie stattdessen flexibel an deine aktuellen Bedürfnisse an. Wir arbeiten lösungsorientiert daran, deine Potenziale zu entfalten, anstatt uns auf vermeintliche Schwächen zu fokussieren. So öffnen wir gemeinsam und in deinem eigenen Tempo die Türe zu einer unbeschwerten Kommunikation im Alltag."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Unsere gemeinsamen Schritte für deine Kommunikation"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Jede Behandlung beginnt mit einer ausführlichen "
+                },
+                {
+                  "type": "strong",
+                  "value": "Anamnese und Diagnostik zur Erstellung individueller Therapiepläne"
+                },
+                {
+                  "type": "text",
+                  "value": ", damit wir genau den richtigen Weg für dich finden. Ich biete dir eine maßgeschneiderte "
+                },
+                {
+                  "type": "strong",
+                  "value": "logopädische Therapie für Kinder und Erwachsene"
+                },
+                {
+                  "type": "text",
+                  "value": ", die je nach Bedarf 30, 45 oder 60 Minuten umfasst. Zu meinen Schwerpunkten gehört die einfühlsame Behandlung von Sprachentwicklungsstörungen und Artikulationsstörungen, was oft als "
+                },
+                {
+                  "type": "strong",
+                  "value": "Dyslalie Therapie"
+                },
+                {
+                  "type": "text",
+                  "value": " bezeichnet wird, um die Kindersprache spielerisch zu stärken. Ebenso begleite ich dich bei der "
+                },
+                {
+                  "type": "strong",
+                  "value": "Therapie bei Aphasie, Dysarthrie und Sprechapraxie"
+                },
+                {
+                  "type": "text",
+                  "value": " (erworbene Sprach- und Sprechstörungen, etwa nach einem Schlaganfall) sowie bei der "
+                },
+                {
+                  "type": "strong",
+                  "value": "Behandlung von Stimmstörungen"
+                },
+                {
+                  "type": "text",
+                  "value": " (Dysphonie) und myofunktionellen Störungen (Ungleichgewicht der Mundmuskulatur). Auch bei einer "
+                },
+                {
+                  "type": "strong",
+                  "value": "Autismus-Spektrum-Störung und auditiven Wahrnehmungsstörungen"
+                },
+                {
+                  "type": "text",
+                  "value": " (Schwierigkeiten bei der Verarbeitung von Gehörtem) stehe ich dir mit einer wertschätzenden Begleitung zur Seite."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Für wen ist unsere Sprachtherapie gedacht?"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Mein Angebot richtet sich an Eltern, die für ihr Kind mit einer Sprachentwicklungsstörung oder Artikulationsproblemen ein liebevolles und förderndes Umfeld suchen. Ebenso bin ich für Erwachsene da, die nach neurologischen Erkrankungen eine empathische Aphasie Therapie oder eine professionelle Stimmstörung Behandlung benötigen. Auch Angehörige, die sich nach transparenten und verständlichen Informationen zu Verordnungen durch Ärzt*innen und zur Kostenübernahme sehnen, finden bei mir jederzeit ein offenes Ohr."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Erfahrung und Transparenz, auf die du vertrauen kannst"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Als "
+                },
+                {
+                  "type": "strong",
+                  "value": "staatlich anerkannte Logopädin mit Berufserfahrung seit 2015"
+                },
+                {
+                  "type": "text",
+                  "value": " bringe ich das nötige Fachwissen mit, um dich bestmöglich zu unterstützen. Durch meine "
+                },
+                {
+                  "type": "strong",
+                  "value": "Mitgliedschaft im Deutschen Bundesverband für Logopädie e.V."
+                },
+                {
+                  "type": "text",
+                  "value": " bleibe ich stets auf dem neuesten Stand der therapeutischen Entwicklungen. Mir ist es besonders wichtig, dir von Anfang an Sicherheit zu geben, weshalb eine "
+                },
+                {
+                  "type": "strong",
+                  "value": "transparente Kostenaufklärung und ein schriftlicher Behandlungsvertrag"
+                },
+                {
+                  "type": "text",
+                  "value": " für mich selbstverständlich sind. Zudem kannst du dich bei Kontaktanfragen auf eine "
+                },
+                {
+                  "type": "strong",
+                  "value": "sichere Datenübertragung"
+                },
+                {
+                  "type": "text",
+                  "value": " (SSL-Verschlüsselung) verlassen, damit deine persönlichen Informationen stets geschützt bleiben."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Deine Logopädin in Düsseldorf Stadtmitte"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Du findest meine Logopädische Praxis zentral in der Liesegangstraße 20 in Düsseldorf (Postleitzahl 40211), wo dich eine warme und einladende Atmosphäre erwartet. Wenn es dir aus gesundheitlichen Gründen nicht möglich ist, zu mir zu kommen, biete ich nach ärztlicher Verordnung auch gerne "
+                },
+                {
+                  "type": "strong",
+                  "value": "Hausbesuche im regionalen Einzugsgebiet"
+                },
+                {
+                  "type": "text",
+                  "value": " an. So stelle ich sicher, dass die Logopädie genau dort stattfindet, wo du dich am wohlsten fühlst. Bitte beachte unsere fairen Kommunikationsregeln: Falls du einen Termin einmal nicht wahrnehmen kannst, ist eine kostenfreie Absage bis zu 24 Stunden vorher problemlos möglich."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Lass uns gemeinsam starten"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Ich freue mich von Herzen darauf, dich oder dein Kind kennenzulernen und gemeinsam die Freude an der Sprache zu entdecken. Zögere nicht, mich für ein erstes, unverbindliches Gespräch zu kontaktieren, in dem wir all deine Fragen zu Verordnungen, Zuzahlungen oder dem Ablauf klären können. Vereinbare jetzt deinen Termin und lass uns den ersten Schritt auf deiner ganz persönlichen Sprachreise gehen."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "impressumBacklink": {
+        "headingTitle": "Konzept, Design und technische Umsetzung",
+        "title": "Website mit KI erstellen",
+        "link": "https://www.hero-pages.com/website-mit-ki-erstellen"
+      }
+    }
+  ]
+}

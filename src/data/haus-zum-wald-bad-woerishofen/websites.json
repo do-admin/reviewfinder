@@ -1,0 +1,903 @@
+{
+  "driveFolderId": "1a3zh2o7PPQv-mh5BOYVCuBUEFjSiiiG2",
+  "clientName": "Haus zum Wald",
+  "clientDomain": "haus-zum-wald-bad-woerishofen.de",
+  "sectionIds": [
+    {
+      "id": "hero",
+      "visible": true
+    },
+    {
+      "id": "info",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "visible": true
+    },
+    {
+      "id": "team",
+      "visible": true
+    },
+    {
+      "id": "faq",
+      "visible": true
+    },
+    {
+      "id": "reviews",
+      "visible": true
+    },
+    {
+      "id": "map",
+      "visible": true
+    },
+    {
+      "id": "contact",
+      "visible": true
+    },
+    {
+      "id": "trust",
+      "visible": true
+    }
+  ],
+  "websites": [
+    {
+      "id": "hotel-bad-woerishofen",
+      "clientDomain": "hotel-bad-woerishofen.de",
+      "deployDomain": "hotel-bad-woerishofen.de",
+      "googleTagId": "G-9WL39LK1LG",
+      "business": {
+        "name": "Haus zum Wald",
+        "brandName": "Haus zum Wald",
+        "legalName": "R&S GmbH",
+        "location": {
+          "city": "Bad Wörishofen",
+          "district": "Allgäu",
+          "neighborhood": "Bad Wörishofen"
+        },
+        "locationAddress": {
+          "street": "Weiherweg 3",
+          "postalCode": "86825",
+          "city": "Bad Wörishofen"
+        },
+        "phone": "+4988063339883",
+        "email": "info@rs-apartments.com",
+        "openingHours": {
+          "detailed": "Kontaktloser Check-in rund um die Uhr. Unser Support ist 24/7 per Telefon und WhatsApp erreichbar.",
+          "display": "24/7 geöffnet"
+        },
+        "contactPerson": {
+          "name": "Max-Josef Groß",
+          "title": "Geschäftsführer",
+          "imageUrl": "/images/hotel-bad-woerishofen/team/hotel-bad-woerishofen-team.webp"
+        },
+        "bookingUrl": "https://haus-zum-wald.guestybookings.com/en",
+        "social": {
+          "instagram": "https://www.instagram.com/haus_zum_wald?igsh=aDhvdzQ0aDJ5d2Zo&utm_source=qr",
+          "facebook": "",
+          "whatsappNumber": "4988063339883"
+        },
+        "ustId": "DE366013051",
+        "vertreter": "Max-Josef Groß",
+        "googlePlacesId": "ChIJ7a57g1QRnEcR3Avg-_AzHRE",
+        "registergericht": "Augsburg",
+        "hrbNummer": "HRB 39646",
+        "legalAddress": {
+          "street": "Bahnhofstrasse 6",
+          "postalCode": "86919",
+          "city": "Utting am Ammersee"
+        }
+      },
+      "header": {
+        "logoUrl": "/images/hotel-bad-woerishofen/hotel-bad-woerishofen-logo.webp",
+        "logoAlt": "Logo Haus zum Wald Bad Wörishofen",
+        "logoWidth": 180,
+        "logoMarginLeft": 0,
+        "ariaLabelNavigation": "Hauptnavigation",
+        "ariaMenuOpen": "Menü öffnen",
+        "ariaMenuClose": "Menü schließen",
+        "links": [
+          {
+            "label": "Über uns",
+            "url": "/ueber-uns",
+            "href": "/ueber-uns"
+          },
+          {
+            "label": "FAQ",
+            "url": "/faq",
+            "href": "/faq"
+          },
+          {
+            "label": "Zimmer buchen",
+            "href": "https://haus-zum-wald-bad-woerishofen.de/buchen/",
+            "type": "button"
+          },
+          {
+            "label": "WhatsApp",
+            "href": "https://wa.me/4988063339883",
+            "type": "whatsapp"
+          }
+        ]
+      },
+      "footer": {
+        "navigation": {
+          "label": "Navigation",
+          "links": [
+            {
+              "link": "https://haus-zum-wald-bad-woerishofen.de/#zimmer",
+              "linkLabel": "Apartments"
+            },
+            {
+              "link": "https://haus-zum-wald-bad-woerishofen.de/co-working",
+              "linkLabel": "Coworking"
+            }
+          ]
+        },
+        "contact": {
+          "label": "Kontakt",
+          "links": [
+            {
+              "link": "tel:+4988063339883",
+              "linkLabel": "08806 3339883"
+            },
+            {
+              "link": "mailto:info@rs-apartments.com",
+              "linkLabel": "info@rs-apartments.com"
+            }
+          ]
+        },
+        "followUs": "Folge uns",
+        "openingHoursLabel": "Öffnungszeiten",
+        "imprint": "Impressum",
+        "privacy": "Datenschutz",
+        "grounding": "Grounding"
+      },
+      "cookie": {
+        "title": "Deine Datenschutz-Einstellungen",
+        "description": "Wir nutzen Cookies, um Dir die bestmögliche Erfahrung auf unserer Website zu bieten und unsere Dienste stetig zu verbessern.",
+        "acceptAll": "Alle akzeptieren",
+        "acceptEssential": "Nur essenzielle",
+        "moreInfo": "Mehr Informationen"
+      },
+      "notFound": {
+        "title": "Ein kleiner Umweg.",
+        "description": "Die gesuchte Seite ist leider nicht verfügbar. Finde den Weg zurück zu deinem Zuhause auf Zeit in Bad Wörishofen und entdecke unsere prämierten Serviced Apartments.",
+        "backHome": "Zur Startseite"
+      },
+      "translationsMetadata": {
+        "disclaimer": {
+          "aiTranslation": "Diese Seite wurde maschinell übersetzt, um dir die Inhalte in deiner bevorzugten Sprache anzubieten. Dabei können leichte Abweichungen vom Original entstehen.",
+          "dismissAria": "Hinweis schließen",
+          "infoAria": "Info zur Übersetzung"
+        },
+        "common": {
+          "close": "Schließen",
+          "selectLanguage": "Sprache wählen"
+        }
+      },
+      "index": {
+        "redirectTitle": "Weiterleitung…",
+        "redirectTo": "Weiterleitung nach"
+      },
+      "pages": [
+        {
+          "name": "Startseite",
+          "pageTitle": "Haus zum Wald | Serviced Apartments in Bad Wörishofen",
+          "metadata": {
+            "geo": {
+              "icbm": "47.996294, 10.59234",
+              "region": "",
+              "position": "47.996294;10.59234",
+              "placename": "Bad Wörishofen"
+            },
+            "title": "Serviced Apartments in Bad Wörishofen | Haus zum Wald",
+            "keywords": "Serviced Apartments Bad Wörishofen, Coworking Allgäu, Zuhause auf Zeit, Workation Bayern, Wohnen und Arbeiten Allgäu, Kneipp-Therapie Bad Wörishofen, Veranstaltungsraum, kontaktloser Check-in, Haus zum Wald, Design Apartment, Unterkunft Allgäu, Langzeitmiete",
+            "openGraph": {
+              "url": "https://hotel-bad-woerishofen.de",
+              "title": "Serviced Apartments in Bad Wörishofen | Haus zum Wald",
+              "images": [
+                {
+                  "alt": "Modernes Serviced Apartment im Haus zum Wald in Bad Wörishofen",
+                  "url": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Finde dein Zuhause auf Zeit im Allgäu. Prämierte Serviced Apartments mit Coworking Space und 24/7 Check-in in Bad Wörishofen."
+            },
+            "twitter": {
+              "title": "Serviced Apartments in Bad Wörishofen | Haus zum Wald",
+              "description": "Finde dein Zuhause auf Zeit im Allgäu. Prämierte Serviced Apartments mit Coworking Space und 24/7 Check-in in Bad Wörishofen.",
+              "images": [
+                {
+                  "alt": "Modernes Serviced Apartment im Haus zum Wald in Bad Wörishofen",
+                  "url": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            },
+            "description": "Finde dein Zuhause auf Zeit im Allgäu. Prämierte Serviced Apartments mit Coworking Space und 24/7 Check-in in Bad Wörishofen. Jetzt entdecken.",
+            "schema": [
+              {
+                "id": "organization",
+                "schemaType": "organization",
+                "data": {
+                  "name": "Haus zum Wald",
+                  "legalName": "R&S GmbH",
+                  "alternateName": [],
+                  "description": "Haus zum Wald bietet prämierte Serviced Apartments und Coworking Spaces in Bad Wörishofen für kurze und längere Aufenthalte.",
+                  "telephone": "+4988063339883",
+                  "email": "info@rs-apartments.com",
+                  "url": "https://www.hotel-bad-woerishofen.de",
+                  "logo": "/images/hotel-bad-woerishofen/hotel-bad-woerishofen-logo.webp",
+                  "sameAs": [
+                    "https://www.instagram.com/haus_zum_wald?igsh=aDhvdzQ0aDJ5d2Zo&utm_source=qr"
+                  ],
+                  "address": [
+                    {
+                      "@type": "PostalAddress",
+                      "streetAddress": "Bahnhofstrasse 6",
+                      "postalCode": "86919",
+                      "addressLocality": "Utting am Ammersee",
+                      "addressRegion": "Bayern",
+                      "addressCountry": "DE"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "website",
+                "schemaType": "website",
+                "data": {
+                  "name": "Haus zum Wald Bad Wörishofen",
+                  "url": "https://www.hotel-bad-woerishofen.de",
+                  "description": "Offizielle Website des Haus zum Wald - Serviced Apartments und Coworking in Bad Wörishofen.",
+                  "inLanguage": "de-DE",
+                  "publisher": {
+                    "@id": "#organization"
+                  },
+                  "telephone": "+4988063339883",
+                  "email": "info@rs-apartments.com",
+                  "legalName": "R&S GmbH"
+                }
+              },
+              {
+                "id": "local-business",
+                "schemaType": "localBusiness",
+                "data": {
+                  "@type": "LocalBusiness",
+                  "name": "Haus zum Wald Serviced Apartments",
+                  "description": "Modernes Zuhause auf Zeit im Allgäu mit prämiertem Design, Coworking Space und kontaktlosem Check-in.",
+                  "url": "https://www.hotel-bad-woerishofen.de",
+                  "telephone": "+4988063339883",
+                  "email": "info@rs-apartments.com",
+                  "priceRange": "$$",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Weiherweg 3",
+                    "postalCode": "86825",
+                    "addressLocality": "Bad Wörishofen",
+                    "addressRegion": "Bayern",
+                    "addressCountry": "DE"
+                  },
+                  "geo": {
+                    "latitude": "47.996294",
+                    "longitude": "10.59234"
+                  },
+                  "openingHoursSpecification": [],
+                  "sameAs": [
+                    "https://www.instagram.com/haus_zum_wald?igsh=aDhvdzQ0aDJ5d2Zo&utm_source=qr"
+                  ],
+                  "legalName": "R&S GmbH"
+                }
+              }
+            ]
+          },
+          "hero": {
+            "h1": "Serviced Apartments in Bad Wörishofen",
+            "backgroundImage": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+            "backgroundImageAlt": "Bad Wörishofen im Allgäu — Standort des Haus zum Wald",
+            "locationPrefix": "in",
+            "locationSuffix": "im Allgäu",
+            "namePrefix": "Willkommen im",
+            "callAriaLabel": "Ruf uns an",
+            "since": "Dein Zuhause auf Zeit",
+            "buttons": [
+              {
+                "text": "Zimmer buchen",
+                "link": "https://haus-zum-wald-bad-woerishofen.de/buchen/",
+                "variant": "primary"
+              }
+            ],
+            "card1Icon": "Users",
+            "card1Line1": "21 Apartments",
+            "card1Line2": "in Bad Wörishofen",
+            "card2Icon": "MapPin",
+            "card2Line1": "Weiherweg 3",
+            "card2Line2": "86825 Bad Wörishofen",
+            "card3Icon": "Clock",
+            "card3Line1": "24/7 geöffnet",
+            "card3Line2": ""
+          },
+          "info": {
+            "description": "Entdecke das Haus zum Wald in Bad Wörishofen – kein klassisches Hotel, sondern dein Rückzugsort für Wohnen, Arbeiten und Entspannen. Hier trifft prämiertes Design auf absolute Klarheit.",
+            "paragraph1": "Bei uns findest du die perfekte Balance aus Produktivität und Erholung. Unsere Serviced Apartments bieten dir hochwertiges, langlebiges Design und den Freiraum, den du für kurze Auszeiten oder längere Aufenthalte brauchst. Ein Ort, an dem du ankommst und direkt durchatmen kannst.",
+            "paragraph2": "Dank kontaktlosem Check-in rund um die Uhr gestaltest du deinen Tag völlig flexibel. Nutze unseren modernen Coworking Space mit High-Speed-Internet und Getränke-Flatrate oder erkunde die Natur rund um die Wertach und die Wiege der Kneipp-Therapie.",
+            "quote": "Kein Hotel, sondern ein Zuhause auf Zeit. Ein ruhiger Ort zum Ankommen, Bleiben und Durchatmen.",
+            "imageUrl": "/images/hotel-bad-woerishofen/info/hotel-bad-woerishofen-info.webp",
+            "imageAlt": "Außenansicht des Haus zum Wald in Bad Wörishofen bei Abendlicht",
+            "activities": {
+              "title": "Fokus und Produktivität",
+              "description": "Unser Coworking Space bietet dir schnelles Internet, ergonomische Arbeitsplätze und eine ruhige Atmosphäre. Ideal für Workation, kleine Events oder Workshops im Allgäu.",
+              "icon": "Leaf"
+            },
+            "nutrition": {
+              "title": "Kaffee-Flatrate & Flexibilität",
+              "description": "Genieße unsere Kaffee- und Tee-Flatrate während deiner Arbeitszeit. In deinem Apartment bereitest du dir dank voll ausgestatteter Küche genau das zu, worauf du Lust hast.",
+              "icon": "Utensils"
+            },
+            "garden": {
+              "title": "Erholung an der Wertach",
+              "description": "Bad Wörishofen ist die Wiege der Kneipp-Therapie. Spaziere an der Wertach entlang, finde deinen Rhythmus in der Natur oder besuche Bayerns größten Freizeitpark ganz in der Nähe.",
+              "icon": "Sprout"
+            },
+            "values": {
+              "nature": "Wir setzen auf langlebige Materialien und das mit dem German Design Award ausgezeichnete Interieur von Variand. Für ein Wohngefühl, das bleibt.",
+              "mindfulness": "Reduktion auf das Wesentliche: Unsere Räume sind so gestaltet, dass du den Kopf frei bekommst und dich voll auf dich konzentrieren kannst.",
+              "participation": "Dein Aufenthalt, deine Regeln. Mit unserem 24/7 kontaktlosen Check-in und ständiger Erreichbarkeit via WhatsApp bist du völlig unabhängig."
+            },
+            "valueIcons": {
+              "mindfulness": "Heart",
+              "nature": "Sun",
+              "participation": "Users"
+            },
+            "sectionTitle": "Dein Zuhause auf Zeit im Allgäu",
+            "activitiesLabel": "Workation",
+            "nutritionLabel": "Genuss",
+            "gardenLabel": "Natur",
+            "mindfulness": "Klarheit & Ruhe",
+            "nature": "Prämiertes Design",
+            "participation": "Maximale Freiheit"
+          },
+          "contact": {
+            "location": "Bad Wörishofen",
+            "locationLabel": "Standort",
+            "addressName": "Haus zum Wald",
+            "bookOnline": "Online buchen",
+            "bookOnlineDesc": "Finde dein Zuhause auf Zeit im Allgäu. Buche dein Apartment flexibel und unkompliziert.",
+            "infoTitle": "Kontakt & Anreise",
+            "addressLabel": "Adresse",
+            "openingHoursLabel": "Erreichbarkeit",
+            "phoneLabel": "Telefon & WhatsApp",
+            "emailLabel": "E-Mail",
+            "bookingTitle": "Dein Aufenthalt im Allgäu",
+            "bookingIntro": "Reserviere dein Serviced Apartment für Fokus und Entspannung. Dank kontaktlosem Check-in kommst du ganz in deinem eigenen Rhythmus an – rund um die Uhr.",
+            "bookingButton": "Jetzt Apartment buchen"
+          },
+          "gallery": {
+            "title": "Dein Zuhause auf Zeit in Bildern",
+            "subtitle": "Entdecke unsere prämierten Serviced Apartments und den modernen Coworking Space in Bad Wörishofen.",
+            "ariaLabel": "Bildergalerie Haus zum Wald",
+            "images": [
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-1.webp",
+                "alt": "Modernes Serviced Apartment im Haus zum Wald Bad Wörishofen"
+              },
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-2.webp",
+                "alt": "Coworking Space mit High-Speed-Internet im Allgäu"
+              },
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-3.webp",
+                "alt": "Prämiertes Design im Schlafbereich des Apartments"
+              },
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-4.webp",
+                "alt": "Heller Wohnbereich für Workation in Bad Wörishofen"
+              },
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-5.webp",
+                "alt": "Hochwertige Ausstattung und langlebige Materialien"
+              },
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-6.webp",
+                "alt": "Räumlichkeiten für Veranstaltungen und Workshops"
+              },
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-7.webp",
+                "alt": "Klarheit und Reduktion im Badezimmer"
+              },
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-8.webp",
+                "alt": "Skyline Park Bad Wörishofen — Freizeitpark in der Nähe"
+              },
+              {
+                "src": "/images/hotel-bad-woerishofen/gallerie/hotel-bad-woerishofen-9.webp",
+                "alt": "Therme Bad Wörishofen — Wellness in der Umgebung"
+              }
+            ],
+            "roomsTitle": "Apartments & Coworking",
+            "roomsDescription": "Klarheit, Reduktion und prämiertes Design. Unsere Räume bieten dir den perfekten Rückzugsort zum Wohnen, Arbeiten und Entspannen.",
+            "outdoorTitle": "Natur & Umgebung",
+            "outdoorDescription": "Gelegen im wunderschönen Allgäu, nah an der Wertach und der Wiege der Kneipp-Therapie. Finde deinen Rhythmus in der Natur.",
+            "imageOf": "Bild {current} von {total}",
+            "rooms": "Innenbereiche",
+            "outdoor": "Außenbereiche",
+            "prevImage": "Vorheriges Bild",
+            "nextImage": "Nächstes Bild",
+            "copyright": "© Fotos Günther Standl"
+          },
+          "team": {
+            "title": "Willkommen in deinem Zuhause auf Zeit",
+            "subtitle": "Kein klassisches Hotel, sondern dein persönlicher Rückzugsort. Wir verbinden prämiertes Design mit der natürlichen Ruhe des Allgäus.",
+            "teamMember": {
+              "quote": "Wir möchten, dass du ankommst, durchatmest und deinen ganz eigenen Rhythmus findest."
+            }
+          },
+          "map": {
+            "description": "Dein Zuhause auf Zeit im Allgäu. Zentral in Bad Wörishofen gelegen, erreichst du uns bequem für deine Auszeit oder Workation.",
+            "publicTransport": "Der Bahnhof Bad Wörishofen ist in unmittelbarer Nähe. Auch der Allgäu Airport und die A96 sind schnell und einfach erreichbar.",
+            "parking": "Parkmöglichkeiten für dein Auto findest du bequem in der direkten Umgebung deines Apartments.",
+            "mapEmbedUrl": "",
+            "addressTitle": "Standort von Haus zum Wald",
+            "iframeTitle": "Karte mit dem Standort Haus zum Wald in Bad Wörishofen",
+            "sectionTitle": "Lage & Anreise",
+            "openOnMap": "Auf Google Maps öffnen",
+            "visitUs": "Dein Weg zu uns",
+            "publicTransportLabel": "Öffentliche Verkehrsmittel",
+            "parkingLabel": "Parken"
+          },
+          "reviews": {
+            "title": "Erfahrungen im Haus zum Wald",
+            "subtitle": "Lies, wie andere Gäste die Klarheit, das Design und ihr Zuhause auf Zeit in Bad Wörishofen erlebt haben.",
+            "reviewData": {
+              "displayName": {
+                "text": "Haus zum Wald",
+                "languageCode": "de"
+              },
+              "formattedAddress": "Weiherweg 3, 86825 Bad Wörishofen, Germany",
+              "reviews": [
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT2xScFVIRkpiWFExVjBkQlVVbFpkalk1ZG1oMmJrRRAB",
+                  "relativePublishTimeDescription": "vor 2 Monaten",
+                  "rating": 5,
+                  "text": {
+                    "text": "Wir hatten das große Glück zu den allerersten Gästen zu zählen. Das Haus zum Wald wurde wunderschön renoviert und man fühlt sich richtig wohl. Wir hatten eine tolle Zeit im Haus, aber auch beim Radeln und Wandern in der Umgebung. Und die Therme ist auch super. Wir kommen wieder.",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Wir hatten das große Glück zu den allerersten Gästen zu zählen. Das Haus zum Wald wurde wunderschön renoviert und man fühlt sich richtig wohl. Wir hatten eine tolle Zeit im Haus, aber auch beim Radeln und Wandern in der Umgebung. Und die Therme ist auch super. Wir kommen wieder.",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Lars Hermes",
+                    "uri": "https://www.google.com/maps/contrib/116033917985581201459?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrbhCNuoFABUeiRYn2o-Wj_PBk8ebiLOUbhmJo2I-e8wFEMIY=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2026-02-11T11:19:24.039Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xScFVIRkpiWFExVjBkQlVVbFpkalk1ZG1oMmJrRRAB!2m1!1s0x0:0x111d33f0fbe00bdc!3m1!1s2@1:CAIQACodChtycF9oOlRpUHFJbXQ1V0dBUUlZdjY5dmh2bkE%7C%7C?hl=de"
+                },
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT2pOdmJ6SlpOVE5LVHpWTFNUWlpWVlo2VkRoTE5uYxAB",
+                  "relativePublishTimeDescription": "vor 2 Monaten",
+                  "rating": 5,
+                  "text": {
+                    "text": "Kommen gerne wieder!",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Kommen gerne wieder!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Aurel Hesse",
+                    "uri": "https://www.google.com/maps/contrib/111691348224141689761?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaUpPy3y3AVtVhVvnJahgp3ilIaz2X0WdQQ920es4fR5wht_jF=s1920-c-rp-mo-ba2-br100"
+                  },
+                  "publishTime": "2026-02-15T08:30:29.142Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOdmJ6SlpOVE5LVHpWTFNUWlpWVlo2VkRoTE5uYxAB!2m1!1s0x0:0x111d33f0fbe00bdc!3m1!1s2@1:CAIQACodChtycF9oOjNvbzJZNTNKTzVLSTZZVVZ6VDhLNnc%7C%7C?hl=de"
+                },
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT2tnNVZqWjNTbUZ5VkUwNGRWWkhMWGt0UldvemFFRRAB",
+                  "relativePublishTimeDescription": "vor 6 Tagen",
+                  "rating": 5,
+                  "text": {
+                    "text": "Super tolle Unterkunft. Wir waren 3 Tage hier und wir kommen definitiv wieder. Schon eingerichtet und man fühlt sich echt wohl.\n\nPreis/Leistung ist hier mehr als TOP.\n\nSehr sauber und hier wird auch wirklich auf die kleinsten Details geachtet. Echt toll…\n\nWir sehen uns im Juli wieder :)",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Super tolle Unterkunft. Wir waren 3 Tage hier und wir kommen definitiv wieder. Schon eingerichtet und man fühlt sich echt wohl.\n\nPreis/Leistung ist hier mehr als TOP.\n\nSehr sauber und hier wird auch wirklich auf die kleinsten Details geachtet. Echt toll…\n\nWir sehen uns im Juli wieder :)",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Servan Gören",
+                    "uri": "https://www.google.com/maps/contrib/107323551612469775686?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLbDg9zCKs-kZxciLB7GivsuHSVfnl31L2-HfPqfzmWK-kZnQ=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2026-04-09T08:27:38.885Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tnNVZqWjNTbUZ5VkUwNGRWWkhMWGt0UldvemFFRRAB!2m1!1s0x0:0x111d33f0fbe00bdc!3m1!1s2@1:CAIQACodChtycF9oOkg5VjZ3SmFyVE04dVZHLXktRWozaEE%7C%7C?hl=de"
+                },
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT2tGM1VUWlpRV2Q0T0ZaNVRFeFhZbWRuUWxwQ1MzYxAB",
+                  "relativePublishTimeDescription": "vor 3 Wochen",
+                  "rating": 5,
+                  "text": {
+                    "text": "Mega. Alles Problemlos. War ein schöner Aufenthalt - aufjedenfall empfehlenswert!!",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "Mega. Alles Problemlos. War ein schöner Aufenthalt - aufjedenfall empfehlenswert!!",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Lukas Klüter",
+                    "uri": "https://www.google.com/maps/contrib/118126175043803156355?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIkB6vuc5W1SlawfkCTaeJNsquITwpCbq8WujpGbJ6GLug-5g=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2026-03-21T15:44:54.820Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGM1VUWlpRV2Q0T0ZaNVRFeFhZbWRuUWxwQ1MzYxAB!2m1!1s0x0:0x111d33f0fbe00bdc!3m1!1s2@1:CAIQACodChtycF9oOkF3UTZZQWd4OFZ5TExXYmdnQlpCS3c%7C%7C?hl=de"
+                },
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT2tjM01GTnVkME40T1hZMmFVRldUekJxV0c5T2EyYxAB",
+                  "relativePublishTimeDescription": "vor 2 Monaten",
+                  "rating": 5,
+                  "text": {
+                    "text": "",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Petra Lauch",
+                    "uri": "https://www.google.com/maps/contrib/108236042392270306008?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLYCDNVk_O9xztvgbJ2CdUdfiYYRYIvvYuoT9LbW07TAxJUDQ=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2026-02-15T08:34:05.744Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tjM01GTnVkME40T1hZMmFVRldUekJxV0c5T2EyYxAB!2m1!1s0x0:0x111d33f0fbe00bdc!3m1!1s2@1:CAIQACodChtycF9oOkc3MFNud0N4OXY2aUFWTzBqWG9Oa2c%7C%7C?hl=de"
+                },
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT2xWelMydDFhV2t6ZDNKS2NtMDRjVjlpVTJSV01uYxAB",
+                  "relativePublishTimeDescription": "vor 2 Monaten",
+                  "rating": 5,
+                  "text": {
+                    "text": "",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Goldoni AM",
+                    "uri": "https://www.google.com/maps/contrib/106103241729051830807?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIFxZ5onlj6LFlPrxklDCjLVfdM7AiFsd812zu_XptTCrcoaE=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2026-02-14T07:57:06.717Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWelMydDFhV2t6ZDNKS2NtMDRjVjlpVTJSV01uYxAB!2m1!1s0x0:0x111d33f0fbe00bdc!3m1!1s2@1:CAIQACodChtycF9oOlVzS2t1aWkzd3JKcm04cV9iU2RWMnc%7C%7C?hl=de"
+                },
+                {
+                  "name": "Ci9DQUlRQUNvZENodHljRjlvT214a1NUQkVNemRXTkd4bVpXYzNPVEkwY2xKc1VtYxAB",
+                  "relativePublishTimeDescription": "vor 3 Wochen",
+                  "rating": 5,
+                  "text": {
+                    "text": "",
+                    "languageCode": "de"
+                  },
+                  "originalText": {
+                    "text": "",
+                    "languageCode": "de"
+                  },
+                  "authorAttribution": {
+                    "displayName": "Gökhan",
+                    "uri": "https://www.google.com/maps/contrib/114675717593380967609?hl=de",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJyM5b4MUNkWjgs6gULZy99hozonPu_nM-ltLB_lbz6MaGdgg=s1920-c-rp-mo-br100"
+                  },
+                  "publishTime": "2026-03-24T11:40:52.732Z",
+                  "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214a1NUQkVNemRXTkd4bVpXYzNPVEkwY2xKc1VtYxAB!2m1!1s0x0:0x111d33f0fbe00bdc!3m1!1s2@1:CAIQACodChtycF9oOmxkSTBEMzdWNGxmZWc3OTI0clJsUmc%7C%7C?hl=de"
+                }
+              ],
+              "userRatingCount": 8,
+              "rating": 4.9
+            },
+            "minimumRating": 4,
+            "rating": "4.9"
+          },
+          "faq": {
+            "title": "Gut zu wissen: Dein Zuhause auf Zeit",
+            "subtitle": "Alles Wichtige rund um deinen Aufenthalt, den kontaktlosen Check-in und unsere Coworking-Spaces. Bei weiteren Anliegen sind wir 24/7 für dich erreichbar.",
+            "faqDataFile": "faq.json"
+          },
+          "trust": {
+            "partner": "Partner",
+            "H2": "Unsere Partner & Auszeichnungen",
+            "qualityPartners": "Ausgezeichnete Qualität & Design",
+            "trustDataFile": "partners.json"
+          }
+        },
+        {
+          "name": "faq",
+          "pageTitle": "FAQ | Haus zum Wald Bad Wörishofen",
+          "metadata": {
+            "title": "FAQ | Häufige Fragen zum Haus zum Wald Bad Wörishofen",
+            "description": "Antworten rund um deinen Aufenthalt, kontaktlosen Check-in, Coworking und Preise. Alles, was du vor der Buchung deines Serviced Apartments wissen musst.",
+            "keywords": "FAQ Haus zum Wald, Serviced Apartment Bad Wörishofen Fragen, kontaktloser Check-in, Coworking Bad Wörishofen, Langzeitmiete Allgäu, Workation FAQ",
+            "openGraph": {
+              "url": "https://hotel-bad-woerishofen.de/de/faq",
+              "title": "FAQ | Häufige Fragen zum Haus zum Wald Bad Wörishofen",
+              "images": [
+                {
+                  "url": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": "Modernes Serviced Apartment im Haus zum Wald in Bad Wörishofen"
+                }
+              ],
+              "description": "Antworten rund um deinen Aufenthalt, kontaktlosen Check-in, Coworking und Preise im Haus zum Wald Bad Wörishofen."
+            },
+            "twitter": {
+              "title": "FAQ | Häufige Fragen zum Haus zum Wald Bad Wörishofen",
+              "description": "Antworten rund um deinen Aufenthalt, kontaktlosen Check-in, Coworking und Preise im Haus zum Wald Bad Wörishofen.",
+              "images": [
+                {
+                  "alt": "Modernes Serviced Apartment im Haus zum Wald in Bad Wörishofen",
+                  "url": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Häufige Fragen zu Serviced Apartments in Bad Wörishofen",
+            "lead": "Alles Wichtige rund um deinen Aufenthalt, den kontaktlosen Check-in und unsere Coworking-Spaces. Bei weiteren Anliegen sind wir 24/7 per Telefon und WhatsApp für dich erreichbar."
+          },
+          "faqDataFile": "faq-xxl.json",
+          "schema": []
+        },
+        {
+          "name": "impressum",
+          "pageTitle": "Impressum",
+          "metadata": {
+            "title": "Impressum | Haus zum Wald Bad Wörishofen",
+            "description": "Impressum und rechtliche Angaben des Haus zum Wald in Bad Wörishofen. Kontaktinformationen und Betreiberdetails der R&S GmbH.",
+            "keywords": "Impressum, Haus zum Wald, Bad Wörishofen, R&S GmbH, Kontakt, rechtliche Hinweise",
+            "openGraph": {
+              "url": "https://hotel-bad-woerishofen.de/de/impressum",
+              "title": "Impressum | Haus zum Wald Bad Wörishofen",
+              "images": [
+                {
+                  "alt": "Hochwertig ausgestattetes Serviced Apartment im Haus zum Wald in Bad Wörishofen",
+                  "url": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Impressum und rechtliche Angaben des Haus zum Wald in Bad Wörishofen. Kontaktinformationen und Betreiberdetails."
+            },
+            "twitter": {
+              "title": "Impressum | Haus zum Wald Bad Wörishofen",
+              "description": "Impressum und rechtliche Angaben des Haus zum Wald in Bad Wörishofen. Kontaktinformationen und Betreiberdetails.",
+              "images": [
+                {
+                  "alt": "Hochwertig ausgestattetes Serviced Apartment im Haus zum Wald in Bad Wörishofen",
+                  "url": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "datenschutz",
+          "pageTitle": "Datenschutz",
+          "metadata": {
+            "title": "Datenschutz | Haus zum Wald Bad Wörishofen",
+            "description": "Datenschutzerklärung des Haus zum Wald in Bad Wörishofen. Erfahre, wie wir Deine Daten schützen und verarbeiten.",
+            "keywords": "Datenschutz, Datenschutzerklärung, Haus zum Wald, Bad Wörishofen",
+            "openGraph": {
+              "url": "https://hotel-bad-woerishofen.de/de/datenschutz",
+              "title": "Datenschutz | Haus zum Wald Bad Wörishofen",
+              "images": [
+                {
+                  "alt": "Datenschutz Haus zum Wald",
+                  "url": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ],
+              "description": "Datenschutzerklärung des Haus zum Wald in Bad Wörishofen. Erfahre, wie wir Deine Daten schützen und verarbeiten."
+            },
+            "twitter": {
+              "title": "Datenschutz | Haus zum Wald Bad Wörishofen",
+              "description": "Datenschutzerklärung des Haus zum Wald in Bad Wörishofen. Erfahre, wie wir Deine Daten schützen und verarbeiten.",
+              "images": [
+                {
+                  "alt": "Datenschutz Haus zum Wald",
+                  "url": "/images/hotel-bad-woerishofen/hero/hotel-bad-woerishofen-hero.webp",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "ueber-uns",
+          "pageTitle": "Dein Zuhause auf Zeit in Bad Wörishofen",
+          "metadata": {
+            "title": "Zuhause auf Zeit in Bad Wörishofen | Haus zum Wald",
+            "description": "Entdecke dein Zuhause auf Zeit im Allgäu. Prämierte Serviced Apartments, Coworking Space und kontaktloser Check-in. Finde jetzt deinen Rhythmus!",
+            "keywords": "Zuhause auf Zeit Bad Wörishofen, Serviced Apartments Allgäu, Coworking Space, Workation Bayern, kontaktloser Check-in, prämiertes Design, Haus zum Wald, Kneipp-Therapie, Übernachten Bad Wörishofen, Apartment mieten Allgäu",
+            "openGraph": {
+              "url": "https://hotel-bad-woerishofen.de/de/ueber-uns",
+              "title": "Zuhause auf Zeit in Bad Wörishofen | Haus zum Wald",
+              "images": [
+                {
+                  "url": "/images/hotel-bad-woerishofen/about/hotel-bad-woerishofen-ueber-uns.webp",
+                  "width": 0,
+                  "height": 0,
+                  "alt": "Stilvolles Serviced Apartment im Haus zum Wald in Bad Wörishofen"
+                }
+              ],
+              "description": "Verbinde Wohnen, Arbeiten und Entspannen. Hochwertige Apartments mit Coworking Space im Herzen des Allgäus. Erlebe Klarheit und Design."
+            }
+          },
+          "blocks": [
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Dein Zuhause auf Zeit in Bad Wörishofen"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Ich bin Max-Josef Groß, Geschäftsführer des Haus zum Wald. Seit dem Beginn unserer Planung ist es meine absolute Herzensangelegenheit, einen Ort zu erschaffen, der bewusst mit den starren Konventionen eines klassischen Hotels bricht. Meine Mission ist es, dir echten Raum zum Durchatmen und Ankommen zu bieten, in dem reduziertes Design und durchdachter Komfort nahtlos ineinandergreifen. Es ist mir ein persönliches Anliegen, eine Umgebung zu gestalten, in der du dich vom ersten Moment an geborgen fühlst und dich ganz auf das Wesentliche konzentrieren kannst."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/hotel-bad-woerishofen/about/hotel-bad-woerishofen-ueber-uns.webp",
+              "alt": "Max-Josef Groß – Geschäftsführer in Bad Wörishofen"
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Raum für das Wesentliche"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Im Haus zum Wald spürst du die Substanz eines gewachsenen Ensembles, das wir mit viel Liebe zur Klarheit völlig neu gedacht haben. Wir glauben fest daran, dass wahre Erholung in der bewussten Reduktion liegt und nicht in lauten Ablenkungen oder überladenem Service. Deshalb verzichten wir auf Hektik und geben dir stattdessen die Ruhe, deinen ganz eigenen Rhythmus zu finden. Hier darfst du einfach ankommen, bleiben und ohne jeden Druck den Moment in vollen Zügen genießen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Wohnen, Arbeiten und Entspannen im Einklang"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Erlebe die nahtlose Verbindung von Alltag, Beruf und Erholung in unseren modernen Serviced Apartments in Bad Wörishofen, die sich ideal für kurze Auszeiten oder längere Aufenthalte eignen. Für produktive Stunden bietet dir unser ruhiger Coworking Space im Allgäu nicht nur High-Speed-Internet, sondern auch eine durchgehende Getränke-Flatrate mit hochwertigem Kaffee und Tee. Wenn du besondere Momente planst, stehen dir unsere hellen Räumlichkeiten als Veranstaltungsraum in Bad Wörishofen für Workshops und Feiern im persönlichen Rahmen zur Verfügung. Für jedes Apartment ist ein kontaktloser Check-in rund um die Uhr eingerichtet, sodass du völlig unabhängig von festen Zeiten anreisen kannst."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Für wen wir diesen Ort geschaffen haben"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Unser Konzept richtet sich an Menschen, die Klarheit schätzen und eine bewusste Alternative zum klassischen Hotel suchen. Ob du als Geschäftsreisende*r eine inspirierende Workation in Bayern (die nahtlose Verbindung von Arbeit und Urlaub) planst, als Designliebhaber*in hochwertige Architektur genießen möchtest oder als Erholungssuchende*r eine Auszeit brauchst, hier findest du deinen Platz. Wir bieten dir die Freiheit eines eigenen Apartments, kombiniert mit durchdachten Services, die das Wohnen und Arbeiten im Allgäu spürbar erleichtern."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Qualität, die man sieht und spürt"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Hochwertige Ausstattung und langlebige Materialien schaffen in jedem unserer Räume eine beruhigende, geerdete Atmosphäre. Unser Interieur ist geprägt vom prämierten Design von Variand, das für seine herausragende Gestaltung mit dem renommierten German Design Award ausgezeichnet wurde. Wir verzichten ganz bewusst auf eine klassische Rezeption, sind aber im Hintergrund immer für dich da. Unsere verlässliche Erreichbarkeit rund um die Uhr via Telefon und WhatsApp gibt dir jederzeit das sichere Gefühl, bestens betreut zu sein."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Eingebettet in die Natur des Allgäus"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Dein Zuhause auf Zeit in Bad Wörishofen profitiert von einer einzigartigen Umgebung, die Erholung und Erlebnis perfekt vereint. Als historische Wiege der Kneipp-Therapie in Bad Wörishofen (einer traditionellen Wasserheilkunde zur Gesundheitsförderung) bietet dir die Region wunderbare Möglichkeiten, etwas für dein Wohlbefinden zu tun, während der nahegelegene Fluss Wertach zu ausgedehnten Spaziergängen einlädt. Auch für Ausflüge bist du ideal angebunden, sei es durch die Nähe zu Bayerns größtem Freizeitpark oder die hervorragende Erreichbarkeit über die Autobahn A96, den örtlichen Bahnhof und den Allgäu Airport."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Finde deinen Rhythmus"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Lass den Alltag hinter dir und entdecke einen Ort, der Raum für neue Gedanken und tiefe Entspannung schafft. Erlebe die besondere Atmosphäre unserer Apartments und finde deinen ganz eigenen Rhythmus in einer Umgebung, die dich trägt. Wir freuen uns sehr darauf, dich schon bald im Haus zum Wald willkommen zu heißen, deinem stilvollen Rückzugsort für Wohnen und Arbeiten im Allgäu."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "grounding",
+          "pageTitle": "Grounding | Haus zum Wald",
+          "metadata": {
+            "title": "Grounding | Haus zum Wald",
+            "description": "KI-Grounding-Seite für Haus zum Wald — strukturierte Entity-Definitionen und Fakten zur Website für KI-Systeme.",
+            "keywords": "Grounding, KI, AI, Haus zum Wald, Referenzseite",
+            "openGraph": {
+              "url": "https://hotel-bad-woerishofen.de/de/wissensgrundlage",
+              "title": "Grounding | Haus zum Wald",
+              "images": [
+                {
+                  "url": "",
+                  "width": 1200,
+                  "height": 630,
+                  "alt": ""
+                }
+              ],
+              "description": "KI-Grounding-Seite für Haus zum Wald."
+            },
+            "twitter": {
+              "title": "Grounding | Haus zum Wald",
+              "description": "KI-Grounding-Seite für Haus zum Wald.",
+              "images": [
+                {
+                  "alt": "",
+                  "url": "",
+                  "width": 1200,
+                  "height": 630
+                }
+              ]
+            }
+          },
+          "hero": {
+            "h1": "Grounding",
+            "lead": "Strukturierte Fakten und Entity-Definitionen zu Haus zum Wald."
+          },
+          "schema": []
+        }
+      ],
+      "impressumBacklink": {
+        "headingTitle": "Konzept, Design und technische Umsetzung",
+        "title": "Website mit KI erstellen",
+        "link": "https://www.hero-pages.com/website-mit-ki-erstellen"
+      },
+      "languages": []
+    }
+  ]
+}

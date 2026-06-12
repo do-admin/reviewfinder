@@ -1,0 +1,97 @@
+[
+  {
+    "group_name": "Buchung & Events",
+    "faqs": [
+      {
+        "question": "Was kostet es, einen Eiswagen für ein Event zu mieten?",
+        "answer": "Die Kosten für die Miete eines Eiswagens hängen stark von der Dauer des Events und der Anzahl der Gäste ab. In der Regel berechnen wir eine Grundgebühr, die die Anfahrt und die Bereitstellung des Wagens abdeckt. Hinzu kommen die Kosten für das tatsächlich verzehrte Eis oder vorab gebuchte Pauschalen. Um dir ein exaktes Angebot machen zu können, freuen wir uns über eine direkte Anfrage mit den wichtigsten Eckdaten."
+      },
+      {
+        "question": "Wie kann ich einen Eiswagen für eine Hochzeit oder Feier buchen?",
+        "answer": "Die Buchung erfolgt ganz unkompliziert über unser Online-Kontaktformular oder per E-Mail. Nach Prüfung deines Wunschtermins melden wir uns umgehend mit einem konkreten Angebot bei dir zurück."
+      },
+      {
+        "question": "Kann man den Eiswagen auch kurzfristig für eine Firmenfeier bestellen?",
+        "answer": "Ja, spontane Anfragen sind prinzipiell möglich, sofern wir noch freie Kapazitäten haben. Besonders in den heißen Sommermonaten sind unsere Wagen jedoch schnell ausgebucht. Ein kurzer Anruf ist in solchen Fällen der schnellste Weg, um die aktuelle Verfügbarkeit direkt zu klären."
+      },
+      {
+        "question": "Was passiert bei schlechtem Wetter mit der Buchung?",
+        "answer": "Wir bieten faire Stornierungsbedingungen an, falls das Wetter am Tag deines Events gar nicht mitspielen sollte. Du kannst die Buchung in der Regel bis zu 48 Stunden vorher kostenfrei verschieben."
+      },
+      {
+        "question": "Wie viel Platz benötigt der Nicezeit-Eiswagen am Veranstaltungsort?",
+        "answer": "Unser Eiswagen braucht eine feste, ebenerdige Standfläche von etwa drei mal zwei Metern. Zusätzlich wird ein normaler 230-Volt-Stromanschluss in unmittelbarer Nähe benötigt, um die durchgehende Kühlung des Eises zu gewährleisten."
+      },
+      {
+        "question": "Kann man den Nicezeit-Eiswagen auch für ein Fotoshooting oder als Filmrequisite mieten?",
+        "answer": "Ja, unser nostalgischer Eiswagen steht auch rein als Requisite für Foto- und Filmproduktionen zur Verfügung."
+      },
+      {
+        "question": "Ab wie vielen Personen lohnt es sich, den Eiswagen exklusiv zu reservieren?",
+        "answer": "Eine exklusive Buchung rechnet sich meist ab einer Gesellschaft von etwa 50 Personen. Bei kleineren Gruppen greift oftmals ein Mindestbestellwert, wodurch die Kosten pro Kopf etwas steigen würden. Dennoch kommen wir natürlich sehr gerne auch für intimere Feiern vorbei und machen dein Event zu etwas ganz Besonderem."
+      }
+    ]
+  },
+  {
+    "group_name": "Sortiment & Preise",
+    "faqs": [
+      {
+        "question": "Was kostet eine Kugel Eis bei einer Buchung?",
+        "answer": "Der Preis für eine Kugel unseres handgemachten Eises liegt im regulären Verkauf aktuell bei 2,00 Euro. Bei gebuchten Events arbeiten wir jedoch häufig mit maßgeschneiderten Flatrate-Angeboten oder transparenten Staffelpreisen."
+      },
+      {
+        "question": "Welche Eissorten bietet der mobile Eiswagen an?",
+        "answer": "Unser Sortiment wechselt regelmäßig und umfasst eine feine Mischung aus absoluten Klassikern und modernen Kreationen. Neben Dauerbrennern wie Schokolade, Vanille und Erdbeere überraschen wir deine Gäste gerne mit ausgefallenen Sorten wie Salted Caramel oder fruchtigem Mango-Maracuja-Sorbet."
+      },
+      {
+        "question": "Gibt es laktosefreies oder veganes Eis im Sortiment?",
+        "answer": "Selbstverständlich haben wir immer eine Auswahl an veganen Fruchtsorbets an Bord, die von Natur aus komplett laktosefrei sind. Gelegentlich bieten wir auch cremige Milcheis-Alternativen auf Hafer- oder Mandelbasis an, sodass jeder Gast auf seine Kosten kommt."
+      },
+      {
+        "question": "Bietet Nicezeit auch spezielle oder regionale Eisspezialitäten an?",
+        "answer": "Wir legen großen Wert auf besondere Geschmackserlebnisse und kooperieren oft mit lokalen Partnern aus der Region. So arbeiten wir beispielsweise mit regionalen Röstereien zusammen, um ein absolut einzigartiges Kaffee-Eis zu kreieren. Saisonale Specials mit frischen, lokalen Zutaten runden unser abwechslungsreiches Angebot perfekt ab."
+      },
+      {
+        "question": "Kann ich bei Nicezeit eine eigene Eissorte für mein Event kreieren lassen?",
+        "answer": "Das ist tatsächlich eines unserer absoluten Highlights für Hochzeiten und exklusive Firmenevents! Wenn du uns rechtzeitig Bescheid gibst, entwickeln wir gemeinsam mit dir eine völlig individuelle Eissorte. Dabei können wir bestimmte Farben passend zu deinem Firmenlogo einarbeiten oder deine persönlichen Lieblingszutaten kombinieren. Von fruchtigem \"Basilikum-Zitrone\" bis hin zu verrückten \"Schoko-Chili-Mischungen\" ist fast alles möglich. So bekommt dein Event eine ganz persönliche, kulinarische Note. Deine Gäste werden dieses Erlebnis garantiert lange im Gedächtnis behalten."
+      },
+      {
+        "question": "Welche Zahlungsmöglichkeiten gibt es am Eiswagen?",
+        "answer": "Deine Gäste können bei uns ganz bequem mit allen gängigen EC- und Kreditkarten sowie per Smartphone bezahlen. Die klassische Barzahlung ist natürlich ebenfalls weiterhin problemlos möglich. Bei exklusiv gemieteten Events rechnen wir auf Wunsch auch bequem im Nachhinein per Gesamtrechnung ab."
+      }
+    ]
+  },
+  {
+    "group_name": "Logistik, Genehmigungen & Alltag",
+    "faqs": [
+      {
+        "question": "In welchem Umkreis kann der Eiswagen gemietet werden?",
+        "answer": "Für private Buchungen, Hochzeiten und Firmenevents sind wir überregional im Einsatz und fahren auch gerne zu Zielen im weiteren Umland. Im regulären Straßenverkauf konzentrieren wir uns hingegen auf unsere festen städtischen Routen. Frag am besten direkt bei uns an, ob wir auch zu deiner Wunsch-Location kommen können."
+      },
+      {
+        "question": "Wie kann man herausfinden, wo der Eiswagen gerade unterwegs ist?",
+        "answer": "Über unsere Nicezeit-App kannst du den aktuellen Standort unseres Eiswagens im regulären Straßenverkauf jederzeit in Echtzeit auf einer digitalen Karte verfolgen. Dort wird dir auch angezeigt, wie lange der Wagen voraussichtlich noch am aktuellen Ort verweilt. Feste Touren durch Wohngebiete finden meist nachmittags statt, hängen aber stark von der aktuellen Wetterlage ab."
+      },
+      {
+        "question": "Wie macht der Eiswagen auf sich aufmerksam?",
+        "answer": "Im regulären Straßenverkauf kündigen wir uns durch eine moderne Interpretation der klassischen Eiswagen-Melodie an. Diese ist fröhlich und weithin hörbar, ohne dabei aufdringlich zu wirken. Wenn du uns hörst, kannst du uns einfach auf Zuruf stoppen oder ein digitales Signal über die App senden."
+      },
+      {
+        "question": "Kann man den Eiswagen auch im Winter mieten?",
+        "answer": "Unser klassischer Straßenverkauf pausiert in den kalten und nassen Monaten. Für Winter-Events, gemütliche Weihnachtsmärkte oder festliche Firmenfeiern kann der Wagen jedoch jederzeit gebucht werden. In dieser Zeit servieren wir neben Eis oft auch frisch gebackene heiße Waffeln und wärmende Getränke."
+      },
+      {
+        "question": "Wie viele Kugeln Eis portioniert das Team pro Stunde?",
+        "answer": "Ein erfahrenes Team kann in unserem Wagen problemlos bis zu 300 Kugeln Eis pro Stunde ausgeben. Diese hohe Schnelligkeit garantiert auch bei großen Großveranstaltungen und Messen stets angenehm kurze Wartezeiten für deine Gäste."
+      },
+      {
+        "question": "Darf der gemietete Eiswagen überall aufgestellt werden?",
+        "answer": "Auf privaten Grundstücken oder Firmengeländen dürfen wir mit Erlaubnis des Eigentümers jederzeit problemlos stehen. Im öffentlichen Raum müssen wir uns an die strengen ordnungsrechtlichen Vorgaben der jeweiligen Stadt halten. Wir verfügen jedoch bereits über offizielle Genehmigungen für viele öffentliche Plätze und beraten dich gerne bei der Wahl des optimalen Standorts."
+      },
+      {
+        "question": "Wie nachhaltig sind die Becher und Löffel bei Nicezeit?",
+        "answer": "Wir legen größten Wert auf Umweltschutz und verzichten bei unserem Einweggeschirr komplett auf Plastik. Unsere Eisbecher und Löffel bestehen zu hundert Prozent aus biologisch abbaubaren Materialien. Zudem fördern wir den Verzehr in der klassischen essbaren Waffel, da diese Variante ganz ohne unnötigen Verpackungsmüll auskommt."
+      }
+    ]
+  }
+]

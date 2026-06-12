@@ -1,0 +1,51 @@
+{
+  "defaultLanguage": "de",
+  "supportedLanguages": ["de", "en"],
+  "description": "Central config for the location template. defaultLanguage: hreflang x-default and fallback. supportedLanguages: which [lang] routes and website data (websites.json, websites-{lang}.json) are used. translation: optional settings for pnpm translate-data.",
+  "routeSlugs": {
+    "datenschutz": { "de": "datenschutz", "en": "privacy-policy" },
+    "impressum": { "de": "impressum", "en": "imprint" },
+    "ueber-uns": { "de": "ueber-uns", "en": "about-us" },
+    "faq": { "de": "faq", "en": "faq" },
+    "grounding": { "de": "wissensgrundlage", "en": "grounding" }
+  },
+  "translation": {
+    "sourceFile": "websites.json",
+    "targetLanguages": ["en"],
+    "openRouter": {
+      "model": "google/gemini-2.5-flash",
+      "baseUrl": "https://openrouter.ai/api/v1"
+    },
+    "skipKeys": [
+      "id",
+      "heroPageId",
+      "clientDomain",
+      "googleTagId",
+      "url",
+      "link",
+      "image",
+      "src",
+      "email",
+      "telephone",
+      "phoneNumber",
+      "postalCode",
+      "bookingUrl",
+      "mapEmbedUrl",
+      "googlePlacesId",
+      "languageCode",
+      "latitude",
+      "longitude",
+      "card1Icon",
+      "card2Icon",
+      "card3Icon",
+      "width",
+      "height",
+      "publishTime",
+      "name",
+      "icbm",
+      "position",
+      "region",
+      "addressCountry"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+name: Integrity
+
+# Defense-in-depth supply-chain scan. Greps tracked source for known obfuscator
+# signatures, remote-eval patterns, leaked secrets, and trailing-whitespace
+# injection — failures here block CI before publish / merge.
+#
+# Canonical detector for the Hero-Pages org (auth-confirm RCE backdoor family).
+# Keep the pattern list here as the single source of truth; the local
+# pre-commit poison-guard and the audit scanner mirror these same signatures.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scan tracked files for known injection signatures
+        shell: bash
+        run: |
+          set -uo pipefail
+
+          # Exclude this workflow file (legitimately references the patterns)
+          # and any test fixtures (may contain pattern-shaped example strings).
+          list=$(git ls-files -- ':!.github/workflows/integrity.yml' ':!**/tests/fixtures/**' ':!tests/fixtures/**' 2>/dev/null)
+          if [ -z "$list" ]; then
+            echo "::error::no tracked files found"
+            exit 1
+          fi
+
+          fail=0
+
+          check() {
+            local label="$1" pattern="$2"
+            local hits
+            hits=$(echo "$list" | xargs grep -lE "$pattern" 2>/dev/null || true)
+            if [ -n "$hits" ]; then
+              echo "::error::[$label] matched in:"
+              echo "$hits" | head -10 | sed 's/^/  /'
+              fail=1
+            fi
+          }
+
+          # Remote-eval families
+          check "atob(process.env.*)" 'atob[[:space:]]*\([[:space:]]*process\.env\.'
+          check "eval(proxyInfo)"      'eval[[:space:]]*\([[:space:]]*proxyInfo[[:space:]]*\)'
+
+          # Fisher-Yates obfuscator family (postcss/tailwind/astro-config injection)
+          check "global['!']=..."                "global\[['\"]!['\"]\][[:space:]]*="
+          check "var _\$_<hex>= function shuffle" 'var[[:space:]]+_\$_[a-f0-9]{2,}[[:space:]]*='
+
+          # Known C2 hostname (cleartext + detector-normalized)
+          check "auth-con-firm hostname"          'auth-con-firm'
+          check "auth-confirm hostname"           'auth-confirm'
+
+          # Trailing-whitespace-hidden code after end-of-statement (config vector).
+          for f in $(echo "$list" | grep -E '\.(js|ts|mjs|cjs|tsx|jsx)$' || true); do
+            if grep -qE '[};][[:space:]]{40,}[a-zA-Z_$]' "$f" 2>/dev/null; then
+              echo "::error::[hidden-code-after-eos] long whitespace before code in $f"
+              fail=1
+            fi
+          done
+
+          # .env / .env.<name> tracked in git (excluding .env.example).
+          envs=$(echo "$list" | grep -E '^\.env$|^\.env\.[^/]+$' | grep -v '\.env\.example$' || true)
+          if [ -n "$envs" ]; then
+            echo "::error::[tracked-env] .env file(s) tracked:"
+            echo "$envs" | sed 's/^/  /'
+            fail=1
+          fi
+
+          if [ "$fail" -ne 0 ]; then
+            echo ""
+            echo "::error::Integrity scan failed. See errors above."
+            exit 1
+          fi
+          echo "Integrity scan clean (scanned $(echo "$list" | wc -l) tracked files)."

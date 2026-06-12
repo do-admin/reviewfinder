@@ -1,0 +1,27 @@
+[
+  {
+    "name": "bpa Arbeitgeberverband",
+    "url": "https://www.bpa-arbeitgeberverband.de/",
+    "logo": "bpa-arbeitgeberverband-logo.webp",
+    "description": "The bpa represents private providers of social services and advocates for quality and fair framework conditions in care – a strong network for social responsibility."
+  },
+  {
+    "name": "Kinderschutzzentrum Hannover",
+    "url": "https://www.ksz-hannover.de/",
+    "logo": "kinderschutzzentrum-hannover.webp",
+    "description": "The Child Protection Center offers help and counseling in cases of violence against children. A safe haven in Hanover that supports families and actively strengthens children's rights."
+  },
+  {
+    "name": "Jugendamt Hannover",
+    "url": "https://www.unterstuetzung-die-ankommt.de/de/",
+    "info": "Link leads to the campaign 'Support that makes a difference'",
+    "logo": "jugendamt-logo.webp",
+    "description": "Under the motto \"Support that makes a difference\", the Youth Welfare Office ensures the well-being of children and young people in the region – for a strong future for the next generation."
+  },
+  {
+    "name": "Landeshauptstadt Hannover",
+    "url": "https://www.hannover.de/",
+    "logo": "landeshauptstadt-hannover-logo.webp",
+    "description": "The state capital Hanover stands for quality of life and diversity. From administration to cultural funding – the heart of our region for all citizens."
+  }
+]

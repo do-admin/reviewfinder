@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-04-23T09:12:06.200Z",
+  "clientId": "inklusive-schulbegleitung",
+  "siteId": "schulassistenz",
+  "sourceBaseUrl": "https://inklusive-schulbegleitung.de",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword: Schulbegleitung Hannover",
+  "briefingMainKeyword": "Schulbegleitung Hannover",
+  "deployDomainKeyword": "schulbegleitung-hannover",
+  "topics": {
+    "coreServices": [
+      "Individuelle Schulbegleitung für Kinder und Jugendliche",
+      "Förderung von Selbstständigkeit und Selbstbewusstsein im Schulalltag",
+      "Unterstützung bei Autismus, ADHS und körperlichen, seelischen oder sozialen Herausforderungen",
+      "Enge Zusammenarbeit und Koordination mit Familien, Schulen und Ämtern",
+      "Beratung und Hilfestellung bei der Beantragung der Schulbegleitung"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Erfahrung in der inklusiven Schulbegleitung",
+      "Pädagogische Leitung durch staatlich anerkannte Erzieherin & Sozialpädagogin B.A.",
+      "Pädagogisch geschultes Fachpersonal mit hoher sozialer Kompetenz",
+      "Stetige Weiterbildung und enge Kooperation mit Bildungsträgern",
+      "Kleiner, persönlicher Träger mit festen Ansprechpartnern"
+    ],
+    "localReferences": [
+      "Hannover",
+      "Region Hannover",
+      "Isernhagen"
+    ],
+    "differentiators": [
+      "Fokus auf Empathie und Herzlichkeit ('Wir sehen Dich')",
+      "Gelebte Inklusion als tägliche Haltung, nicht nur als Theorie",
+      "Individuelle, passgenaue und flexible Lösungen statt Schema F",
+      "Kleines, engagiertes Team im Gegensatz zu anonymen Großträgern"
+    ],
+    "faqIntent": [
+      "Wie beantrage ich eine Schulbegleitung für mein Kind?",
+      "Wer hat Anspruch auf Schulbegleitung und welche Voraussetzungen gelten?",
+      "Was genau sind die Aufgaben einer Schulbegleitung im Unterricht?",
+      "Wie arbeitet der Träger mit Lehrkräften und Schulen zusammen?",
+      "Welche Qualifikationen bringen die Schulbegleiter mit?"
+    ]
+  },
+  "keywords": [
+    "Schulbegleitung Hannover",
+    "Inklusive Schulbegleitung Hannover",
+    "Schulbegleiter werden Hannover",
+    "Schulassistenz Isernhagen",
+    "Schulbegleitung Autismus ADHS",
+    "Schulbegleitung beantragen",
+    "Teilhabeassistenz Hannover",
+    "Integrationshelfer Hannover"
+  ],
+  "h1Suggestions": [
+    "Schulbegleitung Hannover: Hand in Hand",
+    "Inklusive Schulbegleitung Hannover",
+    "Deine Schulbegleitung in Hannover & Region",
+    "Schulbegleitung Hannover: Mit Herz & Verstand",
+    "Individuelle Schulbegleitung für Dein Kind"
+  ],
+  "subtitleSuggestions": [
+    "Wir bieten professionelle Schulbegleitung Hannover – für echte Teilhabe, mehr Selbstbewusstsein und einen inklusiven Schulalltag. Jetzt beraten lassen!",
+    "Als erfahrener Träger für Schulbegleitung Hannover unterstützen wir Kinder mit Autismus, ADHS und anderen Herausforderungen individuell und verlässlich.",
+    "Hand in Hand: Deine inklusive Schulbegleitung Hannover. Wir begleiten Kinder und Jugendliche empathisch durch den Schulalltag. Werde Teil unseres Teams!",
+    "Wir machen Schule für alle möglich. Finde die passende Schulbegleitung in Hannover und Isernhagen für die individuellen Bedürfnisse Deines Kindes."
+  ],
+  "mustCover": [
+    "Fokus auf das Hauptkeyword 'Schulbegleitung Hannover' und die regionale Verankerung in Hannover/Isernhagen.",
+    "Doppelte Zielgruppenansprache: Eltern (Suche nach Begleitung für das Kind) und Bewerber (Suche nach einem Job als Schulbegleiter).",
+    "Hervorhebung der pädagogischen Qualifikation, der über 10-jährigen Erfahrung und der professionellen Leitung.",
+    "Nennung spezifischer Herausforderungen wie Autismus, ADHS sowie seelische, soziale oder körperliche Beeinträchtigungen.",
+    "Einbindung des emotionalen Leitgedankens 'Wir sehen Dich' und der familiären, herzlichen Betreuung.",
+    "Bereitstellung von klaren Informationen und Hilfestellungen zur Antragsstellung und den rechtlichen Voraussetzungen."
+  ],
+  "avoidAngles": [
+    "Kühle, rein medizinische oder bürokratische Sprache (widerspricht dem Fokus auf Herzlichkeit und Empathie).",
+    "Versprechen von Heilung oder therapeutischen Maßnahmen (Fokus liegt auf Begleitung und Teilhabe, nicht auf Therapie).",
+    "Darstellung als anonymer Großkonzern (die Marke positioniert sich explizit als kleiner, engagierter Träger).",
+    "Verwendung von englischen Buzzwords oder Corporate-Sprech (die Tonalität ist nahbar, familiär und deutschsprachig)."
+  ]
+}

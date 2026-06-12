@@ -1,0 +1,55 @@
+{
+  "$colorsDoc": [
+    "Colors (HSL 'H S% L%' components). Only the tokens listed below live here;",
+    "everything else (background, foreground, muted, border, ring, destructive, …)",
+    "uses the defaults in src/styles/globals.css.",
+    "",
+    "  primary, accent        ← PO-picked. From Excel (Farbe - Brand / Farbe - Akzent) or auto-extracted by pnpm 05-extract-website:colors.",
+    "  primary-foreground     ← readable text color on primary, auto-derived from WCAG luminance (light bg → dark text, else white).",
+    "  accent-foreground      ← same rule, applied to accent.",
+    "  tertiary               ← auto-derived from primary + accent (hue midpoint, saturation and lightness clamped for visibility). Powers card 1 in <Info>.",
+    "  tertiary-foreground    ← same WCAG-luminance rule, applied to the derived tertiary.",
+    "  accent-soft            ← pastel card background, derived from accent; boosted when accent is too pale or too grey to show at /20 opacity.",
+    "  hero-cta               ← primary CTA button background in the Hero. Equal to primary when primary is bright enough; otherwise brightened (or switched to white for monochrome brands) so the button stays visible on dark hero imagery.",
+    "  hero-cta-foreground    ← same WCAG-luminance rule, applied to hero-cta.",
+    "",
+    "Any key set explicitly here wins over derivation. Derivation lives in scripts/dev/sync-theme-to-globals.mjs."
+  ],
+  "colors": {
+    "primary": "328 84.7% 46.1%",
+    "accent": "169 62% 64%",
+    "primary-foreground": "0 0% 100%",
+    "accent-foreground": "0 0% 7%",
+    "tertiary": "248.5 84.7% 55%",
+    "tertiary-foreground": "0 0% 100%",
+    "accent-soft": "169 62% 64%",
+    "hero-cta": "328 84.7% 46.1%",
+    "hero-cta-foreground": "0 0% 100%",
+    "hero-h1": "0 0% 100%"
+  },
+  "customCss": {
+    "faqHeading": "text-2xl font-bold"
+  },
+  "fonts": {
+    "body": {
+      "family": "Tahoma",
+      "fallback": "Arial, Helvetica, sans-serif"
+    },
+    "heading": {
+      "family": "Arial",
+      "fallback": "Arial, Helvetica, sans-serif"
+    }
+  },
+  "fontStylesheetUrls": [
+    "https://fonts.googleapis.com/css2?family=Tahoma:wght@300;400;500;600;700&display=swap"
+  ],
+  "_meta": {
+    "colorsAutoExtractedAt": "2026-04-27T04:44:48.419Z",
+    "colorsSources": {
+      "primary": "sheet",
+      "primary-foreground": "derived:derived.wcagSafe",
+      "secondary": "derived:lightTintFromPrimary",
+      "accent": "sheet"
+    }
+  }
+}

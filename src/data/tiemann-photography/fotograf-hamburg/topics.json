@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-04-24T07:46:32.395Z",
+  "clientId": "tiemann-photography",
+  "siteId": "fotograf-hamburg",
+  "sourceBaseUrl": "https://tiemann-photography.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword:Fotograf in Hamburg",
+  "briefingMainKeyword": "Fotograf in Hamburg",
+  "deployDomainKeyword": "fotograf-hamburg",
+  "topics": {
+    "coreServices": [
+      "Businessporträts und visuelle Konsistenz für Unternehmen",
+      "Hochzeitsreportagen mit Editorial-Vibes und Option auf Second Shooter",
+      "Schwangerschaftsshootings im Studio mit Leihkleidern",
+      "Professionelle Studio-Fotografie"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Berufserfahrung",
+      "Festes, eigenes Fotostudio in Hamburg (Bleicherstraße)",
+      "Kostenloses Beratungsgespräch innerhalb von 24 Stunden",
+      "Ruhige, strukturierte und professionelle Arbeitsweise"
+    ],
+    "localReferences": [
+      "Hamburg",
+      "Bleicherstraße 2, 22767 Hamburg (Fotostudio)",
+      "Wulfsmühle in Tangstedt (Hochzeitslocation nahe Hamburg)"
+    ],
+    "differentiators": [
+      "Zeitlose Bildsprache gepaart mit modernem Editorial-Stil",
+      "Hoher Anspruch an Qualität, Struktur und Zusammenarbeit",
+      "Rundum-Sorglos-Ansatz bei Schwangerschaftsshootings (inklusive Leihkleider und Hintergründe)",
+      "Fokus auf Menschen, die mehr erwarten als nur schöne Bilder"
+    ],
+    "faqIntent": [
+      "Wie läuft ein Schwangerschaftsshooting ab und was ziehe ich an?",
+      "Warum ist ein Second Shooter bei einer Hochzeit sinnvoll?",
+      "Wann sollte ich meine Hochzeitsfotografin buchen?",
+      "Wo befindet sich das Fotostudio?",
+      "Wie schnell erhalte ich einen Beratungstermin?"
+    ]
+  },
+  "keywords": [
+    "Fotograf in Hamburg",
+    "fotograf-hamburg",
+    "Hochzeitsfotograf Hamburg",
+    "Businessporträt Hamburg",
+    "Schwangerschaftsshooting Hamburg",
+    "Fotostudio Bleicherstraße",
+    "Hochzeitsreportage Editorial",
+    "Bewerbungsfotos Hamburg"
+  ],
+  "h1Suggestions": [
+    "Dein erfahrener Fotograf in Hamburg",
+    "Zeitlose Bilder: Dein fotograf-hamburg",
+    "Fotograf in Hamburg für Business & Hochzeit",
+    "Ästhetische Fotografie im Studio Hamburg",
+    "Hochzeits- & Business-fotograf-hamburg"
+  ],
+  "subtitleSuggestions": [
+    "Als professioneller Fotograf in Hamburg biete ich zeitlose Hochzeitsreportagen, Businessporträts und Schwangerschaftsshootings mit Editorial-Vibes.",
+    "Suchst du einen fotograf-hamburg? Mit über 10 Jahren Erfahrung und eigenem Studio schaffe ich authentische Bilder für Paare und Unternehmen.",
+    "Dein Fotograf in Hamburg für visuelle Konsistenz und stilvolle Erinnerungen. Vereinbare jetzt ein kostenloses Beratungsgespräch innerhalb von 24 Stunden.",
+    "Ob im eigenen Studio in der Bleicherstraße oder auf deiner Hochzeit: Dein fotograf-hamburg begleitet dich mit ruhiger, professioneller Arbeitsweise.",
+    "Hochwertige Fotografie für Menschen, die mehr erwarten. Entdecke zeitlose Bildsprache für Business, Hochzeit und Familie in Hamburg."
+  ],
+  "mustCover": [
+    "Den Hauptfokus auf das Keyword 'Fotograf in Hamburg' legen",
+    "Die drei Kernbereiche klar kommunizieren: Businessporträts, Hochzeitsreportagen und Schwangerschaftsshootings",
+    "Das eigene Fotostudio in der Bleicherstraße 2, 22767 Hamburg als festen Standort erwähnen",
+    "Die über 10-jährige Berufserfahrung und die ruhige, strukturierte Arbeitsweise betonen",
+    "Das Angebot eines kostenlosen Beratungsgesprächs innerhalb von 24 Stunden als Call-to-Action nutzen",
+    "Besondere Merkmale wie Editorial-Vibes, Second Shooter bei Hochzeiten und Leihkleider für Schwangere hervorheben"
+  ],
+  "avoidAngles": [
+    "Marktschreierische Rabatt-Aktionen oder Billig-Angebote (Fokus liegt auf Qualität und zeitloser Ästhetik)",
+    "Hektische oder unstrukturierte Tonalität (widerspricht der ruhigen, professionellen Umsetzung)",
+    "Ausschließliche Fokussierung auf Hobby-Fotografie (es handelt sich um ein professionelles B2B- und B2C-Angebot)",
+    "Übertriebene englische Marketing-Floskeln, die nicht zum hochwertigen, klaren Stil passen"
+  ]
+}

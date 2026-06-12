@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bpa Arbeitgeberverband",
+    "url": "https://www.bpa-arbeitgeberverband.de/",
+    "logo": "bpa-arbeitgeberverband-logo.webp",
+    "description": "Interessenvertretung mit Weitblick: Der bpa unterstützt private Dienstleister in der Pflege dabei, hochwertige Betreuung und soziale Sicherheit für alle Generationen zu gewährleisten."
+  },
+  {
+    "name": "Kinderschutzzentrum Hannover",
+    "url": "https://www.ksz-hannover.de/",
+    "logo": "kinderschutzzentrum-hannover.webp",
+    "description": "Starke Hilfe für starke Kinder. Das Team in Hannover bietet Opferschutz und therapeutische Begleitung, um Familien in schwierigen Situationen neue Perspektiven zu eröffnen."
+  },
+  {
+    "name": "Jugendamt Hannover",
+    "url": "https://www.unterstuetzung-die-ankommt.de/de/",
+    "logo": "jugendamt-logo.webp",
+    "description": "Vielfältige Angebote für Kinder und Eltern: Das Jugendamt setzt auf präventive Arbeit und Beratung, damit jedes Kind in Hannover behütet und mit fairen Chancen aufwachsen kann."
+  },
+  {
+    "name": "Landeshauptstadt Hannover",
+    "url": "https://www.hannover.de/",
+    "logo": "landeshauptstadt-hannover-logo.webp",
+    "description": "Von der Leine bis zum Maschsee – die Stadtverwaltung Hannover gestaltet den Rahmen für ein buntes Miteinander und eine funktionierende urbane Gemeinschaft in Niedersachsen."
+  }
+]

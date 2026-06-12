@@ -1,0 +1,26 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { t } from '@/lib/page-data';
+import { DEFAULT_LANGUAGE } from '@/lib/language';
+---
+<BaseLayout
+  title={t('notFound.title', DEFAULT_LANGUAGE)}
+  description={t('notFound.description', DEFAULT_LANGUAGE)}
+  lang={DEFAULT_LANGUAGE}
+  noIndex={true}
+>
+  <div class="min-h-screen flex items-center justify-center bg-background">
+    <div class="text-center px-4">
+      <h1 class="text-4xl font-bold text-foreground font-heading mb-4">
+        {t('notFound.title', DEFAULT_LANGUAGE)}
+      </h1>
+      <p class="text-gray-600 mb-6">{t('notFound.description', DEFAULT_LANGUAGE)}</p>
+      <a
+        href={`/${DEFAULT_LANGUAGE}`}
+        class="inline-block bg-primary hover:bg-primary/90 text-primary-foreground px-6 py-3 rounded-full font-semibold transition-colors"
+      >
+        {t('notFound.backHome', DEFAULT_LANGUAGE)}
+      </a>
+    </div>
+  </div>
+</BaseLayout>

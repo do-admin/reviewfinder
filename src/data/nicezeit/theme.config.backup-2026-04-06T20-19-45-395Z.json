@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "primary": "328 84.7% 46.1%",
+    "primary-foreground": "0 0% 100%",
+    "secondary": "328 10% 92%",
+    "accent": "169 62% 64%"
+  },
+  "fonts": {
+    "body": {
+      "family": "Rubik",
+      "fallback": "Arial, Helvetica, sans-serif"
+    },
+    "heading": {
+      "family": "Caveat",
+      "fallback": "Arial, Helvetica, sans-serif"
+    }
+  },
+  "fontStylesheetUrls": [
+    "https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&family=Caveat:wght@400;700&display=swap"
+  ]
+}

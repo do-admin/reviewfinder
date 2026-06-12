@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bpa Arbeitgeberverband",
+    "url": "https://www.bpa-arbeitgeberverband.de/",
+    "logo": "bpa-arbeitgeberverband-logo.webp",
+    "description": "Advocacy with vision: The bpa supports private care providers in ensuring high-quality care and social security for all generations."
+  },
+  {
+    "name": "Kinderschutzzentrum Hannover",
+    "url": "https://www.ksz-hannover.de/",
+    "logo": "kinderschutzzentrum-hannover.webp",
+    "description": "Strong help for strong children. The team in Hanover offers victim protection and therapeutic support to open up new perspectives for families in difficult situations."
+  },
+  {
+    "name": "Jugendamt Hannover",
+    "url": "https://www.unterstuetzung-die-ankommt.de/de/",
+    "logo": "jugendamt-logo.webp",
+    "description": "Diverse offers for children and parents: The Youth Welfare Office focuses on preventive work and counseling so that every child in Hanover can grow up protected and with fair opportunities."
+  },
+  {
+    "name": "Landeshauptstadt Hannover",
+    "url": "https://www.hannover.de/",
+    "logo": "landeshauptstadt-hannover-logo.webp",
+    "description": "From the Leine to the Maschsee – the Hanover city administration shapes the framework for a colorful coexistence and a functioning urban community in Lower Saxony."
+  }
+]

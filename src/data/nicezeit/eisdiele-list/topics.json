@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-04-27T04:41:10.572Z",
+  "clientId": "nicezeit",
+  "siteId": "eisdiele-list",
+  "sourceBaseUrl": "https://nicezeit.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Haupt-Keyword: Eisdiele List",
+  "briefingMainKeyword": "Eisdiele List",
+  "deployDomainKeyword": "eisdiele-list",
+  "topics": {
+    "coreServices": [
+      "Handgemachtes Premiumeis (klassisch und ausgefallen)",
+      "Vegane Eissorten",
+      "Milchshakes und Spaghettieis",
+      "Spezialitäten wie Iced Matcha Latte und Eis im Croissant",
+      "Saisonale Angebote (Wintersorten im 500ml Glas, Adventskalender)",
+      "Vermietungen und Eis-Catering für Events"
+    ],
+    "trustSignals": [
+      "Gläserne Manufaktur (direkter Einblick in die Eisproduktion)",
+      "100 % natürliche Zutaten ohne künstliche Aromen oder Farbstoffe",
+      "Verwendung regionaler Zutaten (z. B. Milch aus der Region)",
+      "Top-Kundenbewertungen (gehört zu den Top 5 in Hannover)",
+      "Etabliert seit 2019"
+    ],
+    "localReferences": [
+      "Hannover List (Fokus-Standort)",
+      "Hannover Linden (Schmuckplatz)",
+      "Hannover Südstadt",
+      "Regionale Herkunft der Zutaten"
+    ],
+    "differentiators": [
+      "Philosophie: Gutes Eis braucht kein Chichi",
+      "Kreative Eigenkreationen (z. B. Leibniz Butterkeks Eis, Cookie Hug)",
+      "Transparenz durch das Fenster zum Eislabor",
+      "Ganzjähriges Konzept mit Winter-Festival und Wintersorten"
+    ],
+    "faqIntent": [
+      "Wo gibt es das beste Eis in Hannover List?",
+      "Bietet die Eisdiele vegane Sorten an?",
+      "Was kostet eine Kugel Eis in Hannover?",
+      "Warum ist das Eis so besonders cremig?",
+      "Kann man die Eisdiele für private Events mieten?"
+    ]
+  },
+  "keywords": [
+    "Eisdiele List",
+    "Eisdiele Hannover List",
+    "Handgemachtes Eis Hannover",
+    "Veganes Eis List",
+    "Premiumeis Hannover",
+    "Eismanufaktur List",
+    "Natürliches Eis Hannover",
+    "Spaghettieis List"
+  ],
+  "h1Suggestions": [
+    "Deine Eisdiele List: Handgemacht & natürlich",
+    "Eisdiele List: 100% natürliches Premiumeis",
+    "Handgemachtes Eis in der Eisdiele List",
+    "Nicezeit: Deine Eismanufaktur in der List",
+    "Natürliches Eis ohne Chichi in Hannover List"
+  ],
+  "subtitleSuggestions": [
+    "Besuche unsere Eisdiele List und genieße 100 % natürliches, handgemachtes Premiumeis. Regionale Zutaten, vegane Sorten und echter Geschmack ohne Chichi.",
+    "Willkommen in der Eisdiele List! Entdecke kreative Eissorten, vegane Highlights und cremiges Spaghettieis aus unserer gläsernen Manufaktur in Hannover.",
+    "Deine Lieblingseissorten warten auf dich: Erlebe in der Eisdiele List echtes Eishandwerk mit regionaler Milch und ganz ohne künstliche Aromen.",
+    "Ob klassisch oder vegan: In unserer Eisdiele List in Hannover machen wir Eis aus Leidenschaft. Komm vorbei und schau uns bei der Produktion zu!"
+  ],
+  "mustCover": [
+    "Starker Fokus auf den Standort Hannover List als primäre Anlaufstelle",
+    "Betonung der 100 % natürlichen Herstellung ohne künstliche Zusätze",
+    "Hervorhebung der regionalen Zutaten und der veganen Optionen",
+    "Erwähnung der gläsernen Manufaktur und der handwerklichen Produktion",
+    "Hinweis auf besondere Kreationen, Events und saisonale Specials"
+  ],
+  "avoidAngles": [
+    "Assoziationen mit industrieller Massenproduktion oder künstlichen Zusatzstoffen",
+    "Vergleiche mit dem klassischen Standard-Italiener (Marke grenzt sich bewusst ab)",
+    "Komplizierte oder elitäre Sprache (Tonalität ist locker, du-bezogen und direkt)",
+    "Falsche Versprechungen zu durchgehenden Öffnungszeiten (temporäre Schließungen oder Winterpausen beachten)"
+  ]
+}

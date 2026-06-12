@@ -1,0 +1,380 @@
+[
+  {
+    "group_name": "Basics and Definitions",
+    "faqs": [
+      {
+        "question": "What is the difference between ice and ice cream?",
+        "answer": "The term ice often serves as a general term for all frozen desserts, while ice cream is a legally protected designation. According to the German Food Code, ice cream must have a milk fat content of at least 10 percent. Other varieties such as milk ice or fruit ice are subject to different compositions and fat contents."
+      },
+      {
+        "question": "What is the difference between Gelato and Ice Cream?",
+        "answer": "Gelato is made with more milk and less cream than classic American ice cream, resulting in a lower fat content. It is also served at a slightly higher temperature and churned more slowly, which leads to a denser, creamier texture. Ice cream, on the other hand, often contains more air and a higher cream content for a fluffier mouthfeel."
+      },
+      {
+        "question": "What is the difference between Gelato and Icecream?",
+        "answer": "These two terms describe the Italian and American ways of making ice cream. While gelato is milk-based and very compact, ice cream is usually based on a lot of cream and is heavily whipped. This process gives the American version a higher volume, while Italian gelato has a more intense flavor."
+      },
+      {
+        "question": "What exactly is Gelato?",
+        "answer": "Gelato is the Italian version of ice cream and is characterized by its artisanal production. It contains less air than industrial ice cream and has a lower fat content, as primarily whole milk instead of cream is used. Due to the serving temperature, which is just below freezing point, the flavors unfold particularly intensely on the tongue."
+      },
+      {
+        "question": "What is Gelato?",
+        "answer": "Gelato refers to a high-quality ice cream variety based on the Italian model, which is particularly creamy and intensely flavored. In contrast to standard ice cream, less cream and more milk are used, which reduces the fat content. The slow churning ensures that hardly any air is incorporated, which makes the consistency very smooth."
+      },
+      {
+        "question": "What does ice cream mean in German?",
+        "answer": "Eiscreme is already a Germanized term, originally derived from the English \"Ice Cream\". In German, it specifically refers to ice cream that has a minimum milk fat content of 10 percent. Colloquially, we usually just use the word \"Eis\", even if legally it often refers to fruit or milk ice cream."
+      },
+      {
+        "question": "What is the difference between Speiseeis and Eiscreme?",
+        "answer": "Speiseeis is the general umbrella term for all frozen desserts such as sorbet, milk ice cream, or water ice. Eiscreme, on the other hand, is a specific variety within this category that is subject to strict regulations regarding milk fat content. While every Eiscreme is Speiseeis, not every Speiseeis can be called Eiscreme."
+      },
+      {
+        "question": "What is the difference between ice and gelato?",
+        "answer": "The main difference lies in the composition and the freezing method. Gelato is made with a higher proportion of milk and less egg yolk and cream than conventional milk ice cream. In addition, the air content in gelato is significantly lower, which makes it heavier and more intensely flavored than ordinary ice cream."
+      },
+      {
+        "question": "What is the difference between Gelato and ice cream?",
+        "answer": "Gelato is the specific Italian recipe that focuses on freshness and lower fat content. Conventional ice cream, especially industrial production, often contains more stabilizers and a higher air overrun. Gelato therefore usually tastes more natural and melts more gently in the mouth."
+      },
+      {
+        "question": "What does Affogato mean in German?",
+        "answer": "The Italian word \"Affogato\" means something like \"drowned\". This perfectly describes the preparation, where a scoop of vanilla ice cream is poured over with hot espresso in a cup. The ice cream virtually \"drowns\" in the coffee, creating a delicious mixture of hot and cold."
+      },
+      {
+        "question": "What is a Gelateria?",
+        "answer": "A Gelateria is the Italian term for an ice cream parlor or an ice cream café. Here, traditionally homemade gelato is sold, often produced directly on site using artisanal methods. In Italy, the Gelateria is an important social meeting place for young and old."
+      },
+      {
+        "question": "What does Gelateria mean?",
+        "answer": "The term comes from Italian and refers to a specialized shop for ice cream. It is derived from the word \"Gelato\", which simply means \"frozen\" or \"ice cream\". Those who visit a Gelateria can usually expect high quality and artisanal tradition."
+      },
+      {
+        "question": "What does Gelateria mean?",
+        "answer": "Translated, Gelateria simply means ice cream parlor. It is the place where the art of gelato making is celebrated and the finished product is sold directly to customers. Worldwide, the term is used to emphasize an authentic Italian character of the ice cream shop."
+      },
+      {
+        "question": "What is the plural of ice?",
+        "answer": "In the German language, the word \"Eis\" is usually used as a so-called singular tantum, meaning it has no plural in normal usage. However, if one means different varieties, one can theoretically speak of \"Eisarten\" (types of ice) or \"Eissorten\" (ice cream flavors). In technical language, the plural form \"Eise\" is very rarely used, but this sounds unusual in everyday life."
+      },
+      {
+        "question": "What is special about Gelato?",
+        "answer": "The special thing is the combination of a low air content and a moderate fat content, which highlights the inherent taste of the ingredients. Since it is served less cold than industrial ice cream, the taste buds on the tongue are not numbed as quickly. This leads to a much more intense and creamy taste experience."
+      }
+    ]
+  },
+  {
+    "group_name": "Ingredients and Production",
+    "faqs": [
+      {
+        "question": "What ingredient makes ice cream creamy?",
+        "answer": "Fat and sugar, as well as the correct incorporation of air, are primarily responsible for the perfect creaminess. In professional production, egg yolks or natural emulsifiers often ensure that water and fat combine stably. Constant stirring during the freezing process also prevents the formation of large ice crystals."
+      },
+      {
+        "question": "What ingredient makes homemade ice cream creamy?",
+        "answer": "At home, adding a little cream, mascarpone, or egg yolk often helps to achieve a smooth texture. A secret tip is also a small shot of alcohol or invert sugar, as these lower the freezing point and keep the ice cream softer. Without an ice cream maker, the mixture must also be stirred vigorously every 30 minutes."
+      },
+      {
+        "question": "Why egg yolk in vanilla ice cream?",
+        "answer": "Egg yolk acts as a natural emulsifier that permanently binds fat and water in the ice cream mixture. It not only gives vanilla ice cream a beautiful yellowish color but also ensures a particularly rich mouthfeel. In addition, it improves the stability of the ice cream so that it does not melt immediately when served."
+      },
+      {
+        "question": "What is the secret ingredient for ice cream?",
+        "answer": "Many professionals swear by a pinch of salt to intensify the sweetness and aroma of the other ingredients. Another \"secret\" component can be locust bean gum, which serves as a natural binder and makes the ice cream extremely stable. The use of powdered milk can also help to bind the water content and improve the texture."
+      },
+      {
+        "question": "How is soft serve ice cream made?",
+        "answer": "Soft serve ice cream is made in special machines that simultaneously cool the ice cream mixture and whip it with a lot of air. The mixture is stored at about -6 degrees Celsius, which is significantly warmer than regular scoop ice cream. Due to the high air content and soft consistency, it can be dispensed directly from the machine into the cone."
+      },
+      {
+        "question": "What is soft serve ice cream?",
+        "answer": "Soft serve ice cream is a particularly soft and foamy variant of ice cream that gets its characteristic shape directly when dispensed. It usually consists of a basic mix for milk ice cream, which almost doubles its volume due to the special aeration in the machine. It is consumed fresh, as its structure is not suitable for long-term storage in the freezer."
+      },
+      {
+        "question": "What do you need for soft serve ice cream?",
+        "answer": "The most important prerequisite for real soft serve ice cream is a professional soft serve ice cream machine that lifts air into the mixture. The base is usually a liquid ice cream mix or a powder that is mixed with milk or water. Without the special technology of the machine, it is almost impossible to authentically recreate the typical fluffy consistency at home."
+      },
+      {
+        "question": "Which machine makes the best soft serve ice cream?",
+        "answer": "In gastronomy, brands like Taylor, Carpigiani, or Nissei are considered market leaders for high-quality soft serve ice cream machines. These devices are characterized by precise temperature control and uniform air whipping. For private users, there are smaller compressor machines that deliver good results but rarely achieve the fluffiness of professional devices."
+      },
+      {
+        "question": "Can I make ice cream in my Thermomix?",
+        "answer": "Yes, the Thermomix is excellent for quick ice cream production from frozen fruits and cream. You can either cook a classic ice cream mixture and freeze it later or mix frozen ingredients directly into a creamy fruit ice cream. For a perfect result, the ice cream should often be frozen again briefly after mixing."
+      },
+      {
+        "question": "Can you make ice cream in the Thermomix?",
+        "answer": "Absolutely, the Thermomix is a popular tool for quickly preparing sorbets or creamy milk ice cream. Due to the high mixing power, frozen fruits are finely crushed, creating a wonderful texture. It is one of the easiest methods to create fresh frozen desserts without a classic ice cream maker."
+      },
+      {
+        "question": "What is Icecream Soda?",
+        "answer": "Ice cream soda is a classic drink from the USA, consisting of carbonated lemonade, syrup, and a scoop of vanilla ice cream. Often, the whole thing is garnished with a dollop of whipped cream. When the ice cream melts in the soda, a foamy, creamy drink is created, which is very refreshing, especially in summer."
+      }
+    ]
+  },
+  {
+    "group_name": "Ice Cream Varieties in Detail",
+    "faqs": [
+      {
+        "question": "What is strawberry ice cream?",
+        "answer": "Strawberry ice cream is a classic among fruit ice cream varieties, made either with a milk or water base. It is characterized by its fruity-sweet taste and usually pink color. High-quality strawberry ice cream should contain a high proportion of real fruit to guarantee an authentic aroma."
+      },
+      {
+        "question": "What ingredients do you need for strawberry ice cream?",
+        "answer": "The basic ingredients are fresh, ripe strawberries, sugar, and, depending on the variety, either cream and milk or water and lemon juice for a sorbet. A little vanilla or a squeeze of lime can further support the strawberry aroma. For a particularly fine texture, it is advisable to puree the strawberries before processing and possibly strain them."
+      },
+      {
+        "question": "What is strawberry ice cream made of?",
+        "answer": "Classic strawberry ice cream from the ice cream parlor usually consists of a fruit puree mixed with a base of milk, cream, and sugar. Industrial ice cream often contains additional flavorings and colorings to enhance the taste. For those who prefer a healthy option, strawberry ice cream can also be easily made at home from frozen fruits and a little yogurt."
+      },
+      {
+        "question": "Is strawberry ice cream always vegan?",
+        "answer": "No, strawberry ice cream is not automatically vegan, as it is often made as milk ice cream with cream. Only if it is explicitly declared as a sorbet or with plant-based milk alternatives does it contain no animal products. When buying from an ice cream parlor, you should specifically ask for a lactose-free fruit sorbet."
+      },
+      {
+        "question": "Is strawberry ice cream a milk ice cream?",
+        "answer": "Strawberry ice cream can be offered as milk ice cream, fruit ice cream, or sorbet. In German ice cream parlors, the creamy milk-based version is very common, while in supermarkets, fruit ice cream with a lower fat content is often found. The designation ultimately depends on the basic ingredients used and the fat content."
+      },
+      {
+        "question": "Why is my homemade strawberry ice cream icy?",
+        "answer": "Icy texture often results from a high water content in the fruits, which forms large crystals when frozen. If the mixture is not stirred sufficiently during freezing, the components separate, and the ice cream becomes hard. To prevent this, more fat (cream) or sugar should be used, as these positively influence the freezing process."
+      },
+      {
+        "question": "Is strawberry ice cream healthy?",
+        "answer": "Strawberry ice cream contains valuable vitamins and antioxidants from the fruits, but due to its high sugar content, it is more of a treat than a healthy food. If you make it yourself from pure fruit without added sugar, it is a lighter alternative to chocolate ice cream. Enjoyed in moderation, however, it fits into a balanced diet."
+      },
+      {
+        "question": "What is in strawberry ice cream?",
+        "answer": "Typically, strawberry ice cream contains pureed strawberries, sugar, binders, and a base of dairy products or water. In industrial production, beetroot juice for coloring and natural flavorings are often found on the ingredient list. A high fruit content of at least 20 percent is a sign of good quality."
+      },
+      {
+        "question": "How long does homemade strawberry ice cream last?",
+        "answer": "Homemade ice cream without preservatives should ideally be consumed within one to two weeks. Since it often becomes very hard in a household freezer, the texture noticeably suffers with longer storage. In addition, ice crystals can form on the surface after some time, which impairs the taste experience."
+      },
+      {
+        "question": "What is Stracciatella ice cream?",
+        "answer": "Stracciatella ice cream is a popular variety consisting of a mild milk ice cream base with fine, crunchy chocolate pieces. The chocolate is traditionally poured liquid into the churning ice cream, causing it to solidify immediately and break into small shards. It is one of the best-selling ice cream varieties in Italian gelaterias worldwide."
+      },
+      {
+        "question": "Why is Stracciatella ice cream called that?",
+        "answer": "The name is derived from the Italian verb \"stracciare,\" which means \"to tear\" or \"to shred.\" This refers to the chocolate, which is torn into irregular pieces when stirred into the cold mixture. Originally, the name comes from a Roman soup with egg, which has a similar appearance."
+      },
+      {
+        "question": "What is the base of Stracciatella ice cream?",
+        "answer": "The base is a classic \"Fior di Latte\" ice cream, a very pure milk ice cream without vanilla flavor. It consists mainly of whole milk, cream, and sugar to emphasize the inherent taste of the milk. Only with the addition of dark chocolate does it acquire its characteristic character."
+      },
+      {
+        "question": "What is in Stracciatella ice cream?",
+        "answer": "Besides the basic mixture of milk, cream, and sugar, the chocolate chips are the most important component. In some recipes, a hint of vanilla is also added, although the original remains rather puristic. A couverture with a high cocoa content is usually used for the chocolate so that it remains nicely crunchy in the cold ice cream."
+      },
+      {
+        "question": "What is Italian Stracciatella ice cream?",
+        "answer": "Authentic Italian Stracciatella ice cream is characterized by the use of particularly fresh milk and high-quality dark chocolate. It was invented in Bergamo in the 1960s and has since established itself as an absolute classic. The secret lies in the balance between the creamy sweetness of the milk and the tart note of the chocolate."
+      },
+      {
+        "question": "What exactly is Stracciatella ice cream?",
+        "answer": "Stracciatella is a composition of white milk ice cream and dark chocolate pieces. It is essentially the Italian counterpart to American \"Chocolate Chip Ice Cream,\" but often appears more elegant due to the fine shards. It is the perfect variety for anyone who wants to combine the pure milk taste with a bit of crunch."
+      },
+      {
+        "question": "Why is it called Stracciatella ice cream?",
+        "answer": "It bears this name because the chocolate is literally torn into small shreds during production. This process gives the ice cream its unique texture, with each spoonful containing chocolate pieces of different sizes. It is a tribute to the artisanal craft of ice cream making."
+      },
+      {
+        "question": "How does Stracciatella ice cream taste?",
+        "answer": "Stracciatella tastes pleasantly mild of fresh cream and milk, combined with the tart accents of dark chocolate. As the chocolate melts in the mouth, a great interplay of textures is created. It is less sweet than many other varieties and therefore seems very timeless and refreshing."
+      },
+      {
+        "question": "What alcohol is in Stracciatella ice cream?",
+        "answer": "Classic stracciatella ice cream usually contains no alcohol at all. However, some manufacturers use tiny amounts of alcohol in the chocolate sauce to make it smoother, or add flavorings. If you want to be sure, ask at the ice cream parlor if the flavor is alcohol-free."
+      },
+      {
+        "question": "How can I make vanilla ice cream myself?",
+        "answer": "For a classic vanilla ice cream, you need milk, cream, egg yolks, sugar, and a real vanilla bean. The mixture is gently heated to extract the aroma and, after cooling, frozen in an ice cream maker. Alternatively, for a quick version, you can use sweetened condensed milk and whipped cream."
+      },
+      {
+        "question": "Which is the best vanilla ice cream?",
+        "answer": "The best vanilla ice cream is characterized by the use of real Bourbon vanilla and a high cream content. In tests, brands that do without artificial flavors and contain visible black vanilla specks often score well. Ultimately, it's a matter of taste whether you prefer the rather airy industrial product or the rich, artisanal ice cream."
+      },
+      {
+        "question": "What is the best vanilla ice cream?",
+        "answer": "Many experts consider homemade gelato with vanilla from Madagascar to be the ultimate. It should have a creamy consistency and not be too sweet, so that the complex aromas of the vanilla come into their own. If you buy in the supermarket, you should look for the designation \"ice cream\" and real vanilla extracts."
+      },
+      {
+        "question": "How long does homemade vanilla ice cream last?",
+        "answer": "Due to fresh ingredients like egg yolk and cream, it should be consumed within two weeks. Since home freezers don't offer constant blast freezing, the ice cream often becomes very hard and crystalline over time. To enjoy the best taste, it's recommended to consume it soon after preparation."
+      },
+      {
+        "question": "How healthy is vanilla ice cream?",
+        "answer": "While vanilla ice cream provides calcium from milk, it also contains a lot of fat and sugar, making it a calorie bomb. It's a classic dessert for enjoyment and shouldn't serve as a staple food. Nevertheless, it's often \"more natural\" than colorful ice cream varieties with many colorings."
+      },
+      {
+        "question": "What is in Mochi dough?",
+        "answer": "Mochi dough consists of steamed glutinous rice flour (Mochigome), water, and sugar. The mixture is kneaded and beaten until it achieves an extremely elastic and sticky consistency. For Mochi ice cream, this dough is wrapped in thin layers around an ice cream core."
+      },
+      {
+        "question": "How do you eat Mochi ice cream correctly?",
+        "answer": "You should let Mochi ice cream thaw for about two to three minutes after taking it out of the freezer. This makes the rice dough wrapper soft and elastic again, while the ice cream in the core remains firm. Then you can simply pop it into your mouth with your fingers and enjoy the special texture."
+      }
+    ]
+  },
+  {
+    "group_name": "Special Ice Cream Flavors and Brands",
+    "faqs": [
+      {
+        "question": "Is Malaga ice cream suitable for children?",
+        "answer": "Malaga ice cream is generally not suitable for children, as the traditional recipe contains raisins soaked in rum. Even if the alcohol content per scoop seems low, the taste and effect are inappropriate for minors. Parents should instead opt for alcohol-free varieties such as vanilla or fruit ice cream."
+      },
+      {
+        "question": "Is Malaga ice cream suitable for children?",
+        "answer": "Due to the raisins soaked in wine or rum, Malaga ice cream is a typical adult ice cream. The alcohol is an integral part of the flavor profile and is not cooked out. At the ice cream parlor, one should therefore be careful with children and, if in doubt, ask if an alcohol-free variant exists."
+      },
+      {
+        "question": "What is special about Danish soft serve ice cream?",
+        "answer": "Danish soft serve ice cream is known for its extremely high cream content and its particularly creamy, almost fatty texture. It is often decorated with various sprinkles or colorful licorice powder, which is typical for the North. Another highlight is the often huge portion size, which has a tradition in Denmark."
+      },
+      {
+        "question": "What is special about GDR soft serve ice cream?",
+        "answer": "GDR soft serve ice cream is often described as a nostalgic taste experience, based on a special recipe with a lot of milk powder. It was less creamy than Western variants, but had its own unique, firm yet creamy consistency. The machines from that era produced a very fine aeration that still has many fans today."
+      },
+      {
+        "question": "Why no soft serve ice cream?",
+        "answer": "Some people avoid soft serve ice cream due to hygiene concerns, as the machines can be susceptible to bacteria like salmonella if not cleaned properly. Additionally, it often contains more additives and air than artisanal scooped ice cream to maintain its soft form. Those with sensitive stomachs often prefer classic, colder stored ice cream."
+      },
+      {
+        "question": "Who is the manufacturer of Kinder Bueno ice cream?",
+        "answer": "Kinder Bueno ice cream is produced in a cooperation between the confectionery manufacturer Ferrero and the ice cream group Unilever (Langnese). Ferrero provides the recipe and brand rights, while Unilever contributes its expertise in ice cream production and logistics. It is part of a whole range of ice cream varieties based on well-known chocolate bars."
+      },
+      {
+        "question": "Who makes Kinder Bueno ice cream?",
+        "answer": "This popular ice cream is manufactured by Unilever under the well-known Langnese brand. The recipe was developed to preserve the typical hazelnut flavor and the crunchy component of the bar even in frozen form. It is now available in almost every well-stocked supermarket in the freezer section."
+      },
+      {
+        "question": "How many calories does a Kinder Bueno ice cream have?",
+        "answer": "A classic Kinder Bueno ice cream bar has about 200 to 250 calories per piece, depending on the exact variant. Since it contains a lot of sugar, fat, and chocolate, it is a rich treat. For a conscious diet, it should be considered an occasional reward."
+      },
+      {
+        "question": "Which brand is behind Aldi ice cream?",
+        "answer": "Behind Aldi's private label ice creams like \"Mucci\" are often well-known large producers such as Rosen Eiskrem GmbH. These manufacturers produce exclusively for discounters under their label, but often use similar facilities as for their branded goods. This way, customers get solid quality at a significantly lower price."
+      },
+      {
+        "question": "Which discounter has the best vanilla ice cream?",
+        "answer": "In many independent tests by organizations like Stiftung Warentest, Lidl's (Gelatelli) and Aldi's (Mucci) private labels regularly perform very well. They often even surpass more expensive brand products in taste. Ultimately, personal preferences decide whether one prefers the airy or the firmer variety."
+      },
+      {
+        "question": "How much does vanilla ice cream cost at Lidl?",
+        "answer": "The price for a family pack of vanilla ice cream at Lidl is usually between €1.50 and €3.00, depending on the pack size and quality level. The premium variants in tubs are slightly more expensive than the simple 1-liter boxes. However, prices may vary slightly seasonally and regionally."
+      },
+      {
+        "question": "Why is there no more Langnese ice cream?",
+        "answer": "This is a misunderstanding, as Langnese ice cream is still available almost everywhere in Germany. However, it is possible that individual varieties have been removed from the assortment or certain kiosks have changed brands. Langnese, as part of the Unilever group, remains one of the largest ice cream producers worldwide."
+      },
+      {
+        "question": "What kind of brand is Icecream?",
+        "answer": "In the fashion world, \"Icecream\" is a well-known streetwear brand founded by Pharrell Williams and Nigo. It is closely linked to the \"Billionaire Boys Club\" label and often uses colorful, playful graphics reminiscent of ice cream. When it comes to food, \"Ice Cream\" is simply the English term for ice cream."
+      },
+      {
+        "question": "Where is BBC Icecream located?",
+        "answer": "The flagship stores of Billionaire Boys Club and Icecream are located in global cities such as New York, Tokyo, and London. In Germany, the brand's products are more likely to be available through exclusive streetwear boutiques or online shops. This is about fashion and not a classic ice cream parlor."
+      },
+      {
+        "question": "Who is behind Gelato?",
+        "answer": "Behind the term Gelato is not a single company, but a centuries-old Italian craft tradition. Thousands of small family businesses worldwide produce their own Gelato according to individual recipes. However, there are large associations that protect the quality and traditional production methods of authentic Italian Gelato."
+      }
+    ]
+  },
+  {
+    "group_name": "Ice Cream Parlors and Economy",
+    "faqs": [
+      {
+        "question": "How much does an ice cream parlor earn per day?",
+        "answer": "The earnings of an ice cream parlor fluctuate extremely and depend heavily on the weather and location. On a sunny summer day, sales can be in the four-digit range, while on rainy days hardly any customers come. After deducting all costs for rent, staff, and raw materials, a profit remains at the end, which must be calculated over the entire year."
+      },
+      {
+        "question": "How much revenue does an ice cream parlor generate per day?",
+        "answer": "A good ice cream parlor in a pedestrian zone can generate between €1,000 and €3,000 in revenue on peak days. In the off-season or in bad weather, this amount often drops to a minimum. The annual revenue is usually spread over only six to seven profitable months."
+      },
+      {
+        "question": "Can you make money with soft serve ice cream?",
+        "answer": "Yes, soft serve ice cream is considered very profitable because the cost of goods is low and the air overrun is very high. You need less staff than for a classic ice cream counter, and cleaning modern machines has become more efficient. However, the acquisition costs for a good machine are quite high, which only pays off with sufficient throughput."
+      },
+      {
+        "question": "How much does a scoop of ice cream cost at an ice cream parlor?",
+        "answer": "In German cities, the price for a scoop of ice cream is now usually between €1.50 and €2.20. In tourist centers or for premium varieties, prices up to €3.00 per scoop can also be charged. The increased costs for energy, rent, and high-quality ingredients have significantly driven up prices in recent years."
+      },
+      {
+        "question": "How much does a scoop of ice cream cost at Venezia?",
+        "answer": "Ice cream parlors named \"Venezia\" exist in almost every city, as it is a very common name, so prices vary. On average, you pay the local prices between €1.60 and €2.00 there. Since many Venezia ice cream parlors are family-run, the costs depend heavily on the respective location."
+      },
+      {
+        "question": "How much does a scoop of ice cream cost at Venezia?",
+        "answer": "Prices depend heavily on whether the branch is located in a small town or a metropolis. Mostly, the price is in the fair mid-range of regional gastronomy. For exact information, one should look directly at the price list on site, as these can be adjusted annually."
+      },
+      {
+        "question": "Where is Germany's largest ice cream parlor?",
+        "answer": "The \"Venezia\" ice cream parlor in Wolfsburg is often cited as one of the largest in Germany, due to its enormous seating capacity and huge selection. However, there is always competition for this title, as huge ice cream parlors also exist in cities like Berlin or Munich. The number of scoops sold or the area of the guest room is usually the decisive factor here."
+      },
+      {
+        "question": "Where is the best ice cream parlor in Germany?",
+        "answer": "This is subjective, but rankings often feature names like \"Der verrückte Eismacher\" in Munich or \"Hokey Pokey\" in Berlin. Traditional shops like \"Eis-Henke\" in Kirchdorf also have a loyal fan base. Many awards are based on the creativity of the flavors and the quality of the artisanal production."
+      },
+      {
+        "question": "What is the best ice cream parlor in the whole world?",
+        "answer": "The \"Gelateria Dondoli\" in San Gimignano (Italy) is regularly recognized as one of the best worldwide, as its owner is a multiple world champion ice cream maker. \"Vivoli\" in Florence also has a legendary reputation for traditional gelato. Ultimately, there are thousands of excellent artisanal businesses worldwide that work at the highest level."
+      },
+      {
+        "question": "What is the name of the best ice cream parlor in the world?",
+        "answer": "There is no official, permanent title, but \"Gelateria Dondoli\" is often referred to as the world champion ice cream parlor. In Argentina, the \"Freddo\" chain is also world-famous for its Dulce de Leche ice cream. The choice always depends on the style you prefer – whether Italian, American, or modern-experimental."
+      },
+      {
+        "question": "Where is Terence Hill's ice cream parlor located?",
+        "answer": "Terence Hill's ice cream parlor, named \"Gelateria Girotti,\" is located in Amelia, a small town in the Italian region of Umbria. It is a family business that goes back to the tradition of his grandfather. Fans of the actor can try flavors named after his films there."
+      },
+      {
+        "question": "Who owns Gelateria di Berna?",
+        "answer": "Gelateria di Berna was founded by the three brothers Hansmartin, David, and Michael Amrein. The company started in Bern and has since developed into a very successful chain with branches in several Swiss cities and even in Berlin. They are known for their urban flair and the high quality of their gelato."
+      },
+      {
+        "question": "Where is gelato ice cream made?",
+        "answer": "Real gelato is ideally produced fresh daily directly in the laboratory (kitchen) of the respective ice cream parlor. In contrast to industrial ice cream, which is produced in large factories and shipped frozen, gelato has short distances. This freshness is crucial for the creamy texture and intense taste."
+      },
+      {
+        "question": "Where does gelato come from?",
+        "answer": "Gelato has its roots in Renaissance Italy, with Florence often cited as the birthplace of modern ice cream. Celebrities like Bernardo Buontalenti are said to have developed the first recipes for the nobility. From Italy, the art of ice cream making then spread throughout the world."
+      },
+      {
+        "question": "Why is the ice cream parlor called that?",
+        "answer": "Many ice cream parlors bear Italian names like \"Venezia\", \"Dolomiti\" or \"Rialto\" to establish a connection to the home of gelato. This serves as a marketing tool to signal quality and authenticity. Often, however, owners simply name their shops after their place of origin or their family name."
+      }
+    ]
+  },
+  {
+    "group_name": "Ice Cream for Children and Health",
+    "faqs": [
+      {
+        "question": "Which ice cream is best for children?",
+        "answer": "Classic flavors like vanilla, strawberry, or chocolate are best for children, as they usually don't contain chunks or complicated flavors. Sorbets are also a good choice, as they often contain less fat and no lactose. Most importantly, the ice cream should be free of caffeine (coffee ice cream) and alcohol."
+      },
+      {
+        "question": "Which ice cream is suitable for children?",
+        "answer": "Flavors without artificial colors and flavors are best, ideally handmade milk ice cream or fruit sorbet. Parents should ensure that the scoops are not too large to avoid stomach aches from the cold. Milk ice cream also provides some calcium, which is beneficial for growth."
+      },
+      {
+        "question": "When to give ice cream to children?",
+        "answer": "Most experts recommend waiting until the first birthday to introduce ice cream, as the digestive system is still very sensitive before then. In addition, ice cream contains a lot of sugar that babies don't need yet. A small spoon for tasting is usually harmless from the complementary feeding age, but should remain an exception."
+      },
+      {
+        "question": "When can children eat ice cream?",
+        "answer": "From about 12 months, children can eat small amounts of ice cream, provided there are no allergies to milk protein. Care should be taken that they do not eat too quickly to avoid the so-called \"brain freeze\". Ideally, a variety with low sugar and a high fruit content should be chosen."
+      },
+      {
+        "question": "Is soft serve healthier than regular ice cream?",
+        "answer": "Soft serve is not inherently healthier, as it often contains less fat than cream ice cream, but usually more sugar and air. The calorie count per serving may be lower because you eat less mass. However, with soft serve, particular attention should be paid to hygienic conditions to minimize health risks."
+      },
+      {
+        "question": "What are the 7 most popular ice cream toppings?",
+        "answer": "Classics include chocolate sauce, colorful sprinkles, and fresh whipped cream. Also very popular are brittle, chopped nuts, fresh fruits like strawberries, and small marshmallows or cookie pieces. These toppings add extra texture to the ice cream and make the sundae visually more appealing."
+      }
+    ]
+  }
+]

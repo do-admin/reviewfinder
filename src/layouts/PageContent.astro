@@ -1,0 +1,99 @@
+---
+import { Header } from '@/components/Header';
+import { Footer } from '@/components/Footer';
+import { Hero } from '@/components/Hero';
+import { Info } from '@/components/Info';
+import { Gallery } from '@/components/Gallery';
+import { Team } from '@/components/Team';
+import { GoogleReviews } from '@/components/GoogleReviews';
+import { MapSection } from '@/components/Map';
+import { Contact } from '@/components/Contact';
+import { FAQ } from '@/components/FAQ';
+import { TrustBlock } from '@/components/TrustBlock';
+import type { ResolvedPageData, SrcPathFn } from '@/types/page';
+import { DEFAULT_LANGUAGE } from '@/lib/language';
+import type { SrcPathInfo } from '@/lib/src-path';
+import { buildHeaderStrings, buildGalleryStrings } from '@/lib/client-island-strings';
+
+export type { SrcPathFn };
+
+interface Props {
+  pageData: ResolvedPageData;
+  srcPath?: SrcPathFn;
+  srcPathInfo?: SrcPathInfo;
+}
+
+const { pageData, srcPath, srcPathInfo } = Astro.props;
+const language = pageData.language || DEFAULT_LANGUAGE;
+
+const visible = (id: keyof typeof pageData.sectionVisibility) =>
+  pageData.sectionVisibility?.[id] === true;
+
+const galleryPageData = {
+  id: pageData.id,
+  language,
+  business: { name: pageData.business.name },
+  gallery: pageData.gallery,
+} as unknown as ResolvedPageData;
+
+const headerPageData = {
+  id: pageData.id,
+  language,
+  business: pageData.business,
+  header: pageData.header,
+  hero: pageData.hero,
+} as unknown as ResolvedPageData;
+
+const headerStrings = buildHeaderStrings(headerPageData);
+const galleryStrings = buildGalleryStrings(galleryPageData);
+---
+
+<div class="min-h-screen bg-background">
+  <Header
+    client:load
+    pageData={headerPageData}
+    language={language}
+    strings={headerStrings}
+    srcPathInfo={srcPathInfo}
+  />
+  {visible('hero') && (
+    <Hero
+      pageData={pageData}
+      language={language}
+      srcPath={srcPath}
+    />
+  )}
+  {visible('info') && <Info pageData={pageData} language={language} srcPath={srcPath} />}
+  {visible('gallery') && (
+    <Gallery
+      client:visible
+      pageData={galleryPageData}
+      language={language}
+      strings={galleryStrings}
+      srcPathInfo={srcPathInfo}
+    />
+  )}
+  {visible('team') && <Team pageData={pageData} language={language} srcPath={srcPath} />}
+  {visible('reviews') && (
+    <GoogleReviews
+      client:visible
+      pageData={pageData}
+      language={language}
+      srcPathInfo={srcPathInfo}
+    />
+  )}
+  {visible('map') && (
+    <MapSection
+      pageData={pageData}
+      isSeparatePage={false}
+      language={language}
+      srcPath={srcPath}
+    />
+  )}
+  {visible('contact') && <Contact pageData={pageData} language={language} srcPath={srcPath} />}
+  {visible('trust') && <TrustBlock pageData={pageData} language={language} />}
+  {visible('faq') && (
+    <FAQ pageData={pageData} srcPath={srcPath} />
+  )}
+  <Footer pageData={pageData} language={language} srcPath={srcPath} />
+</div>
