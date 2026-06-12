@@ -1,0 +1,284 @@
+```
+# Webseite: Nicezeit
+## Zuletzt aktualisiert: 23.05.2024
+
+## Überblick über die Webseite
+Nicezeit bietet handgemachtes Premiumeis aus 100 % natürlichen Zutaten in Hannover an. Die Webseite konzentriert sich auf die Vermietung von Eiswagen für Events und den mobilen Eisverkauf.
+
+Die Mission von Nicezeit ist es, Eisliebhabern in Hannover und Umgebung ein einzigartiges Geschmackserlebnis zu bieten. Dies geschieht durch handwerkliche Herstellung und den Einsatz hochwertiger, natürlicher Zutaten.
+
+Die Zielgruppe umfasst Privatpersonen, Unternehmen und Eventplaner, die einen besonderen kulinarischen Höhepunkt für ihre Veranstaltungen suchen. Auch Familien und Ernährungsbewusste, insbesondere Veganer, werden angesprochen.
+
+## Wichtigste Entitäten
+
+### ENTITY: Nicezeit
+**TYPE**: Organisation
+**DESCRIPTION**: Nicezeit ist eine moderne Eismanufaktur aus Hannover, die sich auf handgemachtes Premiumeis spezialisiert hat. Das Unternehmen bietet sowohl mobilen Eisverkauf mit nostalgischen Eiswagen als auch die Vermietung dieser Wagen für private und geschäftliche Events an. Nicezeit legt Wert auf 100 % natürliche Zutaten und transparente Produktion.
+**RELATIONSHIPS**: Bietet Eiswagen-Vermietung, mobilen Eisverkauf, arbeitet mit lokalen Partnern wie Bauer Banse und Machwitz Kaffee zusammen.
+**CONTEXT**: Die zentrale Unternehmensentität der gesamten Webseite.
+
+### ENTITY: Eiswagen (Ice Cream Truck)
+**TYPE**: Dienstleistung
+**DESCRIPTION**: Ein Eiswagen ist ein mobiles Fahrzeug, das mit einer Kühlvitrine ausgestattet ist und für den Verkauf von Eiscreme genutzt wird. Nicezeit bietet nostalgische Eiswagen für Events und den Straßenverkauf in Hannover an. Die Wagen sind optisch ansprechend gestaltet und mit professionellem Personal besetzt.
+**RELATIONSHIPS**: Wird für Events gebucht, fährt feste Routen im Straßenverkauf, benötigt Stromanschluss.
+**CONTEXT**: Kernprodukt und Dienstleistung von Nicezeit.
+
+### ENTITY: Eiswagen-Vermietung (Ice Cream Truck Rental)
+**TYPE**: Dienstleistung
+**DESCRIPTION**: Nicezeit vermietet seine Eiswagen für Hochzeiten, Firmenfeiern, Geburtstage und andere Events in Hannover und Umgebung. Die Vermietung umfasst die Bereitstellung des Wagens, Eis und professionelles Servicepersonal. Kunden können individuelle Eissorten kreieren und den Wagen branden lassen.
+**RELATIONSHIPS**: Beinhaltet Personal, Eis, optionale Toppings, individuelle Eissorten, Branding.
+**CONTEXT**: Eine der Hauptdienstleistungen, detailliert in der FAQ beschrieben.
+
+### ENTITY: Handgemachtes Premiumeis (Handmade Premium Ice Cream)
+**TYPE**: Konzept
+**DESCRIPTION**: Handgemachtes Premiumeis bei Nicezeit bedeutet die Herstellung von Eiscreme in kleinen Chargen mit traditionellen Methoden. Es werden ausschließlich 100 % natürliche Zutaten verwendet, ohne künstliche Aromen, Farb- oder Konservierungsstoffe. Der Fokus liegt auf hoher Qualität und intensivem Geschmack.
+**RELATIONSHIPS**: Basis des gesamten Sortiments, unterscheidet sich von industrieller Massenware.
+**CONTEXT**: Kernphilosophie und Qualitätsversprechen von Nicezeit.
+
+### ENTITY: Veganes Eis (Vegan Ice Cream)
+**TYPE**: Produktkategorie
+**DESCRIPTION**: Veganes Eis von Nicezeit wird auf pflanzlicher Basis hergestellt, typischerweise als Fruchtsorbets oder als cremige Alternativen auf Hafer- oder Mandelbasis. Es ist laktosefrei und richtet sich an Kunden mit entsprechenden Ernährungspräferenzen oder Allergien. Nicezeit bietet stets eine Auswahl an veganen Sorten an.
+**RELATIONSHIPS**: Teil des Sortiments, laktosefrei, auf pflanzlicher Basis.
+**CONTEXT**: Wichtiger Bestandteil des Nicezeit-Angebots, besonders für eine wachsende Zielgruppe.
+
+### ENTITY: Natürliche Zutaten (Natural Ingredients)
+**TYPE**: Konzept
+**DESCRIPTION**: Nicezeit verwendet ausschließlich 100 % natürliche Zutaten für die Eisproduktion. Dies schließt den Verzicht auf künstliche Aromen, Farbstoffe und Konservierungsmittel ein. Die Qualität der Rohstoffe, wie regionale Milch und frische Früchte, steht im Vordergrund.
+**RELATIONSHIPS**: Qualitätsmerkmal, Abgrenzung zu industrieller Produktion, Zusammenarbeit mit Partnern wie gourmego.
+**CONTEXT**: Fundament der Markenphilosophie und des Geschmacksversprechens.
+
+### ENTITY: Gläserne Manufaktur (Transparent Production)
+**TYPE**: Ort / Konzept
+**DESCRIPTION**: Die gläserne Manufaktur bei Nicezeit ermöglicht Kunden, die Eisproduktion live zu beobachten. Durch ein Fenster zum Eislabor erhalten Besucher Einblicke in den Herstellungsprozess. Dies unterstreicht die Transparenz und das handwerkliche Können von Nicezeit.
+**RELATIONSHIPS**: Zeigt Transparenz, fördert Vertrauen, Erlebnis für Kunden.
+**CONTEXT**: Einzigartiges Alleinstellungsmerkmal und Vertrauenssignal.
+
+### ENTITY: Hannover (City of Hannover)
+**TYPE**: Ort
+**DESCRIPTION**: Hannover ist die Landeshauptstadt Niedersachsens und der primäre Wirkungsbereich von Nicezeit. Das Unternehmen ist tief in der lokalen Gemeinschaft verwurzelt und bedient Kunden in verschiedenen Stadtteilen wie Linden, List und Südstadt.
+**RELATIONSHIPS**: Primärer Markt, Standort der Manufaktur, Bezug zu lokalen Partnern.
+**CONTEXT**: Geografischer Fokus der Geschäftstätigkeit.
+
+### ENTITY: Linden (Linden District)
+**TYPE**: Ort
+**DESCRIPTION**: Linden ist ein Stadtteil von Hannover, in dem Nicezeit seine Manufaktur betreibt und einen starken lokalen Bezug hat. Der Schmuckplatz in Linden wird als wichtiger Standort für die gläserne Manufaktur genannt.
+**RELATIONSHIPS**: Standort der Manufaktur, wichtiger Verkaufsort.
+**CONTEXT**: Spezifischer Standort innerhalb Hannovers.
+
+### ENTITY: Hannover 96
+**TYPE**: Organisation
+**DESCRIPTION**: Hannover 96 ist ein bekannter Fußballverein und ein Aushängeschild der Landeshauptstadt Hannover. Nicezeit erwähnt die Unterstützung lokaler Initiativen und die Förderung des Miteinanders in Linden durch den Verein.
+**RELATIONSHIPS**: Lokaler Partner, Sportverein.
+**CONTEXT**: Genannt als Partner/Vertrauenssignal.
+
+### ENTITY: gourmego
+**TYPE**: Organisation
+**DESCRIPTION**: gourmego ist ein Spezialist für natürliche Eisrohstoffe, die ohne Aromen und Farbstoffe auskommen. Sie liefern NAPURESS® Qualität an Eismanufakturen und Eiscafés in Europa.
+**RELATIONSHIPS**: Lieferant für natürliche Eisrohstoffe.
+**CONTEXT**: Genannt als Partner/Vertrauenssignal für Qualität der Zutaten.
+
+### ENTITY: Bauer Banse
+**TYPE**: Organisation
+**DESCRIPTION**: Bauer Banse ist ein Hofladen und Anbieter auf Wochenmärkten, der frische Landprodukte aus Kakerbeck nach Hannover bringt. Sie sind auf Märkten in Linden und der Lister Meile präsent.
+**RELATIONSHIPS**: Lieferant für regionale Produkte.
+**CONTEXT**: Genannt als Partner/Vertrauenssignal für regionale Zutaten.
+
+### ENTITY: Backring Nord
+**TYPE**: Organisation
+**DESCRIPTION**: Backring Nord ist das größte private Fachgroßhandelsunternehmen für Eiscafés und Bäckereien in Deutschland. Sie stehen für Qualität, Beratung und zuverlässige Lieferung.
+**RELATIONSHIPS**: Fachgroßhändler für Eis- und Bäckereibedarf.
+**CONTEXT**: Genannt als Partner/Vertrauenssignal.
+
+### ENTITY: Leibniz
+**TYPE**: Organisation
+**DESCRIPTION**: Bahlsen Leibniz ist ein bekannter Kekshersteller aus Hannover, bekannt für den Original Leibniz Keks mit 52 Zähnen. Ihre Produkte werden als ideale Beilage zu Eisbechern oder Kaffee genannt.
+**RELATIONSHIPS**: Lokaler Partner, Kekshersteller.
+**CONTEXT**: Genannt als Partner/Vertrauenssignal, Beispiel für kreative Kooperationen.
+
+### ENTITY: Machwitz Kaffee
+**TYPE**: Organisation
+**DESCRIPTION**: Machwitz Kaffee ist eine in Niedersachsen ausgezeichnete Rösterei, die seit 1883 Handwerkskunst und fairen Direkthandel für außergewöhnlichen Kaffeegenuss verbindet.
+**RELATIONSHIPS**: Lokaler Partner, Kaffeerösterei.
+**CONTEXT**: Genannt als Partner/Vertrauenssignal, für einzigartiges Kaffee-Eis.
+
+### ENTITY: Waffelfabrik
+**TYPE**: Organisation
+**DESCRIPTION**: Die Waffelfabrik stellt professionelle Eiswaffeln für Eiscafés und Manufakturen her. Sie fertigt Eistüten und Waffelbecher in konsistenter Qualität für den Eis-Fachhandel.
+**RELATIONSHIPS**: Lieferant für Eiswaffeln.
+**CONTEXT**: Genannt als Partner/Vertrauenssignal.
+
+### ENTITY: Saisonale Öffnungszeiten (Seasonal Opening Hours)
+**TYPE**: Konzept
+**DESCRIPTION**: Nicezeit hat saisonale Öffnungszeiten, was bedeutet, dass der klassische Straßenverkauf in den kalten Monaten pausiert. Für Winter-Events oder Firmenfeiern kann der Eiswagen jedoch weiterhin gebucht werden.
+**RELATIONSHIPS**: Betrifft die Verfügbarkeit des mobilen Eisverkaufs, nicht die Eventbuchungen.
+**CONTEXT**: Wichtige Information für Kunden bezüglich der Verfügbarkeit.
+
+### ENTITY: Mindestbestellwert (Minimum Order Value)
+**TYPE**: Konzept
+**DESCRIPTION**: Der Mindestbestellwert ist ein finanzieller Schwellenwert, der bei kleineren Gruppen oder bestimmten Buchungen erreicht werden muss. Er stellt sicher, dass der Aufwand für die Bereitstellung des Eiswagens wirtschaftlich ist.
+**RELATIONSHIPS**: Beeinflusst die Kosten pro Kopf bei kleineren Veranstaltungen.
+**CONTEXT**: Relevant für die Buchung des Eiswagens für kleinere Gesellschaften.
+
+### ENTITY: HACCP-Richtlinien (HACCP Guidelines)
+**TYPE**: Dokument / Konzept
+**DESCRIPTION**: HACCP steht für Hazard Analysis and Critical Control Points und bezeichnet ein System zur Gewährleistung der Lebensmittelsicherheit. Nicezeit arbeitet streng nach diesen gesetzlichen Richtlinien, um höchste Hygiene- und Qualitätsstandards zu gewährleisten.
+**RELATIONSHIPS**: Gesetzliche Vorgabe, betrifft Hygiene und Lebensmittelsicherheit.
+**CONTEXT**: Vertrauenssignal für Hygiene und Qualität.
+
+### ENTITY: Glutenfreies Eis (Gluten-Free Ice Cream)
+**TYPE**: Produktkategorie
+**DESCRIPTION**: Glutenfreies Eis bei Nicezeit bedeutet, dass die meisten Eissorten von Natur aus kein Gluten enthalten. Auf Wunsch können separate Portionierer und Handschuhe verwendet werden, um Kreuzkontaminationen zu vermeiden. Glutenfreie Eiswaffeln sind nach Absprache verfügbar.
+**RELATIONSHIPS**: Teil des Sortiments, für Allergiker relevant.
+**CONTEXT**: Wichtige Information für Kunden mit Glutenunverträglichkeiten.
+
+## Seitenstruktur
+Die Webseite konzentriert sich auf die Vorstellung des Eiswagen-Services und die Beantwortung häufiger Fragen. Es gibt eine Startseite, die einen Überblick über das Angebot gibt.
+
+Die FAQ-Sektion ist umfassend und in verschiedene Kategorien wie "Buchung & Events", "Sortiment & Preise" und "Route, Logistik & Alltag" unterteilt. Dies ermöglicht eine schnelle Orientierung für spezifische Anfragen.
+
+Die Partnersektion listet die Kooperationen von Nicezeit auf und dient als Vertrauenssignal für die Qualität der verwendeten Zutaten und die lokale Verankerung.
+
+## Seiteninhalt
+
+### Startseite
+Die Startseite präsentiert Nicezeit als Anbieter von handgemachtem Premiumeis in Hannover. Der Fokus liegt auf der Eiswagen-Vermietung für Events und dem mobilen Eisverkauf.
+
+Der Hauptnutzen wird durch die Betonung von 100 % natürlichen Zutaten und die Möglichkeit, den Eiswagen für besondere Anlässe zu buchen, hervorgehoben. Die Webseite spricht direkt mit "Du" oder "Euch" die Besucher an.
+
+### Partner / Vertrauenssignale
+Nicezeit arbeitet mit verschiedenen Partnern zusammen, um die Qualität und den lokalen Bezug zu unterstreichen. Dazu gehören Hannover 96, gourmego, Bauer Banse, Backring Nord, Leibniz, Machwitz Kaffee und die Waffelfabrik.
+
+Jeder Partner wird kurz vorgestellt, um seine Relevanz für die Werte von Nicezeit zu verdeutlichen. Dies reicht von der Unterstützung lokaler Initiativen bis zur Lieferung hochwertiger Rohstoffe.
+
+## FAQ-Inhalte
+
+### Buchung & Events
+
+FRAGE: Was kostet es, einen Eiswagen für ein Event in Hannover zu mieten?
+ANTWORT: Die Kosten für die Miete eines Eiswagens in Hannover hängen stark von der Dauer des Events und der Anzahl der Gäste ab. Es gibt eine Grundgebühr für Anfahrt und Bereitstellung, zuzüglich Kosten für verzehrtes Eis oder Pauschalen. Für ein individuelles Angebot ist eine direkte Anfrage mit den Eckdaten empfehlenswert.
+
+FRAGE: Wie kann ich einen Eiswagen für eine Hochzeit oder Feier buchen?
+ANTWORT: Die Buchung erfolgt einfach über das Online-Kontaktformular oder per E-Mail. Nach Prüfung des Wunschtermins meldet sich Nicezeit mit einem konkreten Angebot zurück.
+
+FRAGE: Kann man den Eiswagen auch kurzfristig für eine Firmenfeier in Hannover bestellen?
+ANTWORT: Spontane Anfragen sind möglich, sofern Kapazitäten frei sind. In den Sommermonaten sind die Wagen schnell ausgebucht, daher ist ein Anruf der schnellste Weg zur Klärung der Verfügbarkeit.
+
+FRAGE: Was passiert bei schlechtem Wetter mit der Buchung?
+ANTWORT: Nicezeit bietet faire Stornierungsbedingungen an. Eine Buchung kann in der Regel bis zu 48 Stunden vorher kostenfrei verschoben werden, falls das Wetter schlecht ist.
+
+FRAGE: Wie viel Platz benötigt der Nicezeit-Eiswagen auf meinem Privatgrundstück?
+ANTWORT: Der Eiswagen benötigt eine feste, ebenerdige Standfläche von etwa drei mal zwei Metern. Zusätzlich ist ein normaler 230-Volt-Stromanschluss in unmittelbarer Nähe erforderlich.
+
+FRAGE: Kann man den Nicezeit-Eiswagen auch für ein Fotoshooting oder als Filmrequisite mieten?
+ANTWORT: Ja, der nostalgische Eiswagen steht auch als reine Requisite für Foto- und Filmproduktionen zur Verfügung.
+
+FRAGE: Ab wie vielen Personen lohnt es sich, den Nicezeit-Eiswagen exklusiv zu reservieren?
+ANTWORT: Eine exklusive Buchung rechnet sich meist ab etwa 50 Personen. Bei kleineren Gruppen kann der Mindestbestellwert die Kosten pro Kopf erhöhen, dennoch kommt Nicezeit auch für intimere Feiern.
+
+### Sortiment & Preise
+
+FRAGE: Was kostet eine Kugel Eis am Eiswagen?
+ANTWORT: Der Preis für eine Kugel des handgemachten Eises liegt aktuell bei 2,00 Euro.
+
+FRAGE: Welche Eissorten bietet ein mobiler Eiswagen an?
+ANTWORT: Das Sortiment wechselt regelmäßig und umfasst Klassiker wie Schokolade, Vanille und Erdbeere sowie ausgefallene Kreationen wie Salted Caramel oder Mango-Maracuja-Sorbet.
+
+FRAGE: Gibt es laktosefreies oder veganes Eis am Eiswagen?
+ANTWORT: Nicezeit bietet immer eine Auswahl an veganen Fruchtsorbets, die von Natur aus laktosefrei sind. Gelegentlich gibt es auch cremige Milcheis-Alternativen auf Hafer- oder Mandelbasis.
+
+FRAGE: Welche Eisspezialitäten bietet Nicezeit exklusiv in Hannover an?
+ANTWORT: Nicezeit hat sich auf besondere regionale Geschmackserlebnisse spezialisiert. Dazu gehören die Sorte "Herrenhäuser Traum" und ein einzigartiges Kaffee-Eis in Zusammenarbeit mit lokalen Röstereien. Saisonale Specials mit regionalen Zutaten ergänzen das Angebot.
+
+FRAGE: Kann ich bei Nicezeit eine eigene Eissorte für mein Event kreieren?
+ANTWORT: Nicezeit bietet die Entwicklung individueller Eissorten für Hochzeiten und Firmenevents an. Farben passend zum Firmenlogo oder Lieblingszutaten können kombiniert werden, um eine persönliche kulinarische Note zu schaffen.
+
+FRAGE: Kann man bei Nicezeit bargeldlos am Eiswagen bezahlen?
+ANTWORT: Ja, es ist möglich, bequem mit allen gängigen EC- und Kreditkarten sowie per Smartphone zu bezahlen. Barzahlung ist ebenfalls weiterhin möglich.
+
+### Route, Logistik & Alltag
+
+FRAGE: In welchen Stadtteilen von Hannover fährt der Eiswagen?
+ANTWORT: Nicezeit deckt nahezu das gesamte Stadtgebiet von Hannover ab, darunter List, Linden und Südstadt-Bult. Die täglichen Routen variieren, und am Wochenende konzentriert sich der Verkauf oft auf Parks und Naherholungsgebiete.
+
+FRAGE: Fährt der Nicezeit-Eiswagen auch zu Zielen im Umland wie Langenhagen oder Laatzen?
+ANTWORT: Für private Buchungen und Events fährt Nicezeit auch ins gesamte Umland der Region Hannover. Im regulären Straßenverkauf beschränkt sich der Service meist auf das direktere Stadtgebiet.
+
+FRAGE: Wann und wie oft kommen Eiswagen in Wohngebiete?
+ANTWORT: Touren durch Wohngebiete finden hauptsächlich in den Nachmittagsstunden zwischen 14 und 18 Uhr statt. Die Frequenz hängt von Jahreszeit und Wetter ab; an heißen Sommertagen werden beliebte Viertel mindestens zweimal wöchentlich angefahren.
+
+FRAGE: Wie kann man den Eiswagen in der Nähe live verfolgen?
+ANTWORT: Über die Nicezeit-App kann der aktuelle Standort des Eiswagens in Echtzeit auf einer Karte verfolgt werden. Die App zeigt auch an, wie lange der Wagen voraussichtlich am aktuellen Standort bleibt.
+
+FRAGE: Wie ruft man einen Eiswagen herbei?
+ANTWORT: Im regulären Straßenverkauf kündigt sich der Eiswagen durch eine Melodie an. Auf Zuruf oder per App-Signal hält der Wagen dann gerne direkt an.
+
+FRAGE: Welches Lied spielt der Eiswagen?
+ANTWORT: Nicezeit verwendet eine moderne Interpretation klassischer Eiswagen-Melodien, die fröhlich und nicht aufdringlich klingt. Die Musik kann an besondere Feiertage oder Aktionen angepasst werden.
+
+FRAGE: Gibt es Eiswagen auch im Winter?
+ANTWORT: Der klassische Straßenverkauf pausiert in den kalten Monaten. Für Winter-Events, Weihnachtsmärkte oder Firmenfeiern kann der Wagen jedoch weiterhin gebucht werden, oft mit heißen Waffeln und warmen Getränken.
+
+FRAGE: Wie viele Kugeln Eis schafft ein Eiswagen pro Stunde?
+ANTWORT: Ein erfahrenes Team kann in einem Nicezeit-Eiswagen problemlos bis zu 300 Kugeln Eis pro Stunde portionieren. Dies gewährleistet kurze Wartezeiten auch bei großen Events.
+
+FRAGE: Darf der Eiswagen überall stehen bleiben und verkaufen?
+ANTWORT: Nein, Nicezeit muss sich an strenge ordnungsrechtliche Vorgaben der Stadt Hannover halten. Der Verkauf an unübersichtlichen Kreuzungen oder Bushaltestellen ist meist untersagt. Auf Privatgrundstücken ist der Verkauf mit Erlaubnis des Eigentümers jederzeit möglich.
+
+FRAGE: Wie nachhaltig sind die Becher und Löffel bei Nicezeit?
+ANTWORT: Nicezeit legt Wert auf Umweltschutz und verzichtet komplett auf Plastik. Eisbecher und Löffel bestehen zu hundert Prozent aus biologisch abbaubaren Materialien. Der Verzehr in der essbaren Waffel wird geförd, da diese keinen Verpackungsmüll verursacht.
+
+### faq
+
+FRAGE: Lässt sich der Eiswagen für mein Firmenevent individuell branden?
+ANTWORT: Nicezeit bietet verschiedene Möglichkeiten zur Anpassung des Eiswagens an das Corporate Design eines Unternehmens. Von Logotafeln und gebrandeten Servietten bis zur vollflächigen Folierung des Fahrzeugs ist alles machbar. Ein individualisierter Wagen ist besonders für Messeauftritte oder Produktpräsentationen in Hannover attraktiv.
+
+FRAGE: Welche Hygiene- und Qualitätsstandards gelten am Eiswagen?
+ANTWORT: Sauberkeit und Lebensmittelsicherheit haben oberste Priorität. Das Team ist umfassend geschult, arbeitet streng nach den gesetzlichen HACCP-Richtlinien und reinigt alle Arbeitsflächen sowie Utensilien regelmäßig. Nicezeit unterliegt zudem strengen behördlichen Kontrollen durch das Gesundheitsamt Hannover.
+
+FRAGE: Wer portioniert das Eis auf meiner Veranstaltung?
+ANTWORT: Der Eiswagen kommt immer mit professionellem und freundlichem Personal zum Event. Die Mitarbeiter kümmern sich um Waffelausgabe, Portionierung und Topping-Verteilung. Ein Self-Service durch die Gäste ist aus hygienischen und logistischen Gründen nicht gestattet.
+
+FRAGE: Bietet ihr auch glutenfreies Eis und entsprechende Waffeln an?
+ANTWORT: Nahezu alle Eissorten von Nicezeit sind von Natur aus glutenfrei. Um Kreuzkontaminationen zu vermeiden, werden auf Wunsch separate Portionierer und Handschuhe verwendet. Glutenfreie Eiswaffeln können nach vorheriger Absprache für Feiern mitgebracht werden.
+
+FRAGE: Was passiert, wenn an der Eventlocation kein Stromanschluss vorhanden ist?
+ANTWORT: Nicezeit benötigt idealerweise einen Standard-Stromanschluss mit 230 Volt in unmittelbarer Nähe. Bei fehlendem Anschluss kann die Kühlung für begrenzte Zeit autark über Akkus betrieben werden. Für längere Einsätze ohne Stromnetz wird bei Bedarf ein mobiler Stromgenerator mitgebracht.
+
+FRAGE: Wie weit im Voraus sollte ich den Eiswagen für den Sommer buchen?
+ANTWORT: Für beliebte Sommer-Wochenenden wird eine frühzeitige Buchung von mindestens drei bis sechs Monaten im Voraus empfohlen.
+
+FRAGE: Gibt es neben Eiscreme auch Toppings oder Saucen am Wagen?
+ANTWORT: Nicezeit bringt auf Wunsch eine Auswahl an Toppings mit, darunter hausgemachte Karamellsoße, frische Früchte, Krokant-Streusel, Keksstückchen und Marshmallows. Spezielle Topping-Pakete für Events sind auf Anfrage erhältlich.
+
+FRAGE: Begleitet der Eiswagen auch Charity-Aktionen oder Vereinsfeste in Hannover?
+ANTWORT: Nicezeit unterstützt lokale Vereine, Schulen und wohltätige Zwecke in der Region. Für solche gemeinnützigen Anlässe werden nach individueller Absprache spezielle Konditionen angeboten.
+
+FRAGE: Welchen Stil hat der Eiswagen von Nicezeit?
+ANTWERT: Der Eiswagen von Nicezeit besticht durch einen liebevollen, nostalgischen Vintage-Look. Das charmante Retro-Design mit pastellfarbenen Akzenten und klassischer Beleuchtung macht ihn zu einem optischen Blickfang auf jedem Fest. Er dient oft als Fotomotiv und fügt sich harmonisch in verschiedene Event-Ambiente ein.
+
+FRAGE: Wie viele verschiedene Eissorten passen gleichzeitig in die Vitrine des Eiswagens?
+ANTWORT: Die Kühlvitrine des Eiswagens fasst standardmäßig acht verschiedene Eissorten gleichzeitig.
+
+## Artikel und Ratgeber
+Es sind keine spezifischen Artikel oder Ratgeber auf der Webseite vorhanden, die über die FAQ-Inhalte hinausgehen.
+
+## Dienstleistungen
+Nicezeit bietet die Vermietung von Eiswagen für Events aller Art an. Dies umfasst Hochzeiten, Firmenfeiern, Geburtstage und öffentliche Veranstaltungen in Hannover und Umgebung.
+
+Die Dienstleistung beinhaltet die Bereitstellung des nostalgischen Eiswagens, eine Auswahl an handgemachtem Premiumeis und professionelles Servicepersonal. Kunden können aus verschiedenen Paketen wählen und individuelle Wünsche äußern.
+
+Ein weiteres Leistungsmerkmal ist die Möglichkeit, eigene Eissorten für Events zu kreieren. Dies ermöglicht eine einzigartige Personalisierung des kulinarischen Angebots passend zum Anlass oder Corporate Design.
+
+Nicezeit bietet auch den mobilen Eisverkauf im Straßenverkauf an. Der Eiswagen fährt feste Routen in verschiedenen Stadtteilen Hannovers und kündigt sich mit einer Melodie an.
+
+Für besondere Anfragen steht der Eiswagen auch als Requisite für Foto- und Filmproduktionen zur Verfügung. Dies erweitert das Einsatzspektrum über den reinen Eisverkauf hinaus.
+
+## Rechtliches
+Die Webseite enthält keine expliziten Abschnitte für rechtliche Informationen wie Impressum, Datenschutz oder AGBs im bereitgestellten Inhalt. Es wird jedoch auf die Einhaltung gesetzlicher Vorgaben wie HACCP-Richtlinien verwiesen.
+
+## Kontakt
+Kontakt E-Mail: info@nicezeit.com
+Kontakt Telefon: +4951147315000
+Adresse: Podbielskistraße 6, 30163 Hannover
+Öffnungszeiten: Täglich: 12:00 – 19:00 Uhr (Saisonale Öffnungszeiten beachten)
+```

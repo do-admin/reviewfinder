@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hannover 96",
+    "url": "https://www.hannover96.de/",
+    "logo": "hannover-96-logo.webp",
+    "description": "As a traditional club, Hannover 96 has been connecting the region since 1896. The football club stands for community and local ties - values that are also lived in the List."
+  },
+  {
+    "name": "gourmego",
+    "url": "https://www.gourmego.de/",
+    "logo": "gourmego-logo.webp",
+    "description": "gourmego supplies natural ice cream raw materials and ice cream ingredients from the NAPURESS® manufactory. Without artificial additives for real artisanal ice cream of the best quality."
+  },
+  {
+    "name": "Bauer Banse",
+    "url": "https://www.bauer-banse.de/",
+    "logo": "bauerbanse-logo.webp",
+    "description": "Bauer Banse supplies the region with regional products from the farm. Fresh ingredients from the weekly markets - also at Moltkeplatz in the List."
+  },
+  {
+    "name": "Backring Nord",
+    "url": "https://www.backring.de/",
+    "logo": "backring-nord-logo.webp",
+    "description": "Backring Nord is one of the leading specialist wholesalers for bakeries and ice cream parlors. Quality ingredients and reliable delivery for over 100 years."
+  },
+  {
+    "name": "Leibniz",
+    "url": "https://www.leibniz.com/de/",
+    "logo": "leibniz-logo.webp",
+    "description": "Leibniz has stood for baking tradition from Hanover since 1891. The popular butter biscuits perfectly complement ice cream and coffee - regional and proven."
+  },
+  {
+    "name": "Machwitz Kaffee",
+    "url": "https://www.machwitz-kaffee.de/",
+    "logo": "machwitz-logo.webp",
+    "description": "Machwitz Kaffee has been roasting in Hanover since 1883. The oldest roastery in the city - traditional drum roasting for exceptional coffee enjoyment."
+  },
+  {
+    "name": "Waffelfabrik",
+    "url": "https://www.waffelfabrik.de/",
+    "logo": "waffelfabrik-logo.webp",
+    "description": "The Waffelfabrik produces high-quality ice cream wafers and cones. Perfect casings for artisanal ice cream creations made in Germany."
+  }
+]

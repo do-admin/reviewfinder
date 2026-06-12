@@ -1,0 +1,27 @@
+[
+  {
+    "name": "bpa Arbeitgeberverband",
+    "url": "https://www.bpa-arbeitgeberverband.de/",
+    "logo": "bpa-arbeitgeberverband-logo.webp",
+    "description": "Der bpa vertritt private Anbieter sozialer Dienste und setzt sich für Qualität und faire Rahmenbedingungen in der Pflege ein – ein starkes Netzwerk für soziale Verantwortung."
+  },
+  {
+    "name": "Kinderschutzzentrum Hannover",
+    "url": "https://www.ksz-hannover.de/",
+    "logo": "kinderschutzzentrum-hannover.webp",
+    "description": "Das Kinderschutzzentrum bietet Hilfe und Beratung bei Gewalt gegen Kinder. Ein sicherer Hafen in Hannover, der Familien unterstützt und Kinderrechte aktiv stärkt."
+  },
+  {
+    "name": "Jugendamt Hannover",
+    "url": "https://www.unterstuetzung-die-ankommt.de/de/",
+    "info": "Link führt zur Kampagne 'Unterstützung die ankommt'",
+    "logo": "jugendamt-logo.webp",
+    "description": "Unter dem Motto „Unterstützung, die ankommt“ sichert das Jugendamt das Wohl von Kindern und Jugendlichen in der Region – für eine starke Zukunft der nächsten Generation."
+  },
+  {
+    "name": "Landeshauptstadt Hannover",
+    "url": "https://www.hannover.de/",
+    "logo": "landeshauptstadt-hannover-logo.webp",
+    "description": "Die Landeshauptstadt Hannover steht für Lebensqualität und Vielfalt. Von der Verwaltung bis zur Kulturförderung – das Herzstück unserer Region für alle Bürgerinnen und Bürger."
+  }
+]

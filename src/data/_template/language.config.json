@@ -1,0 +1,19 @@
+{
+  "defaultLanguage": "de",
+  "supportedLanguages": ["de"],
+  "description": "Empty template for 06-generate-website. Used when no client has websites. German copy lives in websites.json; every other supported language uses websites-<lang>.json. defaultLanguage sets x-default and UI fallback. Optional routeSlugs maps internal page names to per-locale URL segments.",
+  "routeSlugs": {
+    "datenschutz": { "de": "datenschutz" },
+    "impressum": { "de": "impressum" },
+    "ueber-uns": { "de": "ueber-uns" },
+    "faq": { "de": "faq" },
+    "grounding": { "de": "wissensgrundlage" }
+  },
+  "translation": {
+    "sourceFile": "websites.json",
+    "openRouter": {
+      "model": "google/gemini-2.5-pro-preview",
+      "baseUrl": "https://openrouter.ai/api/v1"
+    }
+  }
+}

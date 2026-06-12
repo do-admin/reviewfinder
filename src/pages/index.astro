@@ -1,0 +1,43 @@
+---
+import { DEFAULT_LANGUAGE } from '@/lib/language';
+import { t, createSrcPath } from '@/lib/page-data';
+import { getDefaultSiteUrl } from '@/lib/global-schema';
+import { normalizePublicUrl } from '@/lib/site-url';
+
+const j = createSrcPath(0, 0, DEFAULT_LANGUAGE);
+
+const astroSite =
+  typeof import.meta.env.SITE === 'string' ? import.meta.env.SITE.trim() : '';
+const baseSite = astroSite || getDefaultSiteUrl();
+const canonicalRoot =
+  baseSite && baseSite.trim().length > 0
+    ? normalizePublicUrl(`${baseSite.replace(/\/$/, '')}/${DEFAULT_LANGUAGE}`)
+    : null;
+---
+<!doctype html>
+<html lang={DEFAULT_LANGUAGE} data-default-lang={DEFAULT_LANGUAGE}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content={`0;url=/${DEFAULT_LANGUAGE}`} />
+    {canonicalRoot ? (
+      <link rel="canonical" href={canonicalRoot} />
+    ) : (
+      <link rel="canonical" href={`/${DEFAULT_LANGUAGE}`} />
+    )}
+    <title data-hero-factory-src-path={j('index.redirectTitle')}>{t('index.redirectTitle', DEFAULT_LANGUAGE)}</title>
+  </head>
+  <body>
+    <p>
+      <span data-hero-factory-src-path={j('index.redirectTo')}
+        >{t('index.redirectTo', DEFAULT_LANGUAGE)}</span
+      >{' '}
+      <a href={`/${DEFAULT_LANGUAGE}`}>/{DEFAULT_LANGUAGE}</a>…
+    </p>
+    <script is:inline>
+      (function () {
+        var lang = document.documentElement.getAttribute('data-default-lang');
+        if (lang) window.location.replace('/' + lang);
+      })();
+    </script>
+  </body>
+</html>

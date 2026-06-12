@@ -1,0 +1,115 @@
+[
+  {
+    "group_name": "Grundlagen & Inhaltsstoffe",
+    "faqs": [
+      {
+        "question": "Woraus wird veganes Eis hergestellt?",
+        "answer": "Veganes Eis basiert vollständig auf pflanzlichen Zutaten und verzichtet komplett auf tierische Produkte wie Milch, Sahne oder Eier. Als Basis dienen häufig Wasser, Fruchtmark oder verschiedene Pflanzendrinks aus Hafer, Mandeln, Kokos oder Soja. Hochwertige Manufakturen setzen zudem auf natürliche Bindemittel wie Johannisbrotkernmehl oder Pektin, um die gewünschte Bindung zu erreichen."
+      },
+      {
+        "question": "Ist veganes Eis immer laktosefrei?",
+        "answer": "Da vegane Produkte per Definition keine tierische Milch enthalten, sind sie grundsätzlich laktosefrei. Dies macht veganes Eis zu einer hervorragenden Alternative für Menschen mit Laktoseintoleranz. Dennoch sollte man bei extremer Allergie immer auf mögliche Spurenkennzeichnungen achten, falls in derselben Produktion auch Milcheis verarbeitet wird."
+      },
+      {
+        "question": "Welche Milch-Alternative eignet sich am besten für veganes Eis?",
+        "answer": "Das hängt stark von der gewünschten Geschmacksrichtung ab. Hafermilch ist wegen ihrer natürlichen Süße und guten Bindungsfähigkeit sehr beliebt für Klassiker wie Schokolade oder Vanille. Kokosmilch verleiht dem Eis eine exotische Note und sorgt durch den hohen Fettanteil für eine besonders cremige Textur, während Cashewmilch geschmacklich sehr neutral bleibt."
+      },
+      {
+        "question": "Ist veganes Eis automatisch glutenfrei?",
+        "answer": "Nicht zwingend. Während die Grundmasse oft glutenfrei ist, können Zusätze wie Keksstücke, Waffelstückchen oder bestimmte Verdickungsmittel Gluten enthalten. Wer eine Unverträglichkeit hat, sollte daher gezielt nach als glutenfrei zertifizierten Sorten suchen."
+      },
+      {
+        "question": "Was sind die besten Stabilisatoren für veganes Eis?",
+        "answer": "Natürliche Stoffe wie Guarkernmehl, Johannisbrotkernmehl und Pektin sind ideal, um dem Eis Struktur zu geben. Diese pflanzlichen Helfer verhindern, dass sich beim Gefrieren zu große Eiskristalle bilden. In der Profi-Küche wird auch oft Inulin eingesetzt, um das Mundgefühl zu verbessern."
+      },
+      {
+        "question": "Gibt es vegane Waffeln für das Eis?",
+        "answer": "Ja, viele moderne Eiswaffeln werden heutzutage ohne Ei und Butter hergestellt, um auch veganen Kunden den vollen Genuss zu ermöglichen. Diese bestehen meist aus Weizenmehl, Zucker und pflanzlichen Ölen. Am Eiswagen erkennt man diese oft an einer speziellen Kennzeichnung oder man fragt direkt beim Servicepersonal nach."
+      }
+    ]
+  },
+  {
+    "group_name": "Gesundheit & Ernährung",
+    "faqs": [
+      {
+        "question": "Ist veganes Eis gesünder als normales Eis?",
+        "answer": "Das lässt sich nicht pauschal mit Ja beantworten. Zwar enthält veganes Eis kein tierisches Cholesterin und oft weniger gesättigte Fettsäuren, doch der Zuckergehalt ist meist identisch mit herkömmlichem Eis. Es ist eine ethische und oft besser verträgliche Wahl, bleibt aber ein Genussmittel."
+      },
+      {
+        "question": "Hat veganes Eis weniger Zucker?",
+        "answer": "In der Regel nicht, da Zucker ein entscheidender Faktor für die Textur und den Gefrierpunkt des Eises ist. Ohne eine gewisse Menge Zucker würde das Eis im Gefrierfach steinhart werden. Es gibt jedoch spezielle Varianten, die mit Stevia oder Erythrit gesüßt sind, was aber eher die Ausnahme darstellt."
+      },
+      {
+        "question": "Hat veganes Eis weniger Kalorien als Milcheis?",
+        "answer": "Ein Sorbet auf Wasserbasis hat deutlich weniger Kalorien als ein Milcheis. Handelt es sich jedoch um ein cremiges veganes Eis auf Basis von Nüssen oder Kokosmilch, kann der Kaloriengehalt durch den natürlichen Fettanteil der Pflanzenbasis ähnlich hoch ausfallen wie bei Sahneeis."
+      },
+      {
+        "question": "Ist veganes Eis für Diabetiker geeignet?",
+        "answer": "Diabetiker müssen veganes Eis mit derselben Vorsicht genießen wie herkömmliches Eis, da die enthaltenen Kohlenhydrate und Zuckerarten den Blutzuckerspiegel beeinflussen. Eine Absprache mit dem Arzt oder die genaue Prüfung der Nährwertangaben ist hier unerlässlich."
+      },
+      {
+        "question": "Ist veganes Eis umweltfreundlicher in der Produktion?",
+        "answer": "Ja, die Ökobilanz von pflanzlichen Inhaltsstoffen ist meist deutlich besser als die von Kuhmilch. Die Produktion verbraucht in der Regel weniger Wasser und verursacht signifikant geringere CO2-Emissionen. Wer also Wert auf Nachhaltigkeit legt, trifft mit einer veganen Kugel eine gute Entscheidung."
+      }
+    ]
+  },
+  {
+    "group_name": "Textur & Geschmack",
+    "faqs": [
+      {
+        "question": "Wie wird veganes Eis cremig?",
+        "answer": "Die Cremigkeit entsteht durch das richtige Verhältnis von Fett, Zucker und Luft. In der veganen Herstellung nutzt man dafür fettreiche Basen wie Cashewmus oder Kokosfett sowie eine präzise Steuerung der Eismaschine. Durch das ständige Rühren während des Gefrierens werden kleinste Luftblasen eingeschlossen, die das Eis zart schmelzend machen."
+      },
+      {
+        "question": "Schmeckt veganes Eis anders als herkömmliches Eis?",
+        "answer": "Dank moderner Rezepturen ist der Unterschied heute kaum noch schmeckbar. Während Sorbets ohnehin sehr intensiv nach Frucht schmecken, kommen vegane Creme-Sorten dem gewohnten Milcheis-Geschmack extrem nah. Oft wird der Eigengeschmack der Pflanzenbasis sogar als Bereicherung empfunden, etwa eine leichte Nussnote bei Mandelbasis."
+      },
+      {
+        "question": "Warum schmilzt veganes Eis oft schneller?",
+        "answer": "Das liegt an der unterschiedlichen Fettstruktur und dem Fehlen von Milcheiweiß, welches in herkömmlichem Eis für ein stabiles Gerüst sorgt. Pflanzliche Fette haben oft einen niedrigeren Schmelzpunkt. Daher sollte man veganes Eis am besten sofort genießen, sobald es frisch portioniert wurde."
+      },
+      {
+        "question": "Ist Sorbet immer vegan?",
+        "answer": "Meistens ja, da Sorbets traditionell aus Frucht, Wasser und Zucker bestehen. Gelegentlich werden jedoch Eiklar zur Stabilisierung oder Honig zum Süßen verwendet, was sie dann nicht mehr vegan macht. Ein kurzer Blick auf die Zutatenliste oder eine Nachfrage beim Fachpersonal schafft hier schnell Klarheit."
+      },
+      {
+        "question": "Wie vermeidet man Eiskristalle in veganem Eis?",
+        "answer": "Der Schlüssel liegt in der schnellen Kühlung und der Verwendung von Trockenglukose oder pflanzlichen Bindemitteln. Wenn die Masse zu langsam gefriert, bilden sich große Wasserkristalle, die das Mundgefühl stören. Profi-Maschinen kühlen die Masse in wenigen Minuten ab, um eine mikrokristalline Struktur zu gewährleisten."
+      }
+    ]
+  },
+  {
+    "group_name": "Zubereitung & Tipps",
+    "faqs": [
+      {
+        "question": "Kann man veganes Eis ohne Eismaschine selber machen?",
+        "answer": "Das funktioniert am besten mit der sogenannten \"Nicecream\"-Methode aus gefrorenen Bananen. Diese werden im Mixer püriert, bis eine cremige Konsistenz entsteht. Alternativ muss man eine klassische Eismasse im Gefrierfach alle 30 Minuten kräftig durchrühren, um die Bildung von Eiskristallen manuell zu verhindern."
+      },
+      {
+        "question": "Wie bleibt selbstgemachtes veganes Eis im Gefrierfach weich?",
+        "answer": "Ein kleiner Schuss hochprozentiger Alkohol oder die Zugabe von Inulin können helfen, das Eis auch bei tiefen Temperaturen portionierbar zu halten. Auch ein höherer Anteil an Fett, zum Beispiel durch Nussmuse, senkt den Gefrierpunkt. Dennoch sollte man hausgemachtes Eis vor dem Servieren etwa 10 Minuten bei Zimmertemperatur antauen lassen."
+      },
+      {
+        "question": "Wie lange ist selbstgemachtes veganes Eis haltbar?",
+        "answer": "Im Tiefkühlschrank hält es sich etwa ein bis zwei Wochen, ohne dass der Geschmack stark leidet. Da keine Konservierungsstoffe enthalten sind, nimmt die Qualität danach durch Gefrierbrand oder Kristallbildung oft ab. Es empfiehlt sich, das Eis in einem flachen, luftdichten Behälter zu lagern."
+      },
+      {
+        "question": "Welche Früchte eignen sich besonders gut für vegane Cremeseis-Varianten?",
+        "answer": "Mango und Avocado sind hervorragend geeignet, da sie von Natur aus eine sehr cremige Fleischstruktur besitzen. Sie emulgieren wunderbar mit pflanzlichen Fetten und sorgen für ein luxuriöses Mundgefühl, ohne dass viel Technik nötig ist."
+      }
+    ]
+  },
+  {
+    "group_name": "Einkauf & Markt",
+    "faqs": [
+      {
+        "question": "Woran erkennt man, ob Eis wirklich vegan ist?",
+        "answer": "Am sichersten ist das gelbe V-Label der European Vegetarian Union mit dem Zusatz \"vegan\". Im Zweifel hilft nur das aufmerksame Studium der Zutatenliste, um versteckte tierische Bestandteile wie Molkenpulver, Schellack oder Karmin auszuschließen."
+      },
+      {
+        "question": "Warum ist veganes Eis im Supermarkt oft teurer?",
+        "answer": "Pflanzliche Rohstoffe wie hochwertige Nüsse oder Vanilleschoten sind in der Anschaffung oft teurer als industrielle Milchpulver. Zudem werden vegane Sorten häufig in kleineren Chargen produziert, was die anteiligen Produktionskosten erhöht. Auch die speziellen Rezepturen, die ohne billige Füllstoffe auskommen, spiegeln sich im Preis wider."
+      }
+    ]
+  }
+]

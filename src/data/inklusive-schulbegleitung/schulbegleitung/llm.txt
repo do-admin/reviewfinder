@@ -1,0 +1,480 @@
+# Webseite: Hand in Hand
+## Zuletzt aktualisiert: 15.05.2024
+
+## Überblick über die Webseite
+Die Webseite "Hand in Hand" bietet professionelle Schulbegleitung für Kinder und Jugendliche in Hannover und Isernhagen. Sie richtet sich an Eltern, die Unterstützung für ihre Kinder mit besonderen Herausforderungen suchen, sowie an pädagogische Fachkräfte und Quereinsteiger, die Teil eines engagierten Teams werden möchten.
+
+Das zentrale Anliegen der Webseite ist es, Inklusion aktiv zu gestalten und Kindern mit Autismus, ADHS sowie seelischen, sozialen oder körperlichen Beeinträchtigungen eine echte Teilhabe am Schulalltag zu ermöglichen. Die Marke steht für eine warme, empathische und verlässliche Begleitung mit Herz und Verstand.
+
+Die Webseite informiert über die Kernleistungen der Schulbegleitung, den Beantragungsprozess, rechtliche Grundlagen und die Philosophie des Trägers. Sie dient als Anlaufstelle für Orientierung und als Plattform für den Austausch und die Gewinnung neuer Teammitglieder.
+
+## Wichtigste Entitäten
+
+### ENTITY: Hand in Hand – Inklusive Schulbegleitung
+**TYPE**: Organisation
+**DESCRIPTION**: "Hand in Hand" ist ein Träger für inklusive Schulbegleitung in der Region Hannover. Die Organisation bietet individuelle Unterstützung für Kinder und Jugendliche mit besonderen Herausforderungen im Schulalltag. Sie zeichnet sich durch einen persönlichen Ansatz und ein engagiertes Team aus.
+**RELATIONSHIPS**: Bietet die Dienstleistung Schulbegleitung an. Arbeitet mit Jugendamt Hannover, Sozialamt, Kinderschutzzentrum Hannover und Landeshauptstadt Hannover zusammen.
+**CONTEXT**: Die zentrale Unternehmensentität der Webseite.
+
+### ENTITY: Schulbegleitung (School Companion)
+**TYPE**: Dienstleistung
+**DESCRIPTION**: Die Schulbegleitung ist eine individuelle Unterstützung für Kinder und Jugendliche mit besonderem Förderbedarf im Schulalltag. Sie ermöglicht die Teilhabe am regulären Unterricht und fördert Selbstständigkeit sowie soziale Kompetenzen. Die Begleitung erfolgt durch pädagogisch geschultes Personal.
+**RELATIONSHIPS**: Ermöglicht Inklusion. Wird durch Jugendamt oder Sozialamt finanziert.
+**CONTEXT**: Kernleistung der Webseite, zentrales Thema aller Inhalte.
+
+### ENTITY: Integrationshilfe (Integration Assistance)
+**TYPE**: Konzept
+**DESCRIPTION**: Integrationshilfe ist der rechtliche Rahmen, der die Schulbegleitung ermöglicht. Sie sichert Kindern mit wesentlichen Behinderungen das Recht auf Teilhabe am Schulalltag zu. Die Kosten werden in der Regel von den zuständigen Ämtern übernommen.
+**RELATIONSHIPS**: Rechtliche Grundlage für Schulbegleitung.
+**CONTEXT**: Wird im FAQ-Bereich und in Leistungsbeschreibungen erläutert.
+
+### ENTITY: Autismus (Autism)
+**TYPE**: Konzept
+**DESCRIPTION**: Autismus ist eine neurologische Entwicklungsstörung, die sich auf die soziale Interaktion, Kommunikation und das Verhalten auswirkt. Kinder mit Autismus können im Schulalltag besondere Unterstützung benötigen, um Reizüberflutung zu bewältigen und sich zu orientieren.
+**RELATIONSHIPS**: Eine der Hauptdiagnosen, für die Schulbegleitung angeboten wird.
+**CONTEXT**: Wird in Leistungsbeschreibungen und FAQs erwähnt.
+
+### ENTITY: ADHS (Attention Deficit Hyperactivity Disorder)
+**TYPE**: Konzept
+**DESCRIPTION**: ADHS ist eine neurologische Entwicklungsstörung, die sich durch Aufmerksamkeitsdefizite, Hyperaktivität und Impulsivität äußert. Kinder mit ADHS profitieren von Schulbegleitung, um Konzentrationsschwierigkeiten zu mindern und den Schulalltag zu strukturieren.
+**RELATIONSHIPS**: Eine der Hauptdiagnosen, für die Schulbegleitung angeboten wird.
+**CONTEXT**: Wird in Leistungsbeschreibungen und FAQs erwähnt.
+
+### ENTITY: Förderschwerpunkt (Special Educational Focus)
+**TYPE**: Konzept
+**DESCRIPTION**: Ein Förderschwerpunkt beschreibt besondere pädagogische Bedürfnisse eines Kindes, die eine spezielle Unterstützung im Bildungssystem erfordern. Beispiele sind geistige Entwicklung, Sprache, emotionale und soziale Entwicklung (ESE) oder körperliche und motorische Entwicklung (KME).
+**RELATIONSHIPS**: Bestimmt den Bedarf an Schulbegleitung und spezifischen Fördermaßnahmen.
+**CONTEXT**: Wird im FAQ-Bereich detailliert erklärt.
+
+### ENTITY: Nachteilsausgleich (Compensation for Disadvantages)
+**TYPE**: Konzept
+**DESCRIPTION**: Ein Nachteilsausgleich schafft faire Bedingungen für Schüler mit Beeinträchtigungen bei der Leistungserbringung, ohne die fachlichen Anforderungen zu senken. Er passt die äußeren Bedingungen an, zum Beispiel durch Zeitzuschläge oder spezielle Hilfsmittel.
+**RELATIONSHIPS**: Ergänzt die Schulbegleitung, ist aber keine Notenverbesserung.
+**CONTEXT**: Wird im FAQ-Bereich ausführlich behandelt.
+
+### ENTITY: Jugendamt Hannover (Youth Welfare Office Hannover)
+**TYPE**: Organisation
+**DESCRIPTION**: Das Jugendamt Hannover ist eine kommunale Behörde, die vielfältige Angebote für Kinder und Eltern bereitstellt. Es ist zuständig für die Bewilligung von Schulbegleitung bei seelischen Behinderungen und setzt auf präventive Arbeit.
+**RELATIONSHIPS**: Partner von Hand in Hand, Kostenträger für Schulbegleitung.
+**CONTEXT**: Wird als Vertrauenssignal und Ansprechpartner für Anträge genannt.
+
+### ENTITY: Sozialamt (Social Welfare Office)
+**TYPE**: Organisation
+**DESCRIPTION**: Das Sozialamt ist eine kommunale Behörde, die soziale Leistungen für Bürger erbringt. Es ist zuständig für die Bewilligung von Schulbegleitung bei geistigen oder körperlichen Behinderungen im Rahmen der Eingliederungshilfe.
+**RELATIONSHIPS**: Kostenträger für Schulbegleitung.
+**CONTEXT**: Wird als Ansprechpartner für Anträge genannt.
+
+### ENTITY: Kinderschutzzentrum Hannover (Child Protection Center Hannover)
+**TYPE**: Organisation
+**DESCRIPTION**: Das Kinderschutzzentrum Hannover bietet Opferschutz und therapeutische Begleitung für Kinder und Familien in schwierigen Situationen. Es setzt sich für starke Kinder und neue Perspektiven ein.
+**RELATIONSHIPS**: Partner von Hand in Hand.
+**CONTEXT**: Wird als Vertrauenssignal genannt.
+
+### ENTITY: bpa Arbeitgeberverband (bpa Employer Association)
+**TYPE**: Organisation
+**DESCRIPTION**: Der bpa Arbeitgeberverband vertritt die Interessen privater Dienstleister im Pflegebereich. Er unterstützt diese dabei, hochwertige Betreuung und soziale Sicherheit zu gewährleisten.
+**RELATIONSHIPS**: Partner von Hand in Hand.
+**CONTEXT**: Wird als Vertrauenssignal genannt.
+
+### ENTITY: Landeshauptstadt Hannover (State Capital Hannover)
+**TYPE**: Ort
+**DESCRIPTION**: Die Landeshauptstadt Hannover ist die größte Stadt Niedersachsens und ein wichtiger regionaler Bezugspunkt für die Dienstleistungen von "Hand in Hand". Die Stadtverwaltung gestaltet den Rahmen für das urbane Miteinander.
+**RELATIONSHIPS**: Regionaler Fokus für die Dienstleistung Schulbegleitung.
+**CONTEXT**: Wird als Vertrauenssignal und lokaler Bezug genannt.
+
+### ENTITY: Isernhagen
+**TYPE**: Ort
+**DESCRIPTION**: Isernhagen ist eine Gemeinde in der Region Hannover und ein wichtiger lokaler Bezugspunkt für die Dienstleistungen von "Hand in Hand". Die Organisation hat ihren Sitz in Isernhagen.
+**RELATIONSHIPS**: Regionaler Fokus für die Dienstleistung Schulbegleitung.
+**CONTEXT**: Wird als lokaler Bezug genannt.
+
+### ENTITY: Pädagogische Fachkraft (Pedagogical Professional)
+**TYPE**: Rolle
+**DESCRIPTION**: Eine pädagogische Fachkraft ist eine Person mit einer Ausbildung im pädagogischen Bereich, wie z.B. ein staatlich anerkannter Erzieher oder Heilpädagoge. Diese Fachkräfte sind qualifiziert, Kinder und Jugendliche mit besonderen Bedürfnissen zu unterstützen und zu fördern.
+**RELATIONSHIPS**: Kann die Rolle eines Schulbegleiters übernehmen.
+**CONTEXT**: Zielgruppe für Stellenangebote, wird in FAQs zur Qualifikation erwähnt.
+
+### ENTITY: Quereinsteiger (Career Changer)
+**TYPE**: Rolle
+**DESCRIPTION**: Ein Quereinsteiger ist eine Person, die ohne eine spezifische pädagogische Ausbildung in den Bereich der Schulbegleitung wechselt. Viele Träger bieten interne Schulungen an, um Quereinsteiger für diese wichtige Aufgabe zu qualifizieren.
+**RELATIONSHIPS**: Kann die Rolle eines Schulbegleiters übernehmen.
+**CONTEXT**: Zielgruppe für Stellenangebote, wird in FAQs zur Qualifikation erwähnt.
+
+### ENTITY: Eltern (Parents)
+**TYPE**: Rolle
+**DESCRIPTION**: Eltern sind die primären Ansprechpartner und Fürsorgeberechtigten von Kindern. Sie suchen Unterstützung für ihre Kinder mit besonderen Herausforderungen im Schulalltag und sind eine zentrale Zielgruppe der Webseite.
+**RELATIONSHIPS**: Beantragen Schulbegleitung für ihre Kinder.
+**CONTEXT**: Eine der Hauptzielgruppen der Webseite.
+
+### ENTITY: Kind (Child)
+**TYPE**: Rolle
+**DESCRIPTION**: Ein Kind ist eine Person im Entwicklungsalter, die im Mittelpunkt der Schulbegleitung steht. Kinder mit besonderen Bedürfnissen erhalten individuelle Unterstützung, um ihre Teilhabe und Entwicklung im schulischen Umfeld zu fördern.
+**RELATIONSHIPS**: Empfänger der Dienstleistung Schulbegleitung.
+**CONTEXT**: Die zentrale Entität, um die sich alle Dienstleistungen drehen.
+
+### ENTITY: Schulalltag (School Day)
+**TYPE**: Konzept
+**DESCRIPTION**: Der Schulalltag umfasst alle Aktivitäten und Interaktionen, die ein Kind während des Schultages erlebt. Dazu gehören Unterricht, Pausen, soziale Kontakte und schulische Veranstaltungen. Schulbegleitung unterstützt Kinder dabei, diesen Alltag erfolgreich zu meistern.
+**RELATIONSHIPS**: Kontext, in dem Schulbegleitung stattfindet.
+**CONTEXT**: Wird in Leistungsbeschreibungen und FAQs erwähnt.
+
+### ENTITY: Teilhabe (Participation)
+**TYPE**: Konzept
+**DESCRIPTION**: Teilhabe bedeutet, dass jeder Mensch gleichberechtigt am gesellschaftlichen Leben teilnehmen kann. Im Kontext der Schulbegleitung bedeutet dies, dass Kinder mit besonderen Bedürfnissen aktiv am Unterricht und sozialen Leben der Schule teilnehmen können.
+**RELATIONSHIPS**: Oberstes Ziel der Schulbegleitung.
+**CONTEXT**: Zentrales Markenversprechen und Leitgedanke.
+
+### ENTITY: Selbstständigkeit (Independence)
+**TYPE**: Konzept
+**DESCRIPTION**: Selbstständigkeit bezeichnet die Fähigkeit, Aufgaben und Herausforderungen eigenverantwortlich zu bewältigen. Schulbegleitung fördert die Selbstständigkeit von Kindern, indem sie ihnen hilft, Kompetenzen zu entwickeln und weniger auf direkte Unterstützung angewiesen zu sein.
+**RELATIONSHIPS**: Ein wichtiges Förderziel der Schulbegleitung.
+**CONTEXT**: Wird in Leistungsbeschreibungen und Markenbotschaften betont.
+
+### ENTITY: "Wir sehen Dich" (We See You)
+**TYPE**: Markenbotschaft
+**DESCRIPTION**: "Wir sehen Dich" ist das zentrale Markenversprechen von "Hand in Hand". Es drückt die individuelle Wahrnehmung und Wertschätzung jedes einzelnen Kindes aus. Diese Botschaft betont Empathie und den Fokus auf die Einzigartigkeit jedes Menschen.
+**RELATIONSHIPS**: Kern der Markenidentität.
+**CONTEXT**: Wird als Leitgedanke und Markenversprechen auf der Webseite verwendet.
+
+### ENTITY: "Hand in Hand" (Hand in Hand)
+**TYPE**: Markenbotschaft
+**DESCRIPTION**: "Hand in Hand" symbolisiert die enge Zusammenarbeit und partnerschaftliche Begleitung, die der Träger anbietet. Es steht für Unterstützung auf Augenhöhe und das gemeinsame Gehen eines Weges.
+**RELATIONSHIPS**: Teil des Unternehmensnamens und der Markenidentität.
+**CONTEXT**: Wird als Leitgedanke und Markenversprechen auf der Webseite verwendet.
+
+### ENTITY: Staatlich anerkannte Erzieherin & Sozialpädagogin B.A. (State-recognized Educator & Social Pedagogue B.A.)
+**TYPE**: Rolle
+**DESCRIPTION**: Diese Qualifikation beschreibt eine pädagogische Leitungsperson mit fundierter Ausbildung. Sie gewährleistet die fachliche Qualität und pädagogische Ausrichtung der Schulbegleitung.
+**RELATIONSHIPS**: Verantwortlich für die pädagogische Leitung von "Hand in Hand".
+**CONTEXT**: Wird als Vertrauenssignal und Qualitätsmerkmal genannt.
+
+## Seitenstruktur
+Die Webseite umfasst eine Startseite, die einen Überblick über die Dienstleistungen und die Philosophie des Trägers gibt. Sie dient als zentraler Einstiegspunkt für beide Zielgruppen.
+
+Ein umfangreicher FAQ-Bereich beantwortet häufig gestellte Fragen zu Schulbegleitung, Nachteilsausgleich und Förderschwerpunkten. Die Fragen sind thematisch gruppiert, um eine schnelle Orientierung zu ermöglichen.
+
+Die Kontaktseite bietet alle notwendigen Informationen zur Kontaktaufnahme und zum Standort des Trägers. Sie enthält auch die Öffnungszeiten und eine E-Mail-Adresse.
+
+## Seiteninhalt
+
+### Startseite
+
+Die Startseite präsentiert "Hand in Hand" als empathischen Partner für Schulbegleitung in Hannover und Isernhagen. Sie betont das zentrale Markenversprechen "Wir sehen Dich" und die Philosophie der gelebten Inklusion.
+
+Der Hero-Bereich der Startseite lädt Eltern ein, sich beraten zu lassen, und Fachkräfte, Teil des Teams zu werden. Er hebt die individuelle Unterstützung für Kinder mit Autismus, ADHS und anderen Beeinträchtigungen hervor.
+
+Die Startseite listet die Kernleistungen auf, wie individuelle Schulbegleitung, Förderung von Selbstständigkeit und enge Zusammenarbeit mit Familien und Schulen. Sie betont die über 10-jährige Erfahrung und die pädagogische Leitung.
+
+Vertrauenssignale wie die Partnerschaften mit dem Jugendamt Hannover und dem Kinderschutzzentrum Hannover sind prominent platziert. Der lokale Bezug zu Hannover und Isernhagen wird ebenfalls hervorgehoben.
+
+### Kontaktseite
+
+Die Kontaktseite enthält die E-Mail-Adresse info@inklusive-schulbegleitung.de und die Telefonnummer +491731696192. Diese Informationen ermöglichen eine direkte Kontaktaufnahme mit dem Träger.
+
+Die Öffnungszeiten sind von Montag bis Freitag von 08:00 bis 15:00 Uhr angegeben. Dies gibt Interessenten eine klare Vorstellung, wann sie den Träger erreichen können.
+
+Die Adresse des Trägers ist Am Ortfelde 59, 30916 Isernhagen. Diese Angabe dient der räumlichen Orientierung und der postalischen Erreichbarkeit.
+
+## FAQ
+### faq-en
+
+Q: What exactly does a school companion do?
+A: A school companion supports children and adolescents with special educational needs directly in their everyday school life. Their tasks include practical life assistance, accompaniment during breaks, and emotional support in stressful situations. This enables the students to participate in regular classes.
+
+Q: Who is entitled to a school companion?
+A: Children with a significant mental, intellectual, or physical disability who cannot cope with everyday school life without support have a legal entitlement. The legal basis for this is the integration assistance.
+
+Q: Who bears the costs for the integration assistance?
+A: After detailed examination and approval, the costs are usually fully covered by the responsible local youth welfare office or social welfare office.
+
+Q: How long does it take for the application to be approved?
+A: The process can take anywhere from several weeks to a few months. After the application is submitted, there are usually appointments to determine the needs, the collection of medical statements, and sometimes classroom observations at the school. It is therefore highly advisable to submit the application as early as possible. It also often helps enormously to get support in advance from counseling centers or a future provider.
+
+Q: Can my child attend a mainstream school despite having a school companion?
+A: Yes, that is actually one of the main goals of this measure. The accompaniment expressly serves to actively implement inclusion and enable the child concerned to attend a regular school.
+
+Q: Does the school companion do the teachers' jobs?
+A: No, the school companion generally does not take on any pedagogical or didactic tasks of the teachers. They do not explain the teaching material and are in no way responsible for grading. Their role is purely assistive, to make learning easier for the child under the given conditions in the first place.
+
+Q: Can I choose the person who accompanies my child?
+A: The final decision usually lies with the commissioned provider, as they select the appropriate personnel according to the specific diagnosis and the determined needs. However, personal introductory meetings almost always take place in advance to build a relationship of trust. If the "chemistry" between the child and the companion is absolutely not right in everyday life, a change can be sought in close consultation with the provider.
+
+Q: What is a disadvantage compensation in everyday school life?
+A: Disadvantage compensation is an important measure that creates fair conditions for students with impairments to perform, without lowering the academic requirements. Typical practical examples include extra time for exams, modified exam formats, or the use of special technical aids.
+
+Q: Does the companion necessarily need a pedagogical education?
+A: Not necessarily, as there are also many highly motivated and trained career changers in this professional field. Whether a pedagogical specialist, such as a state-recognized educator or special education teacher, is necessary depends primarily on the child's individual support needs. For particularly complex diagnoses or highly challenging behavior, the authorities often require specially qualified personnel. In many other cases, however, a well-trained assistant is completely sufficient.
+
+Q: Where do I submit the application for a school companion?
+A: In the case of an impending or already existing mental disability (such as autism or ADHD), the youth welfare office is the right point of contact. If, on the other hand, it is an intellectual or physical disability, the application must be submitted to the local social welfare office as part of the integration assistance.
+
+### Compensation for disadvantages (NA)
+
+Q: Which children receive compensation for disadvantages?
+A: Compensation for disadvantages is aimed at students who, due to a disability or permanent impairment, have difficulties demonstrating their performance under regular conditions. The goal is to remove the barriers caused by the limitation without lowering the required standard of the tasks.
+
+Q: What types of compensation for disadvantages are there?
+A: There are a variety of measures that are individually tailored to the child. These include, for example, extra time for exams, the use of aids such as laptops, or the provision of separate rooms.
+
+Q: Is compensation for disadvantages noted on the report card?
+A: No, a pure compensation for disadvantages must not be noted on the report card, as it only adjusts the external conditions of the performance assessment. It is therefore "invisible" to third parties from the outside.
+
+Q: Can you get compensation for disadvantages with ADHD?
+A: Yes, with diagnosed ADHD, there is often an entitlement to cushion concentration difficulties or impulsivity in everyday school life. Extra time or low-stimulus workspaces are often granted for this.
+
+Q: Can a school reject compensation for disadvantages?
+A: The school can reject the application if the pedagogical requirements are not met or the diagnosis does not justify the measure. In this case, parents should seek a conversation with the school administration or get legal advice.
+
+Q: Is compensation for disadvantages also possible without a diagnosis?
+A: As a rule, a medical or psychological diagnosis is mandatory to assert the legal claim.
+
+Q: Why is there often no compensation for disadvantages for dyscalculia?
+A: This is due to the different decrees of the federal states; while dyslexia (LRS) is recognized almost everywhere, dyscalculia is legally evaluated differently in many regions. It is often argued that the arithmetic weakness affects the core area of performance assessment in mathematics, which would lead to grade protection rather than compensation for disadvantages.
+
+Q: How do I apply for compensation for disadvantages for my child?
+A: Parents must submit a written, informal application to the school administration. Current medical certificates or expert reports that accurately describe the limitation should be attached to the application.
+
+Q: Can you be held back a grade with compensation for disadvantages?
+A: Yes, compensation for disadvantages does not protect against not being promoted. It merely ensures that performance is evaluated fairly; if the grades are not sufficient despite the help, the general promotion rules apply.
+
+Q: What is the difference between grade protection and compensation for disadvantages?
+A: While compensation for disadvantages only changes the general conditions, grade protection means that certain performances (e.g., spelling) are not evaluated at all.
+
+Q: Who decides on compensation for disadvantages in school?
+A: The decision is usually made by the school administration on the recommendation of the class conference or the teachers involved.
+
+Q: What compensation for disadvantages is there for LRS (dyslexia)?
+A: In the case of a reading and spelling weakness (dyslexia), extra time, the use of spelling programs, or a stronger weighting of oral performance can be granted.
+
+Q: For which subjects does the compensation for disadvantages apply?
+A: In principle, it can apply to all subjects in which the impairment has a negative impact on performance.
+
+### Schulbegleitung / Integrationshilfe
+
+Q: Was ist der Unterschied zwischen Schulbegleitung und Integrationshelfer?
+A: Es gibt faktisch keinen Unterschied; beide Begriffe bezeichnen Personen, die Kinder mit Unterstützungsbedarf im Schulalltag begleiten.
+
+Q: Was kostet eine Stunde Schulbegleitung?
+A: Die Kosten liegen je nach Qualifikation der Begleitkraft meist zwischen 30 und 60 Euro pro Stunde. Für die Eltern ist die Leistung jedoch in der Regel kostenfrei, da sie vom Jugendamt oder Sozialamt übernommen wird.
+
+Q: Kann man Schulbegleitung ohne Ausbildung machen?
+A: Ja, ein Quereinstieg ist absolut möglich. Viele Träger suchen engagierte Hilfskräfte, die durch interne Fortbildungen vorbereitet werden.
+
+Q: Welche Diagnose braucht man für eine Schulbegleitung?
+A: Voraussetzung ist eine geistige, körperliche oder seelische Behinderung, die die Teilhabe am Unterricht wesentlich erschwert.
+
+Q: Was darf eine Schulbegleitung und was nicht?
+A: Die Begleitung unterstützt bei der Strukturierung des Alltags und leistet lebenspraktische Hilfen. Sie darf jedoch keinen Unterricht erteilen und ist nicht für die Notengebung verantwortlich.
+
+Q: Wer genehmigt eine Schulbegleitung?
+A: Die Genehmigung erfolgt durch das zuständige Jugendamt oder das Sozialamt.
+
+Q: Warum brauchen Autisten eine Schulbegleitung?
+A: Menschen im Autismus-Spektrum empfinden den Schulalltag oft als Reizüberflutung. Die Schulbegleitung fungiert hier als Brücke zur Umwelt und hilft bei der Reizfilterung.
+
+Q: Wie lange dauert die Beantragung einer Schulbegleitung?
+A: Man sollte mit einer Bearbeitungszeit von mehreren Monaten rechnen. Der Prozess umfasst die Antragstellung, ärztliche Gutachten und oft ein persönliches Gespräch beim Fachdienst.
+
+Q: Welche Voraussetzungen sind für Schulbegleitung notwendig?
+A: Neben der Diagnose ist vor allem ein festgestellter Teilhabebedarf entscheidend, der belegt, dass das Kind ohne Hilfe den Schulalltag nicht bewältigen kann.
+
+Q: Wie viele Stunden arbeitet man als Schulbegleitung?
+A: Dies hängt vom individuellen Bewilligungsbescheid des Kindes ab; oft orientiert sich die Arbeitszeit an den täglichen Unterrichtsstunden.
+
+Q: Was sind keine Aufgaben einer Schulbegleitung?
+A: Die Schulbegleitung ist keine Nachhilfelehrkraft und auch kein Ersatz für die allgemeine Klassenaufsicht durch den Lehrer.
+
+### Special Educational Focuses (Basics)
+
+Q: What is the special educational focus on intellectual development?
+A: This focus is determined when a child has comprehensive and long-lasting difficulties with learning. This is often accompanied by an IQ score of under 70.
+
+Q: What does the special educational focus on language entail?
+A: This involves children whose communication skills are so severely impaired that they cannot follow the lessons without special help.
+
+Q: What is the special educational focus on emotional and social development (ESE)?
+A: Students with this focus exhibit behaviors that hinder the building of positive relationships or learning success.
+
+Q: What does the special educational focus KME mean?
+A: KME stands for Physical and Motor Development (Körperliche und Motorische Entwicklung) and is aimed at children with restrictions of the musculoskeletal system.
+
+Q: What is a school with a special educational focus on ESE?
+A: This is a specialized educational institution that offers smaller classes and specially trained staff for children with behavioral issues.
+
+Q: What IQ is assumed for the special educational need for intellectual development?
+A: Typically, this focus is considered for an IQ below 70 in combination with limitations in adaptive behavior.
+
+Q: When does a child receive the special educational need for language?
+A: This happens when the language impairments are so severe that support at a mainstream school without assistance is no longer sufficient.
+
+Q: What is included in the special educational need for learning?
+A: This focus is assigned when there are severe and persistent learning problems in multiple areas that cannot be explained by other special educational needs.
+
+Q: When does the special educational need ESE apply?
+A: When the child's mental health or social behavior is so impaired that they cannot participate in regular classes without special educational help.
+
+### Nachteilsausgleich (NA)
+
+Q: Welche Kinder bekommen einen Nachteilsausgleich?
+A: Ein Nachteilsausgleich richtet sich an Schülerinnen und Schüler, die aufgrund einer Behinderung oder einer dauerhaften Beeinträchtigung Schwierigkeiten haben, ihre Leistungen unter regulären Bedingungen abzurufen. Ziel ist es, die Barrieren abzubauen, die durch die Einschränkung entstehen, ohne dabei das Anforderungsniveau der Aufgaben zu senken.
+
+Q: Welche Arten von Nachteilsausgleich gibt es?
+A: Es gibt eine Vielzahl an Maßnahmen, die individuell auf das Kind zugeschnitten werden. Dazu gehören beispielsweise Zeitzuschläge bei Klassenarbeiten, die Nutzung von Hilfsmitteln wie Laptops oder das Bereitstellen von separaten Räumen.
+
+Q: Wird ein Nachteilsausgleich im Zeugnis vermerkt?
+A: Nein, ein reiner Nachteilsausgleich darf im Zeugnis nicht vermerkt werden, da er lediglich die äußeren Bedingungen der Leistungsfeststellung anpasst. Er ist somit von außen betrachtet "unsichtbar" für Dritte.
+
+Q: Kann man mit ADHS einen Nachteilsausgleich bekommen?
+A: Ja, bei einer diagnostizierten ADHS besteht häufig ein Anspruch, um Konzentrationsschwierigkeiten oder Impulsivität im Schulalltag abzufedern. Oft werden hierbei Zeitzuschläge oder reizarme Arbeitsplätze gewährt.
+
+Q: Kann eine Schule einen Nachteilsausgleich ablehnen?
+A: Die Schule kann den Antrag ablehnen, wenn die pädagogischen Voraussetzungen nicht gegeben sind oder die Diagnose die Maßnahme nicht rechtfertigt. In diesem Fall sollten Eltern das Gespräch mit der Schulleitung suchen oder sich rechtlich beraten lassen.
+
+Q: Ist ein Nachteilsausgleich auch ohne Diagnose möglich?
+A: In der Regel ist eine medizinische oder psychologische Diagnose zwingend erforderlich, um den rechtlichen Anspruch geltend zu machen.
+
+Q: Warum gibt es bei Dyskalkulie oft keinen Nachteilsausgleich?
+A: Dies liegt an den unterschiedlichen Erlassen der Bundesländer; während LRS fast überall anerkannt ist, wird Dyskalkulie in vielen Regionen rechtlich anders bewertet. Oft wird argumentiert, dass die Rechenschwäche den Kernbereich der Leistungsbewertung in Mathematik betrifft, was eher zum Notenschutz als zum Nachteilsausgleich führen würde.
+
+Q: Wie beantrage ich einen Nachteilsausgleich für mein Kind?
+A: Eltern müssen einen schriftlichen, formlosen Antrag bei der Schulleitung einreichen. Dem Antrag sollten aktuelle ärztliche Atteste oder Fachgutachten beigefügt werden, die die Einschränkung genau beschreiben.
+
+Q: Kann man mit einem Nachteilsausgleich sitzen bleiben?
+A: Ja, ein Nachteilsausgleich schützt nicht vor einer Nichtversetzung. Er stellt lediglich sicher, dass die Leistungen fair bewertet werden; sind die Noten trotz der Hilfen nicht ausreichend, greifen die allgemeinen Versetzungsregeln.
+
+Q: Was ist der Unterschied zwischen Notenschutz und Nachteilsausgleich?
+A: Während der Nachteilsausgleich nur die Rahmenbedingungen ändert, führt Notenschutz dazu, dass bestimmte Leistungen (z. B. Rechtschreibung) gar nicht bewertet werden.
+
+Q: Wer entscheidet über den Nachteilsausgleich in der Schule?
+A: Die Entscheidung trifft in der Regel die Schulleitung auf Empfehlung der Klassenkonferenz oder der beteiligten Lehrkräfte.
+
+Q: Welchen Nachteilsausgleich gibt es bei LRS?
+A: Bei einer Lese-Rechtschreib-Schwäche können Zeitzuschläge, die Nutzung von Rechtschreibprogrammen oder eine stärkere Gewichtung der mündlichen Leistung gewährt werden.
+
+Q: Für welche Fächer gilt der Nachteilsausgleich?
+A: Grundsätzlich kann er für alle Fächer gelten, in denen sich die Beeinträchtigung negativ auf die Leistungserbringung auswirkt.
+
+### Schulbegleitung / Integrationshilfe
+
+Q: Was ist der Unterschied zwischen Schulbegleitung und Integrationshelfer?
+A: Es gibt faktisch keinen Unterschied; beide Begriffe bezeichnen Personen, die Kinder mit Unterstützungsbedarf im Schulalltag begleiten.
+
+Q: Was kostet eine Stunde Schulbegleitung?
+A: Die Kosten liegen je nach Qualifikation der Begleitkraft meist zwischen 30 und 60 Euro pro Stunde. Für die Eltern ist die Leistung jedoch in der Regel kostenfrei, da sie vom Jugendamt oder Sozialamt übernommen wird.
+
+Q: Kann man Schulbegleitung ohne Ausbildung machen?
+A: Ja, ein Quereinstieg ist absolut möglich. Viele Träger suchen engagierte Hilfskräfte, die durch interne Fortbildungen vorbereitet werden.
+
+Q: Welche Diagnose braucht man für eine Schulbegleitung?
+A: Voraussetzung ist eine geistige, körperliche oder seelische Behinderung, die die Teilhabe am Unterricht wesentlich erschwert.
+
+Q: Was darf eine Schulbegleitung und was nicht?
+A: Die Begleitung unterstützt bei der Strukturierung des Alltags und leistet lebenspraktische Hilfen. Sie darf jedoch keinen Unterricht erteilen und ist nicht für die Notengebung verantwortlich.
+
+Q: Wer genehmigt eine Schulbegleitung?
+A: Die Genehmigung erfolgt durch das zuständige Jugendamt oder das Sozialamt.
+
+Q: Warum brauchen Autisten eine Schulbegleitung?
+A: Menschen im Autismus-Spektrum empfinden den Schulalltag oft als Reizüberflutung. Die Schulbegleitung fungiert hier als Brücke zur Umwelt und hilft bei der Reizfilterung.
+
+Q: Wie lange dauert die Beantragung einer Schulbegleitung?
+A: Man sollte mit einer Bearbeitungszeit von mehreren Monaten rechnen. Der Prozess umfasst die Antragstellung, ärztliche Gutachten und oft ein persönliches Gespräch beim Fachdienst.
+
+Q: Welche Voraussetzungen sind für Schulbegleitung notwendig?
+A: Neben der Diagnose ist vor allem ein festgestellter Teilhabebedarf entscheidend, der belegt, dass das Kind ohne Hilfe den Schulalltag nicht bewältigen kann.
+
+Q: Wie viele Stunden arbeitet man als Schulbegleitung?
+A: Dies hängt vom individuellen Bewilligungsbescheid des Kindes ab; oft orientiert sich die Arbeitszeit an den täglichen Unterrichtsstunden.
+
+Q: Was sind keine Aufgaben einer Schulbegleitung?
+A: Die Schulbegleitung ist keine Nachhilfelehrkraft und auch kein Ersatz für die allgemeine Klassenaufsicht durch den Lehrer.
+
+### Förderschwerpunkte (Grundlagen)
+
+Q: Was ist der Förderschwerpunkt geistige Entwicklung?
+A: Dieser Schwerpunkt wird festgelegt, wenn ein Kind umfassende und langandauernde Schwierigkeiten beim Lernen aufweist. Oft geht dies mit einem IQ-Wert von unter 70 einher.
+
+Q: Was beinhaltet der Förderschwerpunkt Sprache?
+A: Hierbei geht es um Kinder, deren Kommunikationsfähigkeit so stark beeinträchtigt ist, dass sie dem Unterricht nicht ohne spezielle Hilfe folgen können.
+
+Q: Was ist der Förderschwerpunkt emotionale und soziale Entwicklung (ESE)?
+A: Schüler mit diesem Schwerpunkt zeigen Verhaltensweisen, die den Aufbau positiver Beziehungen oder den Lernerfolg behindern.
+
+Q: Was bedeutet der Förderschwerpunkt KME?
+A: KME steht für Körperliche und Motorische Entwicklung und richtet sich an Kinder mit Einschränkungen des Bewegungsapparates.
+
+Q: Was ist eine Schule mit dem Förderschwerpunkt ESE?
+A: Dies ist eine spezialisierte Bildungseinrichtung, die kleinere Klassen und besonders geschultes Personal für verhaltensauffällige Kinder bietet.
+
+Q: Welcher IQ wird beim Förderschwerpunkt geistige Entwicklung angenommen?
+A: In der Regel wird dieser Schwerpunkt bei einem IQ unter 70 in Verbindung mit Einschränkungen im adaptiven Verhalten in Betracht gezogen.
+
+Q: Wann bekommt ein Kind den Förderschwerpunkt Sprache?
+A: Dies geschieht, wenn die sprachlichen Beeinträchtigungen so massiv sind, dass eine Förderung an der Regelschule ohne Unterstützung nicht mehr ausreicht.
+
+Q: Was gehört zum Förderschwerpunkt Lernen?
+A: Dieser Schwerpunkt wird vergeben, wenn schwerwiegende und dauerhafte Lernprobleme in mehreren Bereichen vorliegen, die nicht durch andere Schwerpunkte erklärt werden können.
+
+Q: Wann förderschwerpunkt ese?
+A: Wenn die seelische Gesundheit oder das soziale Verhalten des Kindes so beeinträchtigt ist, dass es am regulären Unterricht ohne sonderpädagogische Hilfe nicht teilnehmen kann.
+
+### faq
+
+Q: Was genau macht eine Schulbegleitung?
+A: Eine Schulbegleitung unterstützt Kinder und Jugendliche mit besonderem Förderbedarf direkt im Schulalltag. Zu den Aufgaben gehören lebenspraktische Hilfen, die Begleitung in Pausen und die emotionale Unterstützung in Stresssituationen. So wird den Schülern die Teilhabe am regulären Unterricht ermöglicht.
+
+Q: Wer hat Anspruch auf eine Schulbegleitung?
+A: Einen gesetzlichen Anspruch haben Kinder mit einer wesentlichen seelischen, geistigen oder körperlichen Behinderung, die ohne Unterstützung den Schulalltag nicht bewältigen können. Die rechtliche Grundlage hierfür bildet die Eingliederungshilfe.
+
+Q: Wer trägt die Kosten für die Integrationshilfe?
+A: Die Kosten werden nach ausführlicher Prüfung und Bewilligung in der Regel vollständig vom zuständigen örtlichen Jugendamt oder Sozialamt übernommen.
+
+Q: Wie lange dauert es, bis der Antrag genehmigt wird?
+A: Der Prozess kann sich über mehrere Wochen bis hin zu einigen Monaten hinziehen. Nach der Antragstellung folgen meist Termine zur Bedarfsermittlung, das Einholen ärztlicher Stellungnahmen und teils Hospitationen in der Schule. Es ist daher äußerst ratsam, den Antrag so früh wie möglich zu stellen. Oft hilft es auch enorm, sich im Vorfeld von Beratungsstellen oder einem zukünftigen Träger unterstützen zu lassen.
+
+Q: Kann mein Kind trotz Schulbegleitung auf eine Regelschule gehen?
+A: Ja, das ist sogar eines der Hauptziele dieser Maßnahme. Die Begleitung dient ausdrücklich dazu, Inklusion aktiv umzusetzen und dem betroffenen Kind den Besuch einer regulären Schule zu ermöglichen.
+
+Q: Erledigt die Schulbegleitung die Aufgaben der Lehrer?
+A: Nein, die Schulbegleitung übernimmt grundsätzlich keine pädagogischen oder didaktischen Aufgaben der Lehrkräfte. Sie erklärt keinen Unterrichtsstoff und ist in keinem Fall für die Notengebung zuständig. Ihre Rolle ist rein assistierend, um dem Kind das Lernen unter den vorgegebenen Bedingungen überhaupt erst zu erleichtern.
+
+Q: Kann ich mir die Person, die mein Kind begleitet, aussuchen?
+A: Die finale Entscheidung liegt meist beim beauftragten Träger, da dieser das passende Personal entsprechend der spezifischen Diagnose und des ermittelten Bedarfs auswählt. Allerdings finden im Vorfeld fast immer persönliche Kennenlerngespräche statt, um ein Vertrauensverhältnis aufzubauen. Sollte die "Chemie" zwischen Kind und Begleitkraft im Alltag absolut nicht stimmen, kann in enger Absprache mit dem Träger ein Wechsel angestrebt werden.
+
+Q: Was ist ein Nachteilsausgleich im Schulalltag?
+A: Der Nachteilsausgleich ist eine wichtige Maßnahme, die Schülern mit Einschränkungen faire Bedingungen bei der Leistungserbringung schafft, ohne dabei die fachlichen Anforderungen zu senken. Typische Beispiele aus der Praxis sind Zeitzuschläge bei Klassenarbeiten, abgewandelte Prüfungsformate oder die Nutzung spezieller technischer Hilfsmittel.
+
+Q: Braucht die Begleitkraft zwingend eine pädagogische Ausbildung?
+A: Nicht zwingend, da es in diesem Berufsfeld auch viele hochmotivierte und geschulte Quereinsteiger gibt. Ob eine pädagogische Fachkraft, wie etwa ein staatlich anerkannter Erzieher oder Heilpädagoge, notwendig ist, hängt primär vom individuellen Förderbedarf des Kindes ab. Bei besonders komplexen Diagnosen oder stark herausforderndem Verhalten fordern die Ämter oft speziell qualifiziertes Personal. In vielen anderen Fällen reicht jedoch eine fundiert eingearbeitete Assistenzkraft völlig aus.
+
+Q: Wo reiche ich den Antrag auf Schulbegleitung ein?
+A: Bei einer drohenden oder bereits bestehenden seelischen Behinderung (wie zum Beispiel Autismus oder ADHS) ist das Jugendamt der richtige Ansprechpartner. Handelt es sich hingegen um eine geistige oder körperliche Behinderung, muss der Antrag beim örtlichen Sozialamt im Rahmen der Eingliederungshilfe gestellt werden.
+
+## Lexikon
+Es sind keine spezifischen Lexikon-Begriffe auf der Webseite definiert.
+
+## Artikel und Ratgeber
+Es sind keine spezifischen Artikel oder Ratgeber auf der Webseite vorhanden.
+
+## Dienstleistungen
+Die Kernleistung von "Hand in Hand" ist die individuelle Schulbegleitung für Kinder und Jugendliche mit besonderen Bedürfnissen. Diese Unterstützung umfasst die Begleitung im Unterricht, in den Pausen und bei schulischen Aktivitäten.
+
+Die Schulbegleitung zielt darauf ab, die Selbstständigkeit, das Selbstbewusstsein und die echte Teilhabe der Kinder zu fördern. Sie ist speziell auf Kinder mit Autismus, ADHS sowie seelischen, sozialen oder körperlichen Beeinträchtigungen zugeschnitten.
+
+Der Träger arbeitet eng mit Familien, Schulen und Ämtern zusammen, um eine passgenaue und flexible Unterstützung zu gewährleisten. Die Leistungen umfassen auch Beratung und Koordination im Beantragungsprozess.
+
+## Rechtliches
+Die rechtliche Grundlage für die Schulbegleitung bildet die Eingliederungshilfe. Diese ist im Sozialgesetzbuch (SGB) verankert und sichert Kindern mit Behinderungen das Recht auf Teilhabe am Bildungssystem zu.
+
+Die Kosten für die Schulbegleitung werden nach Prüfung und Bewilligung in der Regel vollständig vom zuständigen Jugendamt oder Sozialamt übernommen. Eltern müssen die Kosten nicht selbst tragen.
+
+Die Webseite enthält keine spezifischen rechtlichen Dokumente wie Datenschutzerklärung oder AGB, aber die FAQs geben Auskunft über rechtliche Rahmenbedingungen und Zuständigkeiten.
+
+## Kontakt
+Die E-Mail-Adresse für Anfragen ist info@inklusive-schulbegleitung.de. Dies ist der primäre digitale Kontaktweg für Interessenten.
+
+Telefonisch ist "Hand in Hand" unter der Nummer +491731696192 erreichbar. Diese Nummer dient für direkte telefonische Kontaktaufnahme.
+
+Die Geschäftszeiten sind von Montag bis Freitag, jeweils von 08:00 bis 15:00 Uhr. Außerhalb dieser Zeiten können Anfragen per E-Mail gestellt werden.
+
+Der physische Standort des Trägers ist Am Ortfelde 59, 30916 Isernhagen. Dies ist die offizielle Adresse des Unternehmens.

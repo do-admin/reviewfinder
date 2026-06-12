@@ -1,0 +1,268 @@
+```
+# Webseite: Nicezeit
+## Zuletzt aktualisiert: 20.05.2024
+
+## Überblick über die Webseite
+Nicezeit bietet die Vermietung von Eisfahrrädern für Events in und um Hannover an. Die Webseite richtet sich an Eventplaner, Unternehmen und Privatpersonen, die ihren Gästen handgemachtes Eis von Nicezeit anbieten möchten.
+
+Die Webseite stellt das Eisfahrrad als flexible und charmante Lösung für verschiedenste Veranstaltungen vor. Sie betont die Qualität des Eises, die einfache Logistik und die Möglichkeit, auch vegane Optionen anzubieten.
+
+Der Fokus liegt auf der Dienstleistung der Eisfahrrad-Vermietung, ergänzt durch Informationen zu Sortiment, Logistik und Buchungsmodalitäten. Die Marke Nicezeit steht für handwerkliche Qualität und natürlichen Genuss.
+
+## Wichtigste Entitäten
+
+### ENTITY: Nicezeit
+**TYPE**: Organisation
+**DESCRIPTION**: Nicezeit ist eine moderne Eismanufaktur aus Hannover, die sich auf die handwerkliche Herstellung von Premium-Eis spezialisiert hat. Das Unternehmen bietet sowohl klassische als auch vegane Eissorten an und legt Wert auf natürliche Zutaten ohne künstliche Zusätze. Nicezeit ist bekannt für seine transparente Produktion und seinen lokalen Bezug.
+**RELATIONSHIPS**: Anbieter von Eisfahrrad-Vermietung, Produzent von handgemachtem Eis, Partner von Hannover 96, gourmego, Bauer Banse, Backring Nord, Leibniz, Machwitz Kaffee, Waffelfabrik.
+**CONTEXT**: Die zentrale Marke und der Dienstleister, der auf dieser Webseite beworben wird.
+
+### ENTITY: Eisfahrrad (Ice Cream Bike)
+**TYPE**: Dienstleistung
+**DESCRIPTION**: Das Eisfahrrad ist ein mobiles Verkaufsfahrzeug für Eis, das für Events gemietet werden kann. Es ist kompakt, emissionsfrei und flexibel einsetzbar, sowohl drinnen als auch draußen. Das Eisfahrrad wird inklusive Nicezeit-Eis und geschultem Personal vermietet.
+**RELATIONSHIPS**: Wird von Nicezeit angeboten, enthält Nicezeit-Eis, benötigt geschultes Personal.
+**CONTEXT**: Die Hauptdienstleistung, die auf der Webseite beworben wird.
+
+### ENTITY: Hannover
+**TYPE**: Ort
+**DESCRIPTION**: Hannover ist die Landeshauptstadt Niedersachsens und der primäre Einsatzort für die Eisfahrrad-Vermietung von Nicezeit. Die Marke hat hier ihre Wurzeln und pflegt einen starken lokalen Bezug. Viele Partner und Kunden von Nicezeit sind in Hannover ansässig.
+**RELATIONSHIPS**: Standort von Nicezeit, Einsatzgebiet für Eisfahrrad-Vermietung, Heimat von Hannover 96.
+**CONTEXT**: Der geografische Kernbereich der Geschäftstätigkeit.
+
+### ENTITY: Handgemachtes Eis (Handmade Ice Cream)
+**TYPE**: Konzept
+**DESCRIPTION**: Handgemachtes Eis bei Nicezeit bedeutet die sorgfältige Herstellung von Eissorten ohne künstliche Aromen, Farbstoffe oder Zusatzstoffe. Es wird Wert auf natürliche und oft regionale Zutaten gelegt. Diese Herstellungsweise garantiert eine hohe Qualität und einen unverfälschten Geschmack.
+**RELATIONSHIPS**: Kernprodukt von Nicezeit, wird im Eisfahrrad serviert, auch in veganer Variante verfügbar.
+**CONTEXT**: Beschreibt die Qualität und Herstellungsweise des angebotenen Eises.
+
+### ENTITY: Veganes Eis (Vegan Ice Cream)
+**TYPE**: Produktkategorie
+**DESCRIPTION**: Veganes Eis von Nicezeit wird auf pflanzlicher Basis hergestellt, beispielsweise mit Hafermilch, und enthält keine tierischen Produkte. Es ist eine Option für Gäste mit Laktoseintoleranz oder veganem Lebensstil. Die veganen Sorten sind ebenso cremig und geschmacksintensiv wie die klassischen Varianten.
+**RELATIONSHIPS**: Teil des Nicezeit-Sortiments, kann im Eisfahrrad serviert werden.
+**CONTEXT**: Eine wichtige Produktgruppe, die auf der Webseite hervorgehoben wird.
+
+### ENTITY: Event-Catering (Event Catering)
+**TYPE**: Dienstleistung
+**DESCRIPTION**: Event-Catering durch Nicezeit umfasst die Bereitstellung des Eisfahrrads inklusive Eis und Personal für Veranstaltungen. Es zielt darauf ab, Gästen eine besondere kulinarische Erfahrung zu bieten. Die Dienstleistung ist flexibel an verschiedene Eventgrößen und -typen anpassbar.
+**RELATIONSHIPS**: Wird durch die Miete des Eisfahrrads realisiert, beinhaltet Nicezeit-Personal und Eis.
+**CONTEXT**: Der übergeordnete Zweck der Eisfahrrad-Vermietung.
+
+### ENTITY: Hannover 96
+**TYPE**: Organisation
+**DESCRIPTION**: Hannover 96 ist ein bekannter Sportverein aus Hannover. Nicezeit ist Partner von Hannover 96, was die lokale Verbundenheit der Eismarke unterstreicht. Die Partnerschaft fördert die Sichtbarkeit und das Engagement in der Region.
+**RELATIONSHIPS**: Partner von Nicezeit.
+**CONTEXT**: Ein wichtiger lokaler Partner, der Vertrauen schafft.
+
+### ENTITY: gourmego
+**TYPE**: Organisation
+**DESCRIPTION**: gourmego ist ein Spezialist für natürliche Eisrohstoffe der NAPURESS® Qualität. Sie liefern Nicezeit hochwertige Zutaten ohne künstliche Aromen und Farbstoffe. Diese Partnerschaft sichert die Qualität und Natürlichkeit des Nicezeit-Eises.
+**RELATIONSHIPS**: Lieferant von Nicezeit.
+**CONTEXT**: Ein wichtiger Lieferant für die Eisproduktion.
+
+### ENTITY: Bauer Banse
+**TYPE**: Organisation
+**DESCRIPTION**: Bauer Banse ist ein regionaler Landwirtschaftsbetrieb aus Kakerbeck, der frische Produkte auf Wochenmärkten in Hannover anbietet. Nicezeit bezieht von Bauer Banse regionale Zutaten, was die lokale Wertschöpfungskette stärkt. Die Zusammenarbeit unterstreicht den Anspruch an frische und hochwertige Rohstoffe.
+**RELATIONSHIPS**: Lieferant von Nicezeit.
+**CONTEXT**: Ein wichtiger regionaler Lieferant für Nicezeit.
+
+### ENTITY: Backring Nord
+**TYPE**: Organisation
+**DESCRIPTION**: Backring Nord ist ein großes privates Fachgroßhandelsunternehmen für Eiscafés und Bäckereien in Deutschland. Sie unterstützen Nicezeit mit Qualitätsprodukten, Beratung und zuverlässiger Lieferung. Die Partnerschaft gewährleistet eine professionelle Ausstattung und Versorgung.
+**RELATIONSHIPS**: Lieferant von Nicezeit.
+**CONTEXT**: Ein wichtiger Lieferant für die Ausstattung und Rohstoffe.
+
+### ENTITY: Leibniz
+**TYPE**: Organisation
+**DESCRIPTION**: Bahlsen Leibniz ist ein traditionsreicher Kekshersteller aus Hannover, bekannt für seinen Butterkeks mit 52 Zähnen. Leibniz-Produkte können als Beilage zu Nicezeit-Eis serviert werden, was kreative Kooperationen ermöglicht. Die Marke steht für Qualität und ist ein Symbol für Hannover.
+**RELATIONSHIPS**: Partner von Nicezeit, kann als Beilage zum Eis dienen.
+**CONTEXT**: Ein bekannter lokaler Partner, der das Angebot ergänzt.
+
+### ENTITY: Machwitz Kaffee
+**TYPE**: Organisation
+**DESCRIPTION**: Machwitz Kaffee ist eine in Niedersachsen ausgezeichnete Rösterei, die seit 1883 für Handwerkskunst und fairen Direkthandel steht. Nicezeit kann Machwitz Kaffee für Kaffee-Eis-Kreationen oder als Getränkeoption anbieten. Die Partnerschaft betont den Qualitätsanspruch auch bei Kaffee.
+**RELATIONSHIPS**: Partner von Nicezeit, Lieferant für Kaffee.
+**CONTEXT**: Ein wichtiger lokaler Partner, der das Angebot ergänzt.
+
+### ENTITY: Waffelfabrik
+**TYPE**: Organisation
+**DESCRIPTION**: Die Waffelfabrik produziert professionelle Eiswaffeln und Waffelbecher für Eiscafés und Manufakturen. Nicezeit bezieht von der Waffelfabrik hochwertige und konsistente Waffelprodukte. Diese Partnerschaft sichert die Qualität der Beilagen zum Eis.
+**RELATIONSHIPS**: Lieferant von Nicezeit.
+**CONTEXT**: Ein wichtiger Lieferant für die Eiswaffeln.
+
+### ENTITY: Personal (Staff)
+**TYPE**: Rolle
+**DESCRIPTION**: Das Personal von Nicezeit ist geschult und verantwortlich für die hygienische Portionierung und Ausgabe des Eises am Eisfahrrad. Sie übernehmen auch den Auf- und Abbau des Fahrrads und sorgen für einen reibungslosen Ablauf des Events. Das Personal garantiert die Einhaltung von Hygienestandards und einen professionellen Service.
+**RELATIONSHIPS**: Wird mit dem Eisfahrrad mitgeliefert, ist für die Ausgabe des Eises zuständig.
+**CONTEXT**: Ein integraler Bestandteil der Eisfahrrad-Dienstleistung.
+
+### ENTITY: Probeessen (Tasting)
+**TYPE**: Dienstleistung
+**DESCRIPTION**: Ein Probeessen ermöglicht es Kunden, vor der Buchung für größere Events oder Hochzeiten verschiedene Eissorten von Nicezeit zu verkosten. Es dient der Auswahl der Lieblingssorten und der Sicherstellung der Qualität. Das Probeessen ist ein Service zur Entscheidungsfindung und Qualitätssicherung.
+**RELATIONSHIPS**: Wird von Nicezeit für größere Events angeboten.
+**CONTEXT**: Ein Service für Kunden, die ein Eisfahrrad mieten möchten.
+
+### ENTITY: Stornierungsbedingungen (Cancellation Policy)
+**TYPE**: Konzept
+**DESCRIPTION**: Die Stornierungsbedingungen legen fest, unter welchen Umständen eine Buchung für ein Eisfahrrad kostenfrei oder gegen Gebühr storniert werden kann. Sie sind transparent in jedem Angebot aufgeführt und bieten Flexibilität bei unvorhergesehenen Eventänderungen. Die Bedingungen schaffen Klarheit und Sicherheit für den Kunden.
+**RELATIONSHIPS**: Betrifft die Buchung des Eisfahrrads.
+**CONTEXT**: Wichtige vertragliche Rahmenbedingung für die Dienstleistung.
+
+### ENTITY: Kühlakkus (Cooling Packs)
+**TYPE**: Technologie
+**DESCRIPTION**: Die Kühlakkus sind leistungsstarke Elemente in den Eisfahrrädern, die das Speiseeis ohne aktiven Stromanschluss für bis zu acht Stunden perfekt temperiert halten. Sie ermöglichen den unabhängigen Einsatz des Eisfahrrads an Orten ohne Stromversorgung. Die Kühlakkus gewährleisten die Qualität des Eises auch bei mobilen Einsätzen.
+**RELATIONSHIPS**: Bestandteil des Eisfahrrads, sorgt für Kühlung.
+**CONTEXT**: Technische Ausstattung des Eisfahrrads.
+
+### ENTITY: Eutektik-Kühlplatten (Eutectic Cooling Plates)
+**TYPE**: Technologie
+**DESCRIPTION**: Eutektik-Kühlplatten sind fortschrittliche Kühlelemente, die in den Eisfahrrädern von Nicezeit verwendet werden. Sie speichern Kälte effizient und halten die Temperatur im Eiskasten über Stunden konstant. Diese Technologie trägt maßgeblich zur Qualitätssicherung des Eises bei hohen Außentemperaturen bei.
+**RELATIONSHIPS**: Bestandteil des Eisfahrrads, sorgt für langanhaltende Kühlung.
+**CONTEXT**: Technische Ausstattung des Eisfahrrads.
+
+### ENTITY: Branding (Branding)
+**TYPE**: Konzept
+**DESCRIPTION**: Branding im Kontext des Eisfahrrads bedeutet die Anpassung des vorderen Kastens des Fahrrads an das Corporate Design eines Unternehmens. Dies kann durch individuelle Folien oder Magnetschilder mit Firmenlogo erfolgen. Branding macht das Eisfahrrad zu einem mobilen Werbeträger für den Mieter.
+**RELATIONSHIPS**: Optionale Leistung bei der Miete des Eisfahrrads.
+**CONTEXT**: Eine Anpassungsmöglichkeit für Unternehmenskunden.
+
+## Seitenstruktur
+Die Webseite ist primär eine Landingpage für die Eisfahrrad-Vermietung. Sie enthält einen Hauptbereich mit Informationen zur Dienstleistung, gefolgt von einem umfangreichen FAQ-Bereich.
+
+Die Navigation ist auf die Kernleistung ausgerichtet und bietet direkte Antworten auf häufige Fragen. Es gibt keine weiteren Unterseiten im klassischen Sinne, sondern thematische Abschnitte auf der Hauptseite.
+
+## Seiteninhalt
+
+### Startseite
+
+Die Startseite bewirbt die Miete des Eisfahrrads für Events in Hannover. Sie hebt die Vorteile des handgemachten Nicezeit Eises und die Flexibilität des Eisbikes hervor.
+
+Der Hauptnutzen ist ein unvergesslicher Genuss für Gäste, geliefert direkt zur Eventlocation. Die Seite betont die einfache Logistik und die Möglichkeit, auch vegane Eissorten anzubieten.
+
+Ein Call-to-Action fordert zur Anfrage für ein individuelles Angebot auf. Die Seite präsentiert Nicezeit als leidenschaftlichen, lokalen und qualitätsbewussten Anbieter.
+
+### Partner / Vertrauen
+
+Dieser Abschnitt listet Partner von Nicezeit auf, die Vertrauen schaffen und die lokale Verankerung der Marke unterstreichen. Jeder Partner wird kurz beschrieben, um seine Relevanz für Nicezeit oder die Region zu erklären.
+
+Die Partnerliste umfasst lokale Größen wie Hannover 96 und regionale Lieferanten wie Bauer Banse. Auch überregionale Partner wie gourmego und Backring Nord sind aufgeführt, die die Qualität der Rohstoffe und Ausstattung sichern.
+
+Leibniz und Machwitz Kaffee sind weitere Partner, die das Angebot von Nicezeit ergänzen oder die lokale Identität stärken. Die Waffelfabrik liefert die passenden Waffeln zum Eis.
+
+## FAQ-Inhalte
+
+### Buchung & Einsatzmöglichkeiten
+
+FRAGE: Was kostet die Miete für ein Eisfahrrad in Hannover?
+ANTWORT: Die Preise für ein Eisfahrrad variieren je nach Mietdauer und der gewünschten Eis-Menge. Im Grundpreis sind meist die Anlieferung in der Region Hannover, die Abholung und die professionelle Endreinigung enthalten. Für ein exaktes, auf dich zugeschnittenes Angebot empfehlen wir eine kurze Anfrage mit der geschätzten Gästezahl.
+
+FRAGE: Kann das Eisfahrrad auch in Innenräumen oder Büros eingesetzt werden?
+ANTWORT: Ja, das ist tatsächlich einer der größten Vorteile unseres Eisbikes! Da es absolut keine Abgase produziert und mühelos durch handelsübliche Doppeltüren passt, lässt es sich problemlos in Lobbys, Konferenzräumen oder auf der Büroetage aufstellen. So bringst du die süße Erfrischung direkt an den Schreibtisch deiner Kollegen.
+
+FRAGE: Für welche Events eignet sich ein Eisrad am besten?
+ANTWORT: Ein Eisfahrrad ist extrem flexibel einsetzbar und passt wunderbar zu romantischen Hochzeiten, lockeren Sommerfesten oder runden Geburtstagen. Auch für Geschäftseröffnungen oder als sympathischer Eyecatcher in Fußgängerzonen wird es sehr gerne gebucht. Es sorgt durch seinen Retro-Charme sofort für eine aufgelockerte, fröhliche Atmosphäre.
+
+FRAGE: Wie viel Vorlauf wird für die Reservierung des Eisfahrrads benötigt?
+ANTWORT: Gerade in den heißen Sommermonaten sind unsere Eisräder in Hannover sehr begehrt. Wir raten daher zu einer frühzeitigen Vorlaufzeit von mindestens vier bis acht Wochen. Spontane Anfragen sind natürlich jederzeit möglich, hängen dann aber stark von unserer aktuellen Auslastung ab.
+
+FRAGE: Kann ich das Eisfahrrad auch ohne Personal mieten?
+ANTWORT: Aktuell bieten wir unsere Eisfahrräder ausschließlich mit unserem eigenen, geschulten Servicepersonal an. So garantieren wir, dass die strengen Hygienestandards eingehalten werden und jeder Gast eine perfekt portionierte Kugel erhält. Zudem übernimmt unser Team den kompletten Auf- und Abbau, sodass du dich entspannt zurücklehnen kannst.
+
+FRAGE: Bietet ihr vor der Buchung für eine Hochzeit ein Probeessen an?
+ANTWORT: Ja, für größere Events und Hochzeiten laden wir euch gerne zu einem Probeessen ein. Dort könnt ihr euch durch unser aktuelles Sortiment probieren und eure Lieblingssorten in Ruhe auswählen. Sprecht uns einfach bei der Terminanfrage auf diese Möglichkeit an.
+
+FRAGE: Wie sind die Stornierungsbedingungen, falls mein Event ausfällt?
+ANTWORT: Wir wissen, dass sich Pläne manchmal unvorhergesehen ändern können. Daher bieten wir flexible Stornierungsfristen an, die wir transparent in jedem Angebot aufschlüsseln. In der Regel ist eine kostenfreie Stornierung bis zu einer bestimmten Anzahl von Tagen vor dem Event problemlos machbar.
+
+FRAGE: Eignet sich das Eisfahrrad auch für Kindergeburtstage?
+ANTWORT: Ein Eisfahrrad ist das absolute Highlight auf jedem Kindergeburtstag! Wir bringen auf Wunsch extra bunte Streusel, kleine Überraschungen und besonders kinderfreundliche Eissorten mit. Dank der kompakten Größe können sich die kleinen Gäste ihr Eis auf angenehmer Höhe direkt am Rad abholen.
+
+FRAGE: Lassen sich Eiswagen und Eisfahrrad für Mega-Events kombinieren?
+ANTWORT: Für sehr große Veranstaltungen oder Festivals in Hannover bieten wir gerne eine Kombination aus mehreren Fahrzeugen an. Während der klassische Eiswagen als zentraler Anlaufpunkt dient, kann das flexible Eisfahrrad abgelegenere Ecken des Geländes versorgen. So werden lange Warteschlangen vermieden und alle Gäste kommen schnell an ihre süße Abkühlung.
+
+### Platzbedarf & Logistik
+
+FRAGE: Wie kommt das Eisfahrrad zu meiner Eventlocation?
+ANTWORT: Wir kümmern uns um die komplette Logistik für dein Fest. Das Fahrrad wird mit einem speziellen Transporter sicher zu deiner Location gebracht und vor Ort von uns ausgeladen. Du musst dich um den sperrigen Transport also absolut nicht kümmern.
+
+FRAGE: Braucht das Eisbike zwingend einen Stromanschluss?
+ANTWORT: Nicht zwingend, denn unsere modernen Eisfahrräder verfügen über spezielle, leistungsstarke Kühlakkus. Diese halten das Speiseeis auch ohne aktiven Stromanschluss für bis zu acht Stunden perfekt temperiert. Das macht uns extrem unabhängig, sodass wir auch mitten auf einer Wiese im Park oder am Maschsee servieren können. Wenn du das Rad für einen längeren Zeitraum über den ganzen Tag buchst, ist eine 230-Volt-Steckdose zum gelegentlichen Nachladen jedoch von Vorteil.
+
+FRAGE: Wie viel Platz nimmt das Eisfahrrad in Anspruch?
+ANTWORT: Das Bike ist sehr kompakt und benötigt deutlich weniger Stellfläche als ein klassischer Eiswagen. Eine ebenerdige Fläche von etwa zwei mal zwei Metern reicht völlig aus, damit unser Personal bequem portionieren kann. Zudem sollte der Untergrund möglichst fest sein, um einen sicheren Stand beim Kugelformen zu gewährleisten.
+
+FRAGE: Passt das Fahrrad wirklich durch jede normale Zimmertür?
+ANTWORT: Unser Eisbike ist so konstruiert, dass es durch alle Standardtüren mit einer Mindestbreite von 90 Zentimetern passt. Auch Aufzüge sind meist kein Problem, sofern sie eine ausreichende Tiefe aufweisen. Bitte messe die genauen Durchgänge an deiner Location im Vorfeld kurz aus, um am Eventtag unangenehme Überraschungen zu vermeiden.
+
+FRAGE: Wie lange dauert der Aufbau des Eisfahrrads vor Ort?
+ANTWORT: Unser Team ist extrem routiniert und benötigt für den Aufbau und die Vorbereitung in der Regel nicht mehr als 20 bis 30 Minuten. Wir treffen immer rechtzeitig vor dem vereinbarten Ausgabe-Start an der Location ein. So stellen wir sicher, dass pünktlich zur abgemachten Uhrzeit die erste Kugel Eis im Becher landet.
+
+FRAGE: Verfügt das Eisfahrrad über eine eigene Beleuchtung für Abendveranstaltungen?
+ANTWORT: Ja, unser nostalgisches Eisrad kann mit einer stimmungsvollen LED-Beleuchtung ausgestattet werden. Das sorgt besonders in den späten Abendstunden oder bei abgedunkelten Indoor-Events für eine gemütliche Atmosphäre. So wird der Eisstand auch nach Sonnenuntergang zum leuchtenden Mittelpunkt deiner Party.
+
+FRAGE: Kann das Fahrrad selbstständig zur Location gefahren werden?
+ANTWORT: Obwohl es sich um ein funktionstüchtiges Fahrrad handelt, legen wir die Strecken zur Eventlocation nicht radelnd zurück. Das Gewicht des Aufbaus und der Kühltechnik ist enorm, weshalb der Transport aus Sicherheitsgründen immer mit einem unserer Lieferwagen erfolgt. Vor Ort schieben wir das Rad dann die letzten Meter präzise an seinen Bestimmungsort.
+
+### Sortiment & Konditionen
+
+FRAGE: Wie viele Eissorten passen in das Fahrrad?
+ANTWORT: Unsere kompakte, aber erstaunlich geräumige Vitrine auf dem Eisrad bietet Platz für bis zu sechs verschiedene Eissorten gleichzeitig. Das ist in der Praxis mehr als genug Auswahl, um alle geschmacklichen Vorlieben der Gäste abzudecken.
+
+FRAGE: Gibt es eine Mindestabnahmemenge bei der Buchung des Eisrads?
+ANTWORT: Ja, für den Einsatz des Eisfahrrads auf privaten oder gewerblichen Feiern berechnen wir eine Mindestabnahmemenge, die in der Regel bei 100 Kugeln liegt. Bei kleineren Events mit weniger Gästen wird diese Menge dann einfach als Basispauschale abgerechnet. So können sich deine Gäste auch problemlos einen Nachschlag holen, ohne dass dein Budget aus dem Ruder läuft.
+
+FRAGE: Können auch Waffeln und Toppings am Fahrrad serviert werden?
+ANTWORT: Selbstverständlich bringen wir auch beim Einsatz des Eisbikes unsere beliebten knusprigen Waffeln, Eisbecher und verschiedene Saucen mit. Auf einer kleinen Ablage am Rad können wir zusätzlich bunte Streusel und weitere Leckereien arrangieren.
+
+FRAGE: Darf ich übriges Eis nach der Veranstaltung behalten?
+ANTWORT: Aus strengen hygienischen Gründen und zur Wahrung der Kühlkette nehmen wir eventuelle Reste am Ende der Ausgabezeit wieder mit. Unser Personal portioniert die Mengen jedoch so geschickt, dass am Schluss meist nur sehr wenig übrig bleibt. Wenn du am Ende noch Platz im Tiefkühler hast, füllen wir dir aber gerne noch schnell ein paar letzte Becher für die Gefriertruhe ab.
+
+FRAGE: Gibt es spezielles Eis mit Alkohol für Erwachsenen-Partys?
+ANTWORT: Für reine Erwachsenenveranstaltungen kreieren wir auf Wunsch auch ausgefallene Sorbets mit einem Schuss Alkohol. Beliebte Varianten sind hierbei unser spritziges Aperol-Spritz-Eis oder ein erfrischendes Gin-Tonic-Sorbet. Diese besonderen Sorten müssen jedoch bei der Buchung explizit angefragt werden und werden strikt nur an volljährige Gäste ausgegeben.
+
+FRAGE: Können auch Eiskaffee oder Eisschokolade am Fahrrad zubereitet werden?
+ANTWORT: Da uns am Eisfahrrad der Platz für eine professionelle Kaffeemaschine fehlt, bieten wir standardmäßig keine klassischen Eiskaffees an. Wir bringen aber gerne gekühlten Filterkaffee in kleinen Dispensern mit, um auf Wunsch eine rustikale "Cold Brew" Variante mit einer leckeren Kugel Vanilleeis zu zaubern.
+
+### faq
+
+FRAGE: Warum sollte ich mich für ein Eisfahrrad statt eines klassischen Eiswagens entscheiden?
+ANTWORT: Ein Eisfahrrad ist die perfekte Wahl, wenn der Platz an deiner Location begrenzt ist oder du das Eis direkt in einem Gebäude servieren möchtest. Es versprüht einen ganz besonderen, nostalgischen Charme und wirkt durch seine kompakte Größe oft noch nahbarer auf die Gäste. Zudem ist es zu 100 % emissionsfrei und extrem leise, da während des Betriebs kein störender Motor läuft. Für Events in engen Hinterhöfen oder direkt in Konferenzräumen ist das Bike daher unserem großen Van funktional überlegen.
+
+FRAGE: Bietet Nicezeit das Eisfahrrad auch auf Messen in Hannover an?
+ANTWORT: Ja, unsere mobilen Eisbikes sind ein absoluter Besuchermagnet auf dem gesamten Hannoveraner Messegelände. Sie locken durch ihr sympathisches Design gezielt Laufkundschaft an deinen Stand und bieten eine ungezwungene Möglichkeit, mit potenziellen Kunden ins Gespräch zu kommen. Ein leckeres Eis bricht das sprichwörtliche "Eis" bei geschäftlichen Kontakten meist in Sekundenschnelle.
+
+FRAGE: Lässt sich das Eisfahrrad mit einem Firmenlogo branden?
+ANTWORT: Absolut! Der vordere Kasten des Fahrrads bietet schöne glatte Flächen, die wir gerne mit individuellen Folien oder Magnetschildern an dein Corporate Design anpassen. Auch farblich exakt abgestimmte Servietten oder Eisbecher mit deinem aufgedruckten Logo sind problemlos realisierbar. So wird das historische Rad zu einem innovativen und leckeren Werbeträger für dein Unternehmen.
+
+FRAGE: Ist ein Eisfahrrad umweltfreundlicher als ein Eiswagen?
+ANTWORT: Definitiv, denn das Eisfahrrad kühlt die Sorten autark über spezielle Kälteplatten, ohne dass ein Verbrennungsmotor laufen oder Abgase erzeugt werden müssen. Zusammen mit unseren biologisch abbaubaren Bechern und den essbaren Waffeln ist dies die nachhaltigste Form, dein Event in Hannover kulinarisch zu bereichern.
+
+FRAGE: Wer bedient das Eisbike auf meiner Feier?
+ANTWORT: Auch bei der Buchung unseres kompakten Eisfahrrads ist immer mindestens ein professioneller Mitarbeiter von Nicezeit vor Ort. Dieser übernimmt das hygienisch einwandfreie Portionieren, die Ausgabe an die Gäste und hält den Arbeitsbereich kontinuierlich sauber. Du kannst dich also voll und ganz entspannen und als Gastgeber dein Fest genießen.
+
+FRAGE: Wie lange bleibt das Eis im Fahrrad auch im Hochsommer kalt?
+ANTWORT: Dank der hervorragenden Isolierung und den leistungsstarken Eutektik-Kühlplatten bleibt die Temperatur im Eiskasten für sechs bis acht Stunden konstant auf dem perfekten Level. Selbst bei Außentemperaturen von über 30 Grad im Schatten musst du dir keine Sorgen um unansehnlich schmelzendes Eis machen. Deine Gäste bekommen von der ersten bis zur letzten Kugel absolute Premium-Qualität serviert.
+
+FRAGE: Kann ich das Eisrad auch für private Gartenpartys in engen Hinterhöfen mieten?
+ANTWORT: Genau dafür wurde das Eisbike ursprünglich konzipiert! Es lässt sich im Gegensatz zum großen Lieferwagen leicht durch normale Gartentore schieben und findet auch in der kleinsten Ecke deines Grundstücks Platz. Solange der Zugang zum Garten keine steilen Treppen oder extrem weichen Untergrund aufweist, manövrieren wir das Rad direkt zu deiner Partygesellschaft.
+
+FRAGE: Sind vegane Eissorten für das Fahrrad verfügbar?
+ANTWORT: Selbstverständlich kannst du die Sorten für das Eisbike völlig frei aus unserem aktuellen, großen Angebot wählen. Dazu gehören immer auch herrlich fruchtige, rein vegane Sorbets oder leckere vegane Milcheis-Alternativen auf Haferbasis. So stellst du unkompliziert sicher, dass auch Gäste mit einer Laktoseintoleranz oder einem veganen Lebensstil voll auf ihre Kosten kommen.
+
+FRAGE: Was passiert mit dem Eisfahrrad, wenn es beim Outdoor-Event regnet?
+ANTWORT: Wir bringen standardmäßig einen schönen, passenden Sonnenschirm mit, der nicht nur angenehmen Schatten spendet, sondern das Fahrrad und unseren Eisverkäufer auch vor leichtem Sommer-Nieselregen schützt. Bei stärkerem Unwetter empfehlen wir jedoch, das kompakte Bike einfach unter ein Zelt, ein Vordach oder direkt nach drinnen ins Trockene zu schieben. Genau diese unglaubliche Flexibilität macht das Fahrrad so besonders wetterunabhängig für jede Art von Veranstaltung.
+
+FRAGE: Kann ich das Eisfahrrad für eine Hochzeit am Steinhuder Meer buchen?
+ANTWORT: Ja, wir transportieren unsere Eisräder mit unserem Fuhrpark auch über die direkten Stadtgrenzen von Hannover hinaus. Das Steinhuder Meer ist eine wunderschöne Kulisse für feierliche Hochzeiten und wir beliefern die dortigen Event-Locations sehr gerne mit unseren Bikes. Für solche etwas weiteren Strecken berechnen wir lediglich eine transparente und faire, entfernungsabhängige Anfahrtspauschale.
+
+## Leistungen
+Nicezeit bietet die Vermietung von Eisfahrrädern für Events an. Die Dienstleistung umfasst die Anlieferung, den Aufbau, die Bereitstellung von Nicezeit-Eis und geschultem Personal sowie den Abbau und die Reinigung.
+
+Das Eisfahrrad kann für private Feiern wie Hochzeiten und Kindergeburtstage sowie für geschäftliche Anlässe wie Messen und Firmenevents gebucht werden. Es ist eine flexible Lösung für Innen- und Außenbereiche.
+
+Optional können Waffeln, Toppings und sogar spezielle Eissorten mit Alkohol angeboten werden. Auch ein Branding des Eisfahrrads mit Firmenlogo ist möglich, um es als Werbeträger zu nutzen.
+
+## Kontakt
+Die Kontaktaufnahme für Anfragen und Buchungen erfolgt über die E-Mail-Adresse info@nicezeit.com oder telefonisch unter +4951147315000. Nicezeit ist unter der Adresse Podbielskistraße 6, 30163 Hannover, erreichbar.
+
+Die Öffnungszeiten sind saisonal bedingt, in der Regel täglich von 12:00 bis 19:00 Uhr. Es wird empfohlen, die aktuellen saisonalen Öffnungszeiten zu beachten.
+```

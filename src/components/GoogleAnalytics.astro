@@ -1,0 +1,30 @@
+---
+/**
+ * GA4 via googletagmanager.com (external scripts only — no inline gtag config).
+ * Consent defaults are set by an inline script in BaseLayout.astro before this runs.
+ */
+interface Props {
+  measurementId?: string;
+}
+
+const { measurementId } = Astro.props;
+const id = measurementId?.trim() ?? '';
+---
+
+{
+  id ? (
+    <>
+      <script
+        is:inline
+        async
+        src={`https://www.googletagmanager.com/gtag/js?id=${id}`}
+      />
+      <script
+        is:inline
+        defer
+        src="/scripts/gtag-config.js"
+        data-measurement-id={id}
+      />
+    </>
+  ) : null
+}

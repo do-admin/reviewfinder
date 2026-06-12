@@ -1,0 +1,73 @@
+---
+/**
+ * Reusable Schema.org JSON-LD component.
+ * Renders one <script type="application/ld+json"> per schema.
+ * Use "prebuilt" for global schemas (Organization, WebSite from schema-organization).
+ * Use "schemas" for page-specific schemas from page JSON (article, breadcrumb, etc.).
+ * Use "faq" to derive FAQPage JSON-LD from the page's faq section (single source of truth).
+ */
+import type { SchemaComponent, SchemaOrgType } from '@/lib/schema-org';
+import { buildSchemaJsonLd, buildSchemaJsonLdMultiple } from '@/lib/schema-org';
+
+/** FAQ section shape from page JSON (e.g. pages *.json faq). */
+export interface FaqSection {
+  title?: string;
+  items?: Array<{ question?: string; answer?: string }>;
+}
+
+/** Page JSON schema entry (schemaType may be string from JSON). */
+export interface Props {
+  /** Pre-built JSON-LD (e.g. Organization + WebSite from getGlobalSchemaPrebuilt()). Rendered first on every page. */
+  prebuilt?: Array<Record<string, unknown>> | null;
+  /** Page-specific schema components (article, breadcrumb, etc.). Organization and website are skipped (use prebuilt). FAQ comes from faq prop. */
+  schemas?: Array<{
+    id: string;
+    schemaType: string;
+    data: Record<string, unknown>;
+  }> | null;
+  /** FAQ section from page JSON (e.g. productPageJson.faq). When set, FAQPage JSON-LD is generated from faq.items – single source of truth. */
+  faq?: FaqSection | null;
+  /** Optional base URL for resolving relative URLs (defaults to getAbsoluteUrl('/')). */
+  siteUrl?: string;
+}
+
+const { prebuilt = null, schemas = null, faq = null, siteUrl } = Astro.props;
+
+const prebuiltList = Array.isArray(prebuilt) ? prebuilt : [];
+const list = Array.isArray(schemas) ? schemas : [];
+// Organization and website come from prebuilt; legacy 'faq' from faq prop.
+// Skip faqPage in schemas when faq prop is set (single source of truth, no duplicate FAQPage).
+const SKIP_SCHEMA_TYPES = ['faq', 'organization', 'website'];
+const hasFaqProp = !!(faq?.items && faq.items.length > 0);
+const normalizedList: SchemaComponent[] = list
+  .filter(
+    (s) =>
+      !!s?.schemaType &&
+      !!s?.data &&
+      !SKIP_SCHEMA_TYPES.includes(String(s.schemaType).toLowerCase()) &&
+      !(hasFaqProp && String(s.schemaType).toLowerCase() === 'faqpage')
+  )
+  .map((s) => ({ id: s.id, schemaType: s.schemaType as SchemaOrgType, data: s.data }));
+const fromSchemas =
+  normalizedList.length > 0
+    ? buildSchemaJsonLdMultiple(normalizedList, siteUrl ? { siteUrl } : undefined)
+    : [];
+const faqJsonLd =
+  faq?.items && faq.items.length > 0
+    ? buildSchemaJsonLd(
+        'faq',
+        { name: faq.title, items: faq.items },
+        siteUrl ? { siteUrl } : undefined
+      )
+    : null;
+const allJsonLd = [
+  ...prebuiltList,
+  ...(faqJsonLd ? [faqJsonLd] : []),
+  ...fromSchemas,
+];
+---
+
+{allJsonLd.length > 0 &&
+  allJsonLd.map((jsonLd) => (
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  ))}

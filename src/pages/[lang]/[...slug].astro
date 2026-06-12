@@ -1,0 +1,479 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { Header } from '@/components/Header';
+import { Footer } from '@/components/Footer';
+import DatenschutzContent from '@/components/DatenschutzContent';
+import ImpressumContent from '@/components/ImpressumContent';
+import UeberUnsContent from '@/components/UeberUnsContent';
+import { Heading } from '@/components/Heading';
+import { FaqXxlContent } from '@/components/FaqXxlContent';
+import { loadPageContext } from '@/lib/page-data';
+import { buildHeaderStrings } from '@/lib/client-island-strings';
+import { SUPPORTED_LANGUAGES } from '@/lib/language';
+import {
+  ROUTABLE_PAGE_NAMES,
+  getLocalizedSlug,
+  getPageNameFromSlug,
+  type RoutablePageName,
+} from '@/lib/route-slugs';
+import { injectTrustLogos } from '@/lib/trust-data';
+import type { FaqXxlGroup } from '@/types/page';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const siteIdEnv =
+  typeof import.meta.env.SITE_ID === 'string' ? import.meta.env.SITE_ID : '';
+const preferredId =
+  import.meta.env.DEV && siteIdEnv
+    ? siteIdEnv
+    : import.meta.env.SITE_ID ||
+      import.meta.env.PAGE_ID ||
+      '';
+
+export function getStaticPaths() {
+  return SUPPORTED_LANGUAGES.flatMap((lang) =>
+    ROUTABLE_PAGE_NAMES.map((pageName) => ({
+      params: { lang, slug: getLocalizedSlug(pageName, lang) },
+      props: { pageName },
+    }))
+  );
+}
+
+const { pageName: pageNameProp } = Astro.props as { pageName: RoutablePageName };
+const { lang, slug: slugParam } = Astro.params;
+const language = lang as import('@/lib/language').SupportedLanguage;
+
+if (!slugParam || getPageNameFromSlug(slugParam, language) !== pageNameProp) {
+  return Astro.redirect(`/${lang}/${getLocalizedSlug(pageNameProp, language)}`);
+}
+
+const pageName = pageNameProp;
+const localizedSlug = getLocalizedSlug(pageName, language);
+const pathForSeo = `${lang}/${localizedSlug}`;
+
+function renderMarkdown(md: string): string {
+  if (!md) return '';
+  const lines = md.split('\n');
+  const html: string[] = [];
+  let inTable = false;
+  let inList = false;
+  let listType: 'ul' | 'ol' = 'ul';
+
+  function inlineFormat(text: string): string {
+    text = text.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>');
+    text = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    text = text.replace(/\*(.+?)\*/g, '<em>$1</em>');
+    text = text.replace(/`(.+?)`/g, '<code>$1</code>');
+    text = text.replace(
+      /\[([^\]]+)\]\(([^)]+)\)/g,
+      '<a href="$2" class="text-primary underline">$1</a>'
+    );
+    return text;
+  }
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]!;
+    if (line.startsWith('|')) {
+      if (/^\|[\s-:|]+\|$/.test(line)) continue;
+      if (!inTable) {
+        if (inList) {
+          html.push(listType === 'ul' ? '</ul>' : '</ol>');
+          inList = false;
+        }
+        inTable = true;
+        html.push(
+          '<div class="overflow-x-auto my-4"><table class="w-full text-sm border-collapse">'
+        );
+        const cells = line.split('|').filter((c) => c.trim() !== '');
+        html.push('<thead><tr>');
+        cells.forEach((c) =>
+          html.push(
+            `<th class="border border-border px-3 py-2 text-left font-semibold bg-muted">${inlineFormat(c.trim())}</th>`
+          )
+        );
+        html.push('</tr></thead><tbody>');
+        continue;
+      }
+      const cells = line.split('|').filter((c) => c.trim() !== '');
+      html.push('<tr>');
+      cells.forEach((c) =>
+        html.push(
+          `<td class="border border-border px-3 py-2">${inlineFormat(c.trim())}</td>`
+        )
+      );
+      html.push('</tr>');
+      continue;
+    }
+    if (inTable) {
+      html.push('</tbody></table></div>');
+      inTable = false;
+    }
+    if (line.startsWith('### ')) {
+      if (inList) {
+        html.push(listType === 'ul' ? '</ul>' : '</ol>');
+        inList = false;
+      }
+      html.push(
+        `<h3 class="text-xl font-bold mt-8 mb-3 font-heading">${inlineFormat(line.slice(4))}</h3>`
+      );
+      continue;
+    }
+    if (line.startsWith('## ')) {
+      if (inList) {
+        html.push(listType === 'ul' ? '</ul>' : '</ol>');
+        inList = false;
+      }
+      html.push(
+        `<h2 class="text-2xl font-bold mt-10 mb-4 font-heading text-primary">${inlineFormat(line.slice(3))}</h2>`
+      );
+      continue;
+    }
+    if (line.startsWith('# ')) {
+      if (inList) {
+        html.push(listType === 'ul' ? '</ul>' : '</ol>');
+        inList = false;
+      }
+      html.push(
+        `<h2 class="text-3xl font-bold mt-6 mb-4 font-heading">${inlineFormat(line.slice(2))}</h2>`
+      );
+      continue;
+    }
+    if (/^[-*]\s/.test(line)) {
+      if (!inList || listType !== 'ul') {
+        if (inList) html.push(listType === 'ul' ? '</ul>' : '</ol>');
+        html.push('<ul class="list-disc list-inside space-y-1 my-2">');
+        inList = true;
+        listType = 'ul';
+      }
+      html.push(`<li>${inlineFormat(line.replace(/^[-*]\s/, ''))}</li>`);
+      continue;
+    }
+    if (/^\d+\.\s/.test(line)) {
+      if (!inList || listType !== 'ol') {
+        if (inList) html.push(listType === 'ul' ? '</ul>' : '</ol>');
+        html.push('<ol class="list-decimal list-inside space-y-1 my-2">');
+        inList = true;
+        listType = 'ol';
+      }
+      html.push(`<li>${inlineFormat(line.replace(/^\d+\.\s/, ''))}</li>`);
+      continue;
+    }
+    if (inList) {
+      html.push(listType === 'ul' ? '</ul>' : '</ol>');
+      inList = false;
+    }
+    if (line.trim() === '') {
+      const nextLine = i + 1 < lines.length ? lines[i + 1]! : '';
+      if (nextLine.trim() === '') {
+        html.push('<div class="my-4"></div>');
+        i++;
+      }
+      continue;
+    }
+    if (/^---+$/.test(line.trim())) {
+      html.push('<hr class="my-6 border-border" />');
+      continue;
+    }
+    html.push(`<p class="my-2 leading-relaxed">${inlineFormat(line)}</p>`);
+  }
+  if (inTable) html.push('</tbody></table></div>');
+  if (inList) html.push(listType === 'ul' ? '</ul>' : '</ol>');
+  return html.join('\n');
+}
+
+let ctx = null as ReturnType<typeof loadPageContext>;
+if (pageName === 'faq' || pageName === 'grounding') {
+  if (preferredId) {
+    ctx = loadPageContext(preferredId, language, { pageName });
+  }
+} else {
+  ctx = loadPageContext(preferredId, language, { pageName });
+}
+
+if (!ctx) {
+  return Astro.redirect(`/${lang}/coming-soon`);
+}
+
+const { pageData, clientDomain, srcPathInfo, languageConfig, alternates } = ctx;
+const pageDataWithLanguage = { ...pageData, language };
+const headerPageData = {
+  id: pageData.id,
+  language,
+  business: pageData.business,
+  header: pageData.header,
+  hero: pageData.hero,
+} as unknown as typeof pageDataWithLanguage;
+const headerStrings = buildHeaderStrings(headerPageData);
+const canonicalPageUrl = `${clientDomain}/${pathForSeo}`;
+
+let faqGroups: FaqXxlGroup[] = [];
+let faqPageHero: { h1: string; lead: string } | null = null;
+let groundingHtml = '';
+
+await injectTrustLogos(pageData, language);
+
+if (pageName === 'faq') {
+  const faqPage = pageData as unknown as {
+    hero: { h1: string; lead: string };
+    faqDataFile?: string;
+  };
+  faqPageHero = faqPage.hero;
+  const faqDataModules = {
+    ...import.meta.glob<{ default: FaqXxlGroup[] }>(
+      '/src/data/current/faq-xxl.json'
+    ),
+    ...import.meta.glob<{ default: FaqXxlGroup[] }>(
+      '/src/data/current/faq-xxl-*.json'
+    ),
+  };
+  const targetFile = faqPage.faqDataFile;
+  if (targetFile) {
+    const base = targetFile.replace(/\.json$/, '');
+    const candidates = [`${base}-${language}.json`, targetFile];
+    const matchKey = candidates
+      .map((name) =>
+        Object.keys(faqDataModules).find((k) => k.endsWith(`/${name}`))
+      )
+      .find(Boolean);
+    if (matchKey) {
+      const mod = await faqDataModules[matchKey]();
+      faqGroups = mod.default;
+    }
+  }
+}
+
+if (pageName === 'grounding') {
+  let groundingMarkdown = '';
+  try {
+    const dataDir = path.resolve('src/data/current');
+    const langFile = path.join(dataDir, `grounding-${language}.md`);
+    const baseFile = path.join(dataDir, 'grounding.md');
+    const target = fs.existsSync(langFile) ? langFile : baseFile;
+    groundingMarkdown = fs.readFileSync(target, 'utf-8');
+  } catch {
+    /* */
+  }
+  if (!groundingMarkdown.trim()) {
+    return Astro.redirect(`/${lang}/coming-soon`);
+  }
+  groundingHtml = renderMarkdown(groundingMarkdown);
+}
+
+const datenschutzTitle = pageData.datenschutz?.pageTitle ?? 'Datenschutz';
+const impressumTitle = pageData.impressum?.pageTitle ?? 'Impressum';
+const ueberUnsPageTitle = pageData.ueberUns?.pageTitle ?? 'Über Uns';
+const ueberUnsPageHeading = pageData.ueberUns?.pageHeading?.trim() || '';
+const ueberUnsHeroH1 = pageData.ueberUns?.h1?.trim() ?? '';
+const ueberUnsCustomHeading = ueberUnsPageHeading || ueberUnsHeroH1;
+const ueberUnsBrand = pageData.business.name ?? '';
+const ueberUnsShowBrandAfter =
+  !ueberUnsCustomHeading &&
+  ueberUnsBrand &&
+  !ueberUnsPageTitle.toLowerCase().includes(ueberUnsBrand.toLowerCase());
+const ueberUnsHeadingPrimary = ueberUnsCustomHeading || ueberUnsPageTitle;
+
+let breadcrumbSecondName = '';
+if (pageName === 'datenschutz') breadcrumbSecondName = datenschutzTitle;
+else if (pageName === 'impressum') breadcrumbSecondName = impressumTitle;
+else if (pageName === 'ueber-uns') breadcrumbSecondName = ueberUnsPageTitle;
+else if (pageName === 'faq') breadcrumbSecondName = 'FAQ';
+else if (pageName === 'grounding') breadcrumbSecondName = 'Grounding';
+
+const breadcrumbSchema = {
+  id: 'breadcrumb',
+  schemaType: 'breadcrumb' as const,
+  data: {
+    itemListElement: [
+      { name: 'Home', item: `${clientDomain}/${lang}` },
+      { name: breadcrumbSecondName, item: canonicalPageUrl },
+    ],
+  },
+};
+
+const allFaqItems = faqGroups.flatMap((g) =>
+  g.faqs.map((f) => ({ question: f.question, answer: f.answer }))
+);
+const faqStructuredData =
+  pageName === 'faq' && faqPageHero && allFaqItems.length > 0
+    ? { title: faqPageHero.h1, items: allFaqItems }
+    : undefined;
+
+const layoutTitle =
+  pageName === 'grounding'
+    ? `${pageData.business.name} - Grounding`
+    : pageData.metadata.title;
+const layoutDescription = pageData.metadata.description;
+const md = pageData.metadata;
+const og = md.openGraph;
+const openGraphImages = og?.images ?? [];
+const twitterImages =
+  md.twitter?.images ??
+  openGraphImages.map((img) => img.url).filter(Boolean);
+const layoutOpenGraph =
+  pageName === 'ueber-uns'
+    ? {
+        title: og?.title ?? md.title,
+        description: og?.description ?? md.description,
+        url: canonicalPageUrl,
+        images: openGraphImages,
+        locale: languageConfig.locale,
+        siteName: pageData.business.name,
+      }
+    : {
+        title: pageData.metadata.openGraph.title,
+        description: pageData.metadata.openGraph.description,
+        url: canonicalPageUrl,
+        images: pageData.metadata.openGraph.images,
+        locale: languageConfig.locale,
+        siteName: pageData.business.name,
+      };
+const layoutTwitter =
+  pageName === 'ueber-uns'
+    ? {
+        title: md.twitter?.title ?? md.title,
+        description: md.twitter?.description ?? md.description,
+        images: twitterImages,
+      }
+    : {
+        title: pageData.metadata.twitter.title,
+        description: pageData.metadata.twitter.description,
+        images: pageData.metadata.twitter.images,
+      };
+
+const layoutFaq =
+  pageName === 'faq' ? faqStructuredData : pageData.faq;
+---
+
+<BaseLayout
+  title={layoutTitle}
+  description={layoutDescription}
+  canonical={canonicalPageUrl}
+  lang={language}
+  dir={languageConfig.direction || 'ltr'}
+  openGraph={layoutOpenGraph}
+  twitter={layoutTwitter}
+  alternates={alternates}
+  siteUrl={clientDomain}
+  schema={[...(pageData.metadata.schema ?? []), breadcrumbSchema]}
+  faq={layoutFaq}
+  googleTagId={pageData.googleTagId}
+>
+  <div class="min-h-screen bg-background">
+    <Header
+      client:load
+      pageData={headerPageData}
+      language={language}
+      strings={headerStrings}
+      srcPathInfo={srcPathInfo}
+    />
+
+    {pageName === 'datenschutz' && (
+      <main class="container mx-auto px-4 py-12 max-w-5xl prose prose-stone">
+        <Heading
+          level={1}
+          className="pt-12 md:pt-20 text-5xl md:text-7xl font-bold mb-6 text-balance leading-tight font-heading"
+        >
+          <span class="text-primary">{datenschutzTitle}</span>{' '}
+          {pageData.business.name}
+        </Heading>
+        <DatenschutzContent blocks={pageData.datenschutz?.blocks ?? []} />
+      </main>
+    )}
+
+    {pageName === 'impressum' && (
+      <main class="container mx-auto px-4 py-12 max-w-5xl prose prose-stone">
+        <Heading
+          level={1}
+          className="pt-12 md:pt-20 text-5xl md:text-7xl font-bold mb-6 text-balance leading-tight font-heading"
+        >
+          <span class="text-primary">{impressumTitle}</span>{' '}
+          {pageData.business.name}
+        </Heading>
+        <ImpressumContent blocks={pageData.impressum?.blocks ?? []} />
+        {pageData.impressumBacklink && (
+          <div class="not-prose border-t border-gray-200 pt-6 mt-8">
+            {pageData.impressumBacklink.headingTitle && (
+              <Heading level={2} className="mt-0 mb-3 text-2xl md:text-3xl">
+                {pageData.impressumBacklink.headingTitle}
+              </Heading>
+            )}
+            <div class="flex flex-wrap items-center gap-x-2 mt-2">
+              <a
+                href="https://www.hero-pages.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-primary hover:underline"
+              >
+                Hero Pages
+              </a>
+              {pageData.impressumBacklink.link &&
+                pageData.impressumBacklink.title && (
+                  <>
+                    <span class="mx-2">-</span>
+                    <a
+                      href={pageData.impressumBacklink.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="text-primary hover:underline"
+                    >
+                      {pageData.impressumBacklink.title}
+                    </a>
+                  </>
+                )}
+            </div>
+          </div>
+        )}
+      </main>
+    )}
+
+    {pageName === 'ueber-uns' && (
+      <main class="container mx-auto px-4 py-12 max-w-5xl">
+        <Heading
+          level={1}
+          className="pt-12 md:pt-20 text-5xl md:text-7xl font-bold text-balance leading-tight font-heading"
+        >
+          <span class="text-primary">{ueberUnsHeadingPrimary}</span>
+          {ueberUnsShowBrandAfter && ` ${ueberUnsBrand}`}
+        </Heading>
+        <UeberUnsContent blocks={pageData.ueberUns?.blocks ?? []} />
+      </main>
+    )}
+
+    {pageName === 'faq' && faqPageHero && (
+      <>
+        <section class="bg-gradient-to-b from-card to-background pt-10 md:pt-14">
+          <div class="container mx-auto px-4">
+            <div class="max-w-3xl mx-auto text-center pt-12 md:pt-16">
+              <Heading
+                level={1}
+                className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-4"
+              >
+                {faqPageHero.h1}
+              </Heading>
+              <p class="text-lg text-muted-foreground">{faqPageHero.lead}</p>
+            </div>
+          </div>
+        </section>
+        <section class="container mx-auto px-4 max-w-3xl pb-10">
+          <FaqXxlContent groups={faqGroups} />
+        </section>
+      </>
+    )}
+
+    {pageName === 'grounding' && (
+      <main class="container mx-auto px-4 py-12 max-w-5xl">
+        <Heading
+          level={1}
+          className="pt-12 md:pt-20 text-5xl md:text-7xl font-bold mb-6 text-balance leading-tight font-heading"
+        >
+          <span class="text-primary">Grounding</span> {pageData.business.name}
+        </Heading>
+        <div class="prose prose-stone max-w-none">
+          <Fragment set:html={groundingHtml} />
+        </div>
+      </main>
+    )}
+
+    <Footer pageData={pageDataWithLanguage} language={language} />
+  </div>
+</BaseLayout>

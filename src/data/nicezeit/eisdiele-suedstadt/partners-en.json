@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hannover 96",
+    "url": "https://www.hannover96.de/",
+    "logo": "hannover-96-logo.webp",
+    "description": "The club with the motto \"Never alone\" has shaped Hanover for over 125 years. Hannover 96 brings people together - like a good ice cream sundae in the Südstadt."
+  },
+  {
+    "name": "gourmego",
+    "url": "https://www.gourmego.de/",
+    "logo": "gourmego-logo.webp",
+    "description": "Natural ice cream raw materials from gourmego: 100% fruit purees, nut pastes and ice cream ingredients without preservatives. The basis for authentic artisan ice cream."
+  },
+  {
+    "name": "Bauer Banse",
+    "url": "https://www.bauer-banse.de/",
+    "logo": "bauerbanse-logo.webp",
+    "description": "Regional agriculture from Bauer Banse: Fresh produce from Kakerbeck farm. Bauer Banse has been a familiar sight at Hanover's weekly markets for years."
+  },
+  {
+    "name": "Backring Nord",
+    "url": "https://www.backring.de/",
+    "logo": "backring-nord-logo.webp",
+    "description": "Backring Nord supplies ice cream parlors and restaurants throughout Germany. Experienced partner with a wide range of products for bakeries, confectioneries and ice cream manufacturers."
+  },
+  {
+    "name": "Leibniz",
+    "url": "https://www.leibniz.com/de/",
+    "logo": "leibniz-logo.webp",
+    "description": "Leibniz Butter Biscuits from Bahlsen - Hanover's cult biscuit with 52 teeth. The classic accompaniment to ice cream and espresso, available in numerous varieties."
+  },
+  {
+    "name": "Machwitz Kaffee",
+    "url": "https://www.machwitz-kaffee.de/",
+    "logo": "machwitz-logo.webp",
+    "description": "Hanover's oldest coffee roastery since 1883. Machwitz combines traditional drum roasting with direct trade - the best beans from selected plantations."
+  },
+  {
+    "name": "Waffelfabrik",
+    "url": "https://www.waffelfabrik.de/",
+    "logo": "waffelfabrik-logo.webp",
+    "description": "Ice cream cones and wafers in artisan quality. The Waffelfabrik supplies the perfect casings for natural ice cream creations - crispy and neutral in taste."
+  }
+]

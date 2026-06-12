@@ -1,0 +1,121 @@
+[
+  {
+    "group_name": "Geschichte & Ursprung",
+    "faqs": [
+      {
+        "question": "Wer hat das Eisfahrrad erfunden?",
+        "answer": "Das klassische Eisfahrrad hat seinen Ursprung in den dicht besiedelten Städten Europas und Asiens gegen Ende des 19. Jahrhunderts. Es gibt nicht den einen Erfinder, vielmehr entwickelten lokale Händler zeitgleich umgebaute Lastenräder, um ihre Waren mobiler zu machen. In Großbritannien wurden die \"Stop Me and Buy One\"-Tricycles der Firma Wall's in den 1920er Jahren besonders berühmt und prägten das Bild des Eisrads nachhaltig. Damals versuchten die Produzenten, den Umsatzaußendienst direkt zu den Konsumenten auf die Straße zu verlagern. Diese clevere Vertriebsidee erwies sich rasch als durchschlagender globaler Erfolg. Schnell wurden die handbetriebenen Fahrzeuge auch in anderen europäischen Ländern nachgebaut und optisch an regionale Vorlieben angepasst. Bis heute versprühen sie genau diesen ursprünglichen Geist der frühen Straßenverkäufer."
+      },
+      {
+        "question": "Warum wurden Eisfahrräder früher überhaupt eingesetzt?",
+        "answer": "In einer Zeit, als motorisierte Fahrzeuge für einfache Straßenverkäufer noch unerschwinglich waren, boten Fahrräder die perfekte Lösung. Sie ermöglichten es den Händlern, einen viel größeren Radius abzudecken als mit einem handgezogenen Karren. Zudem konnten sie mit den wendigen Rädern problemlos bis in die engsten Gassen der Arbeiterviertel vordringen."
+      },
+      {
+        "question": "In welchen Ländern hat das Eisfahrrad die längste Tradition?",
+        "answer": "Vor allem in Italien, dem Mutterland des Gelatos, gehören kleine Eis-Dreiräder schon seit über einem Jahrhundert zur lokalen Kultur. Auch in Großbritannien und den Niederlanden waren sie durch die starke Fahrradkultur früh verbreitet. In vielen asiatischen Ländern sind mobile Eisräder bis heute ein völlig alltäglicher Anblick im Straßenbild."
+      },
+      {
+        "question": "Was ist der Unterschied zwischen einem klassischen Eisfahrrad und einem Gelato-Cart?",
+        "answer": "Ein traditionelles Eisfahrrad ist ein echtes Lastenrad, bei dem der Verkäufer aktiv in die Pedale tritt und der Kühlkasten meist vorne zwischen den Rädern montiert ist. Ein sogenannter Gelato-Cart hingegen ist oft ein reiner Handwagen oder ein Anhänger, der nur geschoben oder von einem separaten Gefährt gezogen wird. Das echte Fahrrad ist durch den integrierten Antrieb deutlich autarker und flexibler in der Fortbewegung."
+      },
+      {
+        "question": "Gab es Eisfahrräder schon vor der Erfindung der essbaren Eiswaffel?",
+        "answer": "Ja, die ersten mobilen Eisverkäufer waren bereits auf Rädern unterwegs, bevor die klassische Waffeltüte um 1904 auf Weltausstellungen populär wurde. Damals wurde das Eis oft in kleinen Gläschen serviert, die von den Kunden vor Ort ausgeschleckt und direkt an den Verkäufer zurückgegeben wurden. Dieser musste die Gläser dann am Karren oder Rad in einem Eimer grob auswaschen, was aus heutiger Sicht gesundheitlich äußerst bedenklich wäre. Erst die essbare Waffel machte das Konzept des mobilen Straßenverkaufs hygienisch und abfallfrei."
+      },
+      {
+        "question": "Warum verschwanden viele Eisfahrräder ab den 1960er Jahren zeitweise aus dem Stadtbild?",
+        "answer": "Mit dem rasanten steigenden Wohlstand und dem Siegeszug des Automobils wurden die Fahrräder zunehmend von motorisierten Lieferwagen verdrängt. Große Autos waren wesentlich schneller, konnten gewaltige Mengen an Eis transportieren und boten dem Verkäufer ein festes schützendes Dach über dem Kopf. Erst in den letzten zwei Jahrzehnten feiert das Eisfahrrad als nostalgische und vor allem umweltfreundliche Alternative ein großes und sehr erfolgreiches Comeback."
+      }
+    ]
+  },
+  {
+    "group_name": "Technik & Aufbau",
+    "faqs": [
+      {
+        "question": "Wie wird das Eis auf einem Fahrrad ohne Strom kalt gehalten?",
+        "answer": "Die meisten Eisfahrräder nutzen eine passive Kühlung durch Eutektik-Platten, die tief im Inneren des isolierten Kastens verbaut sind. Diese speziellen Kältespeicher werden über Nacht in Gefrierschränken stark heruntergekühlt. Am Tag geben sie die Kälte dann kontinuierlich an das Innere ab. Dadurch bleibt das Eis selbst bei großer Hitze für sechs bis acht Stunden perfekt gefroren. Manche sehr traditionelle Modelle arbeiten sogar noch mit großen Blöcken aus echtem Trockeneis."
+      },
+      {
+        "question": "Wie schwer ist so ein voll beladenes Eisfahrrad eigentlich?",
+        "answer": "Ein Eisfahrrad bringt ein beträchtliches Gewicht auf die Waage. Allein der isolierte Kasten samt Rahmen wiegt oft schon über 100 Kilogramm. Kommen dann noch die Kühlakkus, das Wasser für das Handwaschbecken und natürlich dutzende Liter Eiscreme hinzu, kann das Gesamtgewicht schnell bei 250 bis 300 Kilogramm liegen. Das Fahren erfordert daher einiges an Geschick und Kraft."
+      },
+      {
+        "question": "Wie bremst man ein derart schweres Eisrad sicher ab?",
+        "answer": "Herkömmliche Standard-Fahrradbremsen wären bei weit über 200 Kilogramm Gesamtgewicht völlig überfordert und würden bei Gefälle schnell überhitzen. Moderne Eisfahrräder sind daher mit hochbelastbaren hydraulischen Scheibenbremsen an allen drei Rädern ausgestattet, ganz ähnlich wie bei einem Motorroller. Zudem verfügen sie über eine feststellbare Parkbremse, damit das schwere Rad beim Kugelformen auf der Straße nicht versehentlich wegrollt."
+      },
+      {
+        "question": "Haben die Reifen eine spezielle Verstärkung für die Straßenlage?",
+        "answer": "Absolut, denn normale Fahrradreifen würden unter der enormen statischen Last extrem schnell platzen. Man verwendet deshalb spezielle Schwerlastreifen aus dem industriellen Lastenrad- oder sogar Mopedbereich. Diese sind oft mit einem integrierten Pannenschutz aus Kevlar versehen. Ein platter Reifen mit voller Eisladung fernab der Basisstation wäre für den Verkäufer schließlich ein absolutes logistisches Albtraum-Szenario."
+      },
+      {
+        "question": "Haben moderne Eisfahrräder einen elektrischen Hilfsmotor?",
+        "answer": "Ja, die moderne E-Bike-Technologie hat das Eisfahrrad komplett revolutioniert. Fast alle neu gebauten Modelle verfügen heute über leistungsstarke Elektromotoren in der Radnabe oder am Tretlager. Diese Tretunterstützung ist angesichts des enormen Gewichts des voll beladenen Rades eine riesige Erleichterung für die Verkäufer. Sie ermöglicht es überhaupt erst, längere Strecken ohne völlige Erschöpfung zurückzulegen."
+      },
+      {
+        "question": "Kann das Kühlsystem des Fahrrads flüssiges Eiscreme-Gemisch selbst gefrieren lassen?",
+        "answer": "Nein, die eingebauten Eutektik-Platten dienen ausschließlich der passiven Kühlung und strengen Temperaturerhaltung. Sie haben physikalisch nicht die nötige Leistungskraft, um eine warme, flüssige Rohmasse in festes Speiseeis zu verwandeln. Das Eis muss zwingend fertig gefroren und in der richtigen Konsistenz aus dem Eislabor kommen, bevor es in die Vitrine des Rades umgeladen wird."
+      },
+      {
+        "question": "Gibt es fließendes Wasser für den Eisverkäufer auf dem Rad?",
+        "answer": "Tatsächlich verfügen professionelle Eisfahrräder über kleine, clevere Hygienesysteme. Im Aufbau ist meist ein kompakter Frischwassertank samt kleiner Pumpe und einem Auffangbehälter für das Abwasser integriert. So kann der Verkäufer den Portionierer nach jeder Kugel reinigen und sich bei Bedarf die Hände waschen."
+      },
+      {
+        "question": "Wie wird das Fahrrad gegen Diebstahl gesichert, wenn der Verkäufer abgelenkt ist?",
+        "answer": "Neben massiven Kettenschlössern, mit denen das Rad bei Pausen gesichert wird, verfügen aktuelle Modelle oft über elektronische Wegfahrsperren direkt im Elektromotor. Zudem ist der Eis-Kasten selbst mit sehr robusten Zylinderschlössern ausgestattet. So kann niemand in einem unbeobachteten Moment einfach den Deckel aufreißen und in die Kasse oder direkt in die Eistruhe greifen."
+      },
+      {
+        "question": "Warum haben die meisten Eisfahrräder drei Räder statt zwei?",
+        "answer": "Ein voll beladenes Eisfahrrad auf nur zwei Rädern auszubalancieren, wäre im städtischen Stop-and-Go-Verkehr fast unmöglich. Die Dreirad-Konstruktion, meist mit zwei Rädern vorne und einem hinten, bietet einen extrem sicheren Stand. So kippt das wertvolle Eis beim Halt nicht um und der Verkäufer kann sich voll und ganz auf das Portionieren konzentrieren, ohne das schwere Rad festhalten zu müssen."
+      }
+    ]
+  },
+  {
+    "group_name": "Alltag & Straßenverkauf",
+    "faqs": [
+      {
+        "question": "Wie viele Kugeln Eis passen durchschnittlich in den Kasten eines Fahrrads?",
+        "answer": "Das Fassungsvermögen ist erstaunlich groß. Ein gängiges Modell fasst meist zwischen vier und sechs große Edelstahlbehälter in der oberen Verkaufsvitrine. Darunter befindet sich oft noch ein zusätzliches Reservefach. Insgesamt lassen sich so problemlos Mengen für 300 bis 500 Kugeln Eis transportieren."
+      },
+      {
+        "question": "Darf man mit einem Eisfahrrad einfach auf dem Bürgersteig verkaufen?",
+        "answer": "Nein, auch Eisfahrräder benötigen für den Verkauf auf öffentlichen Wegen und Plätzen eine offizielle Sondernutzungserlaubnis der jeweiligen Kommune. Ohne diese Genehmigung darf das Rad zwar im Straßenverkehr bewegt, aber nicht als Verkaufsstand genutzt werden. Für Parks oder Fußgängerzonen gelten oft noch strengere, zusätzliche Auflagen."
+      },
+      {
+        "question": "Wie wehren sich die Verkäufer gegen lästige Wespen im Sommer?",
+        "answer": "Wespen werden vom intensiven, süßen Geruch magisch angezogen, was am offenen Verkaufsstand sehr schnell lästig wird. Daher bleiben die schützenden Plexiglasdeckel der Eisvitrine immer nur für den Bruchteil einer Sekunde beim Portionieren geöffnet. Manche erfahrene Verkäufer stellen auch kleine Schälchen mit Kaffeepulver oder aufgeschnittene Zitronen mit Nelken in einiger Entfernung auf, da diese ätherischen Gerüche Insekten auf natürliche Weise vertreiben."
+      },
+      {
+        "question": "Wie macht das Eisfahrrad auf sich aufmerksam, wenn es keine laute Melodie spielen kann?",
+        "answer": "Statt einer lauten, elektronischen Melodie wie beim großen Eiswagen setzen Fahrradverkäufer oft auf subtilere akustische Signale. Ein absoluter Klassiker ist die klassische Fahrradklingel in einer großen, hell klingenden Variante, die als Glocke genutzt wird. Manche haben auch mechanische Hupen oder Messingglocken am Lenker montiert. Dieser charmante, analoge Klang passt perfekt zum nostalgischen Flair des Rades."
+      },
+      {
+        "question": "Verkaufen Eisfahrräder immer nur Kugeleis oder auch verpacktes Eis am Stiel?",
+        "answer": "Das hängt ganz entscheidend vom Konzept des jeweiligen Betreibers ab. Während europäische Eisräder traditionell frisches Gelato in die Waffel kugeln, sind in vielen asiatischen oder südamerikanischen Ländern Fahrräder mit reinem Vorrat an verpacktem Eis am Stiel extrem weit verbreitet. Der Verkauf von industriell verpacktem Eis ist hygienisch deutlich unkomplizierter, da es weder Portionierer noch ein teures Handwaschbecken am Rad erfordert."
+      },
+      {
+        "question": "Tragen die Fahrer klassischerweise bestimmte Uniformen?",
+        "answer": "In der großen Blütezeit der Eisräder in den 1920er und 30er Jahren waren gestärkte weiße Kittel, rote Fliegen und markante Schirmmützen das absolute Markenzeichen der Straßenverkäufer. Diese saubere, fast medizinische Uniform sollte der Kundschaft auf der Straße höchste hygienische Standards suggerieren. Heute sieht man diese traditionellen Outfits meist nur noch als charmantes Retro-Element bei Hochzeiten, während im normalen Straßenverkauf legere Kleidung mit einer schicken Schürze dominiert."
+      },
+      {
+        "question": "Was passiert, wenn der Verkäufer mit dem Rad einen steilen Berg hochmuss?",
+        "answer": "Ohne einen elektrischen Hilfsmotor ist das bei voller Beladung fast unmöglich. Der Verkäufer muss dann meist absteigen und das schwere Gefährt mühsam schieben. Moderne E-Eisfahrräder meistern moderate Steigungen dank des Motors hingegen recht gut. Bei extrem steilen Hügeln stoßen aber auch diese an ihre physikalischen Grenzen, weshalb Routen meist bewusst sehr flach geplant werden."
+      },
+      {
+        "question": "Gibt es ein gesetzliches Geschwindigkeitslimit für motorisierte Eisfahrräder?",
+        "answer": "Sofern die Modelle als klassische Pedelecs zugelassen sind, schaltet sich die Motorunterstützung in der EU bei exakt 25 km/h automatisch ab. Angesichts der breiten Bauweise und der extrem empfindlichen, schwingenden Ladung fahren die meisten Verkäufer jedoch freiwillig deutlich langsamer. Hohe Geschwindigkeiten in engen Kurven wären aufgrund des sehr hohen Schwerpunkts ohnehin viel zu gefährlich und würden riskieren, dass das Eis in den Behältern stark durcheinandergeschüttelt wird."
+      },
+      {
+        "question": "Wie verständigen sich Verkäufer mit Touristen, wenn es Sprachbarrieren gibt?",
+        "answer": "Das ist der große Vorteil am Eisgeschäft, denn der Appetit auf Speiseeis ist eine universelle Weltsprache. Die meisten Sorten lassen sich durch einen simplen Fingerzeig auf die bunten Behälter unter dem Sichtfenster problemlos auswählen. Die gewünschte Anzahl der Kugeln wird kurzerhand mit den Händen angezeigt, sodass der Kaufabschluss selbst ohne ein einziges gemeinsames Wort reibungslos und mit einem freundlichen Lächeln funktioniert."
+      },
+      {
+        "question": "Wie hygienisch ist der Verkauf aus einem offenen Fahrradkasten im Freien?",
+        "answer": "Sehr hygienisch, da der Kasten niemals komplett offensteht. Die Eisbehälter werden durch transparente, schiebbare Plexiglasdeckel oder kleine Hauben geschützt. Diese werden nur für den kurzen Moment des Portionierens geöffnet, sodass weder Straßenstaub noch Insekten an das Speiseeis gelangen können. Zudem unterliegen auch mobile Verkaufsräder strengen regelmäßigen Kontrollen durch die örtlichen Gesundheitsämter."
+      },
+      {
+        "question": "Was passiert mit dem Schmelzwasser, falls das Eis doch einmal weich wird?",
+        "answer": "Moderne Verkaufskästen sind im Inneren wannenartig konstruiert und absolut wasserdicht verschweißt, damit keine klebrige Flüssigkeit auf die Mechanik des Rades oder auf die Straße tropft. Am tiefsten Punkt des Kastens befindet sich meist ein kleines, fest verschließbares Ablassventil. Darüber kann der Verkäufer nach Feierabend in der Spülküche das gesammelte Schmelzwasser bequem und sehr kontrolliert in einen Gully abfließen lassen. Danach lässt sich die gesamte Edelstahlwanne leicht mit dem Schlauch ausspritzen."
+      }
+    ]
+  }
+]

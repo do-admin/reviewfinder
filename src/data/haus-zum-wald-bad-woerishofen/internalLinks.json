@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-04-15T19:35:09.945Z",
+  "version": 1,
+  "pageCount": 3,
+  "linkCount": 6,
+  "links": {
+    "static:hotel-bad-woerishofen:Startseite": [
+      {
+        "targetType": "static",
+        "targetSlug": "Zuhause auf Zeit",
+        "targetTitle": "Serviced Apartments Bad Wörishofen | Haus zum Wald",
+        "targetPath": "Zuhause auf Zeit",
+        "matchedKeywords": [
+          "serviced apartments bad woerishofen",
+          "serviced",
+          "apartments",
+          "woerishofen",
+          "zuhause"
+        ],
+        "relevanceScore": 0.67
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Zuhause auf Zeit in Bad Wörishofen | Haus zum Wald",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "serviced",
+          "apartments",
+          "woerishofen",
+          "zuhause",
+          "zeit"
+        ],
+        "relevanceScore": 0.61
+      }
+    ],
+    "static:hotel-bad-woerishofen:Zuhause auf Zeit": [
+      {
+        "targetType": "static",
+        "targetSlug": "Startseite",
+        "targetTitle": "Serviced Apartments in Bad Wörishofen | Haus zum Wald",
+        "targetPath": "Startseite",
+        "matchedKeywords": [
+          "serviced apartments bad woerishofen",
+          "serviced",
+          "apartments",
+          "woerishofen",
+          "zuhause"
+        ],
+        "relevanceScore": 0.67
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Zuhause auf Zeit in Bad Wörishofen | Haus zum Wald",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "serviced",
+          "apartments",
+          "woerishofen",
+          "zuhause",
+          "zeit"
+        ],
+        "relevanceScore": 0.57
+      }
+    ],
+    "static:hotel-bad-woerishofen:ueber-uns": [
+      {
+        "targetType": "static",
+        "targetSlug": "Startseite",
+        "targetTitle": "Serviced Apartments in Bad Wörishofen | Haus zum Wald",
+        "targetPath": "Startseite",
+        "matchedKeywords": [
+          "zuhause",
+          "zeit",
+          "woerishofen",
+          "serviced",
+          "apartments"
+        ],
+        "relevanceScore": 0.61
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "Zuhause auf Zeit",
+        "targetTitle": "Serviced Apartments Bad Wörishofen | Haus zum Wald",
+        "targetPath": "Zuhause auf Zeit",
+        "matchedKeywords": [
+          "zuhause",
+          "zeit",
+          "woerishofen",
+          "serviced",
+          "apartments"
+        ],
+        "relevanceScore": 0.57
+      }
+    ]
+  }
+}

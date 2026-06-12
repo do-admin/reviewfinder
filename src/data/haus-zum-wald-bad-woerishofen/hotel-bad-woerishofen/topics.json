@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-04-11T20:17:47.758Z",
+  "clientId": "haus-zum-wald-bad-woerishofen",
+  "siteId": "hotel-bad-woerishofen",
+  "sourceBaseUrl": "https://haus-zum-wald-bad-woerishofen.de",
+  "model": "google/gemini-3.1-pro-preview",
+  "topics": {
+    "coreServices": [
+      "Serviced Apartments für kurze und längere Aufenthalte",
+      "Coworking Space mit High-Speed-Internet und Getränke-Flatrate",
+      "Räumlichkeiten für Veranstaltungen, Workshops und Feiern",
+      "Kontaktloser Check-in rund um die Uhr"
+    ],
+    "trustSignals": [
+      "Prämiertes Design von Variand (German Design Award)",
+      "24/7 Erreichbarkeit via Telefon und WhatsApp",
+      "Hochwertige Ausstattung und langlebige Materialien"
+    ],
+    "localReferences": [
+      "Bad Wörishofen im Allgäu",
+      "Fluss Wertach",
+      "Wiege der Kneipp-Therapie",
+      "Nähe zu Bayerns größtem Freizeitpark",
+      "Gute Anbindung: A96, Bahnhof Bad Wörishofen, Allgäu Airport"
+    ],
+    "differentiators": [
+      "Kein klassisches Hotel, sondern ein Zuhause auf Zeit",
+      "Fokus auf Klarheit, Reduktion und das Wesentliche",
+      "Nahtlose Verbindung von Wohnen, Arbeiten (Workation) und Entspannen"
+    ],
+    "faqIntent": [
+      "Wie funktioniert die Anreise und der Check-in?",
+      "Gibt es Arbeitsmöglichkeiten oder schnelles Internet vor Ort?",
+      "Welcher Fluss fließt durch Bad Wörishofen?",
+      "Was ist das Besondere an Bad Wörishofen (Kneipp-Therapie)?",
+      "Können Räume für Events oder Workshops gemietet werden?"
+    ]
+  },
+  "keywords": [
+    "Serviced Apartments Bad Wörishofen",
+    "Coworking Allgäu",
+    "Zuhause auf Zeit Bad Wörishofen",
+    "Workation Bayern",
+    "Wohnen und Arbeiten Allgäu",
+    "Kneipp-Therapie Bad Wörishofen",
+    "Veranstaltungsraum Bad Wörishofen",
+    "Apartment kontaktloser Check-in"
+  ],
+  "h1Suggestions": [
+    "Serviced Apartments in Bad Wörishofen",
+    "Dein Zuhause auf Zeit im Allgäu",
+    "Wohnen & Arbeiten in Bad Wörishofen",
+    "Serviced Apartments & Coworking",
+    "Klarheit & Design: Dein Apartment"
+  ],
+  "subtitleSuggestions": [
+    "Entdecke unsere prämierten Serviced Apartments für Wohnen und Arbeiten im Allgäu. Ideal für kurze Auszeiten oder längere Aufenthalte.",
+    "Kein klassisches Hotel, sondern dein Rückzugsort mit Coworking Space, High-Speed-Internet und kontaktlosem Check-in.",
+    "Hochwertig ausgestattete Räume für Fokus und Entspannung. Genieße prämiertes Design und die Natur rund um Bad Wörishofen.",
+    "Verbinde Erholung und Produktivität: Moderne Apartments, flexibler Coworking Space und Raum für Events im Herzen des Allgäus.",
+    "Finde deinen Rhythmus in Bad Wörishofen. Reduziertes Design, maximaler Komfort und 24/7 Service für deinen perfekten Aufenthalt."
+  ],
+  "mustCover": [
+    "Das Konzept 'Zuhause auf Zeit' als bewusste Alternative zum klassischen Hotel",
+    "Details zum Coworking-Angebot (Ausstattung, Atmosphäre, Kaffee/Tee-Flatrate)",
+    "Erklärung des kontaktlosen Check-ins und der 24/7-Betreuung",
+    "Regionale Highlights und Freizeitmöglichkeiten (Kneipp, Wertach, Freizeitpark)",
+    "Möglichkeiten für kleine Events, Workshops und Feiern"
+  ],
+  "avoidAngles": [
+    "Klassische Hotel-Versprechen wie Rezeption vor Ort, Zimmerservice oder All-Inclusive-Buffet",
+    "Laute, marktschreierische Werbesprache (widerspricht dem Fokus auf Klarheit und Reduktion)",
+    "Billig- oder Discount-Fokus (die Marke steht für hochwertiges, prämiertes Design)"
+  ]
+}

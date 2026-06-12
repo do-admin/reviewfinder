@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-04-24T07:41:40.207Z",
+  "clientId": "tiemann-photography",
+  "siteId": "fotograf-hochzeit",
+  "sourceBaseUrl": "https://tiemann-photography.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword:Hochzeitsfotograf",
+  "briefingMainKeyword": "Hochzeitsfotograf",
+  "deployDomainKeyword": "fotograf-hochzeit",
+  "topics": {
+    "coreServices": [
+      "Hochzeitsreportagen und Hochzeitsfotografie",
+      "Businessporträts und Personal Branding",
+      "Editorial-Fotografie",
+      "Schwangerschaftsshootings im Studio (inkl. Leihkleider)",
+      "Zubuchbare Second Shooter für Hochzeiten"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Berufserfahrung",
+      "Festes, eigenes Fotostudio in Hamburg",
+      "Kostenloses Beratungsgespräch innerhalb von 24 Stunden",
+      "Ruhige, strukturierte und professionelle Arbeitsweise",
+      "Fokus auf visuelle Konsistenz und hohe Qualität"
+    ],
+    "localReferences": [
+      "Hamburg",
+      "Bleicherstraße 2, 22767 Hamburg (Fotostudio)",
+      "Tangstedt",
+      "Wulfsmühle (Hochzeitslocation)",
+      "Großraum Hamburg"
+    ],
+    "differentiators": [
+      "Editorial-Vibes durch gezielten Blitzlicht-Einsatz",
+      "Zeitlose, klare und moderne Bildsprache",
+      "Verbindung von ästhetischem Gespür und hoher Struktur",
+      "Rundum-Sorglos-Ansatz (z.B. Leihkleider beim Schwangerschaftsshooting)",
+      "Bilder mit Haltung und Ausdruck statt Standard-Posen"
+    ],
+    "faqIntent": [
+      "Was ist ein Second Shooter und welche Vorteile bietet er?",
+      "Wann sollten wir unseren Hochzeitsfotografen für 2026 buchen?",
+      "Wie läuft ein Schwangerschaftsshooting im Studio ab?",
+      "Bietet ihr auch Business- und LinkedIn-Porträts an?",
+      "Wie schnell kann ich ein Beratungsgespräch vereinbaren?"
+    ]
+  },
+  "keywords": [
+    "Hochzeitsfotograf",
+    "fotograf-hochzeit",
+    "Hochzeitsreportage Hamburg",
+    "Hochzeitsfotografin Hamburg",
+    "Editorial Hochzeitsbilder",
+    "Businessporträt Hamburg",
+    "Schwangerschaftsshooting Studio",
+    "Fotostudio Hamburg"
+  ],
+  "h1Suggestions": [
+    "Dein Hochzeitsfotograf in Hamburg",
+    "Stilvoller fotograf-hochzeit Hamburg",
+    "Hochzeitsfotograf für zeitlose Bilder",
+    "Dein fotograf-hochzeit mit Editorial-Vibe",
+    "Ästhetische Hochzeitsreportagen in Hamburg"
+  ],
+  "subtitleSuggestions": [
+    "Als erfahrener Hochzeitsfotograf halte ich eure Geschichte in zeitlosen, modernen Bildern fest. Jetzt kostenloses Beratungsgespräch sichern!",
+    "Du suchst einen fotograf-hochzeit in Hamburg? Ich biete stilvolle Reportagen mit Editorial-Vibes und ruhiger, professioneller Begleitung.",
+    "Mehr als nur schöne Bilder: Euer Hochzeitsfotograf für authentische Momente und zeitlose Ästhetik im Großraum Hamburg und Umgebung.",
+    "Buche jetzt deinen fotograf-hochzeit für 2026. Profitiere von über 10 Jahren Erfahrung und einer entspannten Atmosphäre an eurem großen Tag.",
+    "Moderne Hochzeitsreportagen und zeitlose Porträts. Erlebe Fotografie mit Struktur, Ästhetik und einem klaren Blick für das Wesentliche."
+  ],
+  "mustCover": [
+    "Fokus auf das Hauptkeyword 'Hochzeitsfotograf' und die Dienstleistung Hochzeitsreportage",
+    "Hervorhebung der über 10-jährigen Berufserfahrung und der professionellen, ruhigen Arbeitsweise",
+    "Erwähnung des festen Fotostudios in Hamburg (Bleicherstraße)",
+    "Betonung der zeitlosen, klaren Bildsprache und der modernen Editorial-Vibes",
+    "Hinweis auf das kostenlose Beratungsgespräch innerhalb von 24 Stunden",
+    "Integration der Zusatzleistungen wie Second Shooter, Businessporträts und Schwangerschaftsshootings"
+  ],
+  "avoidAngles": [
+    "Billig- oder Rabatt-Angebote (Fokus liegt auf Qualität und Anspruch)",
+    "Kitschige, übertrieben romantische Floskeln (Marke steht für klare, zeitlose und moderne Ästhetik)",
+    "Chaotische oder rein spontane Ansätze (Struktur und Professionalität sind Kernwerte)",
+    "Ausschließliche Fokussierung auf Privatkunden (Business-Kunden sind ebenfalls Zielgruppe)"
+  ]
+}

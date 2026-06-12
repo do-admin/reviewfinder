@@ -1,0 +1,715 @@
+{
+  "generatedAt": "2026-04-05T20:29:25.319Z",
+  "version": 1,
+  "pageCount": 14,
+  "linkCount": 57,
+  "links": {
+    "city:hamburg-eidelstedt": [
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Linden | Bestes Eis in Linden & List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Linden",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Südstadt | Bestes Eis in der Südstadt | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Südstadt",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-List | Bestes Eis in der List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      }
+    ],
+    "city:hamburg-stellingen": [
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Linden | Bestes Eis in Linden & List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Linden",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Südstadt | Bestes Eis in der Südstadt | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Südstadt",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-List | Bestes Eis in der List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      }
+    ],
+    "ratgeber:anonyme-bestattung-ablauf-kosten": [
+      {
+        "targetType": "ratgeber",
+        "targetSlug": "feuerbestattung-ablauf-dauer-kosten-deutschland",
+        "targetTitle": "Feuerbestattung Ablauf, Dauer & Kosten in Deutschland – der umfassende Ratgeber",
+        "targetPath": "ratgeber/feuerbestattung-ablauf-dauer-kosten-deutschland",
+        "matchedKeywords": [
+          "ablauf",
+          "kosten"
+        ],
+        "relevanceScore": 0.17
+      }
+    ],
+    "ratgeber:feuerbestattung-ablauf-dauer-kosten-deutschland": [
+      {
+        "targetType": "ratgeber",
+        "targetSlug": "anonyme-bestattung-ablauf-kosten",
+        "targetTitle": "Anonyme Bestattung: Ablauf, Kosten sowie Vor- und Nachteile im Überblick",
+        "targetPath": "ratgeber/anonyme-bestattung-ablauf-kosten",
+        "matchedKeywords": [
+          "ablauf",
+          "kosten"
+        ],
+        "relevanceScore": 0.17
+      }
+    ],
+    "static:eisdiele-linden:home": [
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-List | Bestes Eis in der List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele linden",
+          "eisdiele",
+          "linden",
+          "nicezeit",
+          "veganes"
+        ],
+        "relevanceScore": 0.74
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Südstadt | Bestes Eis in der Südstadt | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit",
+          "veganes",
+          "eismanufaktur",
+          "jan ziehme"
+        ],
+        "relevanceScore": 0.59
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-Linden",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "hannover-linden",
+          "nicezeit",
+          "eismanufaktur"
+        ],
+        "relevanceScore": 0.33
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-eidelstedt",
+        "targetTitle": "nicezeit Hamburg-Eidelstedt | Bestes Eis in Eidelstedt",
+        "targetPath": "hamburg-eidelstedt",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-stellingen",
+        "targetTitle": "nicezeit Hamburg-Stellingen | Bestes Eis in Stellingen",
+        "targetPath": "hamburg-stellingen",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      }
+    ],
+    "static:eisdiele-linden:faq": [
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Südstadt",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "faq eisdiele",
+          "eisdiele",
+          "haeufige fragen eis",
+          "haeufige",
+          "fragen"
+        ],
+        "relevanceScore": 0.87
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-List",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "faq eisdiele",
+          "eisdiele",
+          "haeufige fragen eis",
+          "haeufige",
+          "fragen"
+        ],
+        "relevanceScore": 0.87
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-eidelstedt",
+        "targetTitle": "nicezeit Hamburg-Eidelstedt | Bestes Eis in Eidelstedt",
+        "targetPath": "hamburg-eidelstedt",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-stellingen",
+        "targetTitle": "nicezeit Hamburg-Stellingen | Bestes Eis in Stellingen",
+        "targetPath": "hamburg-stellingen",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-Linden",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "nicezeit",
+          "hannover-linden"
+        ],
+        "relevanceScore": 0.22
+      }
+    ],
+    "static:eisdiele-linden:ueber-uns": [
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-Südstadt",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "ueber uns nicezeit",
+          "nicezeit",
+          "eismanufaktur",
+          "eiskonzept"
+        ],
+        "relevanceScore": 0.44
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-List",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "ueber uns nicezeit",
+          "nicezeit",
+          "eismanufaktur",
+          "eiskonzept"
+        ],
+        "relevanceScore": 0.44
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Linden | Bestes Eis in Linden & List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "nicezeit",
+          "eismanufaktur",
+          "hannover-linden"
+        ],
+        "relevanceScore": 0.33
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Linden",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "nicezeit",
+          "hannover-linden"
+        ],
+        "relevanceScore": 0.22
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Südstadt | Bestes Eis in der Südstadt | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "nicezeit",
+          "eismanufaktur"
+        ],
+        "relevanceScore": 0.22
+      }
+    ],
+    "static:eisdiele-suedstadt:home": [
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Linden | Bestes Eis in Linden & List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit",
+          "veganes",
+          "eismanufaktur",
+          "jan ziehme"
+        ],
+        "relevanceScore": 0.59
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-List | Bestes Eis in der List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit",
+          "veganes",
+          "eismanufaktur",
+          "jan ziehme"
+        ],
+        "relevanceScore": 0.59
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-Südstadt",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "hannover-suedstadt",
+          "nicezeit",
+          "eismanufaktur"
+        ],
+        "relevanceScore": 0.33
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-eidelstedt",
+        "targetTitle": "nicezeit Hamburg-Eidelstedt | Bestes Eis in Eidelstedt",
+        "targetPath": "hamburg-eidelstedt",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-stellingen",
+        "targetTitle": "nicezeit Hamburg-Stellingen | Bestes Eis in Stellingen",
+        "targetPath": "hamburg-stellingen",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      }
+    ],
+    "static:eisdiele-suedstadt:faq": [
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Linden",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "faq eisdiele",
+          "eisdiele",
+          "haeufige fragen eis",
+          "haeufige",
+          "fragen"
+        ],
+        "relevanceScore": 0.87
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-List",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "faq eisdiele",
+          "eisdiele",
+          "haeufige fragen eis",
+          "haeufige",
+          "fragen"
+        ],
+        "relevanceScore": 0.87
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-eidelstedt",
+        "targetTitle": "nicezeit Hamburg-Eidelstedt | Bestes Eis in Eidelstedt",
+        "targetPath": "hamburg-eidelstedt",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-stellingen",
+        "targetTitle": "nicezeit Hamburg-Stellingen | Bestes Eis in Stellingen",
+        "targetPath": "hamburg-stellingen",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-Südstadt",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "nicezeit",
+          "hannover-suedstadt"
+        ],
+        "relevanceScore": 0.22
+      }
+    ],
+    "static:eisdiele-suedstadt:ueber-uns": [
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-Linden",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "ueber uns nicezeit",
+          "nicezeit",
+          "eismanufaktur",
+          "eiskonzept"
+        ],
+        "relevanceScore": 0.44
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-List",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "ueber uns nicezeit",
+          "nicezeit",
+          "eismanufaktur",
+          "eiskonzept"
+        ],
+        "relevanceScore": 0.44
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Südstadt | Bestes Eis in der Südstadt | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "nicezeit",
+          "eismanufaktur",
+          "hannover-suedstadt"
+        ],
+        "relevanceScore": 0.33
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Linden | Bestes Eis in Linden & List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "nicezeit",
+          "eismanufaktur"
+        ],
+        "relevanceScore": 0.22
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Südstadt",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "nicezeit",
+          "hannover-suedstadt"
+        ],
+        "relevanceScore": 0.22
+      }
+    ],
+    "static:eisdiele-list:home": [
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Linden | Bestes Eis in Linden & List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele list",
+          "eisdiele",
+          "list",
+          "nicezeit",
+          "veganes"
+        ],
+        "relevanceScore": 0.74
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Südstadt | Bestes Eis in der Südstadt | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit",
+          "veganes",
+          "eismanufaktur",
+          "jan ziehme"
+        ],
+        "relevanceScore": 0.59
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-List",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "hannover-list",
+          "nicezeit",
+          "eismanufaktur"
+        ],
+        "relevanceScore": 0.33
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-eidelstedt",
+        "targetTitle": "nicezeit Hamburg-Eidelstedt | Bestes Eis in Eidelstedt",
+        "targetPath": "hamburg-eidelstedt",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-stellingen",
+        "targetTitle": "nicezeit Hamburg-Stellingen | Bestes Eis in Stellingen",
+        "targetPath": "hamburg-stellingen",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      }
+    ],
+    "static:eisdiele-list:faq": [
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Linden",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "faq eisdiele",
+          "eisdiele",
+          "haeufige fragen eis",
+          "haeufige",
+          "fragen"
+        ],
+        "relevanceScore": 0.87
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "FAQ – Häufig gestellte Fragen rund um Eis | nicezeit Hannover-Südstadt",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "faq eisdiele",
+          "eisdiele",
+          "haeufige fragen eis",
+          "haeufige",
+          "fragen"
+        ],
+        "relevanceScore": 0.87
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-eidelstedt",
+        "targetTitle": "nicezeit Hamburg-Eidelstedt | Bestes Eis in Eidelstedt",
+        "targetPath": "hamburg-eidelstedt",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "city",
+        "targetSlug": "hamburg-stellingen",
+        "targetTitle": "nicezeit Hamburg-Stellingen | Bestes Eis in Stellingen",
+        "targetPath": "hamburg-stellingen",
+        "matchedKeywords": [
+          "eisdiele",
+          "nicezeit"
+        ],
+        "relevanceScore": 0.25
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-List",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "nicezeit",
+          "hannover-list"
+        ],
+        "relevanceScore": 0.22
+      }
+    ],
+    "static:eisdiele-list:ueber-uns": [
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-Linden",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "ueber uns nicezeit",
+          "nicezeit",
+          "eismanufaktur",
+          "eiskonzept"
+        ],
+        "relevanceScore": 0.44
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Über uns | nicezeit Hannover-Südstadt",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "ueber uns nicezeit",
+          "nicezeit",
+          "eismanufaktur",
+          "eiskonzept"
+        ],
+        "relevanceScore": 0.44
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-List | Bestes Eis in der List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "nicezeit",
+          "eismanufaktur",
+          "hannover-list"
+        ],
+        "relevanceScore": 0.33
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Linden | Bestes Eis in Linden & List | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "nicezeit",
+          "eismanufaktur"
+        ],
+        "relevanceScore": 0.22
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "nicezeit Hannover-Südstadt | Bestes Eis in der Südstadt | Natürlich & Handgemacht",
+        "targetPath": "",
+        "matchedKeywords": [
+          "nicezeit",
+          "eismanufaktur"
+        ],
+        "relevanceScore": 0.22
+      }
+    ]
+  }
+}

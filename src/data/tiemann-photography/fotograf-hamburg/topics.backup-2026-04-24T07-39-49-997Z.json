@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-04-23T11:47:43.818Z",
+  "clientId": "tiemann-photography",
+  "siteId": "business-fotograf",
+  "sourceBaseUrl": "https://tiemann-photography.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword:Portraitfotograf",
+  "briefingMainKeyword": "Portraitfotograf",
+  "deployDomainKeyword": "portrait-fotograf",
+  "topics": {
+    "coreServices": [
+      "Businessporträts für visuelle Konsistenz",
+      "Hochzeitsreportagen mit Editorial-Vibes",
+      "Schwangerschaftsshootings im Studio (inklusive Leihkleider)",
+      "Einsatz von Second Shootern für Hochzeiten"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Berufserfahrung",
+      "Kostenloses Beratungsgespräch innerhalb von 24 Stunden",
+      "Festes, eigenes Fotostudio",
+      "Ruhige, professionelle und strukturierte Umsetzung"
+    ],
+    "localReferences": [
+      "Hamburg",
+      "Fotostudio in der Bleicherstraße 2, 22767 Hamburg",
+      "Wulfsmühle in Tangstedt (Nähe Hamburg)"
+    ],
+    "differentiators": [
+      "Verbindung von ästhetischem Gespür und Struktur",
+      "Zeitlose Bildsprache statt kurzlebiger Trends",
+      "Editorial-Stil (z.B. durch gezielten Blitzlicht-Einsatz)",
+      "Rundum-Sorglos-Ansatz (Leihkleider, Second Shooter)"
+    ],
+    "faqIntent": [
+      "Wie schnell erhalte ich einen Beratungstermin?",
+      "Was ist ein Second Shooter und warum ist er sinnvoll?",
+      "Gibt es Outfits für das Schwangerschaftsshooting?",
+      "Wann sollte ich meine Hochzeitsfotografin für das nächste Jahr buchen?",
+      "Wo genau befindet sich das Fotostudio?"
+    ]
+  },
+  "keywords": [
+    "Portraitfotograf",
+    "portrait-fotograf",
+    "Fotostudio Hamburg",
+    "Businessporträt Hamburg",
+    "Hochzeitsreportage Hamburg",
+    "Schwangerschaftsshooting Studio",
+    "Editorial Hochzeitsfotograf",
+    "Fotografin Hamburg"
+  ],
+  "h1Suggestions": [
+    "Dein Portraitfotograf in Hamburg",
+    "Professioneller portrait-fotograf",
+    "Zeitlose Hochzeits- & Porträtfotografie",
+    "Businessporträts & Editorial-Fotografie",
+    "Fotostudio Hamburg: Ästhetik & Struktur"
+  ],
+  "subtitleSuggestions": [
+    "Als erfahrener Portraitfotograf in Hamburg schaffe ich zeitlose Bilder für Unternehmen, Paare und Familien. Vereinbare jetzt dein Beratungsgespräch.",
+    "Suchst du einen portrait-fotograf mit Blick fürs Wesentliche? Ich biete ruhige, professionelle Shootings im eigenen Studio in Hamburg an.",
+    "Über 10 Jahre Erfahrung für deine Hochzeitsreportage oder dein Businessporträt. Authentische, moderne Fotografie mit Editorial-Vibes.",
+    "Ob Schwangerschaftsshooting oder Business-Auftritt: Im Hamburger Fotostudio entstehen starke Bilder mit Haltung und visueller Konsistenz.",
+    "Sichere dir jetzt deinen Termin. Hochwertige Fotografie mit Struktur, Qualität und auf Wunsch mit Second Shooter für deine Hochzeit."
+  ],
+  "mustCover": [
+    "Fokus auf das Hauptkeyword Portraitfotograf und die Schreibweise portrait-fotograf",
+    "Hervorhebung der über 10-jährigen Berufserfahrung und der hohen Qualitätsansprüche",
+    "Vorstellung des festen Fotostudios in Hamburg (Bleicherstraße)",
+    "Darstellung der Kernangebote: Businessporträts, Hochzeitsreportagen und Schwangerschaftsshootings",
+    "Hinweis auf das kostenlose Beratungsgespräch innerhalb von 24 Stunden",
+    "Erwähnung besonderer Merkmale wie Editorial-Vibes, Second Shooter und Leihkleider"
+  ],
+  "avoidAngles": [
+    "Marktschreierische Rabattaktionen oder Billig-Versprechen",
+    "Hektische oder rein auf Masse ausgelegte Fotografie",
+    "Übertriebene englische Marketing-Floskeln (Ausnahme: etablierte Begriffe aus den Quellen wie Editorial-Vibes oder Second Shooter)",
+    "Darstellung als reiner Hobby- oder Anfängerfotograf"
+  ]
+}

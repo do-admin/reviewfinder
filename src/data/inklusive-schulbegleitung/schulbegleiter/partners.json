@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bpa Arbeitgeberverband",
+    "url": "https://www.bpa-arbeitgeberverband.de/",
+    "logo": "bpa-arbeitgeberverband-logo.webp",
+    "description": "Als Rückgrat der privaten Sozialwirtschaft setzt sich der bpa für zukunftssichere Pflegekonzepte ein. Ein unverzichtbarer Akteur, wenn es um professionelle Betreuung und soziale Berufe geht."
+  },
+  {
+    "name": "Kinderschutzzentrum Hannover",
+    "url": "https://www.ksz-hannover.de/",
+    "logo": "kinderschutzzentrum-hannover.webp",
+    "description": "Eintreten für die Schwächsten: Das Kinderschutzzentrum Hannover leistet wertvolle Krisenintervention und pädagogische Facharbeit, um gewaltfreie Kindheiten in unserer Stadt zu ermöglichen."
+  },
+  {
+    "name": "Jugendamt Hannover",
+    "url": "https://www.unterstuetzung-die-ankommt.de/de/",
+    "logo": "jugendamt-logo.webp",
+    "description": "Direkte Hilfe und verlässliche Strukturen für junge Menschen. Das Jugendamt stellt sicher, dass Förderung nicht nur ein Wort bleibt, sondern aktiv im Alltag der Familien ankommt."
+  },
+  {
+    "name": "Landeshauptstadt Hannover",
+    "url": "https://www.hannover.de/",
+    "logo": "landeshauptstadt-hannover-logo.webp",
+    "description": "Hannover ist mehr als nur ein Standort – es ist Lebensraum. Die Landeshauptstadt koordiniert das städtische Leben und schafft die Basis für Innovation, Kultur und gesellschaftlichen Zusammenhalt."
+  }
+]

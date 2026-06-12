@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-04-27T04:42:43.164Z",
+  "clientId": "nicezeit",
+  "siteId": "eis-essen-hannover",
+  "sourceBaseUrl": "https://nicezeit.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Haupt-Keyword: Eis essen in Hannover",
+  "briefingMainKeyword": "Eis essen in Hannover",
+  "deployDomainKeyword": "eis-essen-hannover",
+  "topics": {
+    "coreServices": [
+      "Handgemachtes Premiumeis (klassisch und ausgefallen)",
+      "Vegane Eissorten auf pflanzlicher Basis",
+      "Milchshakes und Iced Matcha Latte (Mango, Erdbeere)",
+      "Saisonale Winterspecials (Eis im Croissant, Eis im 500ml Glas)",
+      "Vermietungen und Event-Catering"
+    ],
+    "trustSignals": [
+      "Gläserne Manufaktur (Kunden können bei der Produktion zusehen)",
+      "100 % natürliche Zutaten ohne künstliche Aromen oder Farbstoffe",
+      "Verwendung von regionaler Milch",
+      "Handgemacht seit 2019",
+      "Hervorragende Kundenbewertungen (Top 5 in Hannover)"
+    ],
+    "localReferences": [
+      "Hannover",
+      "Linden (Linden-Nord, direkt am Schmuckplatz)",
+      "List",
+      "Südstadt",
+      "Regionale Zutaten aus der Umgebung"
+    ],
+    "differentiators": [
+      "Transparente Eisproduktion durch ein Fenster zum Eislabor",
+      "Kreative Kooperationen (z. B. mit Leibniz Butterkeks)",
+      "Außergewöhnliche Inneneinrichtung (Quaderlandschaft)",
+      "Verzicht auf jegliches Chichi und künstliche Zusätze",
+      "Ganzjährige Relevanz durch kreative Winter-Festivals und Adventskalender"
+    ],
+    "faqIntent": [
+      "Was kostet eine Kugel Eis in Hannover?",
+      "Warum ist das Eis so besonders cremig?",
+      "Gibt es vegane Eissorten?",
+      "Woher kommen die Zutaten für das Eis?",
+      "Kann man die Eisdiele für Events mieten?"
+    ]
+  },
+  "keywords": [
+    "Eis essen in Hannover",
+    "eis-essen-hannover",
+    "Handgemachtes Eis Hannover",
+    "Veganes Eis Linden",
+    "Eisdiele List",
+    "Premiumeis ohne künstliche Aromen",
+    "Gläserne Eismanufaktur",
+    "Regionale Zutaten Eisdiele"
+  ],
+  "h1Suggestions": [
+    "Eis essen in Hannover: 100 % natürlich",
+    "Dein Spot für eis-essen-hannover",
+    "Handgemachtes Premiumeis in Hannover",
+    "Eis essen in Hannover bei Nicezeit",
+    "Veganes & natürliches Eis aus Linden"
+  ],
+  "subtitleSuggestions": [
+    "Du möchtest das beste Eis essen in Hannover? Entdecke unsere handgemachten, 100 % natürlichen Eissorten in Linden, List und der Südstadt.",
+    "Auf der Suche nach eis-essen-hannover? Bei Nicezeit erwartet dich kreatives Premiumeis aus regionalen Zutaten – ganz ohne künstliche Aromen.",
+    "Erlebe unsere gläserne Manufaktur am Schmuckplatz. Wir bieten dir vegane Highlights, klassische Sorten und verrückte Kreationen für jeden Geschmack.",
+    "Wenn du richtig gutes Eis essen in Hannover willst, bist du bei uns genau richtig. Komm vorbei und schau uns in der gläsernen Produktion zu!",
+    "Genieße handgemachtes Eis mit regionaler Milch oder als vegane Variante. Echtes Handwerk ohne Chichi für deinen perfekten Genussmoment."
+  ],
+  "mustCover": [
+    "Das Haupt-Keyword 'Eis essen in Hannover' muss zentral in die Texte eingebunden werden",
+    "Betonung der 100 % natürlichen, handgemachten Herstellung ohne künstliche Aromen",
+    "Erwähnung der Standorte in Hannover (Linden, List, Südstadt)",
+    "Hervorhebung der gläsernen Manufaktur und der transparenten Produktion",
+    "Integration der veganen Optionen und der regionalen Zutaten (z. B. regionale Milch)",
+    "Hinweis auf kreative Sorten, saisonale Specials (Winter-Eis) und Events"
+  ],
+  "avoidAngles": [
+    "Klassische 'Standard-Italiener'-Klischees (die Marke positioniert sich modern und unkonventionell)",
+    "Assoziationen mit industrieller Massenware oder künstlichen Zusatzstoffen",
+    "Versprechen von durchgehenden Öffnungszeiten ohne Hinweis auf saisonale Schließungen (da aktuell 'Vorübergehend geschlossen' vermerkt ist)",
+    "Fokus auf billige Preise (es handelt sich um Premiumeis, Qualität steht im Vordergrund)"
+  ]
+}

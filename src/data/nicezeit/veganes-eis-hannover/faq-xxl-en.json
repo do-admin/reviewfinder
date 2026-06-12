@@ -1,0 +1,115 @@
+[
+  {
+    "group_name": "Basics & Ingredients",
+    "faqs": [
+      {
+        "question": "What is vegan ice cream made from?",
+        "answer": "Vegan ice cream is based entirely on plant-based ingredients and completely avoids animal products such as milk, cream, or eggs. It often uses water, fruit pulp, or various plant-based drinks made from oats, almonds, coconut, or soy as a base. High-quality manufacturers also use natural thickeners like locust bean gum or pectin to achieve the desired consistency."
+      },
+      {
+        "question": "Is vegan ice cream always lactose-free?",
+        "answer": "Since vegan products by definition do not contain animal milk, they are generally lactose-free. This makes vegan ice cream an excellent alternative for people with lactose intolerance. Nevertheless, in case of extreme allergies, one should always pay attention to possible trace labeling if dairy ice cream is also processed in the same production facility."
+      },
+      {
+        "question": "Which milk alternative is best suited for vegan ice cream?",
+        "answer": "That depends heavily on the desired flavor. Oat milk is very popular for classics like chocolate or vanilla due to its natural sweetness and good binding properties. Coconut milk gives the ice cream an exotic note and provides a particularly creamy texture due to its high fat content, while cashew milk remains very neutral in taste."
+      },
+      {
+        "question": "Is vegan ice cream automatically gluten-free?",
+        "answer": "Not necessarily. While the base mass is often gluten-free, additives such as cookie pieces, waffle pieces, or certain thickeners can contain gluten. Those with an intolerance should therefore specifically look for gluten-free certified varieties."
+      },
+      {
+        "question": "What are the best stabilizers for vegan ice cream?",
+        "answer": "Natural substances like guar gum, locust bean gum, and pectin are ideal for giving ice cream structure. These plant-based helpers prevent the formation of large ice crystals during freezing. In professional kitchens, inulin is also often used to improve the mouthfeel."
+      },
+      {
+        "question": "Are there vegan cones for ice cream?",
+        "answer": "Yes, many modern ice cream cones are now made without egg and butter to allow vegan customers to enjoy them fully. These usually consist of wheat flour, sugar, and vegetable oils. At the ice cream truck, you can often recognize these by a special label or you can ask the service staff directly."
+      }
+    ]
+  },
+  {
+    "group_name": "Health & Nutrition",
+    "faqs": [
+      {
+        "question": "Is vegan ice cream healthier than regular ice cream?",
+        "answer": "This cannot be answered with a general yes. While vegan ice cream contains no animal cholesterol and often less saturated fat, the sugar content is usually identical to conventional ice cream. It is an ethical and often better tolerated choice, but it remains a treat."
+      },
+      {
+        "question": "Does vegan ice cream have less sugar?",
+        "answer": "Generally not, as sugar is a crucial factor for the texture and freezing point of ice cream. Without a certain amount of sugar, the ice cream would become rock hard in the freezer. However, there are special varieties sweetened with stevia or erythritol, but this is rather the exception."
+      },
+      {
+        "question": "Does vegan ice cream have fewer calories than dairy ice cream?",
+        "answer": "A water-based sorbet has significantly fewer calories than a dairy ice cream. However, if it is a creamy vegan ice cream based on nuts or coconut milk, the calorie content can be similar to that of cream ice cream due to the natural fat content of the plant base."
+      },
+      {
+        "question": "Is vegan ice cream suitable for diabetics?",
+        "answer": "Diabetics must enjoy vegan ice cream with the same caution as conventional ice cream, as the carbohydrates and sugars it contains affect blood sugar levels. Consultation with a doctor or careful checking of nutritional information is essential here."
+      },
+      {
+        "question": "Is vegan ice cream more environmentally friendly to produce?",
+        "answer": "Yes, the ecological footprint of plant-based ingredients is usually significantly better than that of cow's milk. Production generally consumes less water and causes significantly lower CO2 emissions. So, if you value sustainability, a scoop of vegan ice cream is a good choice."
+      }
+    ]
+  },
+  {
+    "group_name": "Texture & Taste",
+    "faqs": [
+      {
+        "question": "How does vegan ice cream get creamy?",
+        "answer": "Creaminess is created by the right balance of fat, sugar, and air. In vegan production, fatty bases like cashew butter or coconut fat are used, along with precise control of the ice cream machine. Constant churning during freezing traps tiny air bubbles, making the ice cream melt delicately."
+      },
+      {
+        "question": "Does vegan ice cream taste different from conventional ice cream?",
+        "answer": "Thanks to modern recipes, the difference is barely noticeable today. While sorbets naturally taste very intensely of fruit, vegan cream varieties come extremely close to the familiar dairy ice cream taste. Often, the inherent taste of the plant base is even perceived as an enrichment, such as a slight nutty note in an almond base."
+      },
+      {
+        "question": "Why does vegan ice cream often melt faster?",
+        "answer": "This is due to the different fat structure and the absence of milk protein, which provides a stable structure in conventional ice cream. Vegetable fats often have a lower melting point. Therefore, it is best to enjoy vegan ice cream immediately after it has been freshly portioned."
+      },
+      {
+        "question": "Is sorbet always vegan?",
+        "answer": "Mostly yes, as sorbets traditionally consist of fruit, water, and sugar. However, egg whites are occasionally used for stabilization or honey for sweetening, which then makes them no longer vegan. A quick look at the ingredient list or an inquiry with the staff quickly clarifies this."
+      },
+      {
+        "question": "How do you avoid ice crystals in vegan ice cream?",
+        "answer": "The key lies in rapid cooling and the use of dry glucose or plant-based binders. If the mixture freezes too slowly, large water crystals form, which disrupt the mouthfeel. Professional machines cool the mixture in a few minutes to ensure a microcrystalline structure."
+      }
+    ]
+  },
+  {
+    "group_name": "Preparation & Tips",
+    "faqs": [
+      {
+        "question": "Can you make vegan ice cream yourself without an ice cream maker?",
+        "answer": "This works best with the so-called \"nicecream\" method using frozen bananas. These are pureed in a blender until a creamy consistency is achieved. Alternatively, a classic ice cream mixture must be stirred vigorously every 30 minutes in the freezer to manually prevent the formation of ice crystals."
+      },
+      {
+        "question": "How does homemade vegan ice cream stay soft in the freezer?",
+        "answer": "A small shot of high-proof alcohol or the addition of inulin can help keep the ice cream scoopable even at low temperatures. A higher fat content, for example from nut butters, also lowers the freezing point. Nevertheless, homemade ice cream should be allowed to thaw at room temperature for about 10 minutes before serving."
+      },
+      {
+        "question": "How long does homemade vegan ice cream last?",
+        "answer": "In the freezer, it lasts about one to two weeks without the taste suffering significantly. Since no preservatives are used, the quality often deteriorates afterwards due to freezer burn or crystal formation. It is recommended to store the ice cream in a flat, airtight container."
+      },
+      {
+        "question": "Which fruits are particularly suitable for vegan creamy ice cream varieties?",
+        "answer": "Mango and avocado are excellent, as they naturally have a very creamy flesh structure. They emulsify wonderfully with vegetable fats and provide a luxurious mouthfeel without much technical effort."
+      }
+    ]
+  },
+  {
+    "group_name": "Shopping & Market",
+    "faqs": [
+      {
+        "question": "How can you tell if ice cream is truly vegan?",
+        "answer": "The safest way is the yellow V-Label of the European Vegetarian Union with the addition \"vegan\". When in doubt, only careful study of the ingredient list helps to exclude hidden animal ingredients such as whey powder, shellac, or carmine."
+      },
+      {
+        "question": "Why is vegan ice cream often more expensive in supermarkets?",
+        "answer": "Plant-based raw materials such as high-quality nuts or vanilla pods are often more expensive to purchase than industrial milk powders. In addition, vegan varieties are often produced in smaller batches, which increases the proportional production costs. The special recipes, which do without cheap fillers, are also reflected in the price."
+      }
+    ]
+  }
+]

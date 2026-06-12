@@ -1,0 +1,78 @@
+/* Loaded async from BaseLayout (preload + swap to stylesheet) — not on the critical render path. */
+
+@keyframes gallery-slide-from-right {
+  from {
+    opacity: 0;
+    transform: translateX(60px) scale(1.02);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+@keyframes gallery-slide-from-left {
+  from {
+    opacity: 0;
+    transform: translateX(-60px) scale(1.02);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+.animate-gallery-slide-from-right {
+  animation: gallery-slide-from-right 0.45s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.animate-gallery-slide-from-left {
+  animation: gallery-slide-from-left 0.45s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.hover-lift {
+  transition:
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+}
+
+.hover-lift:active {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Grayscale to color hover effect for trust logos */
+.grayscale-hover {
+  filter: grayscale(100%);
+  opacity: 0.7;
+  transition:
+    filter 0.3s ease,
+    opacity 0.3s ease;
+}
+
+.grayscale-hover:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-gallery-slide-from-right,
+  .animate-gallery-slide-from-left,
+  .animate-bounce,
+  .animate-pulse {
+    animation: none !important;
+  }
+
+  .hover-lift:hover {
+    transform: none;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+}

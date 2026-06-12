@@ -1,0 +1,257 @@
+{
+  "variants": {
+    "client": {
+      "pageTitle": "Imprint",
+      "description": "Placeholders in blocks/optionalGroups: {{firmenname}}, {{strasse}}, {{plz}}, {{ort}}, optional {{vertreter}}, {{registergericht}}, {{hrbNummer}}, {{ustId}}. Contact lines are added from business.phone and business.email (if set). Data source: websites.json → business.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Information according to § 5 Digital Services Act (DDG)"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Company name: {{firmenname}}"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Postal address"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "{{strasse}}"
+            },
+            {
+              "type": "br"
+            },
+            {
+              "type": "text",
+              "value": "{{plz}} {{ort}}"
+            }
+          ]
+        }
+      ],
+      "optionalGroups": [
+        {
+          "showIfNonEmpty": "vertreter",
+          "blocks": [
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Represented by"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "{{vertreter}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "showIfNonEmpty": "registergericht",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Registry court: {{registergericht}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "showIfNonEmpty": "hrbNummer",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Commercial register number (HRB): {{hrbNummer}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "showIfNonEmpty": "ustId",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Sales tax identification number according to § 27a UStG: {{ustId}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "heroPages": {
+      "pageTitle": "Imprint",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Information according to § 5 DDG / Telemedia Act (TMG)"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "The following information applies to this online offering, unless expressly stated otherwise."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Company Information"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Company name: Hero Pages Inc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Legal form / Entity type: Delaware C Corporation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "EIN (Employer Identification Number): 32-0842978"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Date of incorporation: February 4, 2026"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Delaware file number: 10498070"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Authorized representative"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Lars Hermes"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Contact"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Phone: "
+            },
+            {
+              "type": "link",
+              "href": "tel:+4915121281631",
+              "value": "+49 1512 1281631"
+            },
+            {
+              "type": "br"
+            },
+            {
+              "type": "text",
+              "value": "Email: "
+            },
+            {
+              "type": "link",
+              "href": "mailto:legal@hero-pages.com",
+              "value": "legal@hero-pages.com"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Company address"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "type": "text",
+              "value": "1111b S Governors Ave"
+            },
+            {
+              "type": "br"
+            },
+            {
+              "type": "text",
+              "value": "Suite 51997"
+            },
+            {
+              "type": "br"
+            },
+            {
+              "type": "text",
+              "value": "Dover, DE 19904"
+            },
+            {
+              "type": "br"
+            },
+            {
+              "type": "text",
+              "value": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

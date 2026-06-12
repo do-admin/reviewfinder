@@ -1,0 +1,8 @@
+{
+  "git": { "deploymentEnabled": { "main": false } },
+  "buildCommand": "pnpm build",
+  "installCommand": "pnpm install",
+  "framework": "astro",
+  "rewrites": [{ "source": "/", "destination": "/index.html" }],
+  "routes": [{ "src": "/(.*)", "dest": "/$1" }]
+}

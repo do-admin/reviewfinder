@@ -1,0 +1,338 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import SchemaOrg from '@/components/SchemaOrg.astro';
+import { getGlobalSchemaPrebuilt, getDefaultSiteUrl } from '@/lib/global-schema';
+import { normalizePublicUrl } from '@/lib/site-url';
+import { getThemeFontStylesheetUrls, getThemeFontPreloadUrls } from '@/lib/theme';
+import { t } from '@/lib/page-data';
+import { DEFAULT_LANGUAGE, type SupportedLanguage } from '@/lib/language';
+import { buildHeaderStrings } from '@/lib/client-island-strings';
+import { getLocalizedPath } from '@/lib/route-slugs';
+import '../styles/globals.css';
+
+import { SiteNoticeStatic } from '@/components/SiteNoticeStatic';
+import GoogleAnalytics from '@/components/GoogleAnalytics.astro';
+import { FloatingLanguageSwitcher } from '@/components/FloatingLanguageSwitcher';
+
+const projectId = import.meta.env.CLIENT_ID || 'unknown';
+const apiEndpoint =
+  'https://api.hero-pages.com/api/hero-page-helper/text-editor';
+const apiToken = 'whatever';
+const textEditorEnabled =
+  import.meta.env.DEV ||
+  import.meta.env.TEXT_EDITOR_ENABLED === 'true' ||
+  import.meta.env.PUBLIC_TEXT_EDITOR_ENABLED === 'true';
+
+const textEditorConfig = {
+  projectId,
+  enabledByDefault: false,
+  showToggle: true,
+  enabled: textEditorEnabled,
+  apiEndpoint,
+  apiToken,
+};
+
+// Font stylesheet URLs from src/data/theme.config.json (colors + fonts are baked into globals.css by sync-theme)
+const themeFontStylesheetUrls = getThemeFontStylesheetUrls();
+const themeFontPreloadUrls = getThemeFontPreloadUrls();
+
+// Only preconnect to Google Fonts when at least one stylesheet is actually
+// served from Google. Sites using exclusively local fonts (DSGVO-friendly)
+// must not open a connection to fonts.googleapis.com / fonts.gstatic.com.
+const usesGoogleFonts = themeFontStylesheetUrls.some((url) => {
+  try {
+    return new URL(url).hostname === 'fonts.googleapis.com';
+  } catch {
+    return false;
+  }
+});
+
+// Pick public/favicon.<ext> (svg > ico > png) with content-hash cache-bust.
+function resolveFaviconMeta(): { href: string; type: string } {
+  const publicDir = path.resolve(process.cwd(), 'public');
+  const candidates: Array<{ ext: string; type: string }> = [
+    { ext: 'svg', type: 'image/svg+xml' },
+    { ext: 'ico', type: 'image/x-icon' },
+    { ext: 'png', type: 'image/png' },
+  ];
+  for (const { ext, type } of candidates) {
+    const p = path.join(publicDir, `favicon.${ext}`);
+    try {
+      const buf = fs.readFileSync(p);
+      if (buf.length === 0) continue;
+      const hash = crypto.createHash('md5').update(buf).digest('hex').slice(0, 8);
+      // Mislabeled .ico with SVG bytes: emit correct MIME (real fix is rename at copy time).
+      const head = buf.slice(0, Math.min(buf.length, 256)).toString('utf8');
+      const contentIsSvg =
+        head.trimStart().startsWith('<') && /<svg[\s>]/i.test(head);
+      const effectiveType =
+        ext === 'ico' && contentIsSvg ? 'image/svg+xml' : type;
+      return { href: `/favicon.${ext}?v=${hash}`, type: effectiveType };
+    } catch {
+      /* not found */
+    }
+  }
+  return { href: '/favicon.ico', type: 'image/x-icon' };
+}
+const favicon = resolveFaviconMeta();
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  lang?: string;
+  dir?: 'ltr' | 'rtl';
+  openGraph?: {
+    title: string;
+    description: string;
+    url: string;
+    images?: Array<{ url: string; width: number; height: number; alt: string }>;
+    locale?: string;
+    siteName?: string;
+  };
+  twitter?: {
+    title: string;
+    description: string;
+    images?: Array<string | { url: string; width?: number; height?: number; alt?: string }>;
+  };
+  alternates?: Record<string, string>;
+  noIndex?: boolean;
+  schema?: Array<{ id: string; schemaType: string; data: Record<string, unknown> }>;
+  siteUrl?: string;
+  faq?: { title?: string; items?: Array<{ question?: string; answer?: string }> };
+  heroImage?: string;
+  /** GA4 measurement ID (e.g. G-XXXXXXXX). Empty = no analytics scripts. */
+  googleTagId?: string;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  lang = 'de',
+  dir = 'ltr',
+  openGraph,
+  twitter,
+  alternates,
+  noIndex = false,
+  schema = null,
+  siteUrl: propsSiteUrl,
+  faq = null,
+  heroImage,
+  googleTagId = '',
+} = Astro.props;
+
+const rawSiteUrl = propsSiteUrl ?? getDefaultSiteUrl();
+const siteUrl =
+  rawSiteUrl && String(rawSiteUrl).trim().length > 0
+    ? normalizePublicUrl(String(rawSiteUrl))
+    : rawSiteUrl;
+
+const canonicalNormalized =
+  canonical && String(canonical).trim().length > 0
+    ? normalizePublicUrl(String(canonical))
+    : canonical;
+
+const openGraphNormalized =
+  openGraph?.url != null && String(openGraph.url).trim().length > 0
+    ? { ...openGraph, url: normalizePublicUrl(String(openGraph.url)) }
+    : openGraph;
+
+const alternatesNormalized: Record<string, string> | undefined = alternates
+  ? Object.fromEntries(
+      Object.entries(alternates).map(([code, href]) => [
+        code,
+        href && String(href).trim().length > 0
+          ? normalizePublicUrl(String(href))
+          : String(href ?? ''),
+      ])
+    )
+  : alternates;
+
+const globalSchemaPrebuilt = getGlobalSchemaPrebuilt(
+  siteUrl,
+  import.meta.env.SITE_ID || undefined
+);
+
+const floatingLangStrings = buildHeaderStrings(lang as SupportedLanguage);
+
+function resolveTwitterImageUrl(
+  images: Array<string | { url: string }> | undefined
+): string | undefined {
+  if (!images?.length) return undefined;
+  const first = images[0];
+  const raw =
+    typeof first === 'string'
+      ? first
+      : first && typeof first === 'object' && 'url' in first
+        ? String(first.url)
+        : '';
+  if (!raw) return undefined;
+  return raw.startsWith('/') ? `${siteUrl}${raw}` : raw;
+}
+
+const twitterImageResolved = twitter ? resolveTwitterImageUrl(twitter.images) : undefined;
+
+/** Google Fonts CSS is render-blocking by default; load async so LCP/FCP are not delayed. */
+function isAsyncGoogleFontsStylesheet(url: string): boolean {
+  try {
+    return new URL(url).hostname === 'fonts.googleapis.com';
+  } catch {
+    return false;
+  }
+}
+
+function resolveOpenGraphImageUrl(
+  images: Array<{ url?: string }> | undefined
+): string | undefined {
+  if (!images?.length) return undefined;
+  const raw = images[0]?.url != null ? String(images[0].url) : '';
+  if (!raw) return undefined;
+  return raw.startsWith('/') ? `${siteUrl}${raw}` : raw;
+}
+
+const openGraphImageResolved = openGraphNormalized
+  ? resolveOpenGraphImageUrl(openGraphNormalized.images)
+  : undefined;
+
+// Resolve cookie banner copy server-side so the client island stays small
+// and does not need to import the heavy `page-data` module on hydration.
+const cookieLang = (lang as SupportedLanguage) ?? DEFAULT_LANGUAGE;
+const cookieBannerStrings = {
+  title: t('cookie.title', cookieLang),
+  description: t('cookie.description', cookieLang),
+  acceptAllLabel: t('cookie.acceptAll', cookieLang),
+  acceptEssentialLabel: t('cookie.acceptEssential', cookieLang),
+  moreInfoLabel: t('cookie.moreInfo', cookieLang),
+  privacyHref: getLocalizedPath('datenschutz', cookieLang),
+};
+---
+
+<!doctype html>
+<html lang={lang} dir={dir}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    {/*
+      Google Consent Mode v2 — inlined to avoid render-blocking request.
+      Must run synchronously before gtag.js. Site notice updates consent later.
+    */}
+    <script is:inline>
+      (function () {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          window.dataLayer.push(arguments);
+        }
+        window.gtag = window.gtag || gtag;
+        gtag('consent', 'default', {
+          analytics_storage: 'denied',
+          ad_storage: 'denied',
+          ad_user_data: 'denied',
+          ad_personalization: 'denied',
+          wait_for_update: 500,
+        });
+      })();
+    </script>
+    <GoogleAnalytics measurementId={googleTagId} />
+    <script is:inline src="/scripts/async-stylesheets.js" defer></script>
+    <link rel="icon" type={favicon.type} href={favicon.href} />
+    <link rel="shortcut icon" type={favicon.type} href={favicon.href} />
+    <link rel="apple-touch-icon" href={favicon.href} />
+    {usesGoogleFonts && (
+      <>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      </>
+    )}
+    {themeFontPreloadUrls.length > 0
+      ? themeFontPreloadUrls.map((url) => (
+          <link rel="preload" href={url} as="font" type="font/woff2" crossorigin />
+        ))
+      : null}
+    {themeFontStylesheetUrls.length > 0
+      ? themeFontStylesheetUrls.map((url) =>
+          isAsyncGoogleFontsStylesheet(url) ? (
+            <>
+              <link
+                rel="stylesheet"
+                href={url}
+                media="print"
+                data-async-stylesheet
+              />
+              <noscript>
+                <link rel="stylesheet" href={url} />
+              </noscript>
+            </>
+          ) : (
+            <link href={url} rel="stylesheet" />
+          )
+        )
+      : null}
+    <link
+      rel="preload"
+      as="style"
+      href="/styles/non-critical.css"
+      data-preload-as-stylesheet
+    />
+    <noscript>
+      <link rel="stylesheet" href="/styles/non-critical.css" />
+    </noscript>
+    {dir === 'rtl' && <link rel="stylesheet" href="/styles/rtl.css" />}
+    {canonicalNormalized && <link rel="canonical" href={canonicalNormalized} />}
+    {heroImage && <link rel="preload" as="image" href={heroImage} fetchpriority="high" />}
+    {noIndex && <meta name="robots" content="noindex, follow" />}
+    {openGraphNormalized && (
+      <>
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={openGraphNormalized.title} />
+        <meta property="og:description" content={openGraphNormalized.description} />
+        <meta property="og:url" content={openGraphNormalized.url} />
+        {openGraphNormalized.locale && (
+          <meta property="og:locale" content={openGraphNormalized.locale} />
+        )}
+        {openGraphNormalized.siteName && (
+          <meta property="og:site_name" content={openGraphNormalized.siteName} />
+        )}
+        {openGraphImageResolved && (
+          <meta property="og:image" content={openGraphImageResolved} />
+        )}
+      </>
+    )}
+    {twitter && (
+      <>
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={twitter.title} />
+        <meta name="twitter:description" content={twitter.description} />
+        {twitterImageResolved && (
+          <meta name="twitter:image" content={twitterImageResolved} />
+        )}
+      </>
+    )}
+    {alternatesNormalized &&
+      Object.entries(alternatesNormalized).map(([hreflang, href]) => (
+        <link rel="alternate" hreflang={hreflang} href={href} />
+      ))}
+    <title>{title}</title>
+  </head>
+  <body class="font-body antialiased">
+    <SiteNoticeStatic
+      title={cookieBannerStrings.title}
+      description={cookieBannerStrings.description}
+      acceptAllLabel={cookieBannerStrings.acceptAllLabel}
+      acceptEssentialLabel={cookieBannerStrings.acceptEssentialLabel}
+      moreInfoLabel={cookieBannerStrings.moreInfoLabel}
+      privacyHref={cookieBannerStrings.privacyHref}
+    />
+    <SchemaOrg prebuilt={globalSchemaPrebuilt} schemas={schema} siteUrl={siteUrl} faq={faq} />
+    <slot />
+    <FloatingLanguageSwitcher
+      client:visible
+      selectLanguageLabel={floatingLangStrings.selectLanguageLabel}
+    />
+    <script is:inline src="/scripts/site-notice.js" defer></script>
+    <script is:inline src="/scripts/google-map-consent.js" defer></script>
+  </body>
+</html>

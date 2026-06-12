@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Aktion Baum",
+    "url": "https://aktion-baum.org/",
+    "logo": "aktion-baum-logo.webp",
+    "description": "Nachhaltiger Partner für Aufforstung und Umweltschutz - steht für verantwortungsbewusstes Handeln und Naturverbundenheit, passend zur Philosophie des Hauses."
+  },
+  {
+    "name": "Böhmler",
+    "url": "https://boehmler.de/boehmler/",
+    "logo": "boehmler-logo.webp",
+    "description": "Renommierter Experte für luxuriöse Inneneinrichtung und ganzheitliche Raumgestaltung im Herzen Münchens - prägt das stilvolle Design und die besondere Wohnatmosphäre im Haus."
+  },
+  {
+    "name": "ixpark",
+    "url": "https://ixpark.de",
+    "logo": "park-logo.webp",
+    "description": "Zukunftsorientierter Standort für Unternehmen und Start-ups mit Fokus auf zukunftsorientiertes Arbeiten und neue Formen der Zusammenarbeit."
+  },
+  {
+    "name": "Taurus Sicherheitstechnik",
+    "url": "https://www.taurus-sicherheitstechnik.de/",
+    "logo": "taurus-logo.webp",
+    "description": "Zuverlässiger Partner für Sicherheitslösungen - sorgt für Schutz und ein sicheres Gefühl während des gesamten Aufenthalts."
+  },
+  {
+    "name": "Variand",
+    "url": "https://variand.furniture/",
+    "logo": "variand-logo.webp",
+    "description": "Möbelpartner des Hauses - flexible Einrichtungslösungen, die Funktionalität und modernes Design harmonisch verbinden."
+  },
+  {
+    "name": "Völcker Design",
+    "url": "https://www.voelckerdesign.com/",
+    "logo": "voelcker-design-logo.webp",
+    "description": "Designpartner für durchdachte Produkt- und Gestaltungskonzepte - verbindet Ästhetik und Funktion im gesamten Haus."
+  }
+]

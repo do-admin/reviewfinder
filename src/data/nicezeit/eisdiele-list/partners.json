@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hannover 96",
+    "url": "https://www.hannover96.de/",
+    "logo": "hannover-96-logo.webp",
+    "description": "Hannover 96 verbindet als Traditionsverein seit 1896 die Region. Der Fußballclub steht für Gemeinschaft und Heimatverbundenheit – Werte, die auch in der List gelebt werden."
+  },
+  {
+    "name": "gourmego",
+    "url": "https://www.gourmego.de/",
+    "logo": "gourmego-logo.webp",
+    "description": "gourmego liefert natürliche Eisrohstoffe und Eiszutaten aus der NAPURESS® Manufaktur. Ohne künstliche Zusätze für echtes Handwerkseis in bester Qualität."
+  },
+  {
+    "name": "Bauer Banse",
+    "url": "https://www.bauer-banse.de/",
+    "logo": "bauerbanse-logo.webp",
+    "description": "Bauer Banse beliefert die Region mit regionalen Produkten vom Hof. Frische Zutaten von den Wochenmärkten – auch am Moltkeplatz in der List."
+  },
+  {
+    "name": "Backring Nord",
+    "url": "https://www.backring.de/",
+    "logo": "backring-nord-logo.webp",
+    "description": "Backring Nord ist einer der führenden Fachgroßhändler für Bäckereien und Eiscafés. Qualitätszutaten und zuverlässige Belieferung seit über 100 Jahren."
+  },
+  {
+    "name": "Leibniz",
+    "url": "https://www.leibniz.com/de/",
+    "logo": "leibniz-logo.webp",
+    "description": "Leibniz steht seit 1891 für Backtradition aus Hannover. Die beliebten Butterkekse ergänzen Eis und Kaffee perfekt – regional und bewährt."
+  },
+  {
+    "name": "Machwitz Kaffee",
+    "url": "https://www.machwitz-kaffee.de/",
+    "logo": "machwitz-logo.webp",
+    "description": "Machwitz Kaffee röstet seit 1883 in Hannover. Älteste Rösterei der Stadt – traditionelle Trommelröstung für außergewöhnlichen Kaffeegenuss."
+  },
+  {
+    "name": "Waffelfabrik",
+    "url": "https://www.waffelfabrik.de/",
+    "logo": "waffelfabrik-logo.webp",
+    "description": "Die Waffelfabrik produziert hochwertige Eiswaffeln und Eistüten. Perfekte Hüllen für handwerkliche Eiskreationen aus deutscher Herstellung."
+  }
+]

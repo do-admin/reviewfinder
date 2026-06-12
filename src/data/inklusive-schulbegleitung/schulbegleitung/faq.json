@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Was genau macht eine Schulbegleitung?",
+    "answer": "Eine Schulbegleitung unterstützt Kinder und Jugendliche mit besonderem Förderbedarf direkt im Schulalltag. Zu den Aufgaben gehören lebenspraktische Hilfen, die Begleitung in Pausen und die emotionale Unterstützung in Stresssituationen. So wird den Schülern die Teilhabe am regulären Unterricht ermöglicht."
+  },
+  {
+    "question": "Wer hat Anspruch auf eine Schulbegleitung?",
+    "answer": "Einen gesetzlichen Anspruch haben Kinder mit einer wesentlichen seelischen, geistigen oder körperlichen Behinderung, die ohne Unterstützung den Schulalltag nicht bewältigen können. Die rechtliche Grundlage hierfür bildet die Eingliederungshilfe."
+  },
+  {
+    "question": "Wer trägt die Kosten für die Integrationshilfe?",
+    "answer": "Die Kosten werden nach ausführlicher Prüfung und Bewilligung in der Regel vollständig vom zuständigen örtlichen Jugendamt oder Sozialamt übernommen."
+  },
+  {
+    "question": "Wie lange dauert es, bis der Antrag genehmigt wird?",
+    "answer": "Der Prozess kann sich über mehrere Wochen bis hin zu einigen Monaten hinziehen. Nach der Antragstellung folgen meist Termine zur Bedarfsermittlung, das Einholen ärztlicher Stellungnahmen und teils Hospitationen in der Schule. Es ist daher äußerst ratsam, den Antrag so früh wie möglich zu stellen. Oft hilft es auch enorm, sich im Vorfeld von Beratungsstellen oder einem zukünftigen Träger unterstützen zu lassen."
+  },
+  {
+    "question": "Kann mein Kind trotz Schulbegleitung auf eine Regelschule gehen?",
+    "answer": "Ja, das ist sogar eines der Hauptziele dieser Maßnahme. Die Begleitung dient ausdrücklich dazu, Inklusion aktiv umzusetzen und dem betroffenen Kind den Besuch einer regulären Schule zu ermöglichen."
+  },
+  {
+    "question": "Erledigt die Schulbegleitung die Aufgaben der Lehrer?",
+    "answer": "Nein, die Schulbegleitung übernimmt grundsätzlich keine pädagogischen oder didaktischen Aufgaben der Lehrkräfte. Sie erklärt keinen Unterrichtsstoff und ist in keinem Fall für die Notengebung zuständig. Ihre Rolle ist rein assistierend, um dem Kind das Lernen unter den vorgegebenen Bedingungen überhaupt erst zu erleichtern."
+  },
+  {
+    "question": "Kann ich mir die Person, die mein Kind begleitet, aussuchen?",
+    "answer": "Die finale Entscheidung liegt meist beim beauftragten Träger, da dieser das passende Personal entsprechend der spezifischen Diagnose und des ermittelten Bedarfs auswählt. Allerdings finden im Vorfeld fast immer persönliche Kennenlerngespräche statt, um ein Vertrauensverhältnis aufzubauen. Sollte die \"Chemie\" zwischen Kind und Begleitkraft im Alltag absolut nicht stimmen, kann in enger Absprache mit dem Träger ein Wechsel angestrebt werden."
+  },
+  {
+    "question": "Was ist ein Nachteilsausgleich im Schulalltag?",
+    "answer": "Der Nachteilsausgleich ist eine wichtige Maßnahme, die Schülern mit Einschränkungen faire Bedingungen bei der Leistungserbringung schafft, ohne dabei die fachlichen Anforderungen zu senken. Typische Beispiele aus der Praxis sind Zeitzuschläge bei Klassenarbeiten, abgewandelte Prüfungsformate oder die Nutzung spezieller technischer Hilfsmittel."
+  },
+  {
+    "question": "Braucht die Begleitkraft zwingend eine pädagogische Ausbildung?",
+    "answer": "Nicht zwingend, da es in diesem Berufsfeld auch viele hochmotivierte und geschulte Quereinsteiger gibt. Ob eine pädagogische Fachkraft, wie etwa ein staatlich anerkannter Erzieher oder Heilpädagoge, notwendig ist, hängt primär vom individuellen Förderbedarf des Kindes ab. Bei besonders komplexen Diagnosen oder stark herausforderndem Verhalten fordern die Ämter oft speziell qualifiziertes Personal. In vielen anderen Fällen reicht jedoch eine fundiert eingearbeitete Assistenzkraft völlig aus."
+  },
+  {
+    "question": "Wo reiche ich den Antrag auf Schulbegleitung ein?",
+    "answer": "Bei einer drohenden oder bereits bestehenden seelischen Behinderung (wie zum Beispiel Autismus oder ADHS) ist das Jugendamt der richtige Ansprechpartner. Handelt es sich hingegen um eine geistige oder körperliche Behinderung, muss der Antrag beim örtlichen Sozialamt im Rahmen der Eingliederungshilfe gestellt werden."
+  }
+]

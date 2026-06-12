@@ -1,0 +1,97 @@
+[
+  {
+    "group_name": "Booking & Events",
+    "faqs": [
+      {
+        "question": "How much does it cost to rent an ice cream truck for an event?",
+        "answer": "The cost of renting an ice cream truck depends heavily on the duration of the event and the number of guests. As a rule, we charge a basic fee that covers the journey and the provision of the truck. In addition, there are the costs for the ice cream actually consumed or pre-booked packages. To provide you with an exact offer, we look forward to a direct inquiry with the most important key data."
+      },
+      {
+        "question": "How can I book an ice cream truck for a wedding or celebration?",
+        "answer": "Booking is very easy via our online contact form or by email. After checking your desired date, we will get back to you promptly with a concrete offer."
+      },
+      {
+        "question": "Can I also order the ice cream truck at short notice for a company party?",
+        "answer": "Yes, spontaneous inquiries are generally possible, provided we still have free capacity. Especially in the hot summer months, however, our trucks are quickly booked up. A quick call is the fastest way to clarify current availability in such cases."
+      },
+      {
+        "question": "What happens to the booking in case of bad weather?",
+        "answer": "We offer fair cancellation conditions if the weather on the day of your event should not cooperate at all. You can usually postpone the booking free of charge up to 48 hours in advance."
+      },
+      {
+        "question": "How much space does the Nicezeit ice cream truck need at the event location?",
+        "answer": "Our ice cream truck needs a solid, level standing area of about three by two meters. In addition, a normal 230-volt power connection is required in the immediate vicinity to ensure continuous cooling of the ice cream."
+      },
+      {
+        "question": "Can the Nicezeit ice cream truck also be rented for a photo shoot or as a film prop?",
+        "answer": "Yes, our nostalgic ice cream truck is also available purely as a prop for photo and film productions."
+      },
+      {
+        "question": "From how many people is it worth reserving the ice cream truck exclusively?",
+        "answer": "An exclusive booking usually pays off for a party of about 50 people. For smaller groups, a minimum order value often applies, which would slightly increase the cost per person. Nevertheless, we are of course happy to come to more intimate celebrations and make your event something very special."
+      }
+    ]
+  },
+  {
+    "group_name": "Assortment & Prices",
+    "faqs": [
+      {
+        "question": "How much does a scoop of ice cream cost when booked?",
+        "answer": "The price for a scoop of our handmade ice cream is currently 2.00 Euros in regular sales. For booked events, however, we often work with tailor-made flat-rate offers or transparent tiered prices."
+      },
+      {
+        "question": "What ice cream flavors does the mobile ice cream truck offer?",
+        "answer": "Our assortment changes regularly and includes a fine mix of absolute classics and modern creations. In addition to evergreens like chocolate, vanilla, and strawberry, we like to surprise your guests with unusual flavors like salted caramel or fruity mango-passion fruit sorbet."
+      },
+      {
+        "question": "Is there lactose-free or vegan ice cream in the assortment?",
+        "answer": "Of course, we always have a selection of vegan fruit sorbets on board, which are naturally completely lactose-free. Occasionally, we also offer creamy milk ice cream alternatives based on oat or almond, so that every guest gets their money's worth."
+      },
+      {
+        "question": "Does Nicezeit also offer special or regional ice cream specialties?",
+        "answer": "We attach great importance to special taste experiences and often cooperate with local partners from the region. For example, we work with regional roasteries to create an absolutely unique coffee ice cream. Seasonal specials with fresh, local ingredients perfectly round off our varied offer."
+      },
+      {
+        "question": "Can I have my own ice cream flavor created for my event at Nicezeit?",
+        "answer": "This is actually one of our absolute highlights for weddings and exclusive corporate events! If you let us know in good time, we will develop a completely individual ice cream flavor together with you. We can incorporate certain colors to match your company logo or combine your personal favorite ingredients. From fruity \"basil-lemon\" to crazy \"chocolate-chili mixtures\", almost anything is possible. This gives your event a very personal, culinary touch. Your guests are guaranteed to remember this experience for a long time."
+      },
+      {
+        "question": "What payment options are available at the ice cream truck?",
+        "answer": "Your guests can conveniently pay with all common EC and credit cards as well as via smartphone. Classic cash payment is of course still possible without any problems. For exclusively rented events, we can also conveniently bill afterwards via a total invoice if desired."
+      }
+    ]
+  },
+  {
+    "group_name": "Logistics, Permits & Everyday Life",
+    "faqs": [
+      {
+        "question": "Within what radius can the ice cream truck be rented?",
+        "answer": "For private bookings, weddings, and corporate events, we operate nationwide and are happy to travel to destinations in the wider surrounding area. In regular street sales, however, we focus on our fixed urban routes. It's best to ask us directly if we can come to your desired location."
+      },
+      {
+        "question": "How can you find out where the ice cream truck is currently located?",
+        "answer": "With our Nicezeit app, you can track the current location of our ice cream truck in regular street sales in real-time on a digital map. It also shows you how long the truck is expected to remain at its current location. Fixed tours through residential areas usually take place in the afternoon but depend heavily on the current weather conditions."
+      },
+      {
+        "question": "How does the ice cream truck announce itself?",
+        "answer": "In regular street sales, we announce ourselves with a modern interpretation of the classic ice cream truck melody. It is cheerful and widely audible without being intrusive. If you hear us, you can simply stop us by calling out or send a digital signal via the app."
+      },
+      {
+        "question": "Can the ice cream truck also be rented in winter?",
+        "answer": "Our classic street sales pause during the cold and wet months. However, the truck can be booked at any time for winter events, cozy Christmas markets, or festive company parties. During this time, in addition to ice cream, we often serve freshly baked hot waffles and warming drinks."
+      },
+      {
+        "question": "How many scoops of ice cream does the team serve per hour?",
+        "answer": "An experienced team can easily serve up to 300 scoops of ice cream per hour in our truck. This high speed guarantees pleasantly short waiting times for your guests, even at large events and trade fairs."
+      },
+      {
+        "question": "Can the rented ice cream truck be set up anywhere?",
+        "answer": "On private properties or company premises, we can stand without problems at any time with the owner's permission. In public spaces, we must adhere to the strict regulatory requirements of the respective city. However, we already have official permits for many public places and are happy to advise you on choosing the optimal location."
+      },
+      {
+        "question": "How sustainable are the cups and spoons at Nicezeit?",
+        "answer": "We attach great importance to environmental protection and completely avoid plastic in our disposable tableware. Our ice cream cups and spoons are made entirely from biodegradable materials. We also promote consumption in the classic edible waffle, as this option comes without unnecessary packaging waste."
+      }
+    ]
+  }
+]

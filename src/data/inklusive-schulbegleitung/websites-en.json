@@ -1,0 +1,2901 @@
+[
+  {
+    "id": "schulbegleiter",
+    "deployDomain": "schulbegleiter.me",
+    "googleTagId": "G-GLB4B9882Z",
+    "websiteBriefing": "Main Keyword: Schulbegleiter",
+    "business": {
+      "name": "Hand in Hand",
+      "brandName": "Hand in Hand",
+      "legalName": "Hand in Hand GmbH",
+      "location": {
+        "city": "Isernhagen",
+        "district": "Hanover Region",
+        "neighborhood": "Isernhagen NB"
+      },
+      "phone": "+491731696192",
+      "email": "info@inklusive-schulbegleitung.de",
+      "openingHours": {
+        "short": "Mon-Fri 08:00-15:00",
+        "detailed": "Monday to Friday: 08:00 - 15:00. Outside these hours, we are happy to be there for you by prior appointment.",
+        "display": "Mon. - Fri.: 08:00 - 15:00"
+      },
+      "contactPerson": {
+        "name": "Dein Team bei Hand in Hand",
+        "title": "School Companion & Accompanied School Assistance",
+        "imageUrl": "/images/schulbegleiter/team/schulbegleiter-team.webp"
+      },
+      "bookingUrl": "",
+      "social": {
+        "instagram": "https://www.instagram.com/hand_in_hand_hannover",
+        "facebook": "",
+        "whatsappNumber": ""
+      },
+      "ustId": "",
+      "vertreter": "Jan Ziehme",
+      "googlePlacesId": "ChIJm_0Wiy91sEcRCOrkYudR9Mg",
+      "registergericht": "Hannover",
+      "hrbNummer": "HRB 229182",
+      "legalAddress": {
+        "street": "Am Ortfelde 59",
+        "postalCode": "30916",
+        "city": "Isernhagen"
+      },
+      "locationAddress": {
+        "street": "Am Ortfelde 59",
+        "postalCode": "30916",
+        "city": "Isernhagen"
+      }
+    },
+    "header": {
+      "logoUrl": "/images/schulbegleiter/schulbegleiter-logo.webp",
+      "logoAlt": "Logo Hand in Hand - Inclusive School Support Isernhagen",
+      "logoWidth": 160,
+      "ariaLabelNavigation": "Main navigation",
+      "ariaMenuOpen": "Open menu",
+      "ariaMenuClose": "Close menu",
+      "links": [
+        {
+          "label": "About us",
+          "url": "/ueber-uns",
+          "href": "/de/ueber-uns"
+        },
+        {
+          "label": "FAQ",
+          "url": "/faq",
+          "href": "/de/faq"
+        },
+        {
+          "label": "learn more",
+          "href": "mailto:info@inklusive-schulbegleitung.de",
+          "type": "button"
+        }
+      ]
+    },
+    "footer": {
+      "navigation": {
+        "label": "Navigation",
+        "links": [
+          {
+            "link": "https://inklusive-schulbegleitung.de/individuelle-schulbegleitung",
+            "linkLabel": "School Assistance"
+          },
+          {
+            "link": "https://inklusive-schulbegleitung.de/karriere",
+            "linkLabel": "Careers"
+          }
+        ]
+      },
+      "contact": {
+        "label": "Contact",
+        "links": [
+          {
+            "link": "tel:+491731696192",
+            "linkLabel": "+49 173 1696192"
+          },
+          {
+            "link": "mailto:info@inklusive-schulbegleitung.de",
+            "linkLabel": "info@inklusive-schulbegleitung.de"
+          }
+        ]
+      },
+      "followUs": "Follow us",
+      "openingHoursLabel": "Opening hours",
+      "imprint": "Imprint",
+      "privacy": "Privacy Policy",
+      "grounding": "Grounding"
+    },
+    "cookie": {
+      "title": "Your privacy settings",
+      "description": "We use cookies to make our website as helpful as possible for you. This allows you to quickly find the right information about our inclusive school support.",
+      "acceptAll": "Accept all",
+      "acceptEssential": "Only essential",
+      "moreInfo": "More information"
+    },
+    "notFound": {
+      "title": "Oops, we couldn't find this page.",
+      "description": "Perhaps you made a typo or the link is outdated. Whether you are looking for individual school support for your child or want to join our team in Isernhagen as an educational professional – let's find the right path together.",
+      "backHome": "Back to homepage"
+    },
+    "translationsMetadata": {
+      "disclaimer": {
+        "aiTranslation": "This page was automatically translated so that we can be there for all families. Please excuse minor linguistic inaccuracies.",
+        "dismissAria": "Dismiss notice",
+        "infoAria": "Translation information"
+      },
+      "common": {
+        "close": "Close",
+        "selectLanguage": "Select language"
+      }
+    },
+    "index": {
+      "redirectTitle": "Redirecting…",
+      "redirectTo": "Redirecting to"
+    },
+    "pages": [
+      {
+        "name": "home",
+        "pageTitle": "School Companion in Isernhagen – Hand in hand for your child",
+        "metadata": {
+          "geo": {
+            "icbm": "52.455566399999995, 9.800053799999999",
+            "region": "",
+            "position": "52.455566399999995;9.800053799999999",
+            "placename": "Isernhagen"
+          },
+          "title": "School Companion Isernhagen | Hand in Hand – We see you",
+          "keywords": "School companion, school support Isernhagen, inclusive school support, become a school companion, apply for school support, school assistance, school inclusion, support autism ADHD, school support requirements, school companion jobs",
+          "openGraph": {
+            "url": "https://www.schulbegleiter.me/de",
+            "title": "School Companion Isernhagen | Hand in Hand – We see you",
+            "images": [
+              {
+                "alt": "A school companion and a child walking hand in hand",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+              }
+            ],
+            "description": "Your school companion in Isernhagen for true inclusion. We support children with autism & ADHD. Get advice now or become part of the team!"
+          },
+          "twitter": {
+            "title": "School Companion Isernhagen | Hand in Hand – We see you",
+            "description": "Your school companion in Isernhagen for true inclusion. We support children with autism & ADHD. Get advice now or become part of the team!",
+            "images": [
+              {
+                "alt": "A school companion and a child walking hand in hand",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+              }
+            ]
+          },
+          "description": "Your school companion in Isernhagen for true inclusion. We support children with autism & ADHD. Get advice now or become part of the team!",
+          "schema": [
+            {
+              "id": "organization",
+              "schemaType": "organization",
+              "data": {
+                "name": "Hand in Hand – Inklusive Schulbegleitung Isernhagen",
+                "legalName": "Hand in Hand GmbH",
+                "alternateName": [],
+                "description": "Your school companion in Isernhagen: We offer individual support for children with special needs such as autism or ADHD. True togetherness in everyday school life, hand in hand.",
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleiter.me",
+                "url": "https://www.schulbegleiter.me/de",
+                "sameAs": [
+                  "https://www.facebook.com/schulbegleiter.me"
+                ],
+                "address": [
+                  {
+                    "[@type]": "PostalAddress",
+                    "name": "Büro Isernhagen",
+                    "streetAddress": "Am Ortfelde 59",
+                    "postalCode": "30916",
+                    "addressLocality": "Isernhagen",
+                    "addressRegion": "Niedersachsen",
+                    "addressCountry": "DE",
+                    "@type": "PostalAddress"
+                  }
+                ],
+                "openingHoursSpecification": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "opens": "08:00",
+                  "closes": "15:00"
+                },
+                "logo": "https://www.schulbegleiter.me/images/schulbegleiter/schulbegleiter-logo.webp"
+              }
+            },
+            {
+              "id": "website",
+              "schemaType": "website",
+              "data": {
+                "name": "Hand in Hand – Dein Schulbegleiter in Isernhagen",
+                "url": "https://www.schulbegleiter.me/de",
+                "description": "We are your dedicated school companion in Isernhagen. With heart and mind, we promote true inclusion and support your child individually in everyday school life.",
+                "inLanguage": "de-DE",
+                "publisher": {
+                  "[@id]": "#organization"
+                },
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleiter.me",
+                "legalName": "Hand in Hand GmbH",
+                "openingHoursSpecification": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "opens": "08:00",
+                  "closes": "15:00"
+                }
+              }
+            },
+            {
+              "id": "local-business",
+              "schemaType": "localBusiness",
+              "data": {
+                "[@type]": "LocalBusiness",
+                "name": "Schulbegleiter Hand in Hand Isernhagen",
+                "description": "Are you looking for a school companion in Isernhagen? We support children with autism, ADHD, and other challenges. We see you and your child!",
+                "url": "https://www.schulbegleiter.me/de",
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleiter.me",
+                "address": {
+                  "[@type]": "PostalAddress",
+                  "streetAddress": "Am Ortfelde 59",
+                  "postalCode": "30916",
+                  "addressLocality": "Isernhagen",
+                  "addressRegion": "Niedersachsen",
+                  "addressCountry": "DE",
+                  "@type": "PostalAddress"
+                },
+                "geo": {
+                  "latitude": "52.455566399999995",
+                  "longitude": "9.800053799999999"
+                },
+                "openingHoursSpecification": [],
+                "sameAs": [
+                  "https://www.instagram.com/schulbegleiter.me"
+                ],
+                "legalName": "Hand in Hand GmbH",
+                "@type": "LocalBusiness"
+              }
+            }
+          ]
+        },
+        "hero": {
+          "h1": "Hand in Hand: Your School Support Hannover & Isernhagen",
+          "backgroundImageAlt": "A school companion walks hand in hand with a child through a sunny school corridor, symbolizing support and togetherness.",
+          "locationPrefix": "Your partner in",
+          "locationSuffix": "for inclusive school support",
+          "namePrefix": "Your team at",
+          "callAriaLabel": "Contact us for individual school support and assistance in the application maze",
+          "since": "Over 10 years of experience in inclusive school support",
+          "card1Icon": "diversity_3",
+          "card1Line1": "Real inclusion",
+          "card1Line2": "We see you",
+          "card2Icon": "school",
+          "card2Line1": "Over 10 years",
+          "card2Line2": "Practical experience",
+          "card3Icon": "favorite",
+          "card3Line1": "With heart & mind",
+          "card3Line2": "Personal support",
+          "buttons": [
+            {
+              "text": "learn more",
+              "link": "mailto:info@inklusive-schulbegleitung.de",
+              "variant": "primary"
+            },
+            {
+              "text": "+49 173 1696192",
+              "link": "tel:+491731696192",
+              "variant": "outline"
+            }
+          ],
+          "backgroundImage": "/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+        },
+        "info": {
+          "description": "We are Hand in Hand – your partner for inclusive school assistance in Isernhagen. For over 10 years, we have been supporting children and young people with special needs, such as autism or ADHD, in confidently mastering their everyday school life. With us, the focus is on the person – whether as an assisted child, a family, or a valued team member.",
+          "paragraph1": "Our promise 'We see you' applies to every child, every family, and our entire team. We know that every person is unique, and we tailor the school assistance precisely to individual requirements. In this way, we promote genuine participation and independence at school.",
+          "paragraph2": "Whether it's support in class, during breaks, or coordinating with authorities – our pedagogically trained school assistants are reliably by your side. We provide parents with comprehensive advice on the application process and at the same time offer dedicated professionals and career changers a meaningful role in our team.",
+          "quote": "'We see you.' – A promise we live by to pave the way to genuine participation in everyday school life for children with special challenges.",
+          "imageAlt": "A school assistant and a child laughing together while learning at a desk in school.",
+          "activities": {
+            "title": "Individual Support",
+            "description": "We support your child in everyday school life, in class, and during breaks – exactly as needed. Our school assistants promote independence and social skills.",
+            "icon": "child_care"
+          },
+          "nutrition": {
+            "title": "Help with the Application",
+            "description": "The path to school assistance can be complex. We provide you with comprehensive advice on the requirements and application process, and help you get the support you need.",
+            "icon": "description"
+          },
+          "garden": {
+            "title": "Strong Collaboration",
+            "description": "We build bridges between families, schools, and authorities. As experienced school assistants, we coordinate all parties involved to provide optimal support for your child.",
+            "icon": "people"
+          },
+          "values": {
+            "nature": "We value a relaxed learning environment where your child feels comfortable and can thrive.",
+            "mindfulness": "We treat every child with mindfulness and respect in order to foster their individual strengths.",
+            "participation": "For us, genuine inclusion means that your child can actively participate in school life."
+          },
+          "valueIcons": {
+            "mindfulness": "self_improvement",
+            "nature": "eco",
+            "participation": "diversity_3"
+          },
+          "sectionTitle": "Your path to more participation and independence",
+          "activitiesLabel": "Individual Support",
+          "nutritionLabel": "Help with the Application",
+          "gardenLabel": "Strong Collaboration",
+          "mindfulness": "Mindfulness & Respect",
+          "nature": "Well-being & Thriving",
+          "participation": "Genuine Inclusion",
+          "imageUrl": "/images/schulbegleiter/info/schulbegleiter-info.webp"
+        },
+        "contact": {
+          "location": "Isernhagen",
+          "locationLabel": "Location",
+          "addressName": "Am Ortfelde",
+          "bookOnline": "Contact us",
+          "bookOnlineDesc": "Do you have questions about school support or would you like to support our team? We are here for you and will get back to you as soon as possible.",
+          "infoTitle": "Your contacts for school support",
+          "addressLabel": "Address",
+          "openingHoursLabel": "Opening hours",
+          "phoneLabel": "Phone",
+          "emailLabel": "Email",
+          "bookingTitle": "We are here for you",
+          "bookingIntro": "Whether you are parents looking for support or prospective school support assistants – we look forward to your message. Together we will find the best solution.",
+          "bookingButton": "Send message"
+        },
+        "gallery": {
+          "title": "Insights into our school support",
+          "subtitle": "We show you how we accompany children in everyday school life \"hand in hand\" and live true inclusion.",
+          "ariaLabel": "Impressions of our work in the field of school support",
+          "images": [
+            {
+              "src": "/images/schulbegleiter/gallerie/schulbegleiter-1.webp",
+              "alt": "School companion and child reading a book together in the classroom"
+            },
+            {
+              "src": "/images/schulbegleiter/gallerie/schulbegleiter-2.webp",
+              "alt": "School companion and child solving a task together at the table"
+            },
+            {
+              "src": "/images/schulbegleiter/gallerie/schulbegleiter-3.webp",
+              "alt": "Child proudly shows a painted drawing to the school companion"
+            },
+            {
+              "src": "/images/schulbegleiter/gallerie/schulbegleiter-4.webp",
+              "alt": "School companion supports child with writing in class"
+            },
+            {
+              "src": "/images/schulbegleiter/gallerie/schulbegleiter-5.webp",
+              "alt": "Child and school companion laughing together in the schoolyard"
+            },
+            {
+              "src": "/images/schulbegleiter/gallerie/schulbegleiter-6.webp",
+              "alt": "School companion and child talking during a break"
+            },
+            {
+              "src": "/images/schulbegleiter/gallerie/schulbegleiter-7.webp",
+              "alt": "Child works concentrated at the PC, school companion observes supportively"
+            },
+            {
+              "src": "/images/schulbegleiter/gallerie/schulbegleiter-8.webp",
+              "alt": "School companion and child building something together with Lego bricks"
+            }
+          ],
+          "roomsTitle": "In the classroom and more",
+          "roomsDescription": "Our school companions support your child directly in class, during group work, or individual learning phases. True to our guiding principle \"We see you\", we create an environment in which every child feels safe and understood.",
+          "outdoorTitle": "Breaks and social interaction",
+          "outdoorDescription": "Even outside the classroom, we are reliably there as school companions. Whether during breaks or on the way to school – we promote genuine participation and help with integration into the class community.",
+          "rooms": "Indoor areas",
+          "outdoor": "Outdoor area",
+          "prevImage": "Previous image",
+          "nextImage": "Next image"
+        },
+        "team": {
+          "title": "Our School Companions: We see you",
+          "subtitle": "Our close-knit team of dedicated school companions is committed daily to genuine participation. Find the right support for your child or become part of our mission yourself.",
+          "teamMember": {
+            "quote": "I see you – this promise applies to every child, every family, and every team member."
+          }
+        },
+        "map": {
+          "description": "Visit us in Isernhagen. We look forward to getting to know you and finding the right school companion for your child together.",
+          "publicTransport": "You can reach us easily by public transport. The nearest stop in Isernhagen is just a few minutes' walk away.",
+          "parking": "Free parking is available directly in front of our office at Am Ortfelde or in the immediate vicinity.",
+          "addressTitle": "Our location in Isernhagen",
+          "iframeTitle": "Google Maps map of Hand in Hand in Isernhagen",
+          "sectionTitle": "Find us in Isernhagen",
+          "openOnMap": "Open on Google Maps",
+          "visitUs": "Visit us",
+          "publicTransportLabel": "Public transport",
+          "parkingLabel": "Parking options",
+          "mapEmbedUrl": ""
+        },
+        "reviews": {
+          "title": "Experiences with our school companions",
+          "subtitle": "Read here how families and professionals experience our work as school companions – hand in hand and on an equal footing.",
+          "reviewData": {
+            "displayName": {
+              "text": "Am Ortfelde 59"
+            },
+            "formattedAddress": "Am Ortfelde 59, 30916 Isernhagen, Germany",
+            "reviews": [],
+            "userRatingCount": 0
+          },
+          "minimumRating": 4,
+          "rating": "5.0"
+        },
+        "faq": {
+          "title": "Frequently Asked Questions about your school companion",
+          "subtitle": "Do you have questions about school companions? Here you will find answers to common concerns regarding the application, requirements, and our support for your child."
+        },
+        "trust": {
+          "partner": "Hand in hand with strong partners",
+          "H2": "Hand in hand with schools, authorities, and educational partners",
+          "qualityPartners": "Trust through experience: With over 10 years of practice as school assistants and strong pedagogical leadership, we offer reliability. Whether you are looking for support for your child or want to join as a professional in Isernhagen – we treat you as equals.",
+          "trustDataFile": "partners.json",
+          "logos": [
+            {
+              "src": "/images/schulbegleiter/trustblock/schulbegleiter-bpa-arbeitgeberverband-logo.webp",
+              "alt": "Logo of a regional educational partner of the school assistance service Hand in Hand"
+            },
+            {
+              "src": "/images/schulbegleiter/trustblock/schulbegleiter-jugendamt-logo.webp",
+              "alt": "Quality seal for pedagogical professionals in school assistance"
+            },
+            {
+              "src": "/images/schulbegleiter/trustblock/schulbegleiter-kinderschutzzentrum-hannover.webp",
+              "alt": "Cooperation partner for inclusion at schools in Isernhagen"
+            },
+            {
+              "src": "/images/schulbegleiter/trustblock/schulbegleiter-landeshauptstadt-hannover-logo.webp",
+              "alt": "Partner network for the support and participation of children"
+            }
+          ]
+        }
+      },
+      {
+        "name": "faq",
+        "pageTitle": "FAQ",
+        "metadata": {
+          "title": "FAQ: Your School Companion in Isernhagen | Hand in Hand",
+          "description": "Questions about school assistance? Find answers regarding eligibility, application, and our school companions in Isernhagen. We see you and are happy to help.",
+          "keywords": "school companion, school assistance, FAQ, questions, answers, Isernhagen, autism, ADHD, school assistance application, requirements, school companion tasks, school assistant",
+          "openGraph": {
+            "url": "https://www.schulbegleiter.me/de/faq",
+            "title": "FAQ: Your School Companion in Isernhagen | Hand in Hand",
+            "images": [
+              {
+                "alt": "Child and school companion talking, smiling",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+              }
+            ],
+            "description": "Questions about school assistance? Find answers regarding eligibility, application, and our school companions in Isernhagen. We see you and are happy to help."
+          },
+          "twitter": {
+            "title": "FAQ: Your School Companion in Isernhagen | Hand in Hand",
+            "description": "Questions about school assistance? Find answers regarding eligibility, application, and our school companions in Isernhagen. We see you and are happy to help.",
+            "images": [
+              {
+                "alt": "Child and school companion talking, smiling",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+              }
+            ]
+          }
+        },
+        "hero": {
+          "h1": "Frequently Asked Questions about School Assistance",
+          "lead": "Do you have questions about school assistance, the requirements, or the application process? Here you will find answers to the most common concerns and learn how we can support you \"Hand in Hand\"."
+        },
+        "faqDataFile": "faq-xxl.json",
+        "schema": []
+      },
+      {
+        "name": "impressum",
+        "pageTitle": "Legal Notice",
+        "metadata": {
+          "title": "Legal Notice | Hand in Hand – Your School Companion in Isernhagen",
+          "description": "Legal notice of Hand in Hand GmbH in Isernhagen. All legal information about your dedicated school companion. Contact us now!",
+          "keywords": "Legal notice, school companion, Hand in Hand, Isernhagen, contact, school assistance, information",
+          "openGraph": {
+            "url": "https://www.schulbegleiter.me/de/impressum",
+            "title": "Legal Notice | Hand in Hand – Your School Companion in Isernhagen",
+            "images": [
+              {
+                "alt": "Logo of Hand in Hand: Inclusive school assistance",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+              }
+            ],
+            "description": "Legal notice of Hand in Hand GmbH in Isernhagen. All legal information about your dedicated school companion. Contact us now!"
+          },
+          "twitter": {
+            "title": "Legal Notice | Hand in Hand – Your School Companion in Isernhagen",
+            "description": "Legal notice of Hand in Hand GmbH in Isernhagen. All legal information about your dedicated school companion. Contact us now!",
+            "images": [
+              {
+                "alt": "Logo of Hand in Hand: Inclusive school assistance",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "datenschutz",
+        "pageTitle": "Privacy Policy",
+        "metadata": {
+          "title": "Privacy Policy | School Companions in Isernhagen – Hand in Hand",
+          "description": "Your trust is important to us. Find out here how we, as school companions, handle your data. We protect your privacy – Hand in Hand.",
+          "keywords": "Privacy policy, school companions, Isernhagen, Hand in Hand, privacy, data processing, inclusive school support",
+          "openGraph": {
+            "url": "https://www.schulbegleiter.me/de/datenschutz",
+            "title": "Privacy Policy | School Companions in Isernhagen – Hand in Hand",
+            "images": [
+              {
+                "alt": "Privacy information from Hand in Hand – Inclusive School Support",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+              }
+            ],
+            "description": "Your trust is important to us. Find out here how we, as school companions, handle your data. We protect your privacy – Hand in Hand."
+          },
+          "twitter": {
+            "title": "Privacy Policy | School Companions in Isernhagen – Hand in Hand",
+            "description": "Your trust is important to us. Find out here how we, as school companions, handle your data. We protect your privacy – Hand in Hand.",
+            "images": [
+              {
+                "alt": "Privacy information from Hand in Hand – Inclusive School Support",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "ueber-uns",
+        "pageTitle": "About us: School companions with heart in Isernhagen – Hand in Hand",
+        "metadata": {
+          "title": "About Us – Your school companion in Isernhagen",
+          "description": "Get to know Hand in Hand – your school companion in Isernhagen. We accompany your child with heart and expertise towards true inclusion. Find out more now!",
+          "keywords": "About us, school companion, school accompaniment Isernhagen, inclusion, autism, ADHD, school assistance, Hand in Hand, our team",
+          "openGraph": {
+            "url": "https://www.schulbegleiter.me/de/ueber-uns",
+            "title": "About Us – Your school companion in Isernhagen",
+            "images": [
+              {
+                "alt": "Team of Hand in Hand, school companions",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/about/schulbegleiter-ueber-uns.webp"
+              }
+            ],
+            "description": "Get to know Hand in Hand – your school companion in Isernhagen. We accompany your child with heart and expertise towards true inclusion. Find out more now!"
+          }
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "We are \"Hand in Hand – Inklusive Schulbegleitung\" from Isernhagen. Our promise \"We see you\" applies to every child, every family, and every team member. For us, inclusion is more than just being present at school – it happens when you feel understood and your child receives the support that truly suits them."
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "src": "/images/schulbegleiter/about/schulbegleiter-ueber-uns.webp",
+            "alt": "A school companion reads a book to a child and smiles"
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Experience and pedagogical leadership"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "For over 10 years, we have been at home in inclusive school accompaniment. The pedagogical leadership is held by a state-recognized educator and social pedagogue B.A. Our team is pedagogically trained, brings high social competence, and continuously pursues further education – also in cooperation with recognized educational institutions. This ensures that the support for your child remains professionally sound and humanly approachable."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "What we do for you as school companions"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "We support children and adolescents with special challenges – such as autism, ADHD, or mental, social, and physical impairments – in confidently mastering their everyday school life. This includes individual support during lessons and breaks, fostering social skills, and reliable coordination with schools and authorities. If you would like to apply for a school companion, we will explain the steps clearly and stand by your side with advice."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Partners instead of an anonymous provider"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "As a small, personal provider, we value dedicated contact persons and transparent communication. We work hand in hand with families, schools, and authorities, developing flexible solutions tailored to your child's needs. This builds trust – and an everyday school life in which your child can thrive."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Become part of our team"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Would you like to take on a meaningful role as a school companion in Isernhagen and help shape lived inclusion? We are looking for people with heart and mind, offer further training, and a team that supports each other. Feel free to get in touch – we look forward to getting to know you."
+              }
+            ]
+          }
+        ],
+        "h1": "Your dedicated school companion in Isernhagen"
+      },
+      {
+        "name": "grounding",
+        "pageTitle": "Grounding | Hand in Hand",
+        "metadata": {
+          "title": "Grounding | Hand in Hand",
+          "description": "AI grounding page for Hand in Hand — structured entity definitions and facts about the website for AI systems.",
+          "keywords": "Grounding, AI, Hand in Hand, reference page",
+          "openGraph": {
+            "url": "https://schulbegleitung-hannover.org/en/grounding",
+            "title": "Grounding | Hand in Hand",
+            "images": [
+              {
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp",
+                "width": 1200,
+                "height": 630,
+                "alt": "Hand in Hand - Inclusive school support Isernhagen"
+              }
+            ],
+            "description": "AI grounding page for Hand in Hand."
+          },
+          "twitter": {
+            "title": "Grounding | Hand in Hand",
+            "description": "AI grounding page for Hand in Hand.",
+            "images": [
+              {
+                "alt": "Hand in Hand - Inclusive school support Isernhagen",
+                "url": "https://www.schulbegleiter.me/images/schulbegleiter/hero/schulbegleiter-hero.webp",
+                "width": 1200,
+                "height": 630
+              }
+            ]
+          }
+        },
+        "hero": {
+          "h1": "Grounding",
+          "lead": "Structured facts and entity definitions for Hand in Hand."
+        },
+        "schema": []
+      }
+    ],
+    "impressumBacklink": {
+      "headingTitle": "Concept, design and technical implementation",
+      "title": "Have a website created",
+      "link": "https://www.hero-pages.com/website-erstellen-lassen"
+    },
+    "languages": [],
+    "clientDomain": "www.schulbegleiter.me"
+  },
+  {
+    "id": "schulbegleitung-hannover",
+    "deployDomain": "schulbegleitung-hannover.org",
+    "googleTagId": "G-GYMTLML5X1",
+    "websiteBriefing": "Main Keyword: Schulbegleitung Hannover",
+    "business": {
+      "name": "Hand in Hand",
+      "brandName": "Hand in Hand",
+      "legalName": "Hand in Hand GmbH",
+      "location": {
+        "city": "Isernhagen",
+        "district": "Hanover Region",
+        "neighborhood": "Isernhagen NB"
+      },
+      "phone": "+491731696192",
+      "email": "info@inklusive-schulbegleitung.de",
+      "openingHours": {
+        "short": "Mon-Fri 08:00-15:00",
+        "detailed": "Monday to Friday: 08:00 - 15:00. Outside these hours, we are happy to be there for you by prior appointment.",
+        "display": "Mon. - Fri.: 08:00 - 15:00"
+      },
+      "contactPerson": {
+        "name": "Dein Team bei Hand in Hand",
+        "title": "School Companion Hanover & Surroundings",
+        "imageUrl": "/images/schulbegleitung-hannover/team/schulbegleitung-hannover-team.webp"
+      },
+      "bookingUrl": "",
+      "social": {
+        "instagram": "https://www.instagram.com/hand_in_hand_hannover",
+        "facebook": "",
+        "whatsappNumber": ""
+      },
+      "ustId": "",
+      "vertreter": "Jan Ziehme",
+      "googlePlacesId": "ChIJm_0Wiy91sEcRCOrkYudR9Mg",
+      "registergericht": "Hannover",
+      "hrbNummer": "HRB 229182",
+      "legalAddress": {
+        "street": "Am Ortfelde 59",
+        "postalCode": "30916",
+        "city": "Isernhagen"
+      },
+      "locationAddress": {
+        "street": "Am Ortfelde 59",
+        "postalCode": "30916",
+        "city": "Isernhagen"
+      }
+    },
+    "header": {
+      "logoUrl": "/images/schulbegleitung-hannover/schulbegleitung-hannover-logo.webp",
+      "logoAlt": "Logo Hand in Hand - Inclusive School Support Isernhagen",
+      "logoWidth": 160,
+      "ariaLabelNavigation": "Main navigation",
+      "ariaMenuOpen": "Open menu",
+      "ariaMenuClose": "Close menu",
+      "links": [
+        {
+          "label": "About us",
+          "url": "/ueber-uns",
+          "href": "/de/ueber-uns"
+        },
+        {
+          "label": "FAQ",
+          "url": "/faq",
+          "href": "/de/faq"
+        },
+        {
+          "label": "learn more",
+          "href": "mailto:info@inklusive-schulbegleitung.de",
+          "type": "button"
+        }
+      ]
+    },
+    "footer": {
+      "navigation": {
+        "label": "Navigation",
+        "links": [
+          {
+            "link": "https://inklusive-schulbegleitung.de/individuelle-schulbegleitung",
+            "linkLabel": "School Assistance"
+          },
+          {
+            "link": "https://inklusive-schulbegleitung.de/karriere",
+            "linkLabel": "Careers"
+          }
+        ]
+      },
+      "contact": {
+        "label": "Contact",
+        "links": [
+          {
+            "link": "tel:+491731696192",
+            "linkLabel": "+49 173 1696192"
+          },
+          {
+            "link": "mailto:info@inklusive-schulbegleitung.de",
+            "linkLabel": "info@inklusive-schulbegleitung.de"
+          }
+        ]
+      },
+      "followUs": "Follow us",
+      "openingHoursLabel": "Opening hours",
+      "imprint": "Imprint",
+      "privacy": "Privacy Policy",
+      "grounding": "Grounding"
+    },
+    "cookie": {
+      "title": "Your privacy settings",
+      "description": "We use cookies to make our website as helpful as possible for you. This allows you to quickly find the right information about our inclusive school support.",
+      "acceptAll": "Accept all",
+      "acceptEssential": "Only essential",
+      "moreInfo": "More information"
+    },
+    "notFound": {
+      "title": "Oops, we couldn't find this page.",
+      "description": "Perhaps you made a typo or the link is outdated. Whether you are looking for individual school support for your child or would like to join our team in Isernhagen as an educational professional – let's find the right path together.",
+      "backHome": "Back to homepage"
+    },
+    "translationsMetadata": {
+      "disclaimer": {
+        "aiTranslation": "This page has been automatically translated so that we can be there for all families. Please excuse minor linguistic inaccuracies.",
+        "dismissAria": "Dismiss notice",
+        "infoAria": "Translation information"
+      },
+      "common": {
+        "close": "Close",
+        "selectLanguage": "Select language"
+      }
+    },
+    "index": {
+      "redirectTitle": "Redirecting…",
+      "redirectTo": "Redirecting to"
+    },
+    "pages": [
+      {
+        "name": "home",
+        "pageTitle": "School Accompaniment Hannover: Hand in Hand – We see you!",
+        "metadata": {
+          "geo": {
+            "icbm": "52.455566399999995, 9.800053799999999",
+            "region": "",
+            "position": "52.455566399999995;9.800053799999999",
+            "placename": "Isernhagen"
+          },
+          "title": "Inclusive School Assistance Hanover | Hand in Hand",
+          "keywords": "school assistance Hanover, inclusive school assistance, become a school assistant, school assistance Isernhagen, integration helper Hanover, school assistance autism ADHD, apply for school assistance, participation assistance school, inclusion school Hanover, school assistance Hanover region, participation assistance Hanover, school assistant jobs",
+          "openGraph": {
+            "url": "https://www.schulbegleitung-hannover.org/de",
+            "title": "School Assistance Hanover: Your Partner for Inclusion",
+            "images": [
+              {
+                "alt": "Hand in Hand – Inclusive School Assistance in Hanover",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+              }
+            ],
+            "description": "Inclusive school assistance in Hanover & Isernhagen. We support children with autism & ADHD. Find support for your child or become part of the team!"
+          },
+          "twitter": {
+            "title": "School Assistance Hanover: Your Partner for Inclusion",
+            "description": "Inclusive school assistance in Hanover & Isernhagen. We support children with autism & ADHD. Find support for your child or become part of the team!",
+            "images": [
+              {
+                "alt": "Hand in Hand – Inclusive School Assistance in Hanover",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+              }
+            ]
+          },
+          "description": "Inclusive school assistance in Hanover & Isernhagen. We support children with autism & ADHD. Find support for your child or become part of the team!",
+          "schema": [
+            {
+              "id": "https://www.schulbegleitung-hannover.org/de",
+              "schemaType": "Organization",
+              "data": {
+                "name": "Hand in Hand – Inklusive Schulbegleitung",
+                "legalName": "Hand in Hand GmbH",
+                "alternateName": [],
+                "description": "Hand in Hand offers individual school assistance in Hanover and the region. We promote participation and independence for children with special needs, autism, or ADHD. Become part of our team!",
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleitung-hannover.org",
+                "url": "https://www.schulbegleitung-hannover.org/de",
+                "sameAs": [
+                  "https://www.facebook.com/handinhandinklusive"
+                ],
+                "address": [
+                  {
+                    "[@type]": "PostalAddress",
+                    "name": "Büro Isernhagen",
+                    "streetAddress": "Am Ortfelde 59",
+                    "postalCode": "30916",
+                    "addressLocality": "Isernhagen",
+                    "addressRegion": "Niedersachsen",
+                    "addressCountry": "DE",
+                    "@type": "PostalAddress"
+                  }
+                ],
+                "openingHoursSpecification": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "opens": "08:00",
+                  "closes": "15:00"
+                }
+              }
+            },
+            {
+              "id": "https://www.schulbegleitung-hannover.org/de",
+              "schemaType": "WebSite",
+              "data": {
+                "name": "Schulbegleitung Hannover",
+                "url": "https://www.schulbegleitung-hannover.org/de",
+                "description": "Inclusive school assistance in Hanover & Isernhagen. We support children with autism & ADHD. Find support for your child or become part of the team!",
+                "inLanguage": "de-DE",
+                "publisher": {
+                  "[@id]": "#organization"
+                },
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleitung-hannover.org",
+                "legalName": "Hand in Hand GmbH",
+                "openingHoursSpecification": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "opens": "08:00",
+                  "closes": "15:00"
+                }
+              }
+            },
+            {
+              "id": "https://www.schulbegleitung-hannover.org/de#local-business",
+              "schemaType": "LocalBusiness",
+              "data": {
+                "[@type]": "LocalBusiness",
+                "name": "Hand in Hand – Inklusive Schulbegleitung",
+                "description": "Hand in Hand offers individual school assistance in Hanover and the region. We promote participation and independence for children with special needs, autism, or ADHD. Become part of our team!",
+                "url": "https://www.schulbegleitung-hannover.org/de",
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleitung-hannover.org",
+                "address": {
+                  "[@type]": "PostalAddress",
+                  "streetAddress": "Am Ortfelde 59",
+                  "postalCode": "30916",
+                  "addressLocality": "Isernhagen",
+                  "addressRegion": "Niedersachsen",
+                  "addressCountry": "DE",
+                  "@type": "PostalAddress"
+                },
+                "geo": {
+                  "latitude": "52.455566399999995",
+                  "longitude": "9.800053799999999"
+                },
+                "openingHoursSpecification": [],
+                "sameAs": [
+                  "https://www.facebook.com/handinhandinklusive"
+                ],
+                "legalName": "Hand in Hand GmbH",
+                "@type": "LocalBusiness"
+              }
+            }
+          ]
+        },
+        "hero": {
+          "h1": "School Assistance Hanover: We see you",
+          "backgroundImageAlt": "Child and school companion talking, laughing in a school hallway, symbolizing support and joy in everyday school life.",
+          "locationPrefix": "In",
+          "locationSuffix": "and region",
+          "namePrefix": "Your partner",
+          "callAriaLabel": "Contact us for a personal consultation on school assistance in Hanover and Isernhagen.",
+          "since": "By your side for over 10 years",
+          "card1Icon": "favorite",
+          "card1Line1": "Individual",
+          "card1Line2": "Support",
+          "card2Icon": "school",
+          "card2Line1": "With Heart",
+          "card2Line2": "& Mind",
+          "card3Icon": "diversity_3",
+          "card3Line1": "Genuine",
+          "card3Line2": "Participation",
+          "buttons": [
+            {
+              "text": "learn more",
+              "link": "mailto:info@inklusive-schulbegleitung.de",
+              "variant": "primary"
+            },
+            {
+              "text": "+49 173 1696192",
+              "link": "tel:+491731696192",
+              "variant": "outline"
+            }
+          ],
+          "backgroundImage": "/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+        },
+        "info": {
+          "description": "Are you looking for empathetic school accompaniment in Hanover or the region? At Hand in Hand, we stand by you and your child. We offer individual support for children and adolescents with special challenges such as autism, ADHD, or other disabilities. Our goal is to enable genuine participation in everyday school life.",
+          "paragraph1": "In our Hanover school accompaniment, we rely on a small, dedicated team that not only accompanies your child but truly sees them – with all their strengths and needs. We promote independence and self-confidence so that your child can actively participate in lessons and social life. From organizing breaks to supporting learning, we are reliable partners.",
+          "paragraph2": "As an experienced provider in Isernhagen and the Hanover region, we know how important trusting cooperation is. We help you with questions about the application process and coordinate closely with schools and authorities. At the same time, we are looking for people with heart and mind: Are you an educational professional or a career changer? Become part of our team and actively help shape lived inclusion!",
+          "quote": "\"We see you\" – this promise applies to every child, every family, and every team member. Hand in Hand, we create an environment where inclusion succeeds.",
+          "imageAlt": "An empathetic school assistant from Hand in Hand supports a child with learning in a classroom in Hanover.",
+          "activities": {
+            "title": "Individual Accompaniment",
+            "description": "We support your child in class, during breaks, and during school activities, entirely according to their needs.",
+            "icon": "FaBookOpen"
+          },
+          "nutrition": {
+            "title": "Strengthening Independence",
+            "description": "Targeted promotion of independence, self-confidence, and genuine participation in school life.",
+            "icon": "FaChild"
+          },
+          "garden": {
+            "title": "Comprehensive Support",
+            "description": "Accompaniment for autism, ADHD, and other mental, social, or physical challenges.",
+            "icon": "FaHandsHelping"
+          },
+          "values": {
+            "nature": "We work hand in hand with families, schools, and authorities to ensure the best possible support. You are not alone.",
+            "mindfulness": "With us, your child is the center of attention. We see their uniqueness and flexibly adapt our support to their individual needs.",
+            "participation": "We believe in lived inclusion. Every child has the right to fully participate in school life and unfold their potential."
+          },
+          "valueIcons": {
+            "mindfulness": "FaEye",
+            "nature": "FaHandshake",
+            "participation": "FaUsers"
+          },
+          "sectionTitle": "Your School Accompaniment in Hanover: Heart & Mind for Genuine Inclusion",
+          "activitiesLabel": "What we do",
+          "nutritionLabel": "What we stand for",
+          "gardenLabel": "Who we accompany",
+          "mindfulness": "Individual Awareness",
+          "nature": "Strong Together",
+          "participation": "Lived Inclusion",
+          "imageUrl": "/images/schulbegleitung-hannover/info/schulbegleitung-hannover-info.webp"
+        },
+        "contact": {
+          "location": "Isernhagen",
+          "locationLabel": "Location",
+          "addressName": "Hand in Hand – Inklusive Schulbegleitung",
+          "bookOnline": "Schedule an appointment",
+          "bookOnlineDesc": "We are here for you! Schedule a no-obligation initial consultation now to get to know us and our work. Together, we will find the best support for your child.",
+          "infoTitle": "Comprehensive support – Your questions are important to us",
+          "addressLabel": "Address",
+          "openingHoursLabel": "Office hours",
+          "phoneLabel": "Phone",
+          "emailLabel": "Email",
+          "bookingTitle": "Let's talk",
+          "bookingIntro": "Do you have questions about school support in Hanover or would you like to learn more about our work? We offer comprehensive advice on all topics related to individual support for your child. We also look forward to hearing from you if you would like to join our team!",
+          "bookingButton": "Get in touch now"
+        },
+        "gallery": {
+          "title": "Moments of Inclusion: School Accompaniment Hannover",
+          "subtitle": "Discover in our gallery how we support children in Hannover and Isernhagen \"hand in hand\" in their everyday school life and foster their strengths.",
+          "ariaLabel": "Gallery of our work in school accompaniment",
+          "images": [
+            {
+              "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-1.webp",
+              "alt": "School companion supporting a child learning at a desk"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-2.webp",
+              "alt": "Child and school companion reading a book together"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-3.webp",
+              "alt": "School companion and child talking during a break"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-4.webp",
+              "alt": "A child with a school companion in the classroom"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-5.webp",
+              "alt": "School companion helping a child with crafting or drawing"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-6.webp",
+              "alt": "Child and school companion outdoors, relaxed atmosphere"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-7.webp",
+              "alt": "School companion and child interacting in a friendly way in the school hallway"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/gallerie/schulbegleitung-hannover-8.webp",
+              "alt": "School companion supporting a child during group work"
+            }
+          ],
+          "roomsTitle": "In the Classroom",
+          "roomsDescription": "We are by your child's side – during lessons, with assignments, and when things get tricky. This is how we foster independence and a joy for learning.",
+          "outdoorTitle": "Breaks & Free Time",
+          "outdoorDescription": "Even outside the classroom, we ensure a safe and supportive environment where your child feels comfortable and makes friends.",
+          "rooms": "In Class",
+          "outdoor": "Breaks & Schoolyard",
+          "prevImage": "Previous Image",
+          "nextImage": "Next Image"
+        },
+        "team": {
+          "title": "Our Team: We see you",
+          "subtitle": "As your team for school support in Hanover, we are committed to true participation every day. Find the right support for your child or become part of our mission yourself.",
+          "teamMember": {
+            "quote": "I see you – this promise applies to every child, every family, and every team member."
+          }
+        },
+        "map": {
+          "description": "Our office in Isernhagen is the central point for our school support in Hanover and the entire region. Contact us – we are here for you!",
+          "publicTransport": "You can also easily reach us in Isernhagen by public transport. It is best to plan your route to us in advance.",
+          "parking": "Free parking is available directly in front of our office building.",
+          "addressTitle": "Our office in Isernhagen",
+          "iframeTitle": "Our location in Isernhagen – Your way to us",
+          "sectionTitle": "We are here for you: Your way to us",
+          "openOnMap": "Open on map",
+          "visitUs": "Visit us in Isernhagen!",
+          "publicTransportLabel": "Public transport",
+          "parkingLabel": "Parking",
+          "mapEmbedUrl": ""
+        },
+        "reviews": {
+          "title": "Testimonials about our school support",
+          "subtitle": "Read here how families, teachers, and our team experience working with Hand in Hand – together for genuine participation.",
+          "reviewData": {
+            "displayName": {
+              "text": "Am Ortfelde 59"
+            },
+            "formattedAddress": "Am Ortfelde 59, 30916 Isernhagen, Germany",
+            "reviews": [],
+            "userRatingCount": 0
+          },
+          "minimumRating": 4,
+          "rating": "5.0"
+        },
+        "faq": {
+          "title": "Frequently Asked Questions about School Accompaniment in Hanover",
+          "subtitle": "Do you have questions about school accompaniment in Hanover? Here you will find answers that support you and provide guidance. We are here for you."
+        },
+        "trust": {
+          "partner": "Our partners for strong school support in Hanover",
+          "H2": "Strong partners for inclusion and school support in Hanover",
+          "qualityPartners": "We cooperate closely with schools, authorities, and educational institutions in Hanover and Isernhagen. Through this constant exchange and our continuous further training, we ensure school support that acts with heart and mind – for strong children and a strong team.",
+          "trustDataFile": "partners.json",
+          "logos": [
+            {
+              "src": "/images/schulbegleitung-hannover/trustblock/schulbegleitung-hannover-bpa-arbeitgeberverband-logo.webp",
+              "alt": "Logo of a regional educational partner of the Hand in Hand school support"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/trustblock/schulbegleitung-hannover-jugendamt-logo.webp",
+              "alt": "Quality seal for pedagogical professionals in school assistance"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/trustblock/schulbegleitung-hannover-kinderschutzzentrum-hannover.webp",
+              "alt": "Cooperation partner for inclusion at schools in Isernhagen"
+            },
+            {
+              "src": "/images/schulbegleitung-hannover/trustblock/schulbegleitung-hannover-landeshauptstadt-hannover-logo.webp",
+              "alt": "Partner network for the support and participation of children"
+            }
+          ]
+        }
+      },
+      {
+        "name": "faq",
+        "pageTitle": "Frequently Asked Questions",
+        "metadata": {
+          "title": "FAQ School Accompaniment Hannover: Answers to Your Questions",
+          "description": "Questions about school accompaniment in Hannover? Here you will find answers regarding applications, requirements, and our support – hand in hand for your child.",
+          "keywords": "School accompaniment Hannover FAQ, apply for school accompaniment, school accompaniment requirements, school accompaniment tasks, school companion qualification, school inclusion Hannover",
+          "openGraph": {
+            "url": "https://www.schulbegleitung-hannover.org/de/faq",
+            "title": "FAQ School Accompaniment Hannover: Answers to Your Questions",
+            "images": [
+              {
+                "alt": "Frequently asked questions about school accompaniment in Hannover",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+              }
+            ],
+            "description": "Questions about school accompaniment in Hannover? Here you will find answers regarding applications, requirements, and our support – hand in hand for your child."
+          },
+          "twitter": {
+            "title": "FAQ School Accompaniment Hannover: Answers to Your Questions",
+            "description": "Questions about school accompaniment in Hannover? Here you will find answers regarding applications, requirements, and our support – hand in hand for your child.",
+            "images": [
+              {
+                "alt": "Frequently asked questions about school accompaniment in Hannover",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+              }
+            ]
+          }
+        },
+        "hero": {
+          "h1": "Your Questions about School Accompaniment Hannover",
+          "lead": "Do you have questions about school accompaniment, the application process, or our work in Hannover and Isernhagen? Here you will find answers to the most common concerns and learn how we support your child and your family \"hand in hand\"."
+        },
+        "faqDataFile": "faq-xxl.json",
+        "schema": []
+      },
+      {
+        "name": "impressum",
+        "pageTitle": "Legal Notice",
+        "metadata": {
+          "title": "Legal Notice | Hand in Hand – School Accompaniment Hanover",
+          "description": "The legal notice of Hand in Hand, your school accompaniment in Hanover and Isernhagen. Here you will find all legal information about our organization.",
+          "keywords": "School accompaniment Hanover, inclusive school accompaniment, school assistance Isernhagen, integration assistant Hanover, autism school accompaniment, ADHD school accompaniment, apply for school accompaniment, school participation assistance, school inclusion Hanover, Hand in Hand",
+          "openGraph": {
+            "url": "https://www.schulbegleitung-hannover.org/de/impressum",
+            "title": "Legal Notice | Hand in Hand – School Accompaniment Hanover",
+            "images": [
+              {
+                "alt": "Logo of Hand in Hand – Inclusive School Accompaniment",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+              }
+            ],
+            "description": "The legal notice of Hand in Hand, your school accompaniment in Hanover and Isernhagen. Here you will find all legal information about our organization."
+          },
+          "twitter": {
+            "title": "Legal Notice | Hand in Hand – School Accompaniment Hanover",
+            "description": "The legal notice of Hand in Hand, your school accompaniment in Hanover and Isernhagen. Here you will find all legal information about our organization.",
+            "images": [
+              {
+                "alt": "Logo of Hand in Hand – Inclusive School Accompaniment",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "datenschutz",
+        "pageTitle": "Privacy Policy",
+        "metadata": {
+          "title": "Privacy Policy at Hand in Hand – School Accompaniment Hanover",
+          "description": "Find out here how Hand in Hand protects and processes your data. Transparent data protection for your school accompaniment in Hanover and Isernhagen.",
+          "keywords": "Privacy policy school accompaniment Hanover, Hand in Hand privacy policy, data security school accompaniment, personal data protection Hanover, school accompaniment Isernhagen privacy policy",
+          "openGraph": {
+            "url": "https://www.schulbegleitung-hannover.org/de/datenschutz",
+            "title": "Privacy Policy at Hand in Hand – School Accompaniment Hanover",
+            "images": [
+              {
+                "alt": "Privacy policy information for school accompaniment Hanover",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+              }
+            ],
+            "description": "Find out here how Hand in Hand protects and processes your data. Transparent data protection for your school accompaniment in Hanover and Isernhagen."
+          },
+          "twitter": {
+            "title": "Privacy Policy at Hand in Hand – School Accompaniment Hanover",
+            "description": "Find out here how Hand in Hand protects and processes your data. Transparent data protection for your school accompaniment in Hanover and Isernhagen.",
+            "images": [
+              {
+                "alt": "Privacy policy information for school accompaniment Hanover",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "ueber-uns",
+        "pageTitle": "About us: Your school support in Hanover",
+        "metadata": {
+          "title": "About us: Your school support in Hanover & Isernhagen",
+          "description": "Get to know Hand in Hand: Your provider for inclusive school support in Hanover. With heart and mind for genuine participation. Learn more now!",
+          "keywords": "About us school support Hanover, Hand in Hand school support, Inclusive school support Hanover, School assistance Isernhagen, Integration helper Hanover, School support autism ADHD, Team school support Hanover, Who we are school support",
+          "openGraph": {
+            "url": "https://www.schulbegleitung-hannover.org/de/ueber-uns",
+            "title": "About us: Your school support in Hanover & Isernhagen",
+            "images": [
+              {
+                "alt": "Team of Hand in Hand – Inclusive school support, smiling and empathetic",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/about/schulbegleitung-hannover-ueber-uns.webp"
+              }
+            ],
+            "description": "Get to know Hand in Hand: Your provider for inclusive school support in Hanover. With heart and mind for genuine participation. Learn more now!"
+          }
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "At Hand in Hand in Hanover, one goal takes center stage: Every child has the right to genuine participation – and to be seen. \"We see you\" is not a slogan for us, but our everyday work. We accompany your child individually in their everyday school life in Hanover, Isernhagen, and the region, strengthening their independence step by step."
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "src": "/images/schulbegleitung-hannover/about/schulbegleitung-hannover-ueber-uns.webp",
+            "alt": "A school companion and a child entering a school building hand in hand, symbolizing support and inclusion."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Small team, dedicated contact persons"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "We are a close-knit, dedicated team with over 10 years of experience in school support. The pedagogical management is held by a state-recognized educator and social pedagogue B.A. With us, you will reach reliable contact persons who accompany you at eye level – even when it comes to applications, coordination with the school, or questions about autism, ADHD, and other support needs."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Genuine participation through individual support"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Our school support goes beyond mere presence: We build bridges between your child, teachers, and everyday school life. Together with families, schools, and authorities, we develop solutions that suit your child – in class, during breaks, and during school activities."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Quality and further training"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Our pedagogical staff receives regular further training and brings a high level of social competence. As a personal provider, we remain accessible to you – with professional depth and a working style that builds trust."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Career: Become a school companion in the Hanover region"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Are you looking for a meaningful job? We welcome pedagogical professionals and motivated career changers who want to live inclusion with heart and mind. You will receive further training, an appreciative team, and the chance to noticeably improve the everyday school life of children. Feel free to contact us."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Strong together in everyday school life"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Reliability counts – for families, schools, and especially for the children. That is why we coordinate transparently, remain flexible when needs change, and stand by your side as a partner in Hanover and the surrounding area."
+              }
+            ]
+          }
+        ],
+        "h1": "Your inclusive school support Hanover"
+      },
+      {
+        "name": "grounding",
+        "pageTitle": "Grounding | Hand in Hand",
+        "metadata": {
+          "title": "Grounding | Hand in Hand",
+          "description": "AI grounding page for Hand in Hand — structured entity definitions and facts about the website for AI systems.",
+          "keywords": "Grounding, AI, Hand in Hand, reference page",
+          "openGraph": {
+            "url": "https://schulbegleitung-hannover.org/en/grounding",
+            "title": "Grounding | Hand in Hand",
+            "images": [
+              {
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp",
+                "width": 1200,
+                "height": 630,
+                "alt": "Hand in Hand - Inclusive School Support Hanover"
+              }
+            ],
+            "description": "AI grounding page for Hand in Hand."
+          },
+          "twitter": {
+            "title": "Grounding | Hand in Hand",
+            "description": "AI grounding page for Hand in Hand.",
+            "images": [
+              {
+                "alt": "Hand in Hand - Inclusive School Support Hanover",
+                "url": "https://www.schulbegleitung-hannover.org/images/schulbegleitung-hannover/hero/schulbegleitung-hannover-hero.webp",
+                "width": 1200,
+                "height": 630
+              }
+            ]
+          }
+        },
+        "hero": {
+          "h1": "Grounding",
+          "lead": "Structured facts and entity definitions for Hand in Hand."
+        },
+        "schema": []
+      }
+    ],
+    "impressumBacklink": {
+      "headingTitle": "Concept, design and technical implementation",
+      "title": "Website Design",
+      "link": "https://www.hero-pages.com/website-design"
+    },
+    "languages": [],
+    "clientDomain": "www.schulbegleitung-hannover.org"
+  },
+  {
+    "id": "schulbegleitung",
+    "deployDomain": "schulbegleitung.info",
+    "googleTagId": "G-8Y1S2FJYLZ",
+    "websiteBriefing": "Main Keyword: Schulbegleitung",
+    "business": {
+      "name": "Hand in Hand",
+      "brandName": "Hand in Hand",
+      "legalName": "Hand in Hand GmbH",
+      "location": {
+        "city": "Isernhagen",
+        "district": "Hanover Region",
+        "neighborhood": "Isernhagen NB"
+      },
+      "phone": "+491731696192",
+      "email": "info@inklusive-schulbegleitung.de",
+      "openingHours": {
+        "short": "Mon-Fri 08:00-15:00",
+        "detailed": "Monday to Friday: 08:00 - 15:00. Outside these hours, we are happy to be there for you by prior appointment.",
+        "display": "Mon. - Fri.: 08:00 - 15:00"
+      },
+      "contactPerson": {
+        "name": "Dein Team bei Hand in Hand",
+        "title": "Inclusive School Assistance",
+        "imageUrl": "/images/schulbegleitung/team/schulbegleitung-team.webp"
+      },
+      "bookingUrl": "",
+      "social": {
+        "instagram": "https://www.instagram.com/hand_in_hand_hannover",
+        "facebook": "",
+        "whatsappNumber": ""
+      },
+      "ustId": "",
+      "vertreter": "Jan Ziehme",
+      "googlePlacesId": "ChIJm_0Wiy91sEcRCOrkYudR9Mg",
+      "registergericht": "Hannover",
+      "hrbNummer": "HRB 229182",
+      "legalAddress": {
+        "street": "Am Ortfelde 59",
+        "postalCode": "30916",
+        "city": "Isernhagen"
+      },
+      "locationAddress": {
+        "street": "Am Ortfelde 59",
+        "postalCode": "30916",
+        "city": "Isernhagen"
+      }
+    },
+    "header": {
+      "logoUrl": "/images/schulbegleitung/schulbegleitung-logo.webp",
+      "logoAlt": "Logo Hand in Hand - Inclusive School Support Isernhagen",
+      "logoWidth": 160,
+      "ariaLabelNavigation": "Main navigation",
+      "ariaMenuOpen": "Open menu",
+      "ariaMenuClose": "Close menu",
+      "links": [
+        {
+          "label": "About us",
+          "url": "/ueber-uns",
+          "href": "/de/ueber-uns"
+        },
+        {
+          "label": "FAQ",
+          "url": "/faq",
+          "href": "/de/faq"
+        },
+        {
+          "label": "learn more",
+          "href": "mailto:info@inklusive-schulbegleitung.de",
+          "type": "button"
+        }
+      ]
+    },
+    "footer": {
+      "navigation": {
+        "label": "Navigation",
+        "links": [
+          {
+            "link": "https://inklusive-schulbegleitung.de/individuelle-schulbegleitung",
+            "linkLabel": "School Assistance"
+          },
+          {
+            "link": "https://inklusive-schulbegleitung.de/karriere",
+            "linkLabel": "Careers"
+          }
+        ]
+      },
+      "contact": {
+        "label": "Contact",
+        "links": [
+          {
+            "link": "tel:+491731696192",
+            "linkLabel": "+49 173 1696192"
+          },
+          {
+            "link": "mailto:info@inklusive-schulbegleitung.de",
+            "linkLabel": "info@inklusive-schulbegleitung.de"
+          }
+        ]
+      },
+      "followUs": "Follow us",
+      "openingHoursLabel": "Opening hours",
+      "imprint": "Imprint",
+      "privacy": "Privacy Policy",
+      "grounding": "Grounding"
+    },
+    "cookie": {
+      "title": "Your privacy settings",
+      "description": "We use cookies to make our website as helpful as possible for you. This helps you quickly find the right information about our inclusive school support.",
+      "acceptAll": "Accept all",
+      "acceptEssential": "Only essential",
+      "moreInfo": "More information"
+    },
+    "notFound": {
+      "title": "Oops, we couldn't find this page.",
+      "description": "Maybe you made a typo or the link is outdated. Whether you are looking for individual school support for your child or want to join our team in Isernhagen as an educational professional – let's find the right path together.",
+      "backHome": "Back to homepage"
+    },
+    "translationsMetadata": {
+      "disclaimer": {
+        "aiTranslation": "This page has been automatically translated so that we can be there for all families. Please excuse minor linguistic inaccuracies.",
+        "dismissAria": "Dismiss notice",
+        "infoAria": "Translation information"
+      },
+      "common": {
+        "close": "Close",
+        "selectLanguage": "Select language"
+      }
+    },
+    "index": {
+      "redirectTitle": "Redirecting…",
+      "redirectTo": "Redirecting to"
+    },
+    "pages": [
+      {
+        "name": "home",
+        "pageTitle": "School Companion Hannover | Hand in Hand – We see you",
+        "metadata": {
+          "geo": {
+            "icbm": "52.455566399999995, 9.800053799999999",
+            "region": "",
+            "position": "52.455566399999995;9.800053799999999",
+            "placename": "Isernhagen"
+          },
+          "title": "School Assistance Hanover: Hand in Hand for Your Child",
+          "keywords": "School assistance Hanover, inclusive school assistance, school assistance Isernhagen, integration helper, autism ADHD, apply for school assistance, participation assistance, school inclusion, become a school assistant",
+          "openGraph": {
+            "url": "https://www.schulbegleitung.info/de",
+            "title": "School Assistance Hanover: Hand in Hand for Your Child",
+            "images": [
+              {
+                "alt": "Children walking hand in hand, symbolic of school assistance",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+              }
+            ],
+            "description": "School assistance Hanover & Isernhagen: Empathetic support for children with autism/ADHD. Get advice as parents or become part of our team!"
+          },
+          "twitter": {
+            "title": "School Assistance Hanover: Hand in Hand for Your Child",
+            "description": "School assistance Hanover & Isernhagen: Empathetic support for children with autism/ADHD. Get advice as parents or become part of our team!",
+            "images": [
+              {
+                "alt": "Children walking hand in hand, symbolic of school assistance",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+              }
+            ]
+          },
+          "description": "School assistance Hanover & Isernhagen: Empathetic support for children with autism/ADHD. Get advice as parents or become part of our team!",
+          "schema": [
+            {
+              "id": "https://www.schulbegleitung.info/de#organization",
+              "schemaType": "Organization",
+              "data": {
+                "name": "Hand in Hand – Inklusive Schulbegleitung",
+                "legalName": "Hand in Hand GmbH",
+                "alternateName": [],
+                "description": "Hand in Hand offers individual school assistance for children with special needs in Hanover and Isernhagen. Our dedicated team promotes independence and participation with heart and mind.",
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleitung.info",
+                "url": "https://www.schulbegleitung.info/de",
+                "sameAs": [
+                  "https://www.schulbegleitung.info"
+                ],
+                "address": [
+                  {
+                    "[@type]": "PostalAddress",
+                    "name": "Hand in Hand – Inklusive Schulbegleitung",
+                    "streetAddress": "Am Ortfelde 59",
+                    "postalCode": "30916",
+                    "addressLocality": "Isernhagen",
+                    "addressRegion": "Niedersachsen",
+                    "addressCountry": "DE",
+                    "@type": "PostalAddress"
+                  }
+                ],
+                "openingHoursSpecification": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "opens": "08:00",
+                  "closes": "15:00"
+                }
+              }
+            },
+            {
+              "id": "https://www.schulbegleitung.info/de#webpage",
+              "schemaType": "WebPage",
+              "data": {
+                "name": "Schulbegleitung Hannover: Hand in Hand für Dein Kind",
+                "url": "https://www.schulbegleitung.info/de",
+                "description": "School assistance Hanover & Isernhagen: Empathetic support for children with autism/ADHD. Get advice as parents or become part of our team!",
+                "inLanguage": "de-DE",
+                "publisher": {
+                  "[@id]": "#organization"
+                },
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleitung.info",
+                "legalName": "Hand in Hand GmbH",
+                "openingHoursSpecification": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "opens": "08:00",
+                  "closes": "15:00"
+                }
+              }
+            },
+            {
+              "id": "https://www.schulbegleitung.info/de#local-business",
+              "schemaType": "LocalBusiness",
+              "data": {
+                "[@type]": "LocalBusiness",
+                "name": "Hand in Hand – Inklusive Schulbegleitung",
+                "description": "Hand in Hand offers individual school assistance for children with special needs in Hanover and Isernhagen. Our dedicated team promotes independence and participation with heart and mind.",
+                "url": "https://www.schulbegleitung.info/de",
+                "telephone": "+4951147315000",
+                "email": "info@schulbegleitung.info",
+                "address": {
+                  "[@type]": "PostalAddress",
+                  "streetAddress": "Am Ortfelde 59",
+                  "postalCode": "30916",
+                  "addressLocality": "Isernhagen",
+                  "addressRegion": "Niedersachsen",
+                  "addressCountry": "DE",
+                  "@type": "PostalAddress"
+                },
+                "geo": {
+                  "latitude": "52.455566399999995",
+                  "longitude": "9.800053799999999"
+                },
+                "openingHoursSpecification": [],
+                "sameAs": [
+                  "https://www.schulbegleitung.info"
+                ],
+                "legalName": "Hand in Hand GmbH",
+                "@type": "LocalBusiness"
+              }
+            }
+          ]
+        },
+        "hero": {
+          "h1": "School Assistance Hanover: We see you",
+          "backgroundImageAlt": "A child and a school companion learning together in a friendly environment.",
+          "locationPrefix": "in",
+          "locationSuffix": "and Isernhagen",
+          "namePrefix": "Your School Companion",
+          "callAriaLabel": "Contact Hand in Hand for school assistance in Hanover and the region",
+          "since": "Over 10 years of experience",
+          "card1Icon": "diversity_3",
+          "card1Line1": "Individual Support",
+          "card1Line2": "For true participation",
+          "card2Icon": "favorite",
+          "card2Line1": "With Heart & Mind",
+          "card2Line2": "Dedicated Team",
+          "card3Icon": "school",
+          "card3Line1": "Experienced Professionals",
+          "card3Line2": "There for your child",
+          "buttons": [
+            {
+              "text": "learn more",
+              "link": "mailto:info@inklusive-schulbegleitung.de",
+              "variant": "primary"
+            },
+            {
+              "text": "+49 173 1696192",
+              "link": "tel:+491731696192",
+              "variant": "outline"
+            }
+          ],
+          "backgroundImage": "/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+        },
+        "info": {
+          "description": "Are you looking for an empathetic school companion in Hanover and the region who truly sees your child? At Hand in Hand, we accompany children and young people with special needs – whether it's autism, ADHD, or other mental, social, or physical challenges. We stand by you and your child to ensure genuine participation in everyday school life succeeds.",
+          "paragraph1": "Our small, dedicated team offers individual support during lessons, breaks, and all school activities. We promote independence and self-confidence so that your child can discover and develop their strengths. With us, there is no one-size-fits-all approach, but tailor-made solutions that are 100% aligned with your child's needs.",
+          "paragraph2": "We work hand in hand with families, schools, and authorities to make the application process as simple as possible. With us, you get dedicated contact persons for lived inclusion in Isernhagen and Hanover. Are you an educational professional looking for a meaningful job? Become part of our team and actively shape inclusion with heart and mind!",
+          "quote": "“We see you” – this promise applies to every child, every family, and every team member. We unfold potential, hand in hand.",
+          "imageAlt": "A school companion sits smiling next to a child in a wheelchair at a desk and helps with homework in a bright classroom.",
+          "activities": {
+            "title": "Individual Support",
+            "description": "We offer tailor-made support during lessons and breaks so that your child can actively shape their school time.",
+            "icon": "person_add"
+          },
+          "nutrition": {
+            "title": "Strengthening Independence",
+            "description": "We specifically promote your child's skills to enable self-confident and independent learning.",
+            "icon": "self_improvement"
+          },
+          "garden": {
+            "title": "Genuine Participation",
+            "description": "Our goal is lived inclusion, where every child belongs and can unfold their full potential.",
+            "icon": "diversity_3"
+          },
+          "values": {
+            "nature": "Every child is unique. We see and strengthen their individual talents and needs.",
+            "mindfulness": "We treat every child with empathy, patience, and respect to create a trusting foundation.",
+            "participation": "We create an environment in which your child feels safe and empowered, and can actively participate in school life."
+          },
+          "valueIcons": {
+            "mindfulness": "volunteer_activism",
+            "nature": "lightbulb",
+            "participation": "groups"
+          },
+          "sectionTitle": "Your School Companion in Hanover: With Heart for Genuine Inclusion",
+          "activitiesLabel": "Individual Support",
+          "nutritionLabel": "Strengthening Independence",
+          "gardenLabel": "Genuine Participation",
+          "mindfulness": "Mindfulness & Empathy",
+          "nature": "Individual Strengths",
+          "participation": "Active Participation",
+          "imageUrl": "/images/schulbegleitung/info/schulbegleitung-info.webp"
+        },
+        "contact": {
+          "location": "Isernhagen, Hanover Region",
+          "locationLabel": "Location",
+          "addressName": "Hand in Hand",
+          "bookOnline": "Book a consultation",
+          "bookOnlineDesc": "We are here for you! Simply book an appointment for a personal get-to-know-you session. We look forward to meeting you and your child, and exploring together how we can support you hand in hand.",
+          "infoTitle": "Contact & Opening Hours",
+          "addressLabel": "Address",
+          "openingHoursLabel": "Opening Hours",
+          "phoneLabel": "Phone",
+          "emailLabel": "Email",
+          "bookingTitle": "Let's talk!",
+          "bookingIntro": "Are you looking for caring school support in Hanover, or do you have questions about the application process? Or would you like to join our team as a specialist? We advise you with heart and mind. Schedule your initial consultation now.",
+          "bookingButton": "Book an appointment"
+        },
+        "gallery": {
+          "title": "Insights into our work: School support in Hanover",
+          "subtitle": "We show you how we support children and young people in the Hanover and Isernhagen region. Every moment counts!",
+          "ariaLabel": "Gallery of our school support",
+          "images": [
+            {
+              "src": "/images/schulbegleitung/gallerie/schulbegleitung-1.webp",
+              "alt": "A school companion and a child laugh together over a book in a quiet school corridor."
+            },
+            {
+              "src": "/images/schulbegleitung/gallerie/schulbegleitung-2.webp",
+              "alt": "A child with school support works focused at a group table in the classroom."
+            },
+            {
+              "src": "/images/schulbegleitung/gallerie/schulbegleitung-3.webp",
+              "alt": "Two children and a school companion play in the schoolyard, a ball lies nearby."
+            },
+            {
+              "src": "/images/schulbegleitung/gallerie/schulbegleitung-4.webp",
+              "alt": "A school companion patiently explains a worksheet to a child in a bright classroom."
+            },
+            {
+              "src": "/images/schulbegleitung/gallerie/schulbegleitung-5.webp",
+              "alt": "A child proudly shows their drawing to a school companion, who listens attentively."
+            },
+            {
+              "src": "/images/schulbegleitung/gallerie/schulbegleitung-6.webp",
+              "alt": "A school companion helps a child sort materials at a table in a school."
+            },
+            {
+              "src": "/images/schulbegleitung/gallerie/schulbegleitung-7.webp",
+              "alt": "A child and a school companion walk laughing hand in hand on the way to school."
+            },
+            {
+              "src": "/images/schulbegleitung/gallerie/schulbegleitung-8.webp",
+              "alt": "Overview of a school festival with many laughing children and dedicated school companions."
+            }
+          ],
+          "roomsTitle": "Inside the school",
+          "roomsDescription": "Whether in the classroom, in the library, or during group work – we are by your child's side wherever they need us.",
+          "outdoorTitle": "Outside & during breaks",
+          "outdoorDescription": "Even outside of lessons, we promote social interaction and active participation in school life.",
+          "rooms": "Indoor areas of the school",
+          "outdoor": "Outdoor areas of the school",
+          "prevImage": "Previous image",
+          "nextImage": "Next image"
+        },
+        "team": {
+          "title": "Our Team: We see you",
+          "subtitle": "Our close-knit team of experienced professionals is committed to genuine participation every day. Find the right support for your child or become part of our mission yourself.",
+          "teamMember": {
+            "quote": "I see you – this promise applies to every child, every family, and every team member."
+          }
+        },
+        "map": {
+          "description": "Visit our office in Isernhagen. We are happy to take the time to personally discuss your questions about school assistance.",
+          "publicTransport": "You can easily reach our office in Isernhagen by public transport from Hanover and the surrounding region.",
+          "parking": "Parking spaces are available for you directly at our office in Isernhagen.",
+          "addressTitle": "Our office in Isernhagen",
+          "iframeTitle": "Google Maps showing our location",
+          "sectionTitle": "Find us in the Hanover region",
+          "openOnMap": "Open on Google Maps",
+          "visitUs": "Visit us in Isernhagen",
+          "publicTransportLabel": "Public transport",
+          "parkingLabel": "Parking",
+          "mapEmbedUrl": ""
+        },
+        "reviews": {
+          "title": "Experiences with our school support Hanover",
+          "subtitle": "Read here how families and educational professionals experience working with our team – for real participation in everyday school life.",
+          "reviewData": {
+            "displayName": {
+              "text": "Am Ortfelde 59"
+            },
+            "formattedAddress": "Am Ortfelde 59, 30916 Isernhagen, Germany",
+            "reviews": [],
+            "userRatingCount": 0
+          },
+          "minimumRating": 4,
+          "rating": "4.9"
+        },
+        "faq": {
+          "title": "Frequently Asked Questions about School Accompaniment in Hannover",
+          "subtitle": "The path to finding the right support often raises questions. From the application process to everyday school life – here we give you guidance and clarify the most important points for families in Hannover and Isernhagen."
+        },
+        "trust": {
+          "partner": "Your reliable partner for school support in Hanover",
+          "H2": "Hand in hand with you and the schools",
+          "qualityPartners": "Together for genuine participation: Our strong partners",
+          "trustDataFile": "partners.json",
+          "logos": [
+            {
+              "src": "/images/schulbegleitung/trustblock/schulbegleitung-bpa-arbeitgeberverband-logo.webp",
+              "alt": "Logo of a regional education partner of the school support service Hand in Hand"
+            },
+            {
+              "src": "/images/schulbegleitung/trustblock/schulbegleitung-jugendamt-logo.webp",
+              "alt": "Quality seal for educational professionals in school assistance"
+            },
+            {
+              "src": "/images/schulbegleitung/trustblock/schulbegleitung-kinderschutzzentrum-hannover.webp",
+              "alt": "Cooperation partner for inclusion at schools in Isernhagen"
+            },
+            {
+              "src": "/images/schulbegleitung/trustblock/schulbegleitung-landeshauptstadt-hannover-logo.webp",
+              "alt": "Partner network for the support and participation of children"
+            }
+          ]
+        }
+      },
+      {
+        "name": "faq",
+        "pageTitle": "Frequently Asked Questions",
+        "metadata": {
+          "title": "FAQ: Answers about School Assistance in Hannover & Region",
+          "description": "Do you have questions about school assistance? Here you will find answers regarding applications, requirements, and our work in Hannover. We are happy to help you!",
+          "keywords": "FAQ school assistance, apply for school assistance, school assistance requirements, school assistance tasks, school assistant qualifications, school assistance Hannover, integration assistant questions, school assistance autism ADHD, inclusion school Hannover",
+          "openGraph": {
+            "url": "https://www.schulbegleitung.info/de/faq",
+            "title": "FAQ: Answers about School Assistance in Hannover & Region",
+            "images": [
+              {
+                "alt": "FAQ section of Hand in Hand School Assistance",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+              }
+            ],
+            "description": "Do you have questions about school assistance? Here you will find answers regarding applications, requirements, and our work in Hannover. We are happy to help you!"
+          },
+          "twitter": {
+            "title": "FAQ: Answers about School Assistance in Hannover & Region",
+            "description": "Do you have questions about school assistance? Here you will find answers regarding applications, requirements, and our work in Hannover. We are happy to help you!",
+            "images": [
+              {
+                "alt": "FAQ section of Hand in Hand School Assistance",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+              }
+            ]
+          }
+        },
+        "hero": {
+          "h1": "Your Questions about School Assistance in Hannover",
+          "lead": "Do you have questions about school assistance, the application process, or our team? Here you will find answers and valuable information so that you feel well taken care of. We are here for you – in Hannover and Isernhagen."
+        },
+        "faqDataFile": "faq-xxl.json",
+        "schema": []
+      },
+      {
+        "name": "impressum",
+        "pageTitle": "Imprint",
+        "metadata": {
+          "title": "Imprint | Hand in Hand – Your school support in Hanover",
+          "description": "The imprint of Hand in Hand, your partner for school support in Hanover and Isernhagen. We stand for transparency and reliability.",
+          "keywords": "Imprint, school support Hanover, Hand in Hand, Isernhagen, school assistance, inclusion, legal",
+          "openGraph": {
+            "url": "https://www.schulbegleitung.info/de/impressum",
+            "title": "Imprint | Hand in Hand – Your school support in Hanover",
+            "images": [
+              {
+                "alt": "Logo of Hand in Hand, inclusive school support",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+              }
+            ],
+            "description": "The imprint of Hand in Hand, your partner for school support in Hanover and Isernhagen. We stand for transparency and reliability."
+          },
+          "twitter": {
+            "title": "Imprint | Hand in Hand – Your school support in Hanover",
+            "description": "The imprint of Hand in Hand, your partner for school support in Hanover and Isernhagen. We stand for transparency and reliability.",
+            "images": [
+              {
+                "alt": "Logo of Hand in Hand, inclusive school support",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "datenschutz",
+        "pageTitle": "Privacy Policy",
+        "metadata": {
+          "title": "Privacy Policy at Hand in Hand: Your data is safe",
+          "description": "At Hand in Hand, we take the protection of your personal data very seriously. Here you can find out how we maintain your privacy and protect your data.",
+          "keywords": "Privacy Policy, Hand in Hand, school support, data, privacy, security, information, protection, trust",
+          "openGraph": {
+            "url": "https://www.schulbegleitung.info/de/datenschutz",
+            "title": "Privacy Policy at Hand in Hand: Your data is safe",
+            "images": [
+              {
+                "alt": "Privacy Policy of Hand in Hand",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+              }
+            ],
+            "description": "At Hand in Hand, we take the protection of your personal data very seriously. Here you can find out how we maintain your privacy and protect your data."
+          },
+          "twitter": {
+            "title": "Privacy Policy at Hand in Hand: Your data is safe",
+            "description": "At Hand in Hand, we take the protection of your personal data very seriously. Here you can find out how we maintain your privacy and protect your data.",
+            "images": [
+              {
+                "alt": "Privacy Policy of Hand in Hand",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "ueber-uns",
+        "pageTitle": "About Us: Your School Companion in Hannover & Isernhagen",
+        "metadata": {
+          "title": "About us: Hand in Hand – Your School Companion in Hannover",
+          "description": "Get to know Hand in Hand – Your inclusive school companion in Hannover & Isernhagen. We accompany children with heart and mind. Contact us now!",
+          "keywords": "About us, Hand in Hand, school companion Hannover, inclusive school companion, team, values, philosophy, Isernhagen",
+          "openGraph": {
+            "url": "https://www.schulbegleitung.info/de/ueber-uns",
+            "title": "About us: Hand in Hand – Your School Companion in Hannover",
+            "images": [
+              {
+                "alt": "Team of Hand in Hand, inclusive school companion Hannover",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/about/schulbegleitung-ueber-uns.webp"
+              }
+            ],
+            "description": "Get to know Hand in Hand – Your inclusive school companion in Hannover & Isernhagen. We accompany children with heart and mind. Contact us now!"
+          }
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "At Hand in Hand, we see your child as a personality – not as a diagnosis. In Hannover, Isernhagen, and the Hannover region, our school assistance enables self-determined participation in school life. We work with heart and mind, building bridges wherever support is needed."
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "src": "/images/schulbegleitung/about/schulbegleitung-ueber-uns.webp",
+            "alt": "Two hands holding a small, green leaf. Symbolizes care and growth in school assistance."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "More than supervision: individual support"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "We accompany your child with autism, ADHD, as well as mental, social, or physical impairments – during lessons, breaks, and school activities. The goal is always: to strengthen independence and self-confidence so that genuine participation becomes possible."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Personal provider, dedicated contact persons"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "As a small provider, we know our families. We coordinate closely with schools and authorities, with over 10 years of experience and a team that regularly undergoes further training. The pedagogical management is in the hands of a state-recognized educator and social pedagogue B.A. – for you, this means: professional and empathetic support from a single source."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "„We see you“ – our promise"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "We perceive every child in their uniqueness and adapt our support flexibly. For us, inclusion means: no one has to bend over backwards to belong. To achieve this, we communicate transparently with teachers and specialized agencies and pull together with you."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Application and consultation"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "The path to school assistance can seem bureaucratic – we won't leave you alone. We explain processes, requirements, and support you in coordinating with the responsible authorities. Feel free to write to us if you need guidance."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Career: Team Hand in Hand"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Our pedagogical team brings high social competence and continuous further training. If you share „We see you“ as a lived attitude and would like to become active as a school companion in the region, we look forward to your application."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Hand in Hand for genuine participation"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Whether you are a family looking for relief or a professional seeking a meaningful job – with us, people come together who take inclusion seriously. Together, we make school a place where every child can unfold their strengths."
+              }
+            ]
+          }
+        ],
+        "h1": "Your inclusive school companion Hannover"
+      },
+      {
+        "name": "grounding",
+        "pageTitle": "Grounding | Hand in Hand",
+        "metadata": {
+          "title": "Grounding | Hand in Hand",
+          "description": "AI grounding page for Hand in Hand — structured entity definitions and facts about the website for AI systems.",
+          "keywords": "Grounding, AI, Hand in Hand, reference page",
+          "openGraph": {
+            "url": "https://schulbegleitung-hannover.org/en/grounding",
+            "title": "Grounding | Hand in Hand",
+            "images": [
+              {
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp",
+                "width": 1200,
+                "height": 630,
+                "alt": "Hand in Hand - Inclusive school support Hanover"
+              }
+            ],
+            "description": "AI grounding page for Hand in Hand."
+          },
+          "twitter": {
+            "title": "Grounding | Hand in Hand",
+            "description": "AI grounding page for Hand in Hand.",
+            "images": [
+              {
+                "alt": "Hand in Hand - Inclusive school support Hanover",
+                "url": "https://www.schulbegleitung.info/images/schulbegleitung/hero/schulbegleitung-hero.webp",
+                "width": 1200,
+                "height": 630
+              }
+            ]
+          }
+        },
+        "hero": {
+          "h1": "Grounding",
+          "lead": "Structured facts and entity definitions for Hand in Hand."
+        },
+        "schema": []
+      }
+    ],
+    "impressumBacklink": {
+      "headingTitle": "Concept, design and technical implementation",
+      "title": "Website Design",
+      "link": "https://www.hero-pages.com/website-design"
+    },
+    "languages": [],
+    "clientDomain": "www.schulbegleitung.info"
+  },
+  {
+    "id": "schulassistenz",
+    "deployDomain": "schulassistenz.online",
+    "googleTagId": "G-QP4RRVGZW7",
+    "websiteBriefing": "Main Keyword: Schulassistenz",
+    "business": {
+      "name": "Hand in Hand",
+      "brandName": "Hand in Hand",
+      "legalName": "Hand in Hand GmbH",
+      "location": {
+        "city": "Isernhagen",
+        "district": "Hanover Region",
+        "neighborhood": "Isernhagen NB"
+      },
+      "phone": "+491731696192",
+      "email": "info@inklusive-schulbegleitung.de",
+      "openingHours": {
+        "short": "Mon-Fri 08:00-15:00",
+        "detailed": "Monday to Friday: 08:00 - 15:00. Outside these hours, we are happy to be available for you by prior appointment.",
+        "display": "Mon - Fri: 08:00 - 15:00"
+      },
+      "contactPerson": {
+        "name": "Dein Team bei Hand in Hand",
+        "title": "Supported School Assistance & School Accompaniment",
+        "imageUrl": "/images/schulassistenz/team/schulassistenz-team.webp"
+      },
+      "bookingUrl": "",
+      "social": {
+        "instagram": "https://www.instagram.com/hand_in_hand_hannover",
+        "facebook": "",
+        "whatsappNumber": ""
+      },
+      "ustId": "",
+      "vertreter": "Jan Ziehme",
+      "googlePlacesId": "ChIJm_0Wiy91sEcRCOrkYudR9Mg",
+      "registergericht": "Hannover",
+      "hrbNummer": "HRB 229182",
+      "legalAddress": {
+        "street": "Am Ortfelde 59",
+        "postalCode": "30916",
+        "city": "Isernhagen"
+      },
+      "locationAddress": {
+        "street": "Am Ortfelde 59",
+        "postalCode": "30916",
+        "city": "Isernhagen"
+      }
+    },
+    "header": {
+      "logoUrl": "/images/schulassistenz/schulassistenz-logo.webp",
+      "logoAlt": "Logo Hand in Hand – School Assistance & School Support Isernhagen",
+      "logoWidth": 160,
+      "ariaLabelNavigation": "Main navigation",
+      "ariaMenuOpen": "Open menu",
+      "ariaMenuClose": "Close menu",
+      "links": [
+        {
+          "label": "About us",
+          "url": "/ueber-uns",
+          "href": "/de/ueber-uns"
+        },
+        {
+          "label": "FAQ",
+          "url": "/faq",
+          "href": "/de/faq"
+        },
+        {
+          "label": "learn more",
+          "href": "mailto:info@inklusive-schulbegleitung.de",
+          "type": "button"
+        }
+      ]
+    },
+    "footer": {
+      "navigation": {
+        "label": "Navigation",
+        "links": [
+          {
+            "link": "https://inklusive-schulbegleitung.de/individuelle-schulbegleitung",
+            "linkLabel": "School Accompaniment"
+          },
+          {
+            "link": "https://inklusive-schulbegleitung.de/karriere",
+            "linkLabel": "Careers"
+          }
+        ]
+      },
+      "contact": {
+        "label": "Contact",
+        "links": [
+          {
+            "link": "tel:+491731696192",
+            "linkLabel": "+49 173 1696192"
+          },
+          {
+            "link": "mailto:info@inklusive-schulbegleitung.de",
+            "linkLabel": "info@inklusive-schulbegleitung.de"
+          }
+        ]
+      },
+      "followUs": "Follow us",
+      "openingHoursLabel": "Opening hours",
+      "imprint": "Imprint",
+      "privacy": "Privacy Policy",
+      "grounding": "Grounding"
+    },
+    "cookie": {
+      "title": "Your privacy settings",
+      "description": "We use cookies to make our website as helpful as possible for you. This way, you can quickly find the right information about school assistance and school support.",
+      "acceptAll": "Accept all",
+      "acceptEssential": "Only essential",
+      "moreInfo": "More information"
+    },
+    "notFound": {
+      "title": "Oops, we couldn't find this page.",
+      "description": "Maybe you made a typo or the link is outdated. Whether you are looking for school assistance and support for your child or want to join our team in Isernhagen as an educational professional – let's find the right path together.",
+      "backHome": "Back to homepage"
+    },
+    "translationsMetadata": {
+      "disclaimer": {
+        "aiTranslation": "This page was automatically translated so that we can be there for all families. Please excuse minor linguistic inaccuracies.",
+        "dismissAria": "Dismiss notice",
+        "infoAria": "Translation information"
+      },
+      "common": {
+        "close": "Close",
+        "selectLanguage": "Select language"
+      }
+    },
+    "index": {
+      "redirectTitle": "Redirecting…",
+      "redirectTo": "Redirecting to"
+    },
+    "pages": [
+      {
+        "name": "home",
+        "pageTitle": "School Assistance Hannover & Isernhagen | Hand in Hand",
+        "metadata": {
+          "geo": {
+            "icbm": "52.455566399999995, 9.800053799999999",
+            "region": "",
+            "position": "52.455566399999995;9.800053799999999",
+            "placename": "Isernhagen"
+          },
+          "title": "School Assistance Hanover & Isernhagen | Hand in Hand",
+          "keywords": "School assistance Hanover, School assistance Isernhagen, School companion Hanover, Inclusive school companion, Become a school companion Hanover, Participation assistance, Integration helper, Autism, ADHD, Inclusion school Hanover",
+          "openGraph": {
+            "url": "https://www.schulassistenz.online/de",
+            "title": "School Assistance Hanover & Isernhagen | Hand in Hand",
+            "images": [
+              {
+                "alt": "Children walking hand in hand to school, symbolizing school assistance and inclusion",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+              }
+            ],
+            "description": "School Assistance Hanover & Isernhagen: Hand in Hand accompanies your child with heart to more participation. Application, school companion, team – contact us now."
+          },
+          "twitter": {
+            "title": "School Assistance Hanover & Isernhagen | Hand in Hand",
+            "description": "School Assistance Hanover & Isernhagen: Hand in Hand accompanies your child with heart to more participation. Application, school companion, team – contact us now.",
+            "images": [
+              {
+                "alt": "Children walking hand in hand to school, symbolizing school assistance and inclusion",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+              }
+            ]
+          },
+          "description": "School Assistance Hanover & Isernhagen: Hand in Hand accompanies your child with heart to more participation. Application, school companion, team – contact us now.",
+          "schema": [
+            {
+              "id": "https://www.schulassistenz.online/de",
+              "schemaType": "Organization",
+              "data": {
+                "name": "Hand in Hand – Schulassistenz & Schulbegleitung",
+                "legalName": "Hand in Hand GmbH",
+                "alternateName": [],
+                "description": "School Assistance Hanover & Isernhagen: Hand in Hand accompanies your child with heart to more participation. Application, school companion, team – contact us now.",
+                "telephone": "+49-5139-982000",
+                "email": "info@schulassistenz.online",
+                "url": "https://www.schulassistenz.online/de",
+                "sameAs": [
+                  "https://www.facebook.com/schulassistenzonline"
+                ],
+                "address": [
+                  {
+                    "[@type]": "PostalAddress",
+                    "name": "Hand in Hand – Schulassistenz & Schulbegleitung",
+                    "streetAddress": "Im See 20",
+                    "postalCode": "30916",
+                    "addressLocality": "Isernhagen",
+                    "addressRegion": "Niedersachsen",
+                    "addressCountry": "Deutschland",
+                    "@type": "PostalAddress"
+                  }
+                ],
+                "openingHoursSpecification": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "opens": "08:00",
+                  "closes": "15:00"
+                }
+              }
+            },
+            {
+              "id": "https://www.schulassistenz.online/de",
+              "schemaType": "WebSite",
+              "data": {
+                "name": "Schulassistenz Online",
+                "url": "https://www.schulassistenz.online/de",
+                "description": "School Assistance Hanover & Isernhagen: Hand in Hand accompanies your child with heart to more participation. Application, school companion, team – contact us now.",
+                "inLanguage": "de-DE",
+                "publisher": {
+                  "[@id]": "#organization"
+                },
+                "telephone": "+49-5139-982000",
+                "email": "info@schulassistenz.online",
+                "legalName": "Hand in Hand GmbH",
+                "openingHoursSpecification": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "opens": "08:00",
+                  "closes": "15:00"
+                }
+              }
+            },
+            {
+              "id": "https://www.schulassistenz.online/de",
+              "schemaType": "LocalBusiness",
+              "data": {
+                "[@type]": "LocalBusiness",
+                "name": "Hand in Hand – Schulassistenz & Schulbegleitung",
+                "description": "School Assistance Hanover & Isernhagen: Hand in Hand accompanies your child with heart to more participation. Application, school companion, team – contact us now.",
+                "url": "https://www.schulassistenz.online/de",
+                "telephone": "+49-5139-982000",
+                "email": "info@schulassistenz.online",
+                "address": {
+                  "[@type]": "PostalAddress",
+                  "streetAddress": "Im See 20",
+                  "postalCode": "30916",
+                  "addressLocality": "Isernhagen",
+                  "addressRegion": "Niedersachsen",
+                  "addressCountry": "Deutschland",
+                  "@type": "PostalAddress"
+                },
+                "geo": {
+                  "latitude": "52.4578",
+                  "longitude": "9.8398"
+                },
+                "openingHoursSpecification": [],
+                "sameAs": [
+                  "https://www.facebook.com/schulassistenzonline"
+                ],
+                "legalName": "Hand in Hand GmbH",
+                "@type": "LocalBusiness"
+              }
+            }
+          ]
+        },
+        "hero": {
+          "h1": "School Assistance Hanover & Isernhagen: Hand in Hand",
+          "backgroundImageAlt": "School assistance in the classroom: Child and educational professional reading a book together.",
+          "locationPrefix": "in",
+          "locationSuffix": "and region",
+          "namePrefix": "Your",
+          "callAriaLabel": "Call us now for an individual consultation on school assistance, school accompaniment, and participation assistance for your child.",
+          "since": "By your side for over 10 years",
+          "card1Icon": "star",
+          "card1Line1": "Over 10 years of experience",
+          "card1Line2": "for your child",
+          "card2Icon": "favorite",
+          "card2Line1": "With heart & mind",
+          "card2Line2": "in Hanover & region",
+          "card3Icon": "school",
+          "card3Line1": "Inclusion in practice",
+          "card3Line2": "for every child",
+          "buttons": [
+            {
+              "text": "learn more",
+              "link": "mailto:info@inklusive-schulbegleitung.de",
+              "variant": "primary"
+            },
+            {
+              "text": "+49 173 1696192",
+              "link": "tel:+491731696192",
+              "variant": "outline"
+            }
+          ],
+          "backgroundImage": "/images/schulassistenz/hero/schulassistenz-hero.webp"
+        },
+        "info": {
+          "description": "Sometimes children need special support in their everyday school life. With school assistance and accompaniment in Hannover and Isernhagen, we stand reliably by families' sides – and offer dedicated professionals a meaningful job in an appreciative team.",
+          "paragraph1": "We see ourselves as a dedicated partner for school assistance and accompaniment by your side. Our goal is to enable genuine participation and lived inclusion. Whether dealing with autism, ADHD, or other mental, social, or physical challenges: We see your child in their uniqueness and create an environment where they can grow and learn.",
+          "paragraph2": "With heart and mind, we implement school assistance and accompaniment during lessons and breaks. We specifically promote independence and genuine self-confidence. We don't leave you alone in this: We provide concrete help with the application process and coordinate everything with schools and authorities. Would you like to build bridges yourself? Become part of our team as an educational professional or career changer!",
+          "quote": "We see you – this promise applies to every child, every family, and every team member. Hand in hand, we create an environment where your child can realize their potential.",
+          "imageAlt": "A school child with school assistance and accompaniment during a learning activity at a table, both are smiling.",
+          "activities": {
+            "title": "Individual Support",
+            "description": "Your child receives tailor-made school assistance and accompaniment during lessons and all school activities – adapted to their special needs.",
+            "icon": "individual_support"
+          },
+          "nutrition": {
+            "title": "Promoting Genuine Participation",
+            "description": "We go beyond mere care and empower your child to actively participate in school life and discover their own strengths.",
+            "icon": "active_participation"
+          },
+          "garden": {
+            "title": "Strong Partnership",
+            "description": "As a small, personal provider, we work closely with you, the school, and the authorities to relieve your burden in the best possible way.",
+            "icon": "strong_partnership"
+          },
+          "values": {
+            "nature": "Every child is unique. We see the individual needs and abilities of your child and adapt our support flexibly.",
+            "mindfulness": "We work not only with professional expertise but also with a lot of empathy and a deep understanding of the situation of your child and your family.",
+            "participation": "Our goal is to empower your child to act independently and actively contribute to the school community. We build bridges."
+          },
+          "valueIcons": {
+            "mindfulness": "empathy_icon",
+            "nature": "individuality_icon",
+            "participation": "inclusion_icon"
+          },
+          "sectionTitle": "School Assistance Hannover: With Heart & Mind",
+          "activitiesLabel": "Individual Support",
+          "nutritionLabel": "Promoting Genuine Participation",
+          "gardenLabel": "Strong Partnership",
+          "mindfulness": "Heart & Empathy",
+          "nature": "Individual & Flexible",
+          "participation": "Lived Inclusion",
+          "imageUrl": "/images/schulassistenz/info/schulassistenz-info.webp"
+        },
+        "contact": {
+          "location": "Isernhagen",
+          "locationLabel": "Location",
+          "addressName": "Our office in Isernhagen",
+          "bookOnline": "Contact us",
+          "bookOnlineDesc": "Are you looking for school assistance or school support in Hanover or Isernhagen? Or would you like to join our team? We look forward to your message and will get back to you as soon as possible.",
+          "infoTitle": "We are here for you",
+          "addressLabel": "Address",
+          "openingHoursLabel": "Opening hours",
+          "phoneLabel": "Phone",
+          "emailLabel": "Email",
+          "bookingTitle": "Talk to us!",
+          "bookingIntro": "Whether you are looking for school assistance and support for your child or would like to become part of our dedicated team – we are open to your questions and requests. Simply get in touch with us.",
+          "bookingButton": "Send message"
+        },
+        "gallery": {
+          "title": "Moments of Inclusion: School Assistance & School Accompaniment Hanover",
+          "subtitle": "We show you what school assistance and inclusion in practice look like in everyday school life – with heart and mind in Hanover and Isernhagen.",
+          "ariaLabel": "Gallery: School assistance and school accompaniment",
+          "images": [
+            {
+              "src": "/images/schulassistenz/gallerie/schulassistenz-1.webp",
+              "alt": "School companion supports a child with reading in the classroom"
+            },
+            {
+              "src": "/images/schulassistenz/gallerie/schulassistenz-2.webp",
+              "alt": "A child with a school companion works focused on a task in the classroom, surrounded by other students."
+            },
+            {
+              "src": "/images/schulassistenz/gallerie/schulassistenz-3.webp",
+              "alt": "School companion helps a child pack their school bag"
+            },
+            {
+              "src": "/images/schulassistenz/gallerie/schulassistenz-4.webp",
+              "alt": "Group of children and a school companion laughing in the classroom"
+            },
+            {
+              "src": "/images/schulassistenz/gallerie/schulassistenz-5.webp",
+              "alt": "School companion and child talking in the schoolyard"
+            },
+            {
+              "src": "/images/schulassistenz/gallerie/schulassistenz-6.webp",
+              "alt": "Two children playing together, accompanied by a school companion"
+            },
+            {
+              "src": "/images/schulassistenz/gallerie/schulassistenz-7.webp",
+              "alt": "School companion and child building a tower out of building blocks"
+            },
+            {
+              "src": "/images/schulassistenz/gallerie/schulassistenz-8.webp",
+              "alt": "School companion showing a child something in a book"
+            }
+          ],
+          "roomsTitle": "In Class & at School",
+          "roomsDescription": "We are by your side when it comes to learning, organization, and social interaction in the school building.",
+          "outdoorTitle": "Breaks & Schoolyard",
+          "outdoorDescription": "Even outside, we ensure safety, participation, and joy in playing together.",
+          "rooms": "In the school building",
+          "outdoor": "Outdoors",
+          "prevImage": "Previous image",
+          "nextImage": "Next image"
+        },
+        "team": {
+          "title": "School Assistance & School Support: We see you",
+          "subtitle": "Our close-knit team of dedicated professionals provides school assistance and school support every day for genuine participation. Find the right support for your child or become part of our mission yourself.",
+          "teamMember": {
+            "quote": "I see you – this promise applies to every child, every family, and every team member."
+          }
+        },
+        "map": {
+          "description": "Visit us in Isernhagen! Here we will advise you personally and work together to find the right school assistance and school companion for your child. We look forward to seeing you.",
+          "publicTransport": "Our office is well connected to public transport. It is best to plan your journey conveniently online.",
+          "parking": "There are parking facilities directly on site or in the immediate vicinity.",
+          "addressTitle": "Our office in Isernhagen",
+          "iframeTitle": "Location of Hand in Hand in Isernhagen on Google Maps",
+          "sectionTitle": "Here you can find us in the Hanover region",
+          "openOnMap": "Open on Google Maps",
+          "visitUs": "Visit us!",
+          "publicTransportLabel": "Public transport",
+          "parkingLabel": "Parking",
+          "mapEmbedUrl": ""
+        },
+        "reviews": {
+          "title": "What others say about our school assistance",
+          "subtitle": "Experiences from families and schools. This is how parents and educational professionals experience our school assistance and school support for genuine participation and lived inclusion in Hanover and Isernhagen.",
+          "reviewData": {
+            "displayName": {
+              "text": "Am Ortfelde 59"
+            },
+            "formattedAddress": "Am Ortfelde 59, 30916 Isernhagen, Germany",
+            "reviews": [],
+            "userRatingCount": 0
+          },
+          "minimumRating": 4,
+          "rating": "5.0"
+        },
+        "faq": {
+          "title": "Your questions about Schulassistenz Hannover",
+          "subtitle": "Whether you are a parent looking for support in applying for school assistance or a professional wanting to become part of our team – here you will find initial answers and guidance."
+        },
+        "trust": {
+          "partner": "Experience & educational expertise",
+          "H2": "Over 10 years of school assistance with schools in Hanover and Isernhagen",
+          "qualityPartners": "Hand in hand with strong partners",
+          "trustDataFile": "partners.json",
+          "logos": [
+            {
+              "src": "/images/schulassistenz/trustblock/schulassistenz-bpa-arbeitgeberverband-logo.webp",
+              "alt": "Logo of a regional education partner for school assistance and school support Hand in Hand"
+            },
+            {
+              "src": "/images/schulassistenz/trustblock/schulassistenz-jugendamt-logo.webp",
+              "alt": "Quality seal for educational professionals in school assistance"
+            },
+            {
+              "src": "/images/schulassistenz/trustblock/schulassistenz-kinderschutzzentrum-hannover.webp",
+              "alt": "Cooperation partner for inclusion at schools in Isernhagen"
+            },
+            {
+              "src": "/images/schulassistenz/trustblock/schulassistenz-landeshauptstadt-hannover-logo.webp",
+              "alt": "Partner network for the support and participation of children"
+            }
+          ]
+        }
+      },
+      {
+        "name": "faq",
+        "pageTitle": "FAQ: School Assistance Hanover | Hand in Hand",
+        "metadata": {
+          "title": "FAQ School Assistance Hanover: Your Questions | Hand in Hand",
+          "description": "Questions about school assistance and school support in Hanover & Isernhagen? Here you will find answers regarding application, tasks, and our team.",
+          "keywords": "FAQ school assistance Hanover, school assistance Isernhagen, apply for school assistance, school support Hanover, school assistance tasks, school companion qualifications, school inclusion Hanover, participation assistance, autism, ADHD",
+          "openGraph": {
+            "url": "https://www.schulassistenz.online/de/faq",
+            "title": "FAQ School Assistance Hanover: Your Questions | Hand in Hand",
+            "images": [
+              {
+                "alt": "Frequently asked questions about school assistance in Hanover",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+              }
+            ],
+            "description": "Questions about school assistance and school support in Hanover & Isernhagen? Here you will find answers regarding application, tasks, and our team."
+          },
+          "twitter": {
+            "title": "FAQ School Assistance Hanover: Your Questions | Hand in Hand",
+            "description": "Questions about school assistance and school support in Hanover & Isernhagen? Here you will find answers regarding application, tasks, and our team.",
+            "images": [
+              {
+                "alt": "Frequently asked questions about school assistance in Hanover",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+              }
+            ]
+          }
+        },
+        "hero": {
+          "h1": "Your Questions about School Assistance Hanover",
+          "lead": "Here you will find answers to frequently asked questions about school assistance and school support in Hanover and Isernhagen. Whether you are a family looking for guidance or a professional wanting to become part of our team – we walk this path hand in hand."
+        },
+        "faqDataFile": "faq-xxl.json",
+        "schema": []
+      },
+      {
+        "name": "impressum",
+        "pageTitle": "Legal Notice | Hand in Hand Schulassistenz Hannover",
+        "metadata": {
+          "title": "Legal Notice | Hand in Hand Schulassistenz Hannover",
+          "description": "Legal notice of Hand in Hand – school assistance and school support in Hannover and Isernhagen. Here you will find all legal information and contact details.",
+          "keywords": "Legal notice, school assistance Hannover, school assistance Isernhagen, school support, Hand in Hand, contact, legal information",
+          "openGraph": {
+            "url": "https://www.schulassistenz.online/de/impressum",
+            "title": "Legal Notice | Hand in Hand Schulassistenz Hannover",
+            "images": [
+              {
+                "alt": "Legal notice of Hand in Hand Schulassistenz Hannover",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+              }
+            ],
+            "description": "Legal notice of Hand in Hand – school assistance and school support in Hannover and Isernhagen. Here you will find all legal information and contact details."
+          },
+          "twitter": {
+            "title": "Legal Notice | Hand in Hand Schulassistenz Hannover",
+            "description": "Legal notice of Hand in Hand – school assistance and school support in Hannover and Isernhagen. Here you will find all legal information and contact details.",
+            "images": [
+              {
+                "alt": "Legal notice of Hand in Hand Schulassistenz Hannover",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "datenschutz",
+        "pageTitle": "Privacy Policy | Hand in Hand Schulassistenz Hannover",
+        "metadata": {
+          "title": "Privacy Policy | Hand in Hand Schulassistenz Hannover",
+          "description": "Your trust is important to us. Find out here how we at Hand in Hand protect your data regarding school assistance and school support in Hanover and what rights you have.",
+          "keywords": "Privacy policy, school assistance Hanover, school support, Hand in Hand, protect data, privacy, information obligations",
+          "openGraph": {
+            "url": "https://www.schulassistenz.online/de/datenschutz",
+            "title": "Privacy Policy for School Assistance & School Support in Hanover",
+            "images": [
+              {
+                "alt": "Privacy Policy at Hand in Hand Schulassistenz",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+              }
+            ],
+            "description": "Your trust is important to us. Find out here how we at Hand in Hand protect your data regarding school assistance and school support in Hanover and what rights you have."
+          },
+          "twitter": {
+            "title": "Privacy Policy for School Assistance & School Support in Hanover",
+            "description": "Your trust is important to us. Find out here how we at Hand in Hand protect your data regarding school assistance and school support in Hanover and what rights you have.",
+            "images": [
+              {
+                "alt": "Privacy Policy at Hand in Hand Schulassistenz",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "ueber-uns",
+        "pageTitle": "About us: School Assistance Hannover | Hand in Hand",
+        "metadata": {
+          "title": "About us | Hand in Hand: School Assistance Hannover",
+          "description": "Get to know Hand in Hand – your school assistance in Hannover. We support children with heart & mind. Find out more now or become part of the team!",
+          "keywords": "School assistance Hannover, school assistance Isernhagen, Hand in Hand, inclusive school support, school companion team, participation assistance, autism, ADHD, school support Hannover region, jobs school support",
+          "openGraph": {
+            "url": "https://www.schulassistenz.online/de/ueber-uns",
+            "title": "About us | Hand in Hand: School Assistance Hannover",
+            "images": [
+              {
+                "alt": "Two hands holding each other – symbol for the empathetic school assistance of Hand in Hand in Hannover.",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/about/schulassistenz-ueber-uns.webp"
+              }
+            ],
+            "description": "Get to know Hand in Hand – your school assistance in Hannover. We support children with heart & mind. Find out more now or become part of the team!"
+          }
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "\"We see you\" is the heart of Hand in Hand. As a school assistance and school support service in Hannover and Isernhagen, we support children with special challenges – such as autism, ADHD, or mental, social, and physical disabilities. We are not an anonymous provider: you get dedicated contact persons and support that is tailored to your child."
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "src": "/images/schulassistenz/about/schulassistenz-ueber-uns.webp",
+            "alt": "Children playing hand in hand in the schoolyard"
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Team, experience, pedagogical leadership"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Behind the school assistance is a dedicated team with very high social competence. Under the leadership of a state-recognized educator and social pedagogue B.A., we bring over 10 years of experience. Regular training and close exchange with schools keep our work up to date – for you, this means: warm-hearted and professional support."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Bridges in everyday school life"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Within the framework of school assistance and school support, our professionals are trusted confidants: they help with structure and tasks, promote positive interaction during breaks, and work hand in hand with you and the teachers. This creates an environment in which your child can feel safe and develop their strengths."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Individual solutions"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Every child is different. That is why we plan flexibly and precisely – whether for lessons, breaks, or special situations. We provide empathetic and competent support in Hannover and the surrounding area."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Application and coordination – we help"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "The path to school assistance can seem complex. We advise you on procedures and requirements and support you in coordinating with authorities and schools in the Hannover region."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Your job with purpose"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "Are you a pedagogical professional or a career changer who wants to help shape school assistance and school support in Hannover? We offer further training, dedicated contact persons, and a team at eye level. Feel free to apply with us."
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Trust instead of distance"
+          },
+          {
+            "type": "paragraph",
+            "parts": [
+              {
+                "type": "text",
+                "value": "For over 10 years, we have been supporting families in Hannover and the surrounding area. As a small provider, we know the stories behind the applications – and remain accessible to you when it matters."
+              }
+            ]
+          }
+        ],
+        "h1": "We see you: Your School Assistance Hannover"
+      },
+      {
+        "name": "grounding",
+        "pageTitle": "Grounding | Hand in Hand",
+        "metadata": {
+          "title": "Grounding | Hand in Hand",
+          "description": "AI grounding for Hand in Hand Schulassistenz Hannover — structured facts for AI systems.",
+          "keywords": "Grounding, School assistance Hanover, AI, Hand in Hand, reference page",
+          "openGraph": {
+            "url": "https://www.schulassistenz.online/en/grounding",
+            "title": "Grounding | Hand in Hand",
+            "images": [
+              {
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp",
+                "width": 1200,
+                "height": 630,
+                "alt": "Hand in Hand – School assistance & school support Isernhagen"
+              }
+            ],
+            "description": "AI grounding for Hand in Hand Schulassistenz Hannover — structured facts for AI systems."
+          },
+          "twitter": {
+            "title": "Grounding | Hand in Hand",
+            "description": "AI grounding for Hand in Hand Schulassistenz Hannover — structured facts for AI systems.",
+            "images": [
+              {
+                "alt": "Hand in Hand – School assistance & school support Isernhagen",
+                "url": "https://www.schulassistenz.online/images/schulassistenz/hero/schulassistenz-hero.webp",
+                "width": 1200,
+                "height": 630
+              }
+            ]
+          }
+        },
+        "hero": {
+          "h1": "Grounding",
+          "lead": "Structured facts and entity definitions for school assistance and school support (Hand in Hand, Hanover & Isernhagen)."
+        },
+        "schema": []
+      }
+    ],
+    "impressumBacklink": {
+      "headingTitle": "Concept, design, and technical implementation",
+      "title": "Have a website created",
+      "link": "https://www.hero-pages.com/website-erstellen-lassen"
+    },
+    "languages": [],
+    "clientDomain": "www.schulassistenz.online"
+  }
+]

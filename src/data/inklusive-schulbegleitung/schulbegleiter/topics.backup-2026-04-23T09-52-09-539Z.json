@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-04-23T06:42:09.738Z",
+  "clientId": "inklusive-schulbegleitung",
+  "siteId": "schulassistenz",
+  "sourceBaseUrl": "https://inklusive-schulbegleitung.de",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword: Schulbegleitung Hannover",
+  "briefingMainKeyword": "Schulbegleitung Hannover",
+  "deployDomainKeyword": "schulbegleitung-hannover",
+  "topics": {
+    "coreServices": [
+      "Individuelle Begleitung von Kindern und Jugendlichen im Unterricht und in Pausen",
+      "Förderung von Selbstständigkeit, Selbstbewusstsein und echter Teilhabe",
+      "Unterstützung bei besonderen Herausforderungen wie Autismus und ADHS",
+      "Enge Zusammenarbeit und Koordination mit Familien, Schulen und Ämtern",
+      "Beratung und Hilfestellung bei der Beantragung der Schulbegleitung"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Erfahrung in der Schulbegleitung",
+      "Pädagogische Leitung durch staatlich anerkannte Sozialpädagogin B.A. und Erzieherin",
+      "Kontinuierliche Weiterbildung der Mitarbeiter und Kooperation mit Bildungsträgern",
+      "Transparente, offene Kommunikation mit allen Beteiligten",
+      "Feste Ansprechpartner und verlässliches Unterstützungsnetzwerk"
+    ],
+    "localReferences": [
+      "Hannover und die umliegende Region",
+      "Unternehmensstandort Isernhagen",
+      "Regionale Schulen, Lehrkräfte und zuständige Ämter im Raum Hannover"
+    ],
+    "differentiators": [
+      "Kleiner, engagierter Träger statt anonymer Großorganisation",
+      "Persönliches Markenversprechen: Wir sehen Dich",
+      "Verbindung aus hoher fachlicher Kompetenz und echter Herzlichkeit",
+      "Individuelle, passgenaue und flexible Lösungen für jedes Kind"
+    ],
+    "faqIntent": [
+      "Wie beantrage ich eine Schulbegleitung für mein Kind?",
+      "Wer hat einen rechtlichen Anspruch auf Schulbegleitung?",
+      "Was sind die genauen Aufgaben einer Schulbegleitung im Alltag?",
+      "Wie funktioniert die Zusammenarbeit zwischen Träger, Schule und Eltern?",
+      "Welche Voraussetzungen brauche ich für einen Job als Schulbegleiter?"
+    ]
+  },
+  "keywords": [
+    "Schulbegleitung Hannover",
+    "Inklusive Schulbegleitung Isernhagen",
+    "Schulbegleiter werden Hannover",
+    "Schulassistenz für Kinder mit Autismus",
+    "Schulbegleitung beantragen",
+    "Teilhabeassistenz Schule",
+    "Unterstützung Schulalltag ADHS",
+    "Pädagogische Fachkraft Schulbegleitung",
+    "Inklusion Schule Hannover"
+  ],
+  "h1Suggestions": [
+    "Schulbegleitung Hannover: Hand in Hand",
+    "Deine inklusive Schulbegleitung Hannover",
+    "Schulbegleitung mit Herz in Hannover",
+    "Individuelle Schulbegleitung für Dein Kind",
+    "Wir machen Inklusion in der Schule möglich"
+  ],
+  "subtitleSuggestions": [
+    "Finde die passende Schulbegleitung Hannover. Wir unterstützen Kinder mit besonderen Herausforderungen empathisch und verlässlich im Schulalltag.",
+    "Als erfahrene Schulbegleitung Hannover fördern wir Selbstständigkeit und Teilhabe. Lass uns gemeinsam den Schulalltag Deines Kindes meistern.",
+    "Hand in Hand: Dein kleiner, engagierter Träger für Schulbegleitung in der Region Hannover. Erfahren, pädagogisch geschult und mit viel Herz.",
+    "Wir begleiten Kinder und Jugendliche individuell im Unterricht. Entdecke unsere professionelle Schulbegleitung für Hannover und Isernhagen.",
+    "Du suchst eine verlässliche Schulbegleitung Hannover? Wir beraten Dich zum Antrag und begleiten Dein Kind auf dem Weg zu mehr Selbstbewusstsein."
+  ],
+  "mustCover": [
+    "Starke Integration des Hauptkeywords 'Schulbegleitung Hannover' und klarer regionaler Bezug zu Hannover/Isernhagen.",
+    "Gezielte Ansprache beider Hauptzielgruppen: Eltern auf der Suche nach Unterstützung und Fachkräfte auf Jobsuche.",
+    "Hervorhebung der über 10-jährigen Erfahrung und der qualifizierten pädagogischen Leitung.",
+    "Betonung des Markenversprechens 'Wir sehen Dich' und der Philosophie 'Hand in Hand'.",
+    "Konkrete Informationen und Hilfestellungen zum Antragsprozess für Schulbegleitung.",
+    "Erwähnung der Expertise bei spezifischen Herausforderungen wie Autismus, ADHS sowie seelischen und körperlichen Beeinträchtigungen."
+  ],
+  "avoidAngles": [
+    "Klinische, kalte oder rein bürokratische Sprache, da dies der betonten Herzlichkeit und Empathie widerspricht.",
+    "Versprechen von Heilung oder medizinischen Therapien, da der Fokus auf pädagogischer Begleitung und Teilhabe liegt.",
+    "Darstellung als großer, anonymer Konzern, da die Identität als 'kleines, engagiertes Team' ein wichtiger USP ist.",
+    "Druck oder Überforderung für Eltern aufbauen; die Tonalität muss stets entlastend, beratend und unterstützend sein."
+  ]
+}

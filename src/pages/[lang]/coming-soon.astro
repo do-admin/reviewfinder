@@ -1,0 +1,52 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { SUPPORTED_LANGUAGES } from '@/lib/language';
+
+export function getStaticPaths() {
+  return SUPPORTED_LANGUAGES.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = await Astro.params;
+const language = lang as import('@/lib/language').SupportedLanguage;
+
+// Coming-soon messaging per supported language.
+// To add a new language (e.g. when `language.config.json` enables `tr`, `sq`, `ar`, …),
+// add an entry here. Unknown languages fall back to German (the project default).
+const texts: Record<string, { title: string; description: string; backHome: string }> = {
+  de: {
+    title: 'Bald verfügbar',
+    description:
+      'Die Seite, die du gerade angeklickt hast, wird erstellt, sobald der Text der Hauptseite finalisiert wurde.',
+    backHome: 'Zur Startseite',
+  },
+  en: {
+    title: 'Coming soon',
+    description:
+      'The page you just clicked will be generated once the text of the main page has been finalized.',
+    backHome: 'Back to homepage',
+  },
+};
+
+const t = texts[language] ?? texts.de;
+---
+
+<BaseLayout
+  title={t.title}
+  description={t.description}
+  lang={language}
+  noIndex={true}
+>
+  <div class="min-h-screen flex items-center justify-center bg-background">
+    <div class="text-center px-4 max-w-2xl mx-auto">
+      <h1 class="text-4xl font-bold text-foreground font-heading mb-4">
+        {t.description}
+      </h1>
+      <a
+        href={`/${language}`}
+        class="inline-block bg-primary hover:bg-primary/90 text-primary-foreground px-6 py-3 rounded-full font-semibold transition-colors"
+      >
+        {t.backHome}
+      </a>
+    </div>
+  </div>
+</BaseLayout>

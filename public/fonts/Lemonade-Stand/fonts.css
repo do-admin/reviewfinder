@@ -1,0 +1,12 @@
+/* Lemonade Stand - Latin subset, from page CSS (05-extract --download-fonts) */
+
+/* ⚠️  German special characters (äöüÄÖÜß) not found in source font. unicode-range restricted to ASCII – browser will fall back for U+00C0-00FF. */
+
+@font-face {
+  font-family: 'Lemonade Stand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./400-normal-latin.woff2') format('woff2');
+  unicode-range: U+0020-007E, U+00A0, U+2000-206F, U+20AC, U+2122, U+FEFF, U+FFFD;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bpa Arbeitgeberverband",
+    "url": "https://www.bpa-arbeitgeberverband.de/",
+    "logo": "bpa-arbeitgeberverband-logo.webp",
+    "description": "As the backbone of the private social economy, the bpa advocates for future-proof care concepts. An indispensable player when it comes to professional care and social professions."
+  },
+  {
+    "name": "Kinderschutzzentrum Hannover",
+    "url": "https://www.ksz-hannover.de/",
+    "logo": "kinderschutzzentrum-hannover.webp",
+    "description": "Standing up for the weakest: The Kinderschutzzentrum Hannover provides valuable crisis intervention and specialized pedagogical work to enable violence-free childhoods in our city."
+  },
+  {
+    "name": "Jugendamt Hannover",
+    "url": "https://www.unterstuetzung-die-ankommt.de/de/",
+    "logo": "jugendamt-logo.webp",
+    "description": "Direct help and reliable structures for young people. The Youth Welfare Office ensures that support does not remain just a word, but actively reaches families in their everyday lives."
+  },
+  {
+    "name": "Landeshauptstadt Hannover",
+    "url": "https://www.hannover.de/",
+    "logo": "landeshauptstadt-hannover-logo.webp",
+    "description": "Hanover is more than just a location – it is a living space. The state capital coordinates urban life and creates the basis for innovation, culture, and social cohesion."
+  }
+]

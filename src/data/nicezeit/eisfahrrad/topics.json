@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-04-06T19:59:56.529Z",
+  "clientId": "nicezeit",
+  "siteId": "eisdiele-suedstadt-de",
+  "sourceBaseUrl": "https://nicezeit.com",
+  "model": "google/gemini-3.1-pro-preview",
+  "topics": {
+    "coreServices": [
+      "Handgemachtes Premiumeis (klassische und ausgefallene Sorten)",
+      "Vegane Eissorten",
+      "Milchshakes und Iced Matcha Latte",
+      "Saisonale Winterspecials (z. B. Eis im Croissant, 500ml Gläser)",
+      "Vermietungen und Event-Catering"
+    ],
+    "trustSignals": [
+      "Gläserne Manufaktur mit Einblick in die Eisproduktion",
+      "100 % natürliche Zutaten ohne künstliche Aromen oder Farbstoffe",
+      "Verwendung regionaler Zutaten (z. B. Milch aus der Region)",
+      "Hervorragende Kundenbewertungen (Top 5 in Hannover, 5/5 Sterne)"
+    ],
+    "localReferences": [
+      "Hannover",
+      "Linden (Linden-Nord, Schmuckplatz)",
+      "List",
+      "Südstadt"
+    ],
+    "differentiators": [
+      "Eis ohne Chichi: Fokus auf das Weglassen unnötiger Zusatzstoffe",
+      "Kreative Kooperationen (z. B. Leibniz Butterkeks Eis)",
+      "Kunden können eigene Sommersorten kreieren",
+      "Ganzjähriges Konzept mit Winter-Festival und Adventskalender"
+    ],
+    "faqIntent": [
+      "Warum ist das Eis so cremig?",
+      "Was kostet eine Kugel Eis in Hannover?",
+      "Wo gibt es die beste Eisdiele in Hannover?",
+      "Wie wird das Eis hergestellt?",
+      "Gibt es vegane Eissorten?"
+    ]
+  },
+  "keywords": [
+    "Eisdiele Hannover",
+    "Handgemachtes Eis Linden",
+    "Premiumeis Hannover",
+    "Veganes Eis Hannover",
+    "Natürliches Eis",
+    "Eismanufaktur Hannover",
+    "Eis List",
+    "Eis Südstadt",
+    "Spaghettieis Hannover",
+    "Eis Catering Hannover"
+  ],
+  "h1Suggestions": [
+    "Handgemachtes Premiumeis in Hannover",
+    "100 % natürliches Eis aus Linden",
+    "Deine Eismanufaktur in Hannover",
+    "Natürlich, kreativ: Nicezeit Eis",
+    "Veganes & klassisches Eis in Hannover"
+  ],
+  "subtitleSuggestions": [
+    "Entdecke handgemachtes Eis aus 100 % natürlichen und regionalen Zutaten. Besuche unsere Eisdielen in Linden, List und der Südstadt.",
+    "Wir machen Eis ohne Chichi, aber mit viel Liebe. Erlebe kreative Sorten, vegane Highlights und echte Handwerkskunst in unserer gläsernen Manufaktur.",
+    "Ob klassisch, vegan oder als verrücktes Winterspecial: Genieße bestes Premiumeis in Hannover. Ohne künstliche Aromen, dafür mit 100 % Geschmack.",
+    "Schau uns in der gläsernen Manufaktur am Schmuckplatz über die Schulter und probiere unsere einzigartigen Eiskreationen.",
+    "Von der regionalen Milch bis zur fertigen Kugel: Wir kreieren Eis, das dir ein Lächeln ins Gesicht zaubert. Komm vorbei in Hannover!"
+  ],
+  "mustCover": [
+    "Betonung der gläsernen Produktion und der echten Handarbeit",
+    "Hervorhebung der 100 % natürlichen und regionalen Zutaten",
+    "Klare Kommunikation der Standorte in Hannover (Linden, List, Südstadt)",
+    "Erwähnung der veganen Optionen als fester Bestandteil des Sortiments",
+    "Hinweis auf saisonale Besonderheiten (Winterspecials) und Events"
+  ],
+  "avoidAngles": [
+    "Klassische Standard-Italiener-Klischees (die Marke ist modern und urban)",
+    "Fokus auf billige Preise oder Rabatte (es handelt sich um Premiumeis)",
+    "Steife, hochformelle Sie-Ansprache (die Marke nutzt ein lockeres Du)",
+    "Eindruck von industrieller Massenproduktion erwecken"
+  ]
+}

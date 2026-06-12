@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-04-08T16:53:58.387Z",
+  "clientId": "caralingua",
+  "siteId": "logopaedie-duesseldorf-stadtmitte",
+  "sourceBaseUrl": "https://caralingua.de",
+  "model": "google/gemini-3.1-pro-preview",
+  "topics": {
+    "coreServices": [
+      "Anamnese und Diagnostik zur Erstellung individueller Therapiepläne",
+      "Logopädische Therapie für Kinder und Erwachsene (30, 45 oder 60 Minuten)",
+      "Behandlung von Sprachentwicklungsstörungen und Artikulationsstörungen (Dyslalie)",
+      "Therapie bei Aphasie, Dysarthrie und Sprechapraxie",
+      "Behandlung von Stimmstörungen (Dysphonie) und myofunktionellen Störungen",
+      "Therapie bei Autismus-Spektrum-Störung und auditiven Wahrnehmungsstörungen",
+      "Hausbesuche nach ärztlicher Verordnung"
+    ],
+    "trustSignals": [
+      "Staatlich anerkannte Logopädin",
+      "Berufserfahrung seit 2015",
+      "Mitglied im Deutschen Bundesverband für Logopädie e.V.",
+      "Transparente Kostenaufklärung und schriftlicher Behandlungsvertrag",
+      "Sichere Datenübertragung (SSL-Verschlüsselung) bei Kontaktanfragen"
+    ],
+    "localReferences": [
+      "Düsseldorf (Postleitzahl 40211)",
+      "Liesegangstraße 20",
+      "Hausbesuche im regionalen Einzugsgebiet"
+    ],
+    "differentiators": [
+      "Leitmotiv: Aus Liebe zur Sprache",
+      "Therapieansatz komplett ohne Druck",
+      "Fokus auf Menschlichkeit und ein liebevolles Umfeld",
+      "Hervorhebung der individuellen Stärken der Patienten",
+      "Wertschätzende und an die Lebensumstände angepasste Begleitung"
+    ],
+    "faqIntent": [
+      "Welche Ärzte stellen eine Verordnung für Logopädie aus?",
+      "Werden die Kosten von der gesetzlichen oder privaten Krankenkasse übernommen?",
+      "Wie hoch ist die Zuzahlung für Erwachsene und Kinder?",
+      "Wie lange dauert eine Therapieeinheit und wie oft findet sie statt?",
+      "Was passiert in der ersten Therapiestunde?",
+      "Werden auch Hausbesuche angeboten?",
+      "Wie und bis wann kann ein Termin kostenfrei abgesagt werden?"
+    ]
+  },
+  "keywords": [
+    "Logopädie Düsseldorf",
+    "Logopädin Düsseldorf",
+    "Sprachtherapie",
+    "Kindersprache",
+    "Aphasie Therapie",
+    "Stimmstörung Behandlung",
+    "Sprachentwicklungsstörung",
+    "Hausbesuche Logopädie",
+    "Logopädische Praxis",
+    "Dyslalie Therapie"
+  ],
+  "h1Suggestions": [
+    "Logopädie in Düsseldorf: Aus Liebe zur Sprache",
+    "Ihre Praxis für Logopädie in Düsseldorf",
+    "Logopädie mit Herz: Sprachtherapie in Düsseldorf",
+    "Individuelle Logopädie für Kinder und Erwachsene",
+    "Staatlich anerkannte Logopädie in Düsseldorf"
+  ],
+  "subtitleSuggestions": [
+    "Wertschätzende Sprachtherapie für Kinder und Erwachsene. Gemeinsam öffnen wir die Türe zur Kommunikation im Alltag – ganz ohne Druck.",
+    "Behandlung von Sprach-, Sprech- und Stimmstörungen in liebevollem Umfeld. Erfahren Sie mehr über unsere individuellen Therapieangebote.",
+    "Seit 2015 begleite ich Sie bei Sprachentwicklungsstörungen, Aphasie und Stimmproblemen. Vereinbaren Sie jetzt Ihren Termin.",
+    "Von der Diagnostik bis zur Therapie: Wir stärken Ihre Kommunikation. Nach ärztlicher Verordnung auch als Hausbesuch in Düsseldorf möglich.",
+    "Professionelle Hilfe bei Sprach-, Sprech-, Stimm- und Schluckstörungen. Transparente Kosten und einfühlsame Behandlung für jedes Alter."
+  ],
+  "mustCover": [
+    "Detaillierte Auflistung der behandelten Störungsbilder (Aphasie, Dyslalie, etc.)",
+    "Klarer Ablauf zur Kostenübernahme (Unterschied gesetzlich vs. privat, Zuzahlungsbefreiung für Kinder)",
+    "Informationen zur Beschaffung einer ärztlichen Verordnung (welche Fachärzte)",
+    "Ablauf der ersten Sitzung (Anamnese, Diagnostik, Therapieplan)",
+    "Hinweis auf die Möglichkeit von Hausbesuchen",
+    "Klare Kommunikationsregeln (24-Stunden-Absagefrist)"
+  ],
+  "avoidAngles": [
+    "Kühle, rein medizinische Fachsprache ohne Empathie",
+    "Heilsversprechen oder absolute Erfolgsgarantien",
+    "Druckaufbau oder strenge Leistungsorientierung",
+    "Fokus auf Defizite anstatt auf die individuellen Stärken der Patienten"
+  ]
+}

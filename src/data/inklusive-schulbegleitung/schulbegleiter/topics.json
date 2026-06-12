@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-04-23T09:52:09.539Z",
+  "clientId": "inklusive-schulbegleitung",
+  "siteId": "schulbegleiter",
+  "sourceBaseUrl": "https://inklusive-schulbegleitung.de",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword: Schulbegleiter",
+  "briefingMainKeyword": "Schulbegleiter",
+  "deployDomainKeyword": "schulbegleiter",
+  "topics": {
+    "coreServices": [
+      "Individuelle Begleitung von Kindern und Jugendlichen im Schulalltag",
+      "Förderung von Selbstständigkeit, Selbstbewusstsein und echter Teilhabe",
+      "Unterstützung bei besonderen Herausforderungen wie Autismus und ADHS",
+      "Enge Koordination und Zusammenarbeit mit Familien, Schulen und Ämtern",
+      "Beratung und Hilfestellung bei der Beantragung der Schulbegleitung"
+    ],
+    "trustSignals": [
+      "Über 10 Jahre Erfahrung in der inklusiven Schulbegleitung",
+      "Pädagogische Leitung durch staatlich anerkannte Erzieherin & Sozialpädagogin B.A.",
+      "Pädagogisch geschultes Fachpersonal mit hoher sozialer Kompetenz",
+      "Stetige Weiterbildung und enge Kooperation mit Bildungsträgern",
+      "Transparente, offene und verbindliche Kommunikation mit allen Beteiligten"
+    ],
+    "localReferences": [
+      "Isernhagen",
+      "Am Ortfelde"
+    ],
+    "differentiators": [
+      "Kleiner, engagierter Träger mit persönlicher Note und dem Versprechen: Wir sehen Dich",
+      "Fokus auf echte gelebte Inklusion statt nur funktionaler Betreuung",
+      "Passgenaue, flexible Lösungen, die sich nach den Bedürfnissen des Kindes richten",
+      "Arbeit mit Herz, Empathie und Verstand auf Augenhöhe"
+    ],
+    "faqIntent": [
+      "Wie und wo kann ich eine Schulbegleitung beantragen?",
+      "Wer hat Anspruch auf eine Schulbegleitung und welche Voraussetzungen gelten?",
+      "Was sind die genauen Aufgaben einer Schulbegleitung im Unterricht und in den Pausen?",
+      "Wie funktioniert die Zusammenarbeit zwischen Träger, Schule und Eltern?",
+      "Welche Qualifikationen bringen die Betreuer für Kinder mit Autismus oder ADHS mit?"
+    ]
+  },
+  "keywords": [
+    "Schulbegleiter",
+    "Schulbegleitung Isernhagen",
+    "Inklusive Schulbegleitung",
+    "Schulbegleiter werden",
+    "Schulbegleitung beantragen",
+    "Schulassistenz",
+    "Inklusion Schule",
+    "Begleitung Autismus ADHS",
+    "Schulbegleitung Voraussetzungen",
+    "Schulbegleiter Jobs"
+  ],
+  "h1Suggestions": [
+    "Dein engagierter Schulbegleiter",
+    "Schulbegleiter in Isernhagen",
+    "Inklusive Schulbegleitung mit Herz",
+    "Hand in Hand: Schule für alle",
+    "Individuelle Schulbegleitung"
+  ],
+  "subtitleSuggestions": [
+    "Finde den passenden Schulbegleiter für Dein Kind. Wir fördern Selbstständigkeit und echte Teilhabe im Schulalltag – individuell und mit viel Empathie.",
+    "Als erfahrene Schulbegleiter unterstützen wir Kinder mit besonderen Herausforderungen. Gemeinsam machen wir Inklusion im Schulalltag möglich.",
+    "Wir begleiten Kinder und Jugendliche mit Autismus oder ADHS verlässlich durch den Schulalltag. Lass uns gemeinsam die passende Unterstützung finden.",
+    "Werde Teil unseres Teams oder finde die richtige Begleitung für Dein Kind. Wir beraten Dich kompetent zu Antrag und Umsetzung der Schulbegleitung."
+  ],
+  "mustCover": [
+    "Das Hauptkeyword 'Schulbegleiter' muss zentral in den Texten verankert sein",
+    "Duale Zielgruppenansprache: Eltern auf der Suche nach Unterstützung und Fachkräfte auf Jobsuche",
+    "Spezifische Nennung von Herausforderungen wie Autismus, ADHS sowie seelischen, sozialen oder körperlichen Beeinträchtigungen",
+    "Integration der Markenbotschaften 'Wir sehen Dich' und 'Hand in Hand'",
+    "Hervorhebung der pädagogischen Qualifikation und der über 10-jährigen Erfahrung",
+    "Ratgeber-Elemente aufgreifen: Informationen zu Anspruch, Voraussetzungen und Antragstellung"
+  ],
+  "avoidAngles": [
+    "Kühle, rein medizinische oder distanzierte Sprache (die Marke ist emotional und herzlich)",
+    "Versprechen von schulischen Bestnoten oder Nachhilfe (Fokus liegt auf Teilhabe und Inklusion)",
+    "Auftreten als anonymer Großkonzern (die Marke positioniert sich explizit als kleiner, persönlicher Träger)"
+  ]
+}

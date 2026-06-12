@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-04-29T19:56:34.516Z",
+  "version": 1,
+  "pageCount": 4,
+  "linkCount": 12,
+  "links": {
+    "static:hout-bay-guest-house:home": [
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "Häufige Fragen | Hout Bay Guest House Kapstadt",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "kapstadt"
+        ],
+        "relevanceScore": 0.54
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "grounding",
+        "targetTitle": "Hout Bay Guest House | Boutique-Gästehaus Kapstadt",
+        "targetPath": "grounding",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "kapstadt"
+        ],
+        "relevanceScore": 0.54
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Hout Bay Guest House | Cube Guest House Kapstadt",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "kapstadt"
+        ],
+        "relevanceScore": 0.46
+      }
+    ],
+    "static:hout-bay-guest-house:faq": [
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "Hout Bay Guest House: Deine exklusive Villa in Kapstadt",
+        "targetPath": "",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "kapstadt"
+        ],
+        "relevanceScore": 0.54
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Hout Bay Guest House | Cube Guest House Kapstadt",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "kapstadt"
+        ],
+        "relevanceScore": 0.47
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "grounding",
+        "targetTitle": "Hout Bay Guest House | Boutique-Gästehaus Kapstadt",
+        "targetPath": "grounding",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "kapstadt"
+        ],
+        "relevanceScore": 0.43
+      }
+    ],
+    "static:hout-bay-guest-house:ueber-uns": [
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "Häufige Fragen | Hout Bay Guest House Kapstadt",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "gaestehaus kapstadt"
+        ],
+        "relevanceScore": 0.47
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "Hout Bay Guest House: Deine exklusive Villa in Kapstadt",
+        "targetPath": "",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "gaestehaus"
+        ],
+        "relevanceScore": 0.46
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "grounding",
+        "targetTitle": "Hout Bay Guest House | Boutique-Gästehaus Kapstadt",
+        "targetPath": "grounding",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "gaestehaus kapstadt"
+        ],
+        "relevanceScore": 0.43
+      }
+    ],
+    "static:hout-bay-guest-house:grounding": [
+      {
+        "targetType": "static",
+        "targetSlug": "",
+        "targetTitle": "Hout Bay Guest House: Deine exklusive Villa in Kapstadt",
+        "targetPath": "",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "gaestehaus"
+        ],
+        "relevanceScore": 0.54
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "faq",
+        "targetTitle": "Häufige Fragen | Hout Bay Guest House Kapstadt",
+        "targetPath": "faq",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "gaestehaus kapstadt"
+        ],
+        "relevanceScore": 0.43
+      },
+      {
+        "targetType": "static",
+        "targetSlug": "ueber-uns",
+        "targetTitle": "Hout Bay Guest House | Cube Guest House Kapstadt",
+        "targetPath": "ueber-uns",
+        "matchedKeywords": [
+          "hout bay guest house",
+          "hout",
+          "guest",
+          "house",
+          "gaestehaus kapstadt"
+        ],
+        "relevanceScore": 0.43
+      }
+    ]
+  }
+}

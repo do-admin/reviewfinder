@@ -1,0 +1,178 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContent from '@/layouts/PageContent.astro';
+import { loadPageContext } from '@/lib/page-data';
+import { SUPPORTED_LANGUAGES } from '@/lib/language';
+import { injectTrustLogos } from '@/lib/trust-data';
+import { mergeHomeFaqFromFaqJson } from '@/lib/load-home-faq';
+import { getDisplayAddress } from '@/lib/business';
+
+const siteIdEnv = typeof import.meta.env.SITE_ID === 'string' ? import.meta.env.SITE_ID : '';
+const preferredId =
+  import.meta.env.DEV && siteIdEnv
+    ? siteIdEnv
+    : import.meta.env.SITE_ID || '';
+
+export function getStaticPaths() {
+  return SUPPORTED_LANGUAGES.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = await Astro.params;
+const language = lang as import('@/lib/language').SupportedLanguage;
+const ctx = loadPageContext(preferredId, language);
+
+if (!ctx) {
+  return Astro.redirect('/404');
+}
+
+const { pageData, clientDomain, srcPath, srcPathInfo, languageConfig, alternates } = ctx;
+
+await mergeHomeFaqFromFaqJson(pageData, language);
+
+const faqSection = pageData.faq;
+
+await injectTrustLogos(pageData, language);
+
+const faqSchemaEntry =
+  faqSection?.faqs?.length
+    ? {
+        id: 'faq',
+        schemaType: 'faqPage' as const,
+        data: {
+          name: faqSection.title,
+          mainEntity: faqSection.faqs.map((f) => ({ question: f.question, answer: f.answer })),
+        },
+      }
+    : null;
+
+const combinedSchema = [
+  ...(pageData.metadata.schema ?? []),
+  ...(faqSchemaEntry ? [faqSchemaEntry] : []),
+];
+
+// Auto-generate LocalBusiness schema from business data if not already present in page schema
+const hasLocalBusiness = combinedSchema.some((s) => {
+  const type = s.schemaType?.toLowerCase();
+  return type === 'localbusiness' || type === 'icecreamshop';
+});
+
+const [latitude, longitude] = (pageData.metadata.geo?.position ?? '')
+  .split(';')
+  .map((part) => part.trim());
+
+if (!hasLocalBusiness && pageData.business) {
+  // LocalBusiness = physical place; address from locationAddress (operating) only, not Impressum legalAddress.
+  const { address: schemaAddress } = getDisplayAddress(pageData.business);
+  const hasPublicAddr =
+    schemaAddress.street?.trim() ||
+    schemaAddress.postalCode?.trim() ||
+    schemaAddress.city?.trim();
+  if (hasPublicAddr) {
+    const localBizData: Record<string, unknown> = {
+      '@type': 'IceCreamShop',
+      name: pageData.business.name,
+      url: `${clientDomain}/${lang}`,
+      ...(pageData.business.phone && { telephone: pageData.business.phone }),
+      ...(pageData.business.email && { email: pageData.business.email }),
+      priceRange: '$$',
+      servesCuisine: ['Speiseeis', 'Gelato', 'Sorbet', 'Veganes Eis'],
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: schemaAddress.street,
+        postalCode: schemaAddress.postalCode,
+        addressLocality: schemaAddress.city,
+        addressCountry: 'DE',
+      },
+      ...(latitude && longitude && {
+        geo: {
+          '@type': 'GeoCoordinates',
+          latitude,
+          longitude,
+        },
+      }),
+      ...(pageData.business.social && {
+        sameAs: [
+          pageData.business.social.instagram,
+          pageData.business.social.facebook,
+        ].filter(Boolean),
+      }),
+      ...(pageData.metadata.openGraph?.images?.[0]?.url && {
+        image: pageData.metadata.openGraph.images[0].url.startsWith('/')
+          ? `${clientDomain}${pageData.metadata.openGraph.images[0].url}`
+          : pageData.metadata.openGraph.images[0].url,
+      }),
+    };
+    combinedSchema.push({ id: 'local-business', schemaType: 'localBusiness', data: localBizData });
+  }
+}
+
+// Auto-inject aggregateRating + openingHoursSpecification into LocalBusiness schema
+const reviewData = pageData.reviews?.reviewData;
+const openingHours = pageData.business?.openingHours;
+for (const schema of combinedSchema) {
+  const st = schema.schemaType?.toLowerCase();
+  if (st !== 'localbusiness' && st !== 'icecreamshop') continue;
+  const d = schema.data as Record<string, unknown>;
+  if (!d) continue;
+
+  // AggregateRating from review data
+  if (reviewData && !d.aggregateRating) {
+    const rd = reviewData as unknown as Record<string, unknown>;
+    const rating = rd.rating;
+    const count = rd.userRatingCount ?? rd.userRatingsTotal;
+    if (rating) {
+      d.aggregateRating = {
+        '@type': 'AggregateRating',
+        ratingValue: String(rating),
+        ...(count != null && { reviewCount: String(count) }),
+        bestRating: '5',
+      };
+    }
+  }
+
+  // openingHoursSpecification from business data
+  if (openingHours && !d.openingHoursSpecification) {
+    const oh = openingHours as unknown as Record<string, unknown>;
+    const detailed = oh.detailed as string ?? (oh.display as string) ?? '';
+    const timeMatch = detailed.match(/(\d{1,2}:\d{2})\s*[–\-]\s*(\d{1,2}:\d{2})/);
+    if (timeMatch) {
+      d.openingHoursSpecification = {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        opens: timeMatch[1],
+        closes: timeMatch[2],
+      };
+    }
+  }
+}
+
+const pageDataWithLanguage = { ...pageData, language };
+---
+
+<BaseLayout
+  title={pageData.metadata.title}
+  description={pageData.metadata.description}
+  canonical={`${clientDomain}/${lang}`}
+  lang={language}
+  dir={languageConfig.direction || 'ltr'}
+  openGraph={{
+    title: pageData.metadata.openGraph.title,
+    description: pageData.metadata.openGraph.description,
+    url: `${clientDomain}/${lang}`,
+    images: pageData.metadata.openGraph.images,
+    locale: languageConfig.locale,
+    siteName: pageData.business.name,
+  }}
+  twitter={{
+    title: pageData.metadata.twitter.title,
+    description: pageData.metadata.twitter.description,
+    images: pageData.metadata.twitter.images,
+  }}
+  alternates={alternates}
+  schema={combinedSchema}
+  siteUrl={clientDomain}
+  googleTagId={pageData.googleTagId}
+  heroImage={pageData.hero?.backgroundImage}
+>
+  <PageContent pageData={pageDataWithLanguage} srcPath={srcPath} srcPathInfo={srcPathInfo} />
+</BaseLayout>

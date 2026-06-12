@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-04-23T05:56:47.558Z",
+  "clientId": "inklusive-schulbegleitung",
+  "siteId": "schulassistenz",
+  "sourceBaseUrl": "https://inklusive-schulbegleitung.de",
+  "model": "google/gemini-3.1-pro-preview",
+  "websiteBriefing": "Main Keyword: Schulbegleitung Hannover",
+  "briefingMainKeyword": "Schulbegleitung Hannover",
+  "deployDomainKeyword": "schulbegleitung-hannover",
+  "topics": {
+    "coreServices": [
+      "Allgemeine Dienstleistungen",
+      "Individuelle Beratung"
+    ],
+    "trustSignals": [
+      "Zertifizierte Experten",
+      "Positive Kundenbewertungen"
+    ],
+    "localReferences": [
+      "Regionaler Standort",
+      "Lokale Verfügbarkeit"
+    ],
+    "differentiators": [
+      "Langjährige Erfahrung",
+      "Maßgeschneiderte Lösungen"
+    ],
+    "faqIntent": [
+      "Wie läuft der Prozess ab?",
+      "Mit welchen Kosten ist zu rechnen?"
+    ]
+  },
+  "keywords": [
+    "Dienstleistung",
+    "Beratung",
+    "Service",
+    "Experten"
+  ],
+  "h1Suggestions": [
+    "Ihr Experte für professionelle Lösungen",
+    "Zuverlässiger Service in Ihrer Region",
+    "Maßgeschneiderte Beratung für Sie"
+  ],
+  "subtitleSuggestions": [
+    "Profitieren Sie von unserer jahrelangen Erfahrung und lassen Sie sich individuell beraten.",
+    "Wir bieten Ihnen schnelle und kompetente Hilfe bei allen Fragen rund um unser Angebot.",
+    "Entdecken Sie unsere vielfältigen Leistungen und fordern Sie ein unverbindliches Angebot an."
+  ],
+  "mustCover": [
+    "Transparente Darstellung der Leistungen",
+    "Einfache Kontaktmöglichkeiten"
+  ],
+  "avoidAngles": [
+    "Übertriebene Werbeversprechen",
+    "Unrealistische Garantien"
+  ]
+}

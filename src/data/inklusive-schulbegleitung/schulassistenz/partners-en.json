@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bpa Arbeitgeberverband",
+    "url": "https://www.bpa-arbeitgeberverband.de/",
+    "logo": "bpa-arbeitgeberverband-logo.webp",
+    "description": "As the voice of private care facilities, the bpa promotes modern standards in social welfare. A partner that sustainably shapes the care infrastructure in our society."
+  },
+  {
+    "name": "Kinderschutzzentrum Hannover",
+    "url": "https://www.ksz-hannover.de/",
+    "logo": "kinderschutzzentrum-hannover.webp",
+    "description": "Competent counseling and prevention under one roof: The Child Protection Center is the key point of contact in Hanover when it comes to the well-being and protection of the little ones."
+  },
+  {
+    "name": "Jugendamt Hannover",
+    "url": "https://www.unterstuetzung-die-ankommt.de/de/",
+    "logo": "jugendamt-logo.webp",
+    "description": "Educational assistance and support that lands exactly where it is needed. The Hanover Youth Welfare Office accompanies families with heart and expertise through all phases of life."
+  },
+  {
+    "name": "Landeshauptstadt Hannover",
+    "url": "https://www.hannover.de/",
+    "logo": "landeshauptstadt-hannover-logo.webp",
+    "description": "Whether administrative procedures, green urban spaces, or local events: The official portal of the state capital connects Hanoverians and visitors with everything that makes our city livable."
+  }
+]
